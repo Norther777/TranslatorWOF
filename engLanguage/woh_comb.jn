@@ -1,0 +1,273 @@
+[ATACA AL MAESTRO CULTOR]|邪教の祭司を攻撃
+daño|ダメージ
+Ataca al cultista que canta en un intento de detener el ritual, causando|儀式を止めるため、詠唱中のカルト信者を#攻撃する。##与ダメージ: 
+[SUFRE POR MÍ]|「我が為に苦しめ」
+Pierde 2 RESISTENCIA|スタミナ-2
+PATADA|キック
+[ataque sin arma]|[武器を使わない攻撃]
+probabilidad base de batear|基本命中率
+¡La música está subiendo de volumen, debes darte prisa!|音がどんどん大きくなっている…もう時間が無い！
+Un multiplicador más bajo significa que las acciones llevarán menos tiempo.|#この倍率が低いほど、アクションにかかる#時間も短くなる。
+¡Secuencia de combate guardada!|戦闘シーケンスをセーブした！
+[LLORA POR MI]|「我が為に狂い泣け」
+Actualmente, tu probabilidad de acertar se reduce en|命中率低下: 
+Pierde 2 RAZONES|理性-2
+[SANGRAR PARA MÍ]|「我が為に血を流せ」
+Establece la RESISTENCIA restante en 3|スタミナが3になる。
+[Ríndete por mí]|「我に屈しろ」
+Establezca la RAZÓN restante en 3|理性が3になる。
+[MORIR POR MÍ]|「我が為に死ね」
+Te mata al instante.|即座に死ぬ。
+[ALGO MAL SE SACIA]|[真なる邪悪は満ち足りた様子だ]
+...por ahora.|…今のところは、だが。
+ENEMIGO INCORPORAL|実体のない敵
+[este ataque no puede herir a un enemigo fantasma]|「悪霊」の敵に対して、この攻撃は#効かない
+ESPANTOSA PRESENCIA|｢身の毛のよだつ気配｣
+PRESENCIA FANTASMA te impide atacar a este enemigo.|｢身の毛のよだつ気配｣が邪魔をして、攻撃できない。
+DEJAR UNA OFERTA|供物を捧げる
+Quemar una ofrenda material en un intento de apaciguar al fantasma, causando|悪霊を鎮めるために供物を燃やし、#以下のダメージを付与: 
+[COSTO: 1 FONDOS]|[コスト: 所持金-1]
+[esta acción requiere FONDOS]|このアクションを行うには所持金が必要
+CORTEN SUS LAZOS CON NUESTRO MUNDO|現世との繋がりを断ち切る
+Ofertas|与ダメージ: 
+(ningún arma)|(武器無し)
+[la red invisible te impide huir de este encuentro]|[見えない糸に捕らわれて逃げられない]
+[Este enemigo es tan grande que este ataque no causará ningún daño]|[敵が大きすぎるため、ダメージを#与えられない]
+SACRIFICAR AL OTRO INVITADO|他の参列者を生贄に捧げる
+matar al otro invitado; Le causará 15 daños al HORRIBLE VIEJO.|他の参列者を殺し、「醜悪なる老翁」に#15ダメージ与える
+DESCONECTAR EL SOPORTE VITAL|生命維持装置を外す
+El monstruo parece obtener su fuerza de los pacientes dormidos. Desconectar el soporte vital de uno de ellos debilitará al monstruo pero matará al paciente.#(inflige 15 de daño)#COSTO: 3 RAZÓN|この怪物は昏睡した患者たちから、#力を得ているようだ。#装置を外せば弱体化するが、患者の命は#失われる…#与ダメージ: 15#コスト: 理性-3
+SACRIFICA A TU ALIADO|仲間を生贄に捧げる
+Mata a tu seguidor en un altar en un intento de apaciguar al enemigo.|敵を鎮めるため、祭壇で仲間を殺す
+[esta acción requiere un aliado]|[このアクションを行うには仲間が必要]
+[solo uso una vez]#[necesita RESISTENCIA o RAZÓN ser inferior a 3]|[1回のみ実行可]#[条件: スタミナか理性が3以下]
+LUCHA DESESPERADA|背水の陣
+[uso único]##duplica todo el daño infligido durante este turno|[1回のみ実行可]##このターン中に与える全ダメージが#2倍になる。
+ORAR|祈る
+recuperar 1 RESISTENCIA#COSTO: 2 RAZÓN|スタミナが1回復する。#コスト: 理性-2
+MEDITAR|瞑想
+recuperar 1 RAZÓN#COSTO: 2 RESISTENCIA|理性が1回復する。#コスト: スタミナ-2
+ESCUCHA LA DIVERSIÓN|長話を聞く
+[basado en la PERCEPCIÓN]|[知覚ベース]
+aprende un nuevo hechizo o gana experiencia#COSTO: 1% DOOM|新たな呪文を習得するか、EXPを#獲得する#コスト: 破滅値+1%
+ARMA DE FUEGO|射撃
+PIDE A TU ALIADO QUE DISTRAYA AL ENEMIGO|仲間に敵を引きつけてもらう
+Si tiene éxito: acción de combate más rápida durante este encuentro. Si falla: pierde un aliado aleatorio. Probabilidad básica: 70%|[成功した場合]#この戦闘中はアクションが速くなる##[失敗した場合]#ランダムに仲間を1人失う#(基本確率: 70%)
+FLASH DE LA CÁMARA|カメラのフラッシュ
+Usa el flash de tu cámara para cegar temporalmente al enemigo.#(-10 POTENCIA)|カメラのフラッシュで、一時的に#敵の視界を奪う#パワー: -10
+[necesita un arma de fuego para realizar esta acción]|(このアクションを行うには[銃器]が必要)
+ENTRAR EN LA MINIVAN|ミニバンに乗り込む
+¿Quizás haya algo útil en la minivan del jardinero?|庭師のミニバンに何か使える物があるかもしれない
+PROTEGER AL JARDINERO|庭師を守る
+Este turno, las plantas te atacarán a ti en lugar de a SHIRO-SAN.|このターン中、四郎さんの代わりに#植物の攻撃を受ける
+la puerta|出入り口
+La entrada está bloqueada por gruesas ramas.#¡Necesitas encontrar otra salida!|出入り口が太い枝で塞がれている！#別の逃げ道を探さなくては！
+CORTA TU SALIDA|切り進む
+¡Usando el FIRE AXE, puedes cortar rápidamente las ramas que bloquean la salida rápida de esta mansión!|「消防斧」を使えば、出口を塞ぐ枝を#一気に切り落とせる！
+LIDERAR AL JARDINERO|庭師を連れ出す
+Continúe guiando al hombre herido afuera. Deberás realizar esta acción varias veces para salir de la mansión.|怪我人を外へと誘導する#屋敷を出るには、何度かこのアクションを#行わなければならない
+¿Q-QUÉ ES ESO?|あ、あれは何だ…？
+Detente y observa más de cerca las heridas de SHIRO-SAN.|立ち止まって、四郎さんの怪我を近くで#見てみる
+¡Las plantas te están atacando! Debes proteger al SHIRO-SAN herido y llevarlo a un lugar seguro. Continuará perdiendo SALUD en cada turno.|植物が襲ってきた！#負傷した四郎さんを守りつつ、#安全な場所に避難させなければ…#(毎ターン、庭師の体力は減っていく)
+[basado en DESTREZA]|[敏捷性ベース]
+[basado en CONOCIMIENTOS]|[賢さベース]
+ESQUIVAR|回避
+Reduce drásticamente la probabilidad de golpe del enemigo.|敵の攻撃命中率が大幅に低下する
+HABILIDAD DE COMBATE|戦闘スキル
+Reduce tu EXPERIENCIA en 5 y aumenta tu probabilidad de acertar en un 10 % durante el resto de este encuentro.|EXPを5失う代わりに、攻撃命中率が#10%上昇する
+[basado en la FUERZA]|[筋力ベース]
+PREPARARSE PARA EL IMPACTO|攻撃に耐える
+Reduce el daño recibido a la mitad e ignora cualquier ataque especial.|被ダメージが半減し、#特殊攻撃が無効になる
+[basado en CARISMA]|[カリスマベース]
+[basado en la SUERTE]|[幸運ベース]
+SECUENCIA DE LANZAMIENTO|シーケンス開始
+CLARO|クリア
+DOBLAR|ターン
+¡COMIENZA!|開始！
+ACCIONES OFENSIVAS|攻撃アクション
+ACCIONES DE APOYO|支援アクション
+ACCIONES DEFENSIVAS|防御アクション
+ACCIONES ESPIRITUALES|祈祷アクション
+multiplicador de tiempo actual|現在の倍率
+SALUD: define la resistencia del enemigo.#Ganas el encuentro si la llevas a cero.|「体力」#敵のスタミナ量。#これを0にすることで戦闘勝利となる。
+DAÑO: después de cada secuencia, los enemigos realizan un ataque que drena tu resistencia (-STA), razón (-REA) o ambas (-ALL).|「ダメージ」#シーケンス終了時、敵はスタミナ(STA)#や理性(REA)、あるいはその両方(ALL)を奪う攻撃を仕掛けてくる。
+POTENCIA: esta estadística define tus posibilidades de atacar al enemigo con éxito. Cuanto mayor sea su POTENCIA, más difícil será.|「パワー」#敵に対する攻撃成功率。#この値が高ければ高いほど、攻撃が#外れやすくなる。#
+ATACA CON TU ARMA|武器攻撃
+[necesita un arma equipada para realizar esta acción]|[武器を装備すると選択可能]
+PATADA|キック
+[ataque sin arma]|[武器を使わない攻撃]
+ATAQUE FUERTE|強攻撃
+BUSCA UN ARMA IMPROVISADA|即席武器を探す
+Recoge un arma improvisada al azar.|ランダムに間に合わせの武器を拾う。
+¡Te perdiste el ataque!|攻撃が外れた！
+Te preparas para atacar...|敵に向かって、狙いを定める…
+[Rellena la SECUENCIA DE COMBATE (barra blanca) con movimientos de combate y haz clic en 'SECUENCIA DE LANZAMIENTO' para atacar a tu enemigo.]##(clic derecho): elimina el último movimiento de combate|攻撃を仕掛けるにはアクションを選択して#戦闘シーケンス（白いバー）を組み、#「シーケンス開始」をクリックする。##右クリック: 最後に選択したアクションを#キャンセルする。
+[no puedes huir de este encuentro]|[この戦闘からは逃げられない]
+HUIR|逃げる
+PREPARA TU ATAQUE|攻撃準備
+Se garantiza que el próximo ataque acertará.|次の攻撃が確実に命中する。
+AUMENTO DE ATAQUE|攻撃ブースト
+tu próximo ataque tiene un 10% adicional de posibilidades de acertar; este efecto se acumula|次に仕掛ける攻撃の命中率が10%上昇。#重ねがけが可能。
+MORDER|噛みつく
+tu muerdes|敵に噛みついた: 
+Objetivo|他
+Apunta al otro enemigo.|他の敵を狙う。
+EVALUAR LA SITUACIÓN|分析
+aprende sobre tu enemigo|敵を分析する。
+ARCO|お辞儀
+parte de un ritual (la mayoría de los rituales de combate son una combinación de cinco ARCOS y APLASTAMIENTOS. #Incluso si no lo haces bien, se te dará una pista).|儀式における一つの作法。#戦闘での儀式は、主に「お辞儀」「拍手」を計5回組み合わせて行われる。#仮に失敗しても、ヒントが表示される。
+APLAUDIR|拍手
+¡SIN ESPERANZA!|もう無理だ…
+huye de la horrible bestia como un cobarde|恐ろしき怪物を目の前にして、#臆病者のように逃げ出す。
+¡ESTO ES DEMASIADO!|もう限界だ！
+Cierras los ojos, luchando contra el creciente mareo...|次第に酷くなる眩暈に耐えつつ、#目を閉じる…
+finaliza el encuentro con una penalización de DOOM#[+0% DOOM]|戦闘が終了し、破滅値が上昇する。#[破滅値+0%]
+(ZAPATOS PARA CORRER)|(ランニングシューズ)
+% CONDENACIÓN|% (破滅値)
+finaliza el encuentro con una penalización de DOOM|戦闘終了すると破滅値が上昇
+FORZAR APERTURA DE BOCA (SIN HERRAMIENTA)|マンホールの蓋をこじ開ける (工具なし)
+intenta abrir la tapa de alcantarilla presente en la oficina del conserje|用務員室にあった#マンホールの蓋を開けてみる
+FORZAR LA APERTURA DE BOCA DE REGISTRO (CON HERRAMIENTA)|マンホールの蓋をこじ開ける (工具使用)
+DERRIBAR UNA LÁMPARA|ランプを倒す
+una chispa de la bombilla rota debería incendiar los líquidos de limpieza altamente inflamables...|割れた電球の火花で、#可燃性の高い洗浄液に引火するはず…
+RECOGERLO|拾う
+RESOLVER EL COMBATE|戦闘終了
+has derrotado|<撃破>
+tu golpeas|を殴りつけた。
+tu pateas|にキックした。
+tu apuñalas|に刃を突き刺した。
+tu cortas|を切りつけた。
+Disparas|を撃った。
+tu golpeas|を武器で叩いた。
+Viste a través de|を切り倒した。
+Has huido con éxito desde|から逃げ切った。
+ESCAPAR|逃げる
+Tu quemas|を燃やした。
+Has encontrado un artículo|アイテムを発見した
+Espera, ¿qué es eso?|ん？あれは…？
+No tienes tiempo para cambiar el equipo.|装備を変えている場合ではない。
+Ya has derrotado al enemigo.|もうその敵は倒した。
+Esta acción necesita un enemigo objetivo.|対象となる敵がいない。
+KAORI YUTO|由藤かおり
+EL LINGÜISTA#[+1 DAÑO DE COMBATE]|言語学者#[戦闘ダメージ+1]
+SAKINA OKADA|岡田咲菜
+EL GEÓLOGO#[+1 DAÑO DE COMBATE]|地質学者#[戦闘ダメージ+1]
+HIROKI SHINOHE|篠瀬博己
+EL TEÓLOGO#[-1 DAÑO ENTRANTE]|神学者#[被ダメージ-1]
+Dentro de la minivan, encuentras una lata de gas inflamable...|ミニバンの中から可燃性ガスの缶を見つけた…
+Ya no encuentras nada útil...|使えそうものはもうない…
+Te preparas para proteger al jardinero...|四郎さんを守ろうとする…
+Ayudas a SHIRO-SAN a caminar hacia la salida.|四郎さんを支えて出口に向かう。
+¡Has escapado del sótano pero SHIRO-SAN te sigue!|地下室から脱出するも、彼が追いかけてくる！
+¡La parte superior de la cabeza de SHIRO-SAN sale volando, revelando su cerebro! ¡De él brota el cuerpo fructífero de un hongo!|四郎さんの頭頂部が弾け飛び、脳みそが露わとなった！#そこからキノコのようなものが飛び出す！
+¡Intentas cortar sus lazos con este mundo!|敵と現世を結ぶ繋がりを断ち切ろうとする！
+¡Quemas el dinero! (-1 FONDOS)|あなたはお金を燃やした。(所持金-1)
+[ALGO VERDADERAMENTE MAL REQUIERE MÁS]|[真なる邪悪はまだ欲している]
+[HAS SANGRADO SUFICIENTE]|[もう十分、血は流した]
+[REGRESARÁS...]|[あなたはまた戻ってくる…]
+[YA TE HAS RENDIDO]|[あなたはすでに諦めていた]
+ha logrado distraer|が敵を引きつけた: 
+ha tratado de distraer|は敵を引きつけようとした: 
+¡pero murió!|しかし、殺されてしまった！
+¡No te quedan aliados!|もう仲間は誰もいない！
+Tu lanzas|あなたは祭壇の上に向かって
+en el altar y apuñalarlos en el pecho! (-3 RAZÓN)|を投げ飛ばし、胸に目がけて刃を突き立てた！(理性-3)
+¡El ritual te hace más fuerte! (+1 ESTADÍSTICA)|儀式によって、力が強化された！(能力値+1)
+Esquivando un ataque, desconectas la máquina de soporte vital de uno de los pacientes.|攻撃をかわしながら、生命維持装置を外す。
+El paciente muere y uno de los zarcillos desaparece... (-15 SALUD)|患者が息絶え、触手の一つが消え去った…(体力-15)
+La realidad cambia, tu acción fue cancelada.|現実が揺らぎ、そのアクションは無効になった。
+El tiempo se congela, tu acción fue cancelada.|時間が止まり、そのアクションは無効になった。
+¡Coges un cuchillo y apuñalas a uno de los miembros de la familia!|あなたはナイフを手に取り、一家の一人に刃を突き刺した！
+¡HORRIBLE ANCIANO retrocede de dolor! (-15 daño)|痛みに耐えかねた敵が、体を仰け反らせる！(-15ダメージ)
+HORRIBLE VIEJO... sonríe.|“醜悪なる老翁”は…笑っている。
+¡Prepárate para un ataque entrante!|迫り来る攻撃に備え、あなたは身構えた！
+¡Prepárate para esquivar el ataque entrante!|迫り来る攻撃をかわすために、あなたは身構えた！
+¡Es tu última oportunidad! ¡No lo desperdicies!|最後のチャンスだ！この機を逃すな！
+¡Meditas! (+1 RAZÓN, -2 RESISTENCIA)|あなたは瞑想をした…(理性+1 / スタミナ-2)
+Atacas al cultista que canta, causándole|詠唱中のカルト信者を攻撃し、
+¡daño!|ダメージを与えた！
+¡El enemigo está repitiendo un encantamiento mágico!...|敵は魔法を繰り返し唱えている…
+¡El enemigo repite hechos sin sentido!...|敵は意味不明な言葉を繰り返している…
+El enemigo de repente se queda en silencio y comienza a mirarte...|敵は急に黙り込み、こちらをじっと見つめている…
+¡Tu rezas! (+1 RESISTENCIA, -2 RAZÓN)|あなたは祈りを捧げた！(スタミナ+1 / 理性-2)
+¡El disparo es ensordecedor!|銃声が耳をつんざく！
+¡Estudias el movimiento del enemigo y encuentras una apertura!|敵の動きを分析して隙を見つける。
+¡No hay suficiente EXPERIENCIA para esa acción!|そのアクションを実行するにはEXPが足りない！
+Intentas abrir la alcantarilla...|あなたはマンホールの蓋を開けようとした…
+Sin embargo, sería más fácil con una herramienta adecuada.|ちゃんとした工具があれば、もっと容易に開けられるだろう。
+Usando una palanca, intentas abrir la alcantarilla...|バールを使ってマンホールを開けてみる…
+salud|体力
+te inclinas|あなたはお辞儀をした。
+tu aplaudes|あなたは拍手をした。
+Te agachas y agarras un objeto que está en el suelo.|屈んで地面に転がっているアイテムを拾う。
+TUTORIAL DE COMBATE|戦闘チュートリアル
+Durante cada turno, construirás una secuencia de ataques y movimientos desde el anillo de acción (B).#Una vez que hayas llenado la barra de secuencia (C), presiona el botón INICIAR SECUENCIA para finalizar tu turno.|戦闘が始まると毎ターン、攻撃や行動の#順序をアクションリング(B)から#組み立てていくことになります。#シーケンスバー(C)を埋めたら、#｢シーケンス開始｣を押してみましょう。
+Con el tiempo, descubrirás nuevos movimientos de combate, disponibles a través del FILTRO DE ACCIÓN (A).#Pero primero, necesitas un arma. Encuentra y elige una acción llamada 'BUSCAR UN ARMA IMPROVISADA'|ゲームが進むと、新たな戦闘アクションがアクションフィルター(A)から#行えるようになります。#｢即席武器を探す｣というボタンを#押してみましょう。
+Mira, ha aparecido un nuevo ARTÍCULO en tu INVENTARIO en la esquina superior derecha. Seleccione el ARTÍCULO con el cursor y abra el submenú de este ARTÍCULO, luego seleccione el botón EQUIPAR (resaltado).|右上の所持品に、新たなアイテムが#表示されました。#アイテムを選択し、ハイライト表示された#｢装備｣ボタンを押してみましょう。
+USAR|使用
+EQUIP - coloca el artículo en su equipo SLOT|装備: このアイテムを装備スロットにセットする
+INSPECCIONAR: información adicional sobre el artículo|調べる: 詳細情報の確認
+ALMACENAMIENTO: coloca el artículo en el almacenamiento.|収納する: このアイテムをカバンにしまう
+LANZAR AL ENEMIGO: lanza el objeto al enemigo.|投げる: このアイテムを敵に投げつける
+DESCARTAR: elimina el elemento del juego.|捨てる: アイテムを処分する
+COMERCIO - vender este artículo|売却: このアイテムを売る
+NO SABÍAS DÓNDE ENCONTRAR UN COMPRADOR|どこに買い手がいるのか、見当もつかない…
+HABLAR|話す
+DÉJALO IR|仲間と別れる
+MATAR|殺す
+ENVIAR CONTRA EL ENEMIGO|敵に向かって仲間を出す
+LANZAR ESTE HECHIZO|この呪文を唱える
+OLVIDA ESTE HECHIZO (+1 RAZÓN)|この呪文を忘れる (理性+1)
+AURA: REPARTO GRATIS|狂える霊気: コストなし
+LA MIRADA DE ATH-YOLAZSTH: LANZAR ESTO NO CUESTA RAZÓN|アトゥ＝ヨラズスの視線: これを唱えても「理性」は失われない
+TRATAMIENTO - 1 FONDOS|治療: 所持金-1
+CIRUGÍA - 2 FONDOS|手術: 所持金-2
+LA MEDICINA MODERNA NO PUEDE AYUDAR AQUÍ|今の医学ではどうにもできない
+VENDA ESTA HERIDA|傷に包帯を巻く
+PINCHARLO CON UNA AGUJA|針で刺す
+TRATAR ESTA HERIDA|傷を治療する
+QUITAR MALDICIÓN|呪いを解く
+^ ACCIONES DISPONIBLES|実行可能なアクション
+¡Artículo agregado al almacenamiento!|カバンにアイテムを収納した！
+No puedes guardar artículos que estés usando.|装備中のアイテムは、カバンに収納できない。
+¡El objeto arrojado daña al enemigo!|投げたアイテムが当たり、敵にダメージを与えた！
+Lo pinchas con una aguja. ¡Un géiser de pus de color amarillo blanquecino y maloliente estalla y gritas de dolor! ¿N-no debería ver esto un médico?...#(-2 RESISTENCIA, -1 RESISTENCIA MÁXIMA)|針を刺すと、中から酷い臭いの白黄色の膿が噴き出す。#そのあまりの痛みに、あなたは悲鳴を上げてしまう。#こ、これは、医者に診てもらうべきなのか…？#(スタミナ-2 / スタミナ上限-1)
+¡El tratamiento fue exitoso!|治療がうまくいった！
+¡No puedes permitirte eso!|そんなお金はない！
+¡La cirugía fue exitosa!|手術は成功した！
+Tu aliado|あなたを守るために
+atacado|が
+¡Para protegerte!|を攻撃した！
+Ese ataque fue realizado|その攻撃によって
+daño|以下のダメージを与えた: 
+Tu matas|あなたをはめようとした
+¡Por conspirar contra ti!|を殺した！
+¡Olvidaste este hechizo! (+ RAZÓN)|この呪文を忘れた！(+理性)
+Ningún arma|装備中の武器: なし
+Nada|なし
+historia de fondo actual:|現在のバックストーリー: 
+CAMBIAR LA HISTORIA|バックストーリーを変更
+COMENZAR EL JUEGO|ゲームを始める
+AGUANTE|スタミナ
+RAZÓN|理性
+CONDENAR|破滅値
+SIN RITUAL ACTIVO|実行中の儀式: なし
+Bienvenido y gracias por probar WORLD OF HORROR.#Inspirado en los juegos de aventuras de los años 80, la sobrecarga visual puede resultar un poco desorientadora al principio. En este breve tutorial, haré todo lo posible para explicar varios elementos y prepararte para luchar contra los horribles DIOSES ANTIGUOS.#- Pawel, creador del juego|ようこそ、恐怖の世界へ！遊びに来てくれてありがとう！#これは、私が80年代のアドベンチャーゲームから影響を受けて作ったゲームなの。#画面上に色んな表示が出てて初めはちょっと戸惑うかもだけど、慣れれば大丈夫！#この短いチュートリアルの中で、私が頑張って説明するね。#そしたら、あのコワ～い「旧き神」にも立ち向かえるようになるはずだよ！#Pawel (本作の開発者)
+Esa es la -PANTALLA PRINCIPAL DEL JUEGO-. Aquí interactuarás con tu entorno, resolverás misterios y lucharás contra enemigos.|「メイン画面」: ここで気になるものをクリックして調べてみたり、#謎を解いたり、色んな敵と戦ったりするの。
+Esa es la parte -INTERFAZ DE USUARIO- de la pantalla. ##Aquí administrarás tu inventario, lanzarás hechizos y accederás a las opciones del juego.|「ユーザーインター#フェース」##ここから所持品の管理や#呪文の詠唱、設定の変更#などができるよ。
+Todas las acciones realizadas se agregarán al -LOG- aquí.|「ログ」: あなたの行動は、全てここにログとして記録されていくよ。
+Ese eres tú a la derecha. WORLD OF HORROR tiene elementos de RPG y tus atributos se describen mediante seis estadísticas básicas.##Mueve el cursor sobre ellas para obtener más información.|右下にいるのが、あなたね。#このゲームにはRPGっぽい要素が#あって、あなたのステータスは#6つの「能力値」で示されるの。#詳しく知りたければ、各値の上に#カーソルを合わせてみて！
+Su capacidad para continuar su investigación está determinada por la RESISTENCIA y la RAZÓN. Si alguno de ellos llega a cero, el juego termina.|調査を続けるには、「スタミナ」と「理性」が重要になってくるの。#どちらかがゼロになると、ゲームオーバーになっちゃうから気を付けて！
+Ese es tu INVENTARIO. Puedes quedarte con hasta cuatro artículos.#Para inspeccionar, usar o equipar cualquier cosa que recojas, selecciona el artículo en cuestión en esta área.|右上に表示されてるのが、あなたの「所持品」。#アイテムは最大4つまで持てて、#「調べる」「使用」「装備」といったアクションは、#ここでそのアイテムを選べばできるよ。
+Hay tres RANURAS PARA EQUIPO. Los objetos equipados no cuentan para el límite de cuatro objetos.#A - arma utilizada en combate#B y C - baratijas y armaduras|「装備品スロット」は全部で3つあって、ABCに種類が#分かれてるの。ちなみに、アイテムは4つまでしか#持てないんだけど、装備中のアイテムはそこに#カウントされないからね。#A: 戦闘で使用する武器#B / C: 小物や防具
+PESTAÑAS adicionales lo llevarán a sus HECHIZOS, ESTADO actual y OPCIONES.|他のタブで習得した呪文やステータス、設定などが確認できるよ。
+Esa es tu resistencia (STA). Representa tu salud física. Una vez que llega a cero, tu personaje muere.|スタミナ(STA) いわゆる「体力」のこと。##あなたの体の健康状態を示す数値で、#これがゼロになると、パタッと死んじゃう#から気を付けてね！
+Esa es tu (REA) razón. Representa tu estabilidad y voluntad de afrontar los horrores. Una vez que llega a cero, tu personaje colapsa y el juego termina.|理性(RE‏‏A) 恐怖に立ち向かう意志の強さ#とか、精神的な安定感を示す数値だよ。#これがゼロになった時点で、心が壊れて#ゲームオーバーになっちゃうわ。
+Eso es (FRZ) Fuerza. Las estadísticas se utilizan para determinar el resultado de los eventos y la velocidad de ciertas acciones de combate.|筋力(STR) 主に力強さが問われるような#スキルチェックで参照される数値だよ。##特定の武器を扱うときにも関わってくるわ。
+Eso es (DES) Destreza. Las estadísticas se utilizan para determinar el resultado de los eventos y la velocidad de ciertas acciones de combate.|敏捷性(DEX) 主に隠密行動と関連した#スキルチェックで参照される数値だよ。##敵に対する「戦闘アクション」の速度とも#関係してくるの。
+Eso es (PER) Percepción. Las estadísticas se utilizan para determinar el resultado de los eventos y la velocidad de ciertas acciones de combate.|知覚(PER) 主に人や物を見つけたり、#探したりするときに参照される数値だよ。##銃器の扱いとも関係してくるわ。
+Eso es (SAB) Conocimiento. Las estadísticas se utilizan para determinar el resultado de los eventos y la velocidad de ciertas acciones de combate.|賢さ(KNW) 対象物に対して、どの程度#知識があるのかを示す数値だよ。##知識が問われるようなスキルチェックで#参照されるわ。
+Eso es (CHA) Carisma. Las estadísticas se utilizan para determinar el resultado de los eventos y la velocidad de ciertas acciones de combate.|カリスマ(CHA) 主に人と話したり、#校庭で新しい「仲間」を集めたりするときに#参照される数値ね。
+Esos son fondos (FND), que representan la cantidad de dinero que puede gastar.|所持金(FND) 今、あなたが使える#お金のことね。
+A medida que avances en tu juego, aparecerán más consejos útiles. ¿Te gustaría activar el tutorial de combate? (Comenzará durante tu primer encuentro con el enemigo)|ゲームを進めていくうちに、役立つヒントがもっと出てくるよ！#戦闘チュートリアルは見たい？#（「はい」を選ぶと、最初の敵と遭遇した時にチュートリアルが始まります）
+¡El enemigo parece débil ante este tipo de arma! (+ DAÑO)|敵はこの手の武器に弱いようだ！(+ダメージ)

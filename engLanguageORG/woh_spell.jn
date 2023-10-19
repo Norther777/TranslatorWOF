@@ -1,0 +1,137 @@
+[RITUAL]|[儀式]
+--SPELL--###|－呪文－###
+[SUPPORT]|[支援呪文]
+[HEALING]|[回復呪文]
+[COMBAT]|[戦闘系呪文]
+[OFFENSIVE]|[攻撃呪文]
+[DEFENSIVE]|[防御呪文]
+[SEAL]|[印]
+[INVESTIGATION]|[調査系呪文]
+You've already defeated this enemy.|この敵はもう倒した。
+This contract won't work on this enemy.|この契約はこの敵には効かない。
+This spell can only be cast when investigating a location.|この呪文は調査ポイントを探る時にのみ唱えられる。
+This spell targets HUMAN enemies only.|この呪文は[人間]の敵にのみ有効。
+This spell targets ELDRITCH enemies only.|この呪文は[怪魔]の敵にのみ有効。
+Occult signs attract unknown power!|神秘的なサインが未知なる力を引き寄せた！
+It's too much for your mind! (-1 REASON)|精神的な負担が大きすぎる！(理性-1)
+CURRENT SPELL LIMIT|現在の呪文数上限
+MIND DRAIN|マインドドレイン
+deals 5 damage#regain 2 REASON#[COST: -1 MAX REASON]|敵に5ダメージ与える#｢理性｣を2回復##コスト: 理性上限-1
+You reach out your hand in an occult gesture, draining ENEMY's mind!|妖しげな手の動きで相手の精神を削る！
+REGENERATION|再生の秘法
+regain 4 STAMINA#[COST: 2 REASON]|｢スタミナ｣が4回復##コスト: ｢理性｣-2
+You can feel your wounds slowly closing!|徐々に傷が塞がっていくのを感じる。
+SKIN REMOVAL|皮剥ぎの呪術
+deals 6 damage#[COST: 3 REASON]|敵に6ダメージ与える##コスト: ｢理性｣-3
+The skin of your enemy starts falling off in big patches!|敵の皮膚がベロリと剥がれ落ちていく！
+MULTIPLY WOUND|呪言: 多重創傷
+deals damage to an enemy, which increases the lower your STAMINA is#[COST: 2 STAMINA]|敵1体にダメージを与える#｢スタミナ｣が少ないほど#与ダメージが上昇##コスト: ｢スタミナ｣-2
+The wounds of your enemy explode with gore!|敵の傷口から、血しぶきが飛び散った！
+K'NPHA RITUAL|クンファの儀式
+when your allies die, a random STAT gets raised by 1#[COST: 2 REASON]|仲間が死亡したとき、#能力値がランダムに1上昇##コスト: ｢理性｣-2
+Part of your ally's essence stays with you!|仲間の魂がその身に宿る！
+K'NPHA RITUAL#[allies -> stats]|<クンファの儀式>#仲間の死→能力値上昇
+INVISIBILITY|透明化
+until the end of the current mystery, there is no DOOM penalty for escaping from combat#[COST: 4 REASON]|今の謎が終わるまで、#戦闘から逃亡しても#破滅値が上昇しなくなる##コスト: ｢理性｣-4
+You shift into the shadow realm!|あなたは影の世界に飛び込んだ！
+You are already invisible!|その姿はもう見えない！
+ABOLISH|結界展開
+lowers ELDRITCH enemy DAMAGE by 1#[COST: 3 STAMINA]|[怪魔]の敵から受ける#ダメージが1減少##コスト: ｢スタミナ｣-3
+A magic barrier appears, absorbing the damage!|周りに結界が張られた。敵の攻撃が吸収される！
+Additional barriers won't help!|もう結界を張っても意味がない！
+ABSORB|吸魂
+deals 3 damage, gain 2 STAMINA#[COST: 4 REASON]|敵に3ダメージを与え、#｢スタミナ｣を2回復##コスト: ｢理性｣-4
+You suck the life force out of your enemy!|敵から生命力を吸い取る！
+THIRD EYE|第三の目
++1 KNOWLEDGE and PERCEPTION until the end of the mystery#[effect doesn't stack]#[COST: 3 REASON]|今回の謎が終わるまで#｢賢さ｣と｢知覚｣が1上昇する#[重ねがけ不可]#コスト: ｢理性｣-3
+You can feel your inner eye open!|内なる目が開くのを感じる！
+You wouldn't want a fourth eye, would you?|さすがに第四の目までは要らないだろう？
+ITHOTU FLAME|イトツの炎
+deals 8 damage#+2% DOOM#[COST: 1 REASON]#[COST: 1 STAMINA]|敵に8ダメージ与える#破滅値+2％##コスト: ｢理性｣-1 ｢スタミナ｣-1
+A column of fire engulfs the enemy!|炎の柱が敵を包み込む！
+SEAL OF SAVVESH|サヴィッシュの印
++1 STRENGTH#[discard on use]#[COST: 4 REASON]|｢筋力｣+1#[使用後に消失する]##コスト: ｢理性｣-4
+A new seal appears on your skin!|あなたの肌に新たな印が浮かび上がった！
+SEAL OF BRAM'EL|ブラムエルの印
++1 KNOWLEDGE#[discard on use]#[COST: 4 REASON]|｢賢さ｣+1#[使用後に消失する]##コスト: ｢理性｣-4
+THREAD OF FATE|運命の糸
+defeat target HUMAN enemy#[discard on use]#[COST: 4 REASON]|[人間]の敵を撃破する#[使用後に消失する]##コスト: ｢理性｣-4
+Enemy falls to the ground, dead.|敵は地に倒れ、力尽きた。
+ANCESTRAL STRENGTH|受け継がれし力
++1 DAMAGE#[COST: 4 REASON]|ダメージ+1##コスト: ｢理性｣-4
+Someone is guiding your moves...|正体不明の力が、その身を突き動かす…
+ANCESTRAL STRENGTH#[+1 DAMAGE]|<受け継がれし力>#与ダメージ+1
+ENTHRALLMENT|魅了の秘術
+gain an additional follower#[discard on use]#[COST: 4 REASON]|あなたに従う｢仲間｣が増える#[使用後に消失する]##コスト: ｢理性｣-4
+A new person follows your lead...|新たに仲間が増えた…
+AWAKEN|覚醒
+gain a permanent boost of two randomly selected stats#[COST: 10% DOOM]|ランダムに選ばれた#2つの能力値が上昇する##コスト: 破滅値+10％
+You've attracted the attention of something evil...|あなたは｢真なる邪悪｣に目を付けられてしまった…
+BINDING AGONY|苦悶の止縛法
+target enemy's damage is lowered by 1#[COST: 3 REASON]|敵からの被ダメージ-1##コスト: ｢理性｣-3
+BINDING AGONY makes their movement slower!|｢苦悶の止縛法｣により、敵の動きが鈍くなった。
+WITNESS CURSE|昏き魔眼
+converts all combat STAMINA damage taken into extra DOOM#[COST: 2 REASON]|戦闘で受けたスタミナダメージを#全て破滅値に変換する##コスト: ｢理性｣-2
+WITNESS CURSE#[- STAMINA -> + DOOM]|<昏き魔眼>#スタミナ減少→破滅値上昇
+SHADOW SHROUD|外法: 影の帳
+for the duration of this mystery, ignore location's THREAT level#[COST: 3 REASON]|現在の調査が終わるまで、#各調査ポイントの#｢危険度｣の影響を受けなくなる#コスト: ｢理性｣-3
+You feel more in tune with the weird...|あなたの中で、奇怪なものと共鳴する感覚が強まる…
+MEND|血肉の代償
+gain 1 REASON#[COST: 2 STAMINA]|｢理性｣+1##コスト: ｢スタミナ｣-2
+You regain some of the lost REASON.|失った理性が少し回復した。
+VOID|無の深淵
+ignore the current event and instantly investigate a random OTHERWORLD location#[one time use only]#[COST: 3 REASON]|現在のイベントを無視して、#瞬時にランダムな｢異界｣#の調査ポイントに飛ぶ#[1度のみ詠唱可]#コスト: ｢理性｣-3
+CAUTERIZE|焼灼の術
++2 STAMINA#[one time use only]|｢スタミナ｣+2##[1度のみ使用可]
+The torn flesh closes, stopping the bleeding.|引き裂かれた肉が塞がり、出血が止まった。
+MEMORY EXTRACT|記憶抽出術
++2 REASON#[COST: 10 EXP]|｢理性｣+2##コスト: EXP-10
+Traumatic memories leave your mind...|トラウマになっていた記憶が、頭から離れていく…
+This spells requires more EXPERIENCE.|詠唱に必要なEXPが足りない。
+ASHEN CONTRACT|灰の約定
+immediately kills any non-eldritch enemy#[one time use only]#[COST: 7% DOOM]|[怪魔]以外の敵を即座に殺す#[1度のみ使用可]##コスト: 破滅値+7％
+It is done.|これで終わりだ。
+MIDASU TOUCH|ミダスの手
++1 FUNDS#[COST: 2 STAMINA]|所持金+1##コスト: ｢スタミナ｣-2
+Your fingernail turns silver, you rip it off!|あなたは銀色に変わった爪を引き剥がした！
+Your tooth turns to gold, you twist it off!|あなたは金色に変わった歯をねじり取った！
+FLESH REGROWTH|肉体再生術
++3 STAMINA#-2 MAX STAMINA|｢スタミナ｣+3#スタミナ上限-2
+Your veins extend and seal the ripped flesh!|血管が伸び、裂けた肉がつなぎ止められていく…
+EXPEL EVIL|破邪の呪文
+-6% DOOM#[one time use only]#[COST: 2 STAMINA]|破滅値-6％#[1度のみ詠唱可]##コスト: ｢スタミナ｣-2
+You cough up blood and... s-something else...|あなたは血と…何かを吐き出した…
+GROW TEETH|変異する牙
+adds a new combat action, [BITE], until the end of this mystery#[COST: 2 STAMINA]|この謎の調査が終わるまで、#新たな戦闘アクション#[噛みつく]が追加される#コスト: ｢スタミナ｣-2
+You cough up blood and... something else...|あなたは血と…何かを吐き出した…
+You won't fit more teeth in your mouth.|これ以上、歯を増やす場所なんてない…
+BRAIN WORMS|脳喰らいの蟲
+-2% DOOM#[one time use only]#[COST: 2 STAMINA]#[forgetting this SPELL costs 2 REASON]|破滅値-2％(1度のみ詠唱可)#コスト: ｢スタミナ｣-2#忘れる場合は｢理性｣-2
+[DELVED TOO DEEP]|[深くまで入ってしまった]
+Forcing the worms out of your head isn't pleasant... (-2 REASON)|脳から無理やり蟲を取り除くなんて、恐ろしい…(理性-2)
+k|k
+a|a
+n|n
+a|a
+UNEARTHLY SUTURE|異界の縫合術
+receive 1 free INJURY removal#[COST: 4% DOOM]|無料で｢怪我｣を1回治癒できる##コスト: 破滅値+4％
+BOOK OF GORE|血染めの書
++3 REASON and STAMINA#add 1 random INJURY|｢理性｣+3 ｢スタミナ｣+3##ランダムな｢怪我｣を1つ負う
+GHOSTLY SPEAR|亡者の槍
+deals 6 damage#[COST: -1 MAX STAMINA]|6ダメージ与える##コスト: スタミナ上限-1
+A gory spear extends out of your hand, impaling your enemy!|手から血塗れの槍が突き出し、敵を串刺しにした！
+ASHEN CHIROGRAPH|灰の筆蹟
+receive 1 free CURSE removal#[COST: 4% DOOM]|呪いを1つ解く##コスト: 破滅値+4％
+EIMI|詠美
+completing a mystery regains 1 REASON|謎を解明すると#｢理性｣が1回復する
+<<thanks for saving me>>|<<助けてくれて、ありがとね>>
+[gallery curator]|[学芸員]
+#[EIMI]: +1 REASON|#[詠美]: ｢理性｣+1
+UCHIDA|内田
+EXP bonus for assessing situation during combat (once per enemy)|#戦闘アクション[分析]を行うと#追加EXPを獲得#(敵1体につき1度のみ)
+'heavy breathing'|鼻息が荒い
+[otaku creep]|[キモいオタク]
+UCHIDA stammers some facts about your enemy. (+7 EXP)|内田が敵の情報をボソボソ呟いた。(EXP+7)
+You handcuff the subdued enemy!|弱った敵に手錠をかけた！
+You can't handcuff this enemy yet!|まだ手錠をかけられる状態ではない！
+This item won't work on this enemy!|目の前の敵に、このアイテムは使えない！

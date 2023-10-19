@@ -1,0 +1,15 @@
+STAMINA|スタミナ
+REASON|理性
+DOOM|破滅値
+EXPERIENCE|EXP
+FUNDS|所持金
+CURSE|呪い
+INJURY|怪我
+ITEM|アイテム
+SPELL|呪文
+ALLY|仲間
+something changed|何かが変わった
+Select the root modding folder.#Currently chosen:|MODのルート#フォルダを選択#現在選択中：
+Would you like to disable all built-in events and leave just the custom ones for the testing purpose?|テストとして組み込み中の全イベントを無効にし、カスタムイベントだけを残したい場合はチェック
+CUSTOM CARDS FOUND|個のカスタムカードが見つかりました
+No custom events found. You can download a free pack containing custom events made by WOH community and modding instructions here:#http://www.wohgame.com/modding.zip|カスタムイベントが見つかりません。WOHコミュニティ提供されたカスタムイベントが詰まった無料パックとMODのガイドラインは、以下のリンクからダウンロード可能です。#http://www.wohgame.com/modding.zip

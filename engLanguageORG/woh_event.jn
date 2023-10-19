@@ -1,0 +1,1174 @@
+GRUESOME ALTAR|惨たらしい供物台
+Seeing the two chopped-off heads, you can't help but wonder who's been preparing your food for the past week?|切り落とされた二つの頭。##その光景を前にして、あなたはこの一週間、#誰が食事を作っていたのだろうと気になってしまう。
+research occult notes|オカルトノートを調べる
+call the police|警察を呼ぶ
+do nothing|何もしない
+The notes lying nearby tell of ancient civilizations and unspeakable horror.# You've managed to learn an incantation, but the horrifying image will stay with you for a long time.#(+SPELL / -1 REASON)|近くにあったノート…#そこには古代文明に関する記録が綴られており、#あなたは形容しがたい恐怖に襲われた。#呪文を習得したものの、その恐ろしいイメージが#脳裏に焼き付いて離れない。#(+呪文 / 理性-1)
+Reading the ramblings of a madman has made you sick.#(-2 REASON)|狂人の独り言を読み進めるうちに、#気分が悪くなってしまう。#(理性 -2)
+At the nearest kōban, you tell the officer about the gruesome discovery.#The old policeman is grateful and gives you a small reward before disappearing inside to make a call.#(+2 FUNDS)|最寄りの交番に駆け込み、#あの凄惨な状況について説明する。#年老いた警官は礼を言って、#あなたに少しばかりの謝礼を渡した。#そうして、警官は電話をかけに中に消えた。#(所持金+2)
+There was something in your version of the events that didn't add up.# #You've been detained, but due to the lack of evidence, the police let you go after 48 hours.#(+3% DOOM)|話の中に辻褄の合わない部分があったようだ…#あなたは警察に拘留されてしまう。##証拠不十分のために釈放されたのは、#それから48時間後のことだった。#(破滅値+3%)
+You make a mental note to avoid visiting small family restaurants any time soon. (-1 STAMINA)|小さな家族経営の店に行くのは、#しばらく止めておこうと心に決めた。#(スタミナ-1)
+[NEEDS 'SECOND SIGHT' SKILL]|パーク「透視力」が必要
+consult the ghosts|霊たちに尋ねる
+You touch the head, focusing on your past. A stream of weird images floods your mind.# #Your visions aren't clear. Somebody has harvested the souls of the owners, but you catch a glimpse of a weird mask.#You try to remember it as you collapse on the floor, exhausted.#(-1 STAMINA, +10 EXPERIENCE)|頭に手を触れて、過去に意識を集中させる。#すると、そこに奇妙な映像が流れ込んできた。#ぼやけて視にくい…#この者達は、何者かに魂を刈り取られたようだ…#そこに一瞬、不気味な仮面が映る。#あなたは何とかそれを記憶に留めようとするも、#疲れ果てて床に倒れ込んでしまう。#(スタミナ-1 / EXP+10)
+EXHAUSTED|疲労
+The investigation is starting to take a toll on your health. You feel like you’re about to fall asleep standing up.##How do you address your weakened state?|調査を進めるうちに体調が悪化し始めた。##立ったまま、寝てしまいそうになる。##こんな状態では何もできない…どうしようか？
+take a nap|仮眠を取る
+buy a coffee|コーヒーを買う
+jog around the block|町中を軽く走る
+The world may be falling apart, but you really needed that.#(+1 STAMINA / +1 REASON)#(+2% DOOM)|世界が崩壊しようとも、#今は何よりも休息が必要だった。#(スタミナ+1 / 理性+1)#(破滅値+2%)
+This double frappe macchiato is a nice pick-me-up.#(-1 FUNDS)|ダブルフラッペマキアートを飲む。##気分転換にはちょうどいい飲み物だ。#(所持金-1)
+When ordering your coffee, you find you can't even pay for it.#Unhappy, you quickly exit the shop.#(-1 REASON)|コーヒーを頼むも、#その代金すら支払えないことに気が付く。##機嫌を損ねたあなたは、早歩きで店を出た。#(理性-1)
+This quick exercise helps clear your mind.#(+1 REASON)|軽い運動をして、頭の中がすっきりした。#(理性+1)
+Half-asleep, you stumble over the pavement and trip.#(-1 STAMINA)|半分眠りかけていたため、#舗道で躓いて転んでしまう。#(スタミナ-1)
+<<hot bath does wonders>>|<<やっぱ、熱いお風呂はいい>>
+[NEEDS 'HOT BATH' SKILL]|パーク｢熱々のお風呂｣が必要
+You certainly know how to rest and recover.#(+2 STAMINA / +2 REASON)|あなたはしっかり、体と心を休める術を#心得ていた。#(スタミナ+2 / 理性+2)
+WEIRD FUNERAL|奇妙な葬式
+You had no idea that the funeral you've been invited to would end with the guests slashing their hands to 'feed' the deceased with their blood.#You stay at the back, shocked by how grotesque it is. Suddenly, the guests turn their heads in your direction.##<<It's your turn now.>>|まさか弔問客として呼ばれた葬儀で、#参列者達が自らの手を切り、#故人に血を飲ませているとは思ってもみなかった。##その凄惨な光景にショックを受け、#あなたは後ろの方で小さくなっていた。##すると突然、彼らの頭がぐるっとこちらを向く…##あなたの番が来たのだ。
+follow the awful tradition|恐ろしいしきたりに従う
+fight your way out|周りを振り切って逃げる
+try to talk them out of this|何とか言い逃れようとする
+use a local tradition as an excuse|地元のしきたりでやり過ごす
+[NEEDS 'FOLKLORE STUDIES' PERK]|パーク「民俗学」が必要
+As gruesome as it is, it's still a tradition.#However, you can't shake the feeling that the deceased smiled slightly as you carefully cut your hand.#(-1 STAMINA)|どれほど恐ろしくとも、#これは昔からのしきたりなのだ。##慎重に手を切る…#その時、微かに遺体が笑ったような気がした。#(スタミナ-1)
+The guests mean business. Breaking into a run, you smash into a mourner standing near the exit.##Luckily, they don't chase you.#(+10 EXPERIENCE)|弔問客達は本気だ。##出口付近に立っていた者とぶつかりながらも、#その場から走って抜け出す。##幸運にも、追いかけられることはなかった。#(EXP+10)
+The guests mean business. You break into a frantic run. However, this only enrages the mourners. They soon catch up and overpower you.#After an involuntary sacrifice, they toss you out on the street.#(+ INJURY)|弔問客達は本気だ。#無我夢中で逃げ出すも、#それは彼らの怒りを買うだけだった。#すぐに追いつかれ、取り押さえられる。##その後、強引に血を捧げさせられ、#路上に投げ捨てられるのであった。#(+怪我)
+Using acute anemia as your excuse, you convince the mourners to make an exception for you.#(+10 EXPERIENCE)|急な貧血で動けないと弔問客達を説得し、#例外的に自分だけ許してもらった。#(EXP+10)
+The mourners don't take no for an answer and forcibly draw your blood.#(-2 STAMINA)|弔問客達は有無を言わさず、あなたの手を切って、#無理やり血を吸わせた。#(スタミナ-2)
+Standing over the corpse, you clap two times and bow three times.#Older mourners seem content with the sacrifice and let you go.##You can't shake the feeling that the deceased smiled slightly.#(+10 EXP)|遺体の前に立って二度手を叩き、三度お辞儀をする。#年配の弔問客達がこれに満足したようで、#あなたは血を捧げずに済んだ。#微かに遺体が笑っていたような気がしてならない。#(EXP+10)
+STONE STATUES|石像の恐怖
+Experts are baffled by the sudden appearance of twenty stone statues lined up in a row in the middle of the ◯◯◯ park.#[You can cast one SPELL without paying anything]|専門家たちは困惑していた…#OOO公園の中心部に、#突然20体の石像が現れたのだ。##[コストなしで呪文を1つ唱えることが可能]
+SILENT STREET|無音の道
+Something is wrong. You don’t see anyone on the street, and you could've sworn it was crowded just a minute ago. You'd better hurry out of here.#(-1 REASON)|何かがおかしい…#さっきまで人通りの多かった道が静まり返っている。##急いで逃げた方が良さそうだ。#(理性-1)
+OLD NEWSPAPERS|古い新聞
+With the trail growing cold, it might be time for a different approach.##Could a similar case have occurred in the past? A trip to the library might be a good idea.|手がかりが乏しくなってきた。#そろそろ、別の方向から探るべきなのかもしれない。##過去に似たような事件がなかっただろうか？#図書館に行ってみるのもアリだろう。
+study issues of local newspapers|地元新聞の各号を調べる
+it's a waste of time|時間の無駄だ
+Near closing time, you stumble upon a curious article on the last page of a local newspaper.##You copy the author's name, along with the address, before getting ready to leave.#(-3% DOOM / +10 EXP)|閉館時間が迫る中、新聞の裏一面に載っていた#興味深い記事に目が留まる。##図書館を出る前に、あなたはその記事を書いた者の#名前と住所を書き留めた。#(破滅値-3% / EXP+10)
+It was a complete waste of time. You've spent the whole day reading about cute dogs, giant vegetables, and the occasional accident.#You find nothing related to the case at hand.#(+5% DOOM)|完全に時間の無駄だった…#カワイイ犬や巨大な野菜、時折起きる事故など、#記事を読んでいるうちに丸一日潰れてしまう。##事件の手がかりとなるものは、全く見つからなかった。#(破滅値+5%)
+The mere thought of studying all those old, dusty newspapers makes your head hurt.#There's no way you're going to waste an entire day in that moldering library!#(-1 STAMINA)|あの古びた埃だらけの新聞を調べるのか…#考えただけで、頭が痛くなってくる。##一日中、あんなカビ臭い場所で過ごすだなんて#考えられない！#(スタミナ-1)
+connect the dots|点と点を結ぶ
+[NEEDS 'PARANOIA' STATUS]|呪い「パラノイア」が必要
+You find obvious clues related to the cult’s activities in every article you read. Their arrogance is going to be their downfall.##You tear the incriminating paragraphs from their pages and arrange them in an elaborate sequence. The librarians soon discover your vandalism and throw you out in disgust.#(-2 REASON, -5% DOOM)|どの記事を読んでも、カルト教団の活動に関する#確固とした手がかりが見つかる。##その驕りが破滅を招くことになるだろう。##新聞から証拠となる箇所を破って、緻密に並べ直す。#だが、その乱暴行為は司書にすぐ見つかり、#非難の視線を受けながら追い出された。#(理性-2 / 破滅値-5%)
+UNFINISHED PAINTING|未完成の絵画
+While looking around the ransacked room of your recently deceased friend, you discover a half-finished painting of a woman, her skin a ghastly pale-yellow color.|亡き友の荒れた部屋を物色していると、# 未完成の女性の絵が目に入る。##その肌は不気味な淡黄色に塗られていた。
+the scene is disturbing#you struggle to look at it|どうも、不穏なものを感じる#まともに見ることができない
+Unintimidated by the painting, it gives you new insight into the madness that possessed your friend.#(+5 EXPERIENCE)|怯むことなく絵を見続けていると、#友達が取り憑かれていた狂気について、#新たな気づきを得た。#(EXP+5)
+Intimidated by the unsettling portrait, you’re haunted by nightmares#(-2 REASON)|その不気味な絵に怯えたあなたは、#悪夢にうなされてしまう。#(理性-2)
+While examining the ransacked room of your recently deceased friend, you discover a half-finished picture of a face hidden in the shadow...##(SOMETHING TRULY EVIL IS GETTING CLOSER)|亡き友の荒れた部屋を物色していると、#未完成の絵が目に入る。##その顔は影に隠れて、#半分だけしか見えなかった…#(真なる邪悪が近づいている)
+ODDLY SHAPED PACKAGE|異様な形の小包
+When you enter a metro car, you notice an oddly shaped package on the seat opposite you.##It's marked with your name.##You reach for the package but hesitate, an icy feeling settling into the pit of your stomach...|地下鉄に乗り込むと、向かい側の座席に#変わった形の小包が置かれているのに気付く。##何とそこには…自分の名前が記されていた。#小包を持とうとした瞬間、ぴたっと手が止まる。#そばの広告に、見覚えのある顔があったからだ…#(真なる邪悪がこちらに気づいた)
+examine the package|小包を調べる
+ignore it|放っておく
+As soon as you pick up the package, you realize what you are holding and drop it in horror.#(+8 EXPERIENCE)|その小包を手に取った途端、中身が何なのかを悟り、#恐れを感じて手から落としてしまう。#(EXP+8)
+It’s not until you’ve unwrapped it that you understand what it is. Shocked, you let it fall to the floor from your bloodied hands.#(-2 REASON)|開封して初めて、その中身が何なのかを理解した。##衝撃のあまり、“それ”を血で汚れた手から#床に落としてしまう。#(理性-2)
+You leave at the next station in a hurry, hoping to forget the package as soon as possible.#(-1 STAMINA)|一刻も早く、あの小包のことは忘れたい…#そう思いながら、あなたは急いで次の駅で降りた。#(スタミナ-1)
+When you enter a metro car, you notice an oddly shaped package on the seat opposite you. It’s marked with your name. When you reach for the package you stop suddenly, seeing a familiar face in a nearby advertisement.##(SOMETHING TRULY EVIL HAS YOUR SCENT NOW)|地下鉄に乗り込むと、向かい側の座席に#変わった形の小包が置かれているのに気付く。##なんとそこには、あなたの名前が記されていた…#その小包を持とうとしたその瞬間、ぴたっと手が止まる。#そばの広告に、見覚えのある顔があったからだ…#(真なる邪悪がこちらに気づいた)
+MOVING COMPANY|引っ越し業者
+It's been almost a year since a childhood friend moved away to another city. He left suddenly without even saying goodbye.##In a recent letter, he apologized for the disappearance and asked you to remove the furniture from his flat because he wanted to sell it. In the envelope, you find a key to his apartment.|幼なじみが別の町に越してから、もう1年になる。#何の別れの言葉もなく、突然姿を消した彼。##あなたの元に近頃、一通の手紙が届く。#そこに書かれていたのは、突然消えたことへの謝罪…#そして、アパートの家具を撤去して欲しいという#お願いだった。どうやら売り払うつもりらしい。##封筒を開けると、中からアパートの鍵が出てきた。
+help your friend|友人の頼みを聞く
+search his flat with a light source|[光源]を使ってアパートを調べる
+[NEEDS A LIGHT SOURCE]|[光源]が必要
+You find another letter behind a wardrobe. It explains that the reason your friend left was that the 'shadow people' were stalking him.##You shudder when you realize you haven’t seen the moving company's truck driver's face.#(+5 EXP)|タンスの裏から、別の手紙が出てくる。#そこには「シャドーピープル」に付きまとわれていたので、家を離れざるを得なかったと書かれていた。##その瞬間、ぞわりと鳥肌が立つ。#アパートに来た引っ越し業者…#そのトラック運転手の顔を…まだ見ていない。#(EXP+5)
+While moving the wardrobe through the doorway, you take a wrong step and sprain your ankle. It's nothing serious, but you’ll have a problem walking for a few days.#(-2 STAMINA)|タンスを玄関から運び出す際、#足を踏み外して足首を捻挫してしまう。##大した怪我ではないが、#数日はうまく歩けないだろう。#(スタミナ-2)
+You shine your light source in the dark closet, and something glitters at you.##You grab it as the moving company enters the house.#(+ ITEM)|暗いクローゼットの中を照らすと、#何かがキラッと光るのが見えた。##あなたがそれを取ると同時に、#引っ越し業者が家に入ってきた。#(+アイテム)
+PROFESSOR TAKEUCHI|武内教授
+No one answers when you knock at Professor Takeuchi's door. This is odd since he's usually punctual about his appointments.##The smell of blood tells you something's wrong, and you quickly open the door and enter. There's no sign of the professor, but the quantity of blood everywhere leaves little doubt about what happened. But how... And why?|武内教授がいる部屋のドアをノックする。#しかし、何の反応もない。#妙だ、約束の時間を破るような人ではないのに…##血の匂いで異変を察したあなた。#急いでドアを開けて、中に入る。#教授の姿は見当たらない…#だが、至る所に飛び散った大量の血が#ここで起きたことを物語っている。#どうやって…それに、なぜこんなことを…？
+search the room for clues|手がかりがないか、#部屋を調べる
+scavenge the room for useful items|部屋を隅々まで調べて、#使えるアイテムを探す
+[NEEDS 'OCCULT SIGNS' SKILL]|パーク「オカルトサイン」が#必要
+check the symbol drawn on a painting|絵画に描かれた印を調べる
+You notice a book lying on the floor. You pick it up to find that four pages have been torn out. You memorize the title of the book.##Why would someone take them, and what did they contain?#(+10 EXP)|あなたは、床に本が落ちているのに気付いた。#手に取ってみると、4ページほど破り取られている…##この本のタイトルは覚えておこう。##なぜ、その数ページだけ持ち去られたのか…#そして、そこに何が書かれていたのか…？#(EXP+10)
+You search the room but can't find anything. The sound of police sirens forces you to jump through a broken window, and you’re injured.#(+ INJURY)|部屋の中を探し回るが、何も見つからない。##パトカーのサイレンが聞こえてきたため、#割れた窓から無理やり飛び降りたが、#その際に怪我を負ってしまう。#(+怪我)
+You rummage through the drawers, trying to find anything useful. The sound of police sirens forces you to grab the nearest item and flee the crime scene.#(+ ITEM)|何か役立つものはないかと、#引き出しの中をくまなく調べる。##パトカーのサイレンの音が聞こえてきたため、#すぐ近くにあったものを掴み、#その場から逃げ出した。#(+アイテム)
+You search the room but can't find anything. The sound of police sirens forces you to jump through a broken window, and you’re injured.#(-2 STAMINA)|部屋の中を探し回るが、何も見つからない。##パトカーのサイレンが聞こえてきたため、#割れた窓から無理やり飛び降りたが、#その際に怪我を負ってしまう。#(スタミナ-2)
+You recognize the occult sign drawn on a painting. You remove it and find a hidden compartment. Luckily, whoever assaulted Professor TAKEUCHI missed it.#(+ ITEM)|絵に描かれたオカルトチックな印には、#どこかで見覚えがあった。##絵を取り外すと、隠れた収納スペースが見つかる。##不幸中の幸いと言うべきか、#教授を襲った犯人はこれを見落としていた。#(+アイテム)
+ILLUSION SHATTERED|砕けた幻想
+You stand in the middle of the field, frozen in terror.#A rip in our reality shows the horrible future of our planet.##Seeing the familiar figure looking back at you, you can't help but wonder if it's our world that's just an illusion.|あまりの恐怖に、畑の真ん中で立ちすくむあなた。##現実の裂け目から、#この星の恐るべき未来が映し出される。##見覚えのある者がこちらを見つめ返す。##その光景に、私たちの住む世界こそ、#ただの幻想なのではないかという疑念が湧いてくる。
+question your sanity|自分の正気を疑う
+enter the portal|異界の扉に入る
+You fall to your knees, dry heaving. Nothing will ever be the same.#(+ CURSE)|吐き気が込み上げてきて、#あなたは膝をついて倒れてしまう。##取り返しのつかないことになった…#(+呪い)
+You and the figure get closer to the portal, ready to swap places...|お互いのいる場所を入れ替えようと、#あなたたちは「異界の扉」に近づいた…
+[NEEDS 'ANCIENT SIGIL' ITEM]|アイテム#「旧き印」が必要
+seal the portal|異界の扉を塞ぐ
+You place the ancient sigil on the ground as the figure behind the rip writhes in agony. You’re safe.##For now.#(-10% DOOM)|旧き印を地面に置く。##すると、裂け目の向こうにいる者が#苦悶の声を上げて、身をよじらせた。#もう大丈夫だ…##これでしばらくは。#(破滅値-10%)
+FOREST RITUAL|森の儀式
+The suspicious group you’ve been following is gathered in a nearby forest.#They’re enacting some sort of a ritual in a clearing up ahead. The only nearby vantage point is a large rock.|あなたが目を付けていた不審な集団は、#近くの森に集まっていた。##この先の空き地で何らかの儀式を行っているようだ。##この辺りをよく見渡せる場所といえば、#あの大きな岩の上しかない。
+attempt to climb it|岩を登ってみる
+sabotage the ritual|儀式を妨害する
+[NEEDS 'RITUAL ROBE' ITEM]|アイテム「儀式用ローブ」が必要
+You manage to see some of the faces and hear the names of the group.#(+5 EXP)|何人かの顔を見るだけではなく、#集団の名を聞き取ることもできた。#(EXP+5)
+You fall down and injure yourself. #Luckily, you manage to limp away unnoticed.#(-2 STAMINA)|あなたは転んで、怪我をしてしまう。##足を引きずりながらも、#幸い、誰にも気付かれずに逃げることができた。#(スタミナ-2)
+You pull the hood tighter around your face and blend effortlessly into the robed crowd.##A toppling brazier interrupts the ritual, and, amidst all the chaos, you make your escape.#(-3% DOOM)|ローブを着た群衆の中に、#フードを目深に被ったあなたがすんなりと紛れ込む。##火鉢が倒れ、中断となる儀式。#混乱に乗じて、あなたはその場から逃げ去った。#(破滅値-3%)
+STRANGE MARKINGS|奇妙な印
+A sudden storm forces you to find shelter in a nearby cave. ##Looking around, you discover strange markings on the cave's walls...|突然の嵐に見舞われ、#近くの洞窟に駆け込むあなた。##辺りを見回すと、その壁に奇妙な印が#描かれているのに気付く…
+try to decipher them|解読を試みる
+use your flashlight|懐中電灯を使う
+[NEEDS 'FLASHLIGHT' ITEM]|アイテム「懐中電灯」が必要
+You recognize the strange symbols and connect them to the horrors plaguing your town.#(+5 EXPERIENCE)|その奇妙な印には見覚えがあった。##これらは、町を苦しめる怪異と関連しているのだ。#(EXP+5)
+You wonder what it could all mean.|一体、どういう意味なんだろう？
+The flashlight's beam reveals additional symbols hidden in the shadows. They help you interpret the spell instructions drawn on the cave's wall.#(+SPELL)|懐中電灯の光を当てると、#暗がりの中に隠れていた印がさらに浮かび上がる。##おかげで、何とか壁に描かれた呪文を#読み解くことができた。#(+呪文)
+CURIOUS BOOKSTORE|珍竹林
+You've stumbled upon a forgotten bookstore in a small alley. The interior is cluttered with dusty old tomes, animal bones, weird vials, and stuffed exotic animals you don't even recognize.##<<Can I help you?>> asks the tiny man behind the counter.#'I have things that will surely help you in your quest.'|狭い路地で偶然、寂れた書店を見かける。##埃を被った古書や動物の骨、奇妙な小瓶、#見知らぬ外来生物の剥製で取っ散らかった店内。#カウンターの中にいた小柄な男が#<<何かお探しかい？>>と聞いてきた。##<<調査に使えそうなもんなら、#きっとここにあるはずさ。>>
+buy a spell (2 FUNDS)|購入: 呪文 (所持金-2)
+buy a magic item (3 FUNDS)|購入: 魔法アイテム (所持金-3)
+<<Sorry, just looking.>>|<<すいません、ちょっと見るだけ。>>
+flash your yakuza card|ヤクザカードをちらつかせる
+[NEEDS 'YAKUZA CARD' ITEM]|アイテム｢ヤクザカード｣が必要
+The tiny man hands you a package.##<<I'm sure you'll make good use out of this.>>|男から包みを受け取る。##<<こいつなら、きっと役に立つだろうよ。>>
+The tiny man frowns a little.##<<You don't have enough money for that, my dear.>>|男が少し顔をしかめる。##<<お前さん、金ねぇんだろ？>>
+<<Take your time and see you soon!>>|<<ま、どうぞごゆっくり。また来いよ！>>
+The tiny man stops smiling.#<<You guys again? You’re going to ruin my business.>>##Reluctantly, he opens the cash register and hands you the money.#(+4 FUNDS / -2 REASON)|小柄な男の笑みが消える。##<<まーたお前らか。商売上がったりだぜ。>>##渋々、男はレジを開き、あなたに金を渡した。#(所持金+4 / 理性-2)
+PARANOID PATIENT|妄想に取り憑かれた患者
+When the patient came home one morning covered in scars and babbling about aliens, the police had them committed.##They’re mumbling something quietly as you pass by.|ある朝、宇宙人についてぶつぶつ言いながら、#傷だらけで帰ってきた者がいた。#その者は、警察によって病院に収容されてしまう。##あなたがそばを通りかかった時、ある声が聞こえた。#その患者が小声で何かを呟いている。
+talk to them|話しかける
+let them know they aren’t alone|一人ぼっちじゃないと伝える
+[NEEDS 'PARANOIA' STATUS]|呪い「パラノイア」が必要
+You immediately understand that the only difference between you and the 'crazy' person is that you haven't been caught yet. You convince them to sneak out and join you in your quest.#(+ ALLY)|すぐにその話を理解する。自分と狂人との違いは、#まだ警察に捕まっていないということだけなのだ。##あなたは調査に加わるようその者を説得し、#密かに病院を抜け出した。#(+仲間)
+You try reasoning with them to tell you what really happened, but it doesn’t work. It takes two nurses to calm them down after they've roughed you up.#(-2 STAMINA)|その身に何が起きたのか#聞き出そうとするも、#なかなかうまくいかない。##乱暴を振るってきた患者に対し、#看護婦が二人がかりで落ち着かせた。#(スタミナ-2)
+The patient instantly recognizes a kindred soul in you. You help them sneak out of the hospital and they join you in your quest.#(+ ALLY / +2% DOOM)|患者はあなたを見て、#瞬時に同じ魂の持ち主だと感じ取った。##病院から密かに患者を連れ出すあなた。#結果、その者は調査に同行することとなった。#(+仲間 / 破滅値+2%)
+SCHOOL BATHROOM|学校のトイレ
+You enter the school bathroom to wash your face with cold water.##A sudden noise behind you stops you in your tracks. One of the stall doors has opened on its own...|冷たい水で顔を洗おうと、トイレに入るあなた。##背後で聞こえた突然の物音に足を止める。##ある個室のドアが、ひとりでに開いたのだ…
+close the door|ドアを閉める
+escape the bathroom|トイレから逃げる
+light the HOLY CANDLE|「聖なる蝋燭」に#火を灯す
+[needs 'HOLY CANDLE' item]|アイテム#「聖なる蝋燭」が必要
+You walk to the door and try to close it, but something is blocking it.#When you look up, you see a ghostly pale hand holding the door...|個室の前に行きドアを閉めようとしたが、#“何か”にそれを阻まれた。#目を上げると、幽霊のような青白い手が#ドアを押さえており…
+You might be paranoid, but there’s no way you’re risking an encounter with a ghost here.#(-2 REASON)|考えすぎかもしれないが、#ここで幽霊と遭遇するのは絶対に避けたい。#(理性-2)
+You light the HOLY CANDLE, purifying the place.##(-3% DOOM)|「聖なる蝋燭」に火を灯して、その場を清める。#(破滅値-3%)
+CADAVER THEATER|死の舞台
+Corpses are strung up on wire, like macabre marionettes with painted smiles and rosy cheeks.#(-2 REASON)|ワイヤーで死体が吊るされている。##塗り固められた笑顔と紅い頬を持つ死体は、#どこか操り人形のようで猟奇的なものを感じる。#(理性-2)
+COLD TRAIL|消えた足跡
+Following a suspicious person, you enter a old rundown mansion room. It stinks like spoiled milk and has only two doors, one of which you came through.##You can’t see the strange man anywhere.|不審な男を追って、#古く荒れ果てた屋敷の一室に入る。#腐った牛乳のような臭いが漂っている。##2つあるドアのうち、#1つはあなたが通ってきたものだ。##あの怪しい男の姿はどこにも見当たらない。
+leave through the other door|もう一方のドアから出る
+search the room|この部屋を調べる
+Finding yourself back in the corridor, you see the man vanishing behind a corner.#Since you’re catching up, he doesn’t have the time to lock the door.##You lose the man, but find occult books in the filthy room that are just as valuable.#(+10 EXP)|廊下に戻ると、あの男が角を曲がって#消えていくのが見えた。#こちらに追いつかれそうになり、#向こうは鍵をかける余裕もなさそうだ。##男は見失ったものの、あなたは汚れた部屋で#魔術本を手に入れる。これもまた使えそうな本だ。#(EXP+10)
+Finding yourself back in the corridor, you see the man vanishing behind a corner.##Unfortunately, you’re too slow to catch up.#(+2% DOOM)|廊下に戻ると、あの男が角を曲がって#消えていくのが見えた。##しかし、足が遅すぎて追いつくことができない。#(破滅値+2%)
+There's nothing really important here, but you think you might be able to use the one item you do find.#(+ITEM)|特に重要そうなものはなかったが、#1つ使えそうなアイテムが見つかった。#(+アイテム)
+AIR FORCE|空軍
+The military exercise makes you feel safer - but are guns enough to stop the unspeakable horrors lurking out there?#(+4% DOOM / +2 REASON)|軍事演習を見て、胸を撫で下ろす…##しかし、外に潜むあの名状しがたい恐怖に#銃だけで立ち向かえるのだろうか？#(破滅値+4% / 理性+2)
+CARVINGS|刻まれた印
+While wandering through the woods you discover strange carvings on one of the trees and, by the look of them, they were made recently. Could they be connected with the current mystery?|森の中を彷徨っていると、奇妙な印が彫られた#一本の木を発見する。#見た目からして、最近彫られたもののようだ。##今、追っている謎と何か関係があるのだろうか？
+try to decipher the signs|何とか読み解こうとする
+take a picture to analyze later|写真を撮って後で解析する
+[NEEDS 'CAMERA' ITEM]|アイテム「カメラ」が必要
+You’re certain the missing people were here. You are on the right trail!#(+5 EXP)|ここに行方不明者がいたのは間違いない。#この道で大丈夫だ！#(EXP+5)
+You can't tell what the strange symbols mean. Wandering aimlessly in this forest, it will take some time before you pick up the trail again.#(+2% DOOM)|この奇妙な印が何を意味しているのか、#あなたには理解できなかった…#あてもなく森を彷徨えば、道を見つけるまで#かなりの時間を要するだろう。#(破滅値+2%)
+You take a picture of the carvings to compare them to various sources at home.#(+10 EXP)|あなたは家にある色んな資料と比較するため、#その木の写真を撮った。#(EXP+10)
+SMOKE BREAK|タバコ休憩
+You needed that. #(+1 REASON)|この一服がたまらない。#(理性+1)
+You start coughing uncontrollably. Maybe it's time to stop smoking?#(+ INJURY)|咳が止まらなくなる。そろそろ、やめ時だろうか？#(+怪我)
+PSYCH WARD|精神病棟
+Someone has been branding the patients with occult symbols...|何者かが、患者たちに奇妙な印を焼き付けている…
+assume the worst|最悪の事態を想定する
+recognize the arcane symbols|難解な焼印を読み取る
+[NEEDS 'ARCANE GRASP' SKILL]|パーク「秘義の智恵」が必要
+Branded... like cattle!|焼印だなんて…まるで家畜だ…！
+Are they preparing a feast for their eldritch masters?#(+4% DOOM)|怪魔の主のために、#生け贄でも用意しているのだろうか…#(破滅値+4%)
+You recognize a protective symbol. Someone is keeping an eye on the patients.#(-2% DOOM)|お守りのような意味であることが分かる。#何者かが患者たちを監視しているのだ。#(破滅値-2%)
+OLD FRIEND|旧友
+You’re pleasantly surprised to meet your old friend while waiting for a train.#She’s undoubtedly changed a lot since you've last seen her. These days, she’s moderating a web forum dedicated to the paranormal.##Maybe she knows something useful?|電車を待つ間、あなたは懐かしの友人と出会い、#嬉しい驚きを覚えた。最後に会った時から、#明らかに大きく変わっている。最近は、超常現象に#特化したウェブ掲示板の管理人をしているそうだ。##何か良い情報を掴んでいるかもしれない。
+chat|雑談する
+invite for a coffee|コーヒーでも飲もうと誘う
+ask what she's listening to|何を聴いているのか尋ねる
+[NEEDS 'CASSETTE PLAYER' ITEM]|アイテム#｢カセットプレーヤー｣が必要
+In between conspiracy theories and bigfoot sightings, you hear a worrying rumor about an old god slowly awakening to rule the Earth once again.#Could this be the reason for recent horrific events?#(+5 EXP / -1 REASON)|陰謀論、ビッグフットの目撃情報…#その中で、あなたは気になる噂を耳にする。#話によれば、古の神が再び地球を支配するべく、#徐々に目覚めつつあるらしい。##最近起きている恐ろしい出来事は、#これが関係しているのだろうか…？#(EXP+5 / 理性-1)
+It's certainly nice to meet an old friend after so many years, but you don't learn anything important.#(+1 REASON)|久しぶりに古い友達と会えて嬉しかったが、#大事なことは何も学べなかった。#(理性+1)
+In between conspiracy theories and bigfoot sightings, you hear a worrying rumor about an old god slowly awakening to rule the Earth once again.|陰謀論、ビッグフットの目撃情報…#その中で、あなたは気になる噂を耳にする。#話によれば、古の神が再び地球を支配するべく、#徐々に目覚めつつあるらしい。
+#Could this be the reason for recent horrific events?#(-1 FUNDS / +7 EXP)|#最近起きている恐ろしい出来事は、#これが関係しているのだろうか…？#(所持金-1 / EXP+7)
+Embarrassed, you discover you can't afford a coffee.#(-2 REASON)|恥ずかしいことに、#コーヒーを買うお金がないことに気付く。#(理性-2)
+<<A local music shop has a nice deal to buy one and take one from the bargain bin.#Here, have a listen yourself.>>#(+ ITEM)|<<近所のレコード屋が、お得なキャンペーンを#やっててね。1つ買えば、もう1つもらえるの。#ほら、あんたも聴いてみてよ。>>#(+アイテム)
+CURSED GRIMOIRE|呪われし魔術書
+You find a heavy tome wrapped in moth-eaten black velvet in an old locked cabinet.#When you remove the book’s wrappings, you recoil in disgust. It’s bound in human flesh.|鍵のかかった古い戸棚の中から、#ずっしりとした分厚い書物を発見する。##虫に食われた黒いベルベットの覆いを取った瞬間、#あまりの気味悪さに後ずさる。##その本は“人肉”で装丁されていたのだ。
+read it|読む
+burn it|焼き払う
+take it|手に取る
+You uncover some of the secrets of the sleeping god.#(+10 EXP)|眠れる神…その秘密の一端を解き明かした。#(EXP+10)
+Your head swims with countless blasphemous voices.#(+2% DOOM)#(+ CURSE)|頭の中に、無数の冒涜的な声が鳴り響く。#(破滅値+2%)#(+呪い)
+You may never know what’s inside the hideous book...##but that's a good thing.#(-3% DOOM)|見るも恐ろしい本だった。#あの中身については、#もう二度と知ることはないだろう…##むしろ、その方が良い。#(破滅値-3%)
+Grabbing a book, you cut yourself on a rusty nail driven through the cover.#(+ INJURY / + ITEM)|本を持った瞬間、表紙に打ち込まれた錆びた釘で#手を切ってしまう。#(+怪我 / +アイテム)
+FLOODS|洪水
+Unseasonal floods have closed many of the roads...|季節外れの洪水により、#多くの道路が閉鎖されてしまっている…
+look for an alternative way|別の道を探す
+consult the map|地図を確認する
+[NEEDS 'MAP' ITEM]|アイテム「地図」が必要
+You've wasted a lot of time looking for a safe path.#(+3% DOOM)|安全な道を探すのに、#かなり時間を費やしてしまった。#(破滅値+3%)
+After studying the map, you finally locate a safe path used by the locals.#(+5 EXP)|あなたは地図を見ながら、#地元の人間が使う安全な道を探した。#(EXP+5)
+HILLSIDE THICKET|山腹の雑木林
+The trees overhead block the sunlight and you begin to feel gloomy.#(-2 REASON)|頭上の木々が日の光を遮り、#陰鬱とした気分になってくる。#(理性-2)
+BLACK SLUDGE|黒い汚泥
+The corridor is flooded by a black sludge that’s slowly oozing from underneath the door of the chemistry classroom. A damp, moldy stench grows as you get closer.##How are you going to get to the other side?|化学室の扉の下からじんわりと滲み出る#黒い汚泥が、廊下を覆い尽くす。#近づくにつれて、#湿ったカビの臭いが酷くなる。##どうすれば、向こう側に行けるのだろう？
+take a detour|遠回りをする
+risk going through|危険を覚悟して進む
+take a sample of the sludge|汚泥を試料として採取する
+Better safe than sorry! You take the stairs up to another floor to avoid the sludge.#(+2% DOOM)|念には念を入れた方がいい！##あなたはその泥を避けて、#階段で別の階に上がった。#(破滅値+2%)
+You see a sudden movement near your ankle, just in time to jump away from something trying to bite your leg. #You make it safely to the other side!#(+5 EXP)|足首の辺りで突然、何かが動くのを目にした。#足に噛みつかれる寸前に飛び退き、#間一髪のところで避ける。##何とか無事に向こう側まで渡れた！#(EXP+5)
+You’re too late to keep -something- from biting your ankle. It's not bleeding badly, but you worry about an infection if the black sludge gets into the wound.#(+ INJURY)|避けるのが遅かった…#あなたは足首を“何か”に噛みつかれてしまった。##それほど出血は酷くないものの、傷口に泥が入れば#何かに感染してしまうのではないかと不安になる。#(+怪我)
+You bottle up a sample of the sludge, trying your best not to pass out from the stench.#(+ ITEM)|悪臭で倒れないように気を付けながら、#汚泥を試料として瓶に詰めていく。#(+アイテム)
+[NEEDS 'EMPTY BOTTLE' ITEM]|アイテム「空の瓶」が必要
+TROPHY CASE|トロフィーケース
+You find an old trophy case set in a seemingly abandoned corridor. Everything inside is covered in a thick layer of dust. One medal seems particularly valuable.|誰も通っていないような廊下に、#ぽつんと置かれた古いトロフィーケース。#厚く積もった埃で、中身は全て覆われている。##そのうち、あるメダルだけが一際、価値があるように見えた。
+check plaques and trophies|プレートとトロフィーを#調べる
+break the window to grab it|ガラスを割って奪い取る
+Huh, it seems the person involved with the current case was a prize-winning swimmer.#(+5 EXP)|なるほど、今回の件には受賞歴のある水泳選手が#関わっているようだ。#(EXP+5)
+You find a small trophy with a curious plaque.##'Grand Champion of the Cannibal Eating Contest, 1956.'#(-2 REASON)|あなたは奇妙なプレートがついた#小さなトロフィーを見つけた。##[1956年 人喰いコンテスト総合優勝]#(理性-2)
+You break the glass window, cutting yourself a little bit in the process.#This medal isn’t made of gold, but you’ll be able to sell it easily.#(+1 FUNDS / -1 STAMINA)|ガラス窓を割った時に、少し手を切ってしまう。##金でできているわけではないが、#このメダルはすぐに売れそうだ。#(所持金+1 / スタミナ-1)
+[NEEDS 'TINY KEY' ITEM]|アイテム「小さな鍵」が必要
+open the cabinet|棚を開ける
+Using a key you find, you open the trophy case and take an odd golden goblet without a plaque.#(+ ITEM)|見つけた鍵を使って、トロフィーケースを開ける。##あなたは台座のない#奇妙な金色の杯を手に入れた。#(+アイテム)
+NON-EUCLIDEAN 101|非ユークリッド幾何学入門
+Impossible angles and seemingly moving lines make your head spin.|不可解な角度に揺らめく曲線…##これを見ていると、頭がくらくらしてくる。
+stare in disbelief|信じがたい気持ちでじっと見る
+consult with ARCHITECTURE STUDENT|建築学専攻の生徒に相談する
+NEEDS 'IKUMI' ALLY|解放条件: 「幾美」が仲間にいること
+How is this possible?#(-1 REASON)|一体、どうやってこれを書いたんだろうか？#(理性-1)
+Ikumi starts talking about geometry theory. While it’s boring, it helps you forget about the weird angles.#(+2 REASON)|幾美が幾何学理論について語り始める。#退屈ではあったが、おかげで#あの不可解な角度のことを忘れることができた。#(理性+2)
+COMPUTER ROOM|コンピューター室
+You stumble upon the computer room. This is a good opportunity to check the school’s database to look for anything that might help your investigation.|偶然、コンピューター室を見つけたあなた。##この機会に学校のデータベースを調べて、#調査に役立ちそうな情報を探してみよう。
+check it out|調べる
+leave it for later|後回しにする
+You find a curious text file containing occult instructions. You delete it, preventing anyone from trying it.#(-2% DOOM)|あなたは奇妙なテキストファイルを見つけた。#これは、魔術の手引きだろうか？##あなたはファイルを削除した…#誰も試すことができないように。#(破滅値-2%)
+You find a curious folder containing photos.##With rising horror you discover that you’re in every one of them. The last photo shows a smiling man standing over your bed.#(-2 REASON)|あなたは写真の入った奇妙なフォルダを見つけた。##それらを目にした途端、震えが止まらなくなる…#全ての写真に自分が写っていたのだ。#最後の一枚を見ると、そこにはあなたのベッドの上で#にっこりと笑う男が写し出されていた…#(理性-2)
+You can't waste time in front of the computer.#(-2 STAMINA)|こんなところで時間をムダにしている場合ではない。#(スタミナ-2)
+410 BILLION|了解、刺殺します
+Alarmed by the sound of glass breaking, you discover the corpse of a policeman lying in a pool of blood. It looks like someone (or something) tore out his throat.|ガラスの割れる音にびっくりして様子を見に行くと、#警官の死体が血の海に横たわっていた。#誰かが…あるいは“何か”が#彼の喉を切り裂いたようだ。
+steal his gun|拳銃を盗む
+check his wounds for clues|傷を調べて手がかりを探す
+escape before more people arrive|人が来る前に逃げる
+He won't be needing it for sure, but you still feel bad about stealing from a corpse.#(+ ITEM / -3 REASON)|彼にとってはもう必要のないものだが、#やはり死体から盗むのは悪い気がする。#(+アイテム / 理性-3)
+They didn't tear out his throat, but instead carved an occult symbol with something sharp.#You try to remember the shape, and escape before anyone arrives.#(+15 EXP)|犯人は喉を切り裂いたのではない…#何か鋭利なもので、奇妙な印を彫り込んだのだ。##誰かが来る前にあなたはその模様を頭に叩き込み、#その場から逃げ去った。#(EXP+15)
+You escape before anyone arrives.#(+2 REASON)|誰かが来る前に、あなたはその場から逃げ去った。#(理性+2)
+STRUGGLING ARTIST|悩める漫画家
+Mr. OOO, your neighbor is a horror manga artist. He’s struggling to come up with a satisfying ending for his newest story.|隣の部屋の住人であるホラー漫画家のOOさん。##彼は新作の結末をどう上手く着地させるか、#満足のいくアイデアが思い浮かばず、苦労していた。
+share your experience|これまでの経験を話す
+let him come up with his own stuff|彼自身に考えさせる
+<<Incredible!>> he shouts in excitement.#<<How do you come up with this stuff?>> Sensing this story will be a huge hit, he pays you a token of appreciation.#(-15 EXP / +2 FUNDS)|<<すばらしいっ！！>>と興奮して叫ぶ彼。##<<よくそんなの思いつくねえ？>>##この新作が大ヒットすると予感した彼は、#感謝のしるしとしてあなたに謝礼を渡した。#(EXP-15 / 所持金+2)
+(not enough EXP)#Sadly, you don't have any recent stories that would help him.#At least the public won't experience the same horrors you did.#(-1 REASON)|(EXPが足りない)#残念ながら、あなたは彼の役に立ちそうなネタを#持っていなかった。##少なくとも、あなたが経験したような恐怖を#一般人が味わうことなどない…#(理性-1)
+<<It was all a dream? You're a genius!>> he shouts, grabbing a pencil.#<<Excuse me now, I've got a bestseller to write.>>##You roll your eyes and prepare to leave.|<<それが全部、夢だって？あんたは天才だっ！>>#そう叫んで、彼は鉛筆を手に取った。#<<失礼、大ヒット漫画を描かねばならんのでね。>>##あなたは呆れて、その場を立ち去ることにした。
+<<w-what's that picture?..>>|<<あ、あの絵は何だ…？>>
+You catch a glimpse of the painted... thing.##Suddenly, you feel very weak and excuse yourself to leave.##(SOMETHING TRULY EVIL HAS YOU IN ITS GRASP)|視界に一瞬、“何かの絵”が映り込む。##すると突然、がくっと力が抜けるような感覚に#襲われる。そのため、あなたは失礼して#その場を立ち去った。#(真ナル邪悪ガ アナタノ姿ヲ捉エタ…)
+HILLTOP SHRINE|山頂の神社
+This trail to an abandoned Shinto shrine is overgrown and steep. However, it could be an important place to investigate.|草木に覆われた急な坂道が、#放棄された神社へと続いている。##しかし調査上、あの場所が重要な手掛かりと#なるかもしれない。
+take the quick route|近道を通って行く
+take the safe route|安全な道で行く
+Because you’re in a hurry, you hike to the hilltop. Burnt out candle wax and dried blood around the shrine mean a new, sinister cult has claimed the location.#(+5 EXP)|時間がないため、急いで頂上まで駆け登る。##神社の周りに目を向けると、#燃え尽きた蝋燭と乾いた血痕が残っていた。#ここから、新たに現れた邪悪なカルト教団が、#この神社を占拠したことが伺える。#(EXP+5)
+You hurt your knee badly when you step on a loose stone and fall down.##You limp back to the village to get the injury checked.#(-2 STAMINA)|ぐらついた石に足を取られて転倒し、#膝を強く痛めてしまう。##その後、あなたは足を引きずって村に戻り、#怪我の具合を診てもらったのであった。#(スタミナ-2)
+Taking the safe route costs you time, but you get to the top without incident.##Burnt out candle wax and dried blood around the shrine mean a new, sinister cult has claimed this location.#(+5 EXP / +2% DOOM)|安全を取ったために時間はかかったが、#何事もなく山頂まで辿り着いた。##神社の周りに目を向けると、#燃え尽きた蝋燭と乾いた血痕が残っていた。#ここから、新たに現れた邪悪なカルト教団が、#この神社を占拠したことが伺える。#(EXP+5 / 破滅値+2%)
+VISITOR|訪問者
+Loud knocking wakes you up in the middle of the night. <<OPEN UP!>> shouts the deep voice from behind the door.#<<I KNOW YOU’RE THERE.>>|夜中に大きなノック音が響き、目が覚めてしまう。#<<開ケロ！>>#ドアの向こうから、低い怒鳴り声が響く。##<<ソコニ イルンダロウ？>>
+get closer to the door and#ask what's the matter|ドアに近づいて#用件を聞く
+call the police|警察を呼ぶ
+Before you can answer, the door's letterbox suddenly opens and an unknown invader tries to look inside.#Luckily, you manage to stand still.##After a couple of minutes, the man retreats, probably unsure if you’re home after all.#(+5 EXP)|答える間もなく、郵便受けが突然ガタッと開き、#見知らぬ男が中を覗こうとしてきた。#しかし運良く、そこでじっと動かずに#耐え抜くことができた。##数分の後、あなたが家にいないと思ったのか、#男はそこから去っていった。#(EXP+5)
+Before you can answer, the door's letterbox suddenly opens and an unknown invader tries to look inside.##You lurch back in shock. The man sees you and tries to get in, screaming curses the whole time.#A neighbor calls the police and the attacker escapes from your apartment building.#(-2 REASON)|答える間もなく、郵便受けが突然ガタッと開き、#見知らぬ男が中を覗こうとしてきた。##驚きで後ろに飛び退く。それに気付いた男が、#呪詛を吐きながら部屋に入ろうとしてくる。#そこに隣人が警察を呼び出したため、#犯人はアパートから逃げ去った。#(理性-2)
+The man escapes when he hears the police siren. But before he goes, he draws an unfamiliar symbol in blood on your front door.#(+3% DOOM)|サイレンの音を聞いて逃げ出す男。##だが去る前に、見知らぬ血の印を#玄関のドアへと描き残していった。#(破滅値+3%)
+ICE UP|凍結
+Suddenly, the air around you begins to whirl. A supernatural wave of freezing wind is approaching!|突如として、周りの空気が渦巻くように動き出す。##まるで超常現象のような冷気の波が、#こちらに迫ってくる！
+brace yourself|身構える
+The sudden blizzard disappears as fast as it began. You leave the beach quickly.#(+5 EXPERIENCE)|突然の吹雪はあっという間に消え去り、#あなたは急いで浜辺から離れた。#(EXP+5)
+The blizzard chills you to the bone and disappears as quickly as it began.#(-2 STAMINA)|吹雪によって骨まで凍り付くような寒さに襲われる。#だがそれも、突如として消え去るのであった。#(スタミナ-2)
+[NEEDS 'ARCANE GRASP' PERK]|パーク「秘義の智恵」が必要
+counter-attack|対抗する
+You focus on the surroundings and mutter the magic formula.##The sudden blizzard disappears, but maybe you shouldn't have drawn attention to yourself.#(+20 EXPERIENCE, +2% DOOM)|周囲に意識を集中させ、魔法の言葉を呟く。##急に発生した吹雪は消え去ったが、#目立ちすぎたかもしれない。#(EXP+20 / 破滅値+2%)
+HIDDEN CULTS|暗躍するカルト信者
+Dark forces scheme against you. You don't know who you can trust anymore.#(+ CURSE)|あなたに対し、陰謀を企てている闇の勢力。#誰を信用すればいいのか、もう分からない…#(+呪い)
+TOWER WINDOW|塔の窓
+The round window of the crooked manor tower is calling you. You feel your strength drain away as you stare at the bright light.|歪んだ塔の丸窓に引き寄せられるあなた。##その明るい光を見ていると、#徐々に力が抜けていく感じがする。
+fight this feeling|その感覚に抗う
+get lost in the light|光の中を彷徨う
+Just one glimpse of the eldritch landscape is enough.#You manage to cover your eyes and move to where you can't see the damned window. You feel sick, but at least you’re safe. For now.#(+10 EXP / -1 REASON)|あんな禍々しい光景など、もう見たくない。##あなたは目を覆って、#あの忌まわしき窓が見えない場所に移動した。#気分は良くないが、ひとまずここなら安全だろう。#(EXP+10 / 理性-1)
+You don't have the strength to move a finger.#The blinding light is growing larger and larger...##To your shock, you can’t feel the ground under your feet...#(-1 REASON)|指一本動かす力さえない。#目も眩むような光がどんどんと大きくなっていく…##地面を踏んでいる感覚がなく、#あなたは愕然としてしまう。#(理性-1)
+The blinding light is growing larger and larger...#To your shock, you can’t feel the ground under your feet...#You prepare yourself for whatever is coming.#(+1 REASON)|目も眩むような光がどんどんと大きくなっていく…##地面を踏んでいる感覚がなく、#あなたは愕然としてしまう。##何が起きてもいいように、心の準備をしておく。#(理性+1)
+[NEEDS 'QUICK THINKING' PERK]|パーク「機転の良さ」が必要
+force yourself into hiding|無理やり身を隠す
+You spot an old fallen tree and jump behind it, still feeling the unnatural light on your skin. #Soon, things calm down. You’re safe!#(+2 REASON, +5 EXP)|古い木が倒れているのを見つけ、#その後ろに飛び込むあなた。#異様な光が放たれているのを、#まだ肌で感じる。##やがて、辺りは静寂を取り戻す。#無事にやり過ごせた！#(理性+2 / EXP+5)
+BATH|入浴
+The investigation can wait. A hot bath is too inviting.|調査は後回しにしよう。#熱々の風呂の誘惑には勝てない。
+take a bath|お風呂に入る
+no time for it|そんな暇はない
+[NEEDS 'HOT BATH' PERK]|パーク「熱々のお風呂」が#必要
+prepare for bath|お風呂の準備をする
+You bathe happily and continue with newfound strength.#(+1 REASON)|嬉々として湯船に浸かると、#新たな力が湧いてくる。#(理性+1)
+As inviting as it may be, you have more important things to do.#(-3% DOOM)|そんなことより、もっと大事なことがあるはずだ。#(破滅値-3%)
+You take an extra hot bath. Afterwards, you feel ready for anything.#(+2 REASON, +2 STAMINA)|熱めの風呂に入る。#すると、何でもできる気分になってきた。#(理性+2 / スタミナ+2)
+INVISIBLE WATCHER|見えざる観測者
+Something gigantic and invisible leaves a deep void in the sea. It's not moving but you swear it's watching you.#(-2 REASON)|見えざる巨大な“何か”が、海に深い空洞を作り出す。#それはただ動かず、だが確実にあなたを見ている。#(理性-2)
+LIGHTHOUSE RUMOR|灯台の噂
+There’s a rumor about strange lights appearing in the sky around the lighthouse.##However, after spending the night, you don't see anything unusual.#(-1 STAMINA)|灯台周辺の空に奇妙な光が浮かぶという噂がある。##だが、一晩過ごしても、#特に変わったものは見られなかった。#(スタミナ-1)
+MAIL DAY|郵便
+When you stop by home to pick up your lunch, you find a pile of letters in your mailbox.|昼食を取りに家に寄ると、#郵便受けに大量の手紙が入っていた。
+read the letters|手紙を読む
+check them later|後で読む
+Sweet! It seems that you've won a small amount of money in the lottery. Lucky you!#(+2 FUNDS)|やった！宝くじでちょっとした賞金が当たった。#ラッキー！#(所持金+2)
+Staying up late investigating the current case has really increased your electricity bill.#(-2 FUNDS)|夜遅くまで調査をしていると、#どうしても電気代がかさむ。#(所持金-2)
+You place the letters on the kitchen table, feeling an anxiety attack coming on.#(-1 STAMINA)|不安な気持ちがこみ上げてくるのを感じながら、#キッチンテーブルの上に手紙を置いた。#(スタミナ-1)
+W-what's that?...##(YOU'VE ATTRACTED THE ATTENTION OF SOMETHING TRULY EVIL)|な、なんだあれは…？#(真なる邪悪の注意を引いた)
+FACE IN THE WINDOW|窓から覗く顔
+You can't shake the feeling that those small dock buildings hide some terrible secrets.#(+2% DOOM)|波止場にある小さな建物。#そこには、何か恐るべき秘密がある…#そんな気がしてならない。#(破滅値+2%)
+EYES IN THE DARK|暗闇に光る目
+You feel watched.|誰かに見られている気がする。
+retreat|その場から離れる
+light the HOLY CANDLE|「聖なる蝋燭」に火を灯す
+[needs 'HOLY CANDLE' item]|アイテム#「聖なる蝋燭」が必要
+You retreat from the room.#(-2 REASON)|あなたは部屋から出た。#(理性-2)
+You light up the HOLY CANDLES, purifying the room.#(-3% DOOM)|「聖なる蝋燭」を灯し、部屋を清めた。#(破滅値-3%)
+ELEVATOR RIDE|エレベーター
+While taking an elevator, you get a terrible feeling as if something bad is about to happen.##The elevator doors open...|エレベーターに乗っていると、#何か恐ろしいことが起こるような予感がした。##そうして、ドアが開くと…
+Elevator doors open revealing a hospital corridor.|視界に病院の廊下が映った。
+Elevator doors open revealing a black mass of eyes and teeth pouring into the elevator, biting and suffocating you...##Later, you wake up in a doctor's office. A nurse discovered you lying unconscious on the elevator floor.#(-3 REASON)|ドアが開いた瞬間、黒い目と牙を持つ塊が#大量になだれ込んでくる。#その牙に噛みつかれ、あなたは窒息してしまう。##しばらくして、あなたは診察室で目を覚ました。#あの中で気を失っていたのを#看護婦さんが見つけてくれたのだ。#(理性-3)
+SCHOOL KITCHEN|調理実習室
+You enter the kitchen. Even though it's abandoned and the lights are off, something is cooking in a large pot. You don't like the smell of it.|調理実習室に入るとキッチンが見えた。#電気は消え、誰も使っていない場所だというのに#大鍋で何かが調理されていた…#嫌な臭いがする。
+search for a weapon|武器を探す
+look for a first aid kit|救急箱を探す
+see what's cooking|鍋の中を見る
+You rummage through the drawers and pick up the sharpest looking knife you can find.#(+ ITEM)|引き出しの中を漁り、#一番切れ味の良さそうなナイフを手に取った。#(+アイテム)
+It looks like someone has taken all the knives from the kitchen. The mere thought of it makes you feel very uneasy.#(-2 REASON)|誰かがキッチンの包丁を全て持ち去ったようだ。#考えるだけで、大いに不安を覚える。#(理性-2)
+You find the first aid kit next to the storage cabinet. You quickly bandage yourself up and leave the kitchen.#(+2 STAMINA)|保管棚の横に救急箱がある。#あなたは手早く包帯を巻き、その場を後にした。#(スタミナ+2)
+You can't find the first aid kit anywhere. Could it have been moved somewhere else?|救急箱が見当たらない。#どこか、別のところに動かしたのだろうか？
+You slowly remove the lid from the pot. A thick, smoky, vile reek fills your lungs. The look of the 'ingredients' used to make this broth make you sick.#(-3 REASON)|鍋の蓋をゆっくり取る。#すると、強烈な煙と酷い悪臭が肺に充満した。##加えてスープの“材料”を見てしまい、#吐き気を覚える。#(理性-3)
+LAVISH DINNER|豪華なディナー
+A friend returning from a trip to Africa has invited you to dinner. This time they've outdone themselves.#This is a real feast, full of exotic meats.##It’s getting late and you can’t stay for long, but the host asks if you want to take anything home with you.|アフリカ旅行から帰ってきた友達に夕食を誘われる。#これはまた一段と豪華な料理だ。##外国の珍しい肉をふんだんに使った#本格的なご馳走が振る舞われる。##夜も更け、これ以上長居はできないと思っていると、#向こうから持って帰りたいものはないかと聞かれた。
+<<this steak is to die for>>|<<このステーキが#死ぬほど美味い>>
+<<that wine is terrific>>|<<あのワインがすごかった>>
+refuse politely|丁重に断る
+<<I knew you'd like it,>> your friend says, winking and packaging it for you.#(+ ITEM)|<<気に入ると思ったよ…>>#友達はウインクをして、#持ち帰り用にそれを包んでくれた。#(+アイテム)
+<<Of course. I have enough bottles to last a whole year,>> your friend says, handing you a bottle.#(+ ITEM)|<<だろ？一年は困らないくらいあってね…>>#そう言って友達は、ボトルを1本くれた。#(+アイテム)
+<<That's okay. See me some other time, will you?>> your friend says. <<We still have a lot of catching up to do.>>|<<そう、じゃあまた来てくれ。>>#帰り際に友達が言った。#<<まだまだ話したいことがいっぱいあるんだ。>>
+Your friend welcomes you with a strange smile.#<<I knew you'd come back,>> they say, letting you inside the kitchen.##A naked man wearing a bag over his head is tied to a chair. His left thigh has already been stripped of meat. #Your friend picks up a meat cleaver and takes a step toward the man...#(+ ITEM)|不気味な笑みを浮かべた友達に出迎えられる。#<<また来てくれると思ってたよ。>>#友達はそう言って、あなたをキッチンに通した。#頭に袋を被った裸の男が#椅子に縛り付けられている…#左太ももの肉が削ぎ落とされた状態で。#友達が肉切り包丁を手に取り、#男の方に向かって歩き出した…#(+アイテム)
+CITY DOCKS|町の波止場
+The town’s docks are a mix of modern warehouses, small shops, and bars where the 'alternative' crowd gathers. An ancient wooden temple occupies the small hill at the town’s center.|町の波止場は、近代的な倉庫や小さなお店、さらにははみ出し者たちが集う飲み屋などが混在していた。#町の中心にある小高い丘には、#古い木造のお寺が建っている。
+look for warehouse job|倉庫の仕事を探す
+try to recruit allies|仲間を探してみる
+pray at the temple|お寺を参拝する
+There’s always a job for a strong person like you. You help with moving crates and exchange recent seaside gossip with other workers.#(+2 FUNDS / +5 EXP)|ここはあなたのような体力のある人であれば、#いつでも仕事があった。#木箱を運ぶ手伝いをしながら、他の作業員らと#最近の海辺にまつわる噂話を交わす。#(所持金+2 / EXP+5)
+There is always a job for a person like you. You help with unpacking the fish. The stench is unbearable, but you earn good money.#(+1 FUNDS)|ここならば、あなたのような人にも必ず仕事は#あった。魚の荷下ろし手伝う仕事をする。#作業中の悪臭には耐え難いものがあったが、#いい稼ぎになった。#(所持金+1)
+It didn't take long to find someone willing to join you at the bar. You explain everything you know so far over a few drinks.#(+ ALLY)|飲み相手を見つけるのに、#そう時間はかからなかった。#何杯かのお酒を交えつつ、#あなたはこれまでに知ったことを全て話した。#(+仲間)
+Not only did you fail to recruit anyone to help you, but when you leave the bar, you’re almost certain someone is following you.#(+2% DOOM)|協力者が見つからなかったばかりか、#飲み屋を出るときに#何者かに尾行されてしまっていた。#(破滅値+2%)
+It doesn't matter if you believe or not. The smell of burning incense and old wood calms you down.#(+2 REASON)|たとえ信仰する気がなくても、#お香や古木の燃える香りが#心を落ち着かせてくれる。#(理性+2)
+READING ROOM|書斎
+It looks like one of the previous owners of this mansion liked to read. Dusty tomes reach the ceiling. You don't have much time, but maybe you could spare a minute to look through the books?|過去にこの屋敷を所有していた人は、#本を読むのが好きだったようだ。#天井まで埃まみれの本が積まれている。#あまり時間はないが、少しくらい#これらの本に目を通してもいいだろうか？
+start with the shelves|まずはあの棚から…
+check out the table|机を調べる
+you don't have time for this|そんな時間はない
+The books are covered with a thick layer of dust. However, you notice that one tome must have been placed here recently. From it, you learn about distant worlds and bizarre rituals.#(+ SPELL / -2 REASON)|こんもりと厚い埃が積もっている本の数々。#しかし、その中に一冊だけ#最近置かれた本があることに気づいた。#あなたはその本を読んで、遙か遠くの世界や#奇妙な儀式について学んだ。#(+呪文 / 理性-2)
+The books are covered with a thick layer of dust. They seem rare, but cover mundane topics such as botany and anatomy.|こんもりと厚い埃が積もっている本の数々。#珍しい本が並んでいるように見えたが、#実際は植物学や解剖学など#ありふれたテーマのものばかりだった。
+The notes lying on the table look like the ramblings of a madman, but you can see a method to their madness.#(+5 EXP)|机の上に置かれたノート…#その内容は狂人の妄言としか思えないものであった。#しかし、狂気の中にも#著者なりの道理があるように思える。#(EXP+5)
+The notes lying on the table look like the ramblings of a madman. While trying to understand them, you read a passage aloud.#Nothing happens, but you suddenly feel watched. You leave the reading room quickly.#(+3% DOOM)|机の上に置かれたノート…#その内容は狂人の妄言としか思えないものであった。#何が起きたわけでもないが、#急に何者かからの視線を感じる…#あなたはすぐさま書斎を後にした。#(破滅値+3%)
+You proceed to the next room.|その部屋を後にした。
+CAMPSITE|キャンプ場
+You discover an old campsite located on the edge of a small clearing.#The tent has been knocked down, and the food and utensils have been scattered everywhere.|小さな空き地の端に、古いキャンプ場を発見する。#テントは倒され、食べ物や調理器具が#あちこちに散らばっていた。
+search the tent|テントを調べる
+investigate the ground for clues|地面の痕跡を調べる
+ignore the tent|テントを無視する
+The sleeping bag has been torn to shreds.##You find a wallet nearby. There's no ID card inside, but you’re sure the absence of cash is the least of the missing owner's problems.#(+2 FUNDS)|ズタズタに切り裂かれた寝袋。##その近くに財布があったが、#身分証は入っていなかった。#失踪中の本人は、現金を投げ出すほど#何か大変なことに巻き込まれたのだろう。#(所持金+2)
+The sleeping bag has been torn to shreds.##The amount of gore inside leaves no doubt about what happened to the owner.#(-2 STAMINA)|寝袋はズタズタに引き裂かれている。##中にあった大量の血痕を見るに、#何が起きたかは想像に難くない。#(スタミナ-2)
+Footprints and tracks suggest a fight.#The owner of the tent must've been dragged by two unknown attackers into the woods.#(+5 EXPERIENCE)|残った足跡や痕跡を見るに、#争いがあったことが伺える。テントの持ち主は#正体不明の襲撃者2名に引きずられて、#森の中へと連れて行かれたのだ。#(EXP+5)
+Did wolves learn how to walk on their hind legs?#(-2 REASON)|オオカミが二本足で歩くことを覚えたのだろうか？#(理性-2)
+You back off, not wanting to disturb the potential crime scene.#(-1 REASON)|あなたは事件現場をかき乱さぬよう、#その場を去った。#(理性-1)
+MORTUARY BLUES|亡者の嘆き
+You find yourself in an old, unused part of the hospital. You take a deep breath.#The disgusting smell of thawed remains still lingers in the room. It used to be the hospital's mortuary, where doctors determined the causes of death.|院内の一角にある古くて誰も使っていない場所。#自分が不気味な病棟にいるのだと気づき、#あなたは深呼吸をした。#解凍された遺体の嫌な臭いがまだ残っている。#かつてはこの霊安室で、医師たちが#患者の死因を特定していたのであった。
+pull the cloth off the dissection table|解剖台を覆う布をめくる
+search the cabinet|棚を調べる
+check out the freezer|冷凍庫を調べる
+Praying it's not what you think it is, you slowly pull off the cloth revealing an old anatomy mannequin. It was probably used as an anatomy class aid. You breathe a sigh of relief.#(+2 REASON)|おぞましいものを見ないことを祈りながら、#ゆっくりと布をめくると、#実習用の古いマネキンが現れる。#おそらく解剖学の授業で使われていたものだろう。#あなたは安堵のため息をついた。#(理性+2)
+Before you can uncover what's hiding under the cloth, you involuntarily let out a scream and run from the mortuary in terror.#(-2 REASON)|布の下に隠れているものを確認する前に、#あなたは思わず悲鳴を上げてしまう。#そして、恐怖のあまり霊安室から逃げ出した。#(理性-2)
+Something flashes in the corner of a dusty drawer, and you reach for it. It's a sewing kit, which may come in handy later.#(+ ITEM)|埃っぽい引き出しの隅で何かが光るのに気づき、#手を伸ばすあなた。これは…裁縫道具だ。#後で役に立つかもしれない。#(+アイテム)
+Something flashes in the corner of a dusty drawer. Too late, you realize it's a rusty scalpel blade and you cut yourself badly.#(-2 STAMINA)|埃っぽい引き出しの隅で何かが光るのに気づき、#手を伸ばす。しかし気づくのが遅すぎた…#錆びたメスの刃によって、#あなたは手を深く切ってしまう。#(スタミナ-2)
+You take a peek into the freezer but can't see anything important. You wonder what could smell so awful if there’s nothing inside.##Nearby, the body on the dissection table twitches slightly...|冷凍庫の中を覗いてみるが、#特に重要なものは見当たらない。#何もないのに、なぜこんなにも#酷い臭いがするのだろうか。##すると、解剖台の上に横たわっていた死体が#僅かにピクッと動いた…
+TWISTED REFLECTION|歪んだ鏡像
+In the mirror, you catch a glimpse of something that shouldn't be there.#(+2% DOOM)|鏡の中に、あるはずのないものが見える。#(破滅値+2%)
+OLD FISHERMEN|ベテラン漁師
+You decide to enter a small, shady bar in the docks. Maybe some of the old fishermen can help you in your quest.#However, persuading them to do so might prove difficult.|波止場にある、こぢんまりとした怪しい飲み屋に#入ることにしたあなた。#もしかすると、漁師のおじさん達が#調査を手伝ってくれるかもしれない。##だが、そう簡単に彼らを説得できるだろうか…
+try talking to them|話しかけてみる
+buy them a round|全員に一杯奢る
+You catch the fishermen in a good mood. They tell you tales of sunken cities, inhabited by underwater things with too many legs.#(+5 EXP / -1 REASON)|あなたは上機嫌な漁師たちを見つけた。#すると彼らは、足がたくさん生えた水中生物が住む、#とある海底都市の話をしてくれた。#(EXP+5 / 理性-1)
+Asking too many questions makes everyone nervous and you’re thrown out.#(-2 STAMINA)|あれこれ聞き出そうとすると漁師たちは苛立ち、#あなたは店を追い出されてしまった。#(スタミナ-2)
+No fisherman would refuse a free round.##They tell you tales of sunken cities, inhabited by underwater things with too many legs.#(-1 FUNDS / +5 EXP)|タダ酒を断る漁師などいない。##すると彼らは、足がたくさん生えた水中生物が住む、#とある海底都市の話をしてくれた。#(所持金-1 / EXP+5)
+You can't afford to buy them a round of drinks. Defeated, you leave the bar.#(+2% DOOM)|全員に一杯をおごる余裕などない。#あなたは失意にくれて、店を出た。#(破滅値+2%)
+MISSING GIRL|行方不明の少女
+Walking through the park, you find a little girl crying alone in the playground.#When you ask what's wrong, she says that she can't find her mommy. Luckily, you spot the girl's address on a backpack lying nearby.|公園を歩いていると、小さな女の子が#一人で泣いているのを見つける。#何かあったのかと聞くと、#ママが見つからないと言う。#幸いにも、あなたは近くに置かれたリュックに#家の住所が書かれていることに気付く。
+take her home|家に連れて行く
+let the police handle it|警察に任せる
+You offer to take her home. When you get there, the terrified mother slams the door in your face! From behind the door, she starts screaming to get the girl away. ##The little girl calmly tells you that she can take it from here.#(+10 EXP / -2 STAMINA)|あなたはその子を家まで送ることにした。#家に着くと、恐れおののいた母親が#こちらの顔に向かってバタンとドアを閉めてしまう。#ドアの向こうから、その子を連れてどっか行って！#と叫び声が聞こえる。##女の子は落ち着いた声で、#ここからはもう一人で大丈夫と言った。#(EXP+10 / スタミナ-2)
+You tell the girl to wait while you look for an officer.##When you get back, she’s gone.#(-1 REASON)|警官を探す間、彼女にここで待っているように#伝えるあなた。##公園に戻ってくると、#女の子はすでにいなくなっていた。#(理性-1)
+TRAPPED DOG|罠にかかった犬
+In the forest, you hear faint whimpering in the distance. When you find it, you discover a wild dog caught by its hind leg in a bear trap. The dog growls menacingly when you get closer.|森の中、遠くから微かに#何かの鳴き声が聞こえてくる。#声の主を探してみると、野犬が後ろ足を#熊の罠に捕らわれ、動けなくなっていた。#近づくと、犬がこちらを威嚇するように唸る。
+help the dog|犬を助ける
+don't risk it|危ない橋は渡らない
+You free the injured dog. #Thankful, the animal follows you.#(+ ALLY)|怪我を負った犬を罠から解放する。#恩返しとばかりに、その犬がついてきた。#(+仲間)
+You free the dog, but the rusty mechanism snaps and the trap closes on your hand.#(-2 STAMINA)|犬を解放したあなた。#しかし錆びた仕掛けが壊れ、罠が手に食い込んだ。#(スタミナ-2)
+You decide to leave the animal behind.#(-1 REASON)|その野犬を見捨てることにした。#(理性-1)
+SHIMO-KAGE|下鹿毛
+An old priest is performing a ritual to appease a local demon imprisoned underground.##You’re invited to join them.|老神官が儀式を執り行っている。##そして、あなたもこの儀式に招かれた。
+participate in the ritual|儀式に参加する
+kindly refuse|丁重にお断りする
+You've read about the ritual. Following the intricate pattern of steps, bows, and claps isn't a problem for you.##Once the ritual ends, the priest thanks you and hands over an item.#(+ ITEM)|この儀式については何かで読んだことがあった。#神官にならって足踏み、お辞儀、拍手をする。#細かな作法もあなたにとっては簡単だった。##儀式が終わると神官は感謝して、お礼の品をくれた。#(+アイテム)
+Distracted by a huge man wearing a demon mask, you have trouble following the intricate pattern of steps, bows, and claps.##This ritual is a disaster.#(+2% DOOM)|この儀式には足踏み、お辞儀、拍手をするという#細かな作法があったのだが、#あなたは鬼の面を被った大男に気を取られ、#流れについていけなくなって#しまう。##儀式は大失敗に終わった。#(破滅値+2%)
+Old man frowns and walks away.|老神官は眉をひそめて立ち去った。
+EMPTY CORRIDOR (OR IS IT?)|誰もいない廊下？
+Walking through an empty school corridor, you can feel the blue gem in your pocket begin to vibrate.##You reach for it, but stop when you catch a glimpse of a face in the window.#(-1 REASON)|誰もいない学校の廊下を歩いていると、#ポケットの中の「青い宝石」が#震え始めたのに気づく。##宝石を取ろうとしたその瞬間、#窓に映った顔を見てしまい、体が凍りついた。#(理性-1)
+STRANGE LIGHTS|奇妙な明かり
+You've noticed strange patterns in which your BLUE GEM vibrates. Entering this forest has caused it to vibrate so violently that you can barely hold it in your hand.|青い宝石が震える時は、#何かしら奇妙なことが起こる。#あなたが森に入ると、#しっかり握っていなければ落ちてしまいそうなほど、#青い宝石が激しく震え出した。
+it suddenly gets very dark|急に辺りが暗くなる
+A peculiar giant disk appears in the sky and you feel lighter and lighter as your feet leave the ground...|上空に現れた謎の巨大円盤。#体がどんどん軽くなり、#ふわっと地面から足が離れていく…
+TREACHEROUS REFLECTION|鏡の中の裏切り者
+Your reflection twists and shimmers when you're not looking at it directly. ##GOIZO is getting closer...#(+ CURSE)|鏡から目を離すと、#ねじ曲がり、歪んだ姿のあなたが映っていた。##ゴイゾが近づいてきている…#(+呪い)
+SCORCHING SUN|灼熱の太陽
+A heatwave continues with record temperatures.#Continuing your investigation takes more and more effort.#(-2 STAMINA)|熱波により、記録的な酷暑が続いている。#調査を続けるにも、これからますます苦労しそうだ。#(スタミナ-2)
+STARGAZING|天体観測
+Your friend has asked you to meet them at a certain secluded location. Getting there, you find a telescope with a note signed by your friend. The note tells you to look through the telescope.|友達から、とある人里離れた場所で#待ち合わせをしようと言われたあなた。#その場所に向かうと、#友達からのメモと一緒に望遠鏡が置いてあった。#そこには、望遠鏡を覗くようにと書かれている。
+curious, you check it out|気になるので覗いてみる
+You don't see anything at first. ##Then, you notice IT. The bloated body of ATH-YOLAZSTH is getting closer!#(+3% DOOM)|最初は何も見えなかった。##次の瞬間、視界にその姿が映る…#アトゥ＝ヨラズスの巨体が、#こちらに迫ってきている！#(破滅値+3%)
+WIRED PREACHER|電話先の伝道者
+>>Excuse me, do you have a moment to talk about our -rreal- lorrd and saviorr? The day of rreckoning is coming!<<#says the voice on the other side of the line. ##You definitely don't like the way the man on the other side of the line puts an accent on 'real'.#>>Hello? Are you still there?<<|>>すみません、わレらが真の主について、#お話する時間はございマすか？#審判の日が迫って異るのデす！#<<受話器の向こう側から声が聞こえる。##男が"真の"という言葉を強調しているのが、#どうも気に食わない。#>>もしもし、聞コえまスか？<<
+listen to the man|そのまま話を聞く
+hang up immediately|すぐに電話を切る
+You learn some useful bits of information about your nemesis. However, if everything the man said was the truth...##humanity is doomed.#(-5% DOOM / -3 REASON)|あなたは自分が対峙している敵について、#有益な情報を得た。#しかし、もしこの男の言うことが#全て真実だったとしたら…##人類は滅亡の危機に瀕していることになる。#(破滅値-5% / 理性-3)
+You put down the phone, a little shaken up. Just how many people did that odd man call today?#(-1 REASON)|あなたは少し動揺しながら、受話器を置いた。#あの怪しい男は、今日だけでどれだけの人に#電話をかけたのだろうか。#(理性-1)
+ART CLASS|美術室
+You catch a glimpse of an art class. One disturbing painting draws your attention...|美術室を覗いてみると、#不気味な絵が一枚見つかる。#思わず、その絵に目を奪われてしまう…
+take a peek, horrified|恐る恐る覗き込む
+[NEEDS 'ART KNOWLEDGE' PERK]|パーク「芸術の知識」が必要
+use your art knowledge to interpret the weird painting|芸術の知識を駆使して、#絵の意味を読み解く
+take a peek, horrified|恐る恐る覗き込む
+You gasp in pure horror.##The twisted faces, impossible angles, and enormous monoliths make you sick!#(-2 STAMINA)|純粋なる恐怖を感じ、息を呑んだあなた。##歪んだ顔、狂気的な角度、#巨大な石碑が描かれた絵を見て、気分が悪くなる。#(スタミナ-2)
+You gasp in horror but quickly recognize the dystopian surrealist style.#You ask for the painting so you can sell it to an avid art collector.#(+1 FUNDS)|あまりの恐怖に息を呑む。#しかし、あなたはこれがディストピア的な#超現実主義の絵であることに気付く。#そのため、その絵をもらい受けて#熱心な美術品収集家に売ることにした。#(所持金+1)
+WORLD OF TERROR|戦慄の世界
+Through the dirty restaurant window you notice a shady-looking man wearing a jacket covered in strange symbols.##He stops in front of a house, visibly nervous. Before he enters the house, he turns around as if he’s checking for any unwanted followers. #What could it mean?|汚いレストランの窓から怪しげな男が見える。#彼が着ていたジャケットには、#奇妙な記号が描かれていた。##緊張した面持ちで、とある家の前で立ち止まる男。#家の中に入る前に、彼は追っ手がいないか#確認するかのように後ろを振り返った。#一体、どういうことなのだろうか？
+follow the weird man|怪しい男を追う
+call the police|警察を呼ぶ
+do nothing|何もしない
+[NEEDS 'QUICK THINKING' PERK]|パーク「機転の良さ」が必要
+ask the waiter|店員に尋ねる
+The door is locked, but you repeat the knocking pattern the suspicious man used. A moment later, the door opens and a surprised teen with greasy hair asks who the hell you are. #Mistaking these nerds for cultists sure is embarrassing, but deep inside, you’re relieved.#(-2% DOOM)|ドアは鍵がかかっていた。#そこであなたはあの怪しい男と同じリズムで#ノックをする。しばらくするとドアが開き、#脂ぎった髪の若者が出てきた。#彼は驚いた様子で<<誰、あんた？>>と尋ねる。#あなたはオタクの集まりをカルト集団と勘違いをして恥ずかしい思いをしたが、内心はホッとしていた。#(破滅値-2%)
+The door is locked, but you think you can repeat the knocking pattern the suspicious man used. #Nothing happens.#(+2% DOOM)|ドアには鍵がかかっていた。#そこであなたはあの怪しい男と同じリズムで#ノックをしてみる。#しかし、何も起きなかった。#(破滅値+2%)
+The police thank you for the tip and promise to keep an eye on the house. Before you go, they give you a reward.#(+1 FUNDS)|警察はあなたの情報提供にお礼を言って、#その家を見張ることを約束した。#帰る前に報奨金を受け取った。#(所持金+1)
+You can't convince the police officer to take you seriously and by the time you manage to find a willing cop, the house is empty.#(-1 REASON)|警察はあなたの話をまともに聞いてくれず、#やっと信じてくれる警官を見つけたときには、#すでに家の中は空っぽになっていた。#(理性-1)
+You try to convince yourself that everything is all right and you lose your appetite.#(-1 STAMINA)|あなたは気にすることはないと#自分に言い聞かせるも#食欲が失せてしまった。#(スタミナ-1)
+Before pursuing the man, you ask the waiter if they know him.#The waiter smiles and explains that the man is a part of a tabletop role-playing community.##You thank him, slightly embarrassed.#(+10 EXP)|あなたは男を追いかける前に、#店員に尋ねてみることにした。#すると店員は笑いながら、#彼がテーブルトークRPGコミュニティの#一員であることを説明した。##あなたは若干の恥ずかしさを感じながら、#お礼を言った。#(EXP+10)
+KIND DONATION|親切な手紙
+You find an envelope lying on a pillow in your bedroom. Inside is cash and a note from 'someone who has been watching you.’ They wish you luck in your task and promise to meet you soon.##Just how did this envelope end up in your bedroom?#(+2 FUNDS / -1 REASON)|寝室にある枕、その上に謎の封筒が置かれていた。#中には、現金と“あなたを見守る者”とやらの手紙が入っており…そこには、“調査の成功を祈る。#じきにお会いできることを約束しよう。”#などと書かれていた。##しかし、どうやって封筒を寝室に…？#(所持金+2 / 理性-1)
+LABYRINTH|迷路
+The roads seem to twist and turn when you're not looking, trapping you in this neighborhood...|ふと目を離すと、道が不可解に#曲がりくねりっていた。#このままでは閉じ込められてしまう。
+get lost|途方に暮れる
+follow the map|地図を取り出す
+[NEEDS 'MAP' ITEM]|アイテム「地図」が必要
+You spend hours trying to find a way out. Finally, completely exhausted, you end up on the main street as the passage to the blighted neighborhood slowly closes behind you...#(+2% DOOM)|何時間もかけて、出口を探すあなた。#やっとの思いで大通りに辿り着いた頃には、#完全に疲れ果てていた。#あなたの後ろでは、荒廃した町へと続く道が#ゆっくりと閉ざされていく…#(破滅値+2%)
+Using the map, you discover that some of the intersections don't change at all.##It takes a while, but you finally find a way out. The passage to the cursed neighborhood slowly closes behind you...#(+2 REASON)|地図を開くと、#変化しない交差点があることに気づいた。##長い時間をかけて、ようやく出口を見つける。#あなたの後ろでは、呪われた町へと続く道が#ゆっくりと閉ざされていった…#(理性+2)
+FOREST WATCHER|森からの視線
+You have a feeling that you’re being watched and when you hear a branch snapping, you quickly turn around.##There is _someone_ standing in the trees, just a few meters away.|どこかから視線を感じる…#枝の折れる音がして、その方向を振り返ったあなた。##数メートル先の木立の中に、#“誰か”が立っている。
+confront the person|正面から立ち向かう
+start running|逃げ出す
+[NEEDS 'RYOKO' ALLY]|解放条件:｢涼子｣が#仲間にいること
+send park ranger|｢自然保護官｣を送り込む
+It's... just a creepy scarecrow. Relieved, you decide to leave the area just in case.#(+5 EXP)|その正体は…#ただの不気味なカカシだった。#ほっとしたあなたは、#念のためその場から離れることにした。#(EXP+5)
+The decomposing skin and vacant stare can only mean one thing - it's a corpse someone has propped up.##The idea that someone could do it so close to you and so quietly makes you shudder...#(+2% DOOM)|腐敗した皮膚と虚ろな眼差し。#それはある一つの事実を示していた…#誰かがこの死体を立てかけたのだ。##こんなにも近くにいたのに気づかなかったとは… #あなたは戦慄を覚える…#(破滅値+2%)
+You make it to the edge of the wood scared, but safe.#(+5 EXP)|恐怖を感じながらも、#あなたは無傷で森を抜けることができた。#(EXP+5)
+You trip on a root and injure your ankle badly. As you limp away, there's no trace of the strange person.#(-2 STAMINA)|木の根につまずき、#足首をひどく痛めてしまったあなた。#足を引きずりながら逃げるも、#辺りには怪しい人影は見当たらなかった。#(スタミナ-2)
+PARK RANGER tells you to hide as she raises her rifle and goes to confront the person.##After a while, you peek out from behind a tree. The only thing left is a rifle on the ground. Both RYOKO and the Ranger are missing.#(- ALLY / + ITEM)|ライフルを構えた彼女はあなたに隠れろと言って、#その人影のもとへ向かっていった。##しばらくして、木の陰からそっと顔を出す。#だが、地面にライフルが落ちているだけで、#涼子の姿はどこにも見当たらない。#(-仲間/ +アイテム)
+THERAPY|治療
+You’re stopped by a masked man wearing a lab coat. He introduces himself as a researcher from Tokyo University, testing a new treatment method that promises to 'revolutionize' modern medicine.##Holding out a pile of documents, he tells you he can heal your wounds for free.#<<You just need to sign here.>>|マスクをした男に呼び止められたあなた。#東京大学の研究者だと名乗るその男は、#現代医療に革命を起こす新たな治療法を#実験しているという。彼は書類の束を差し出し、#無償でその傷を治すと言い出した。##<<ここにサインするだけでいいので。>>
+accept|サインする
+decline|断る
+Later, you wake up in a surgical ward. There’s no sign of the doctor, but you feel healthier and notice that one of your wounds is gone without a trace.#[YOU CAN SELECT ONE INJURY STATUS AND HEAL IT FOR FREE]|その後、あなたは手術室で目を覚ました。#医者の姿が見えない…だが体調は良くなっていて、#怪我が跡形もなく治っていることに気づく。##[選択した怪我が1つ無料で治る]
+Later, you wake up in the abandoned surgical ward within the old part of the hospital with a nasty new wound.##The 'doctor' is nowhere to be seen.#(+ INJURY)|その後、あなたは病院の旧棟にある、#廃墟のような外科病棟で目を覚ました。#さらに酷い傷を負っている。##しかし、医者はどこにも見当たらない。#(+怪我)
+You politely decline the generous offer and continue on your way.|あなたはその申し出を丁重に断り、#その場を立ち去った。
+DEAD MAN'S FLOAT (I)|水死体 (I)
+The pool is empty at this hour.##It's dark, but you could swear something suddenly moved under the surface of the water.|この時間のプールは誰もいない。#すでに辺りは暗くなっていたが、#水面の下で“何か”が動いたような気がする。
+step closer|近づいてみる
+check out the lockers|ロッカーを調べる
+turn on the lights|明かりをつける
+With mounting horror, you think you recognize the shape lurking underwater...|恐怖が高まり、体中に緊張が走る。#水中に潜むその姿は、#どこか見覚えがあるような気がした…
+Someone left their wallet in one of the open lockers.#(+2 FUNDS)|開いたロッカーの中に、#誰かが財布が置き忘れていた。#(所持金+2)
+You turn on the lights. Luckily for you, no horrors lurk in the water.#(+1 REASON)|あなたはライトをつける。#幸いなことに、#水中には何も恐ろしいものは潜んでいなかった。#(理性+1)
+ITADAKIMASU|いただきます
+Feeling hungry, you've entered a small local restaurant and ordered the daily special made with today's catch. ##Just where the hell did those fishermen go?|お腹が空いたため、#地元の小さな食堂に入ったあなた。#そこで、その日の獲れたてを使った#日替わりスペシャルを頼む。##あの漁師たちは、どこで#この魚を獲ってきたのだろう？
+no way you're gonna eat THAT|こんなもの#食べられるわけがない
+one bite won't hurt|一口だけなら#大丈夫だろう
+The smell of the dish almost makes you sick, and you run out of the ghastly restaurant.#(-1 STAMINA)|料理の匂いだけで気持ち悪くなり、#あなたはその不気味な店を飛び出した。#(スタミナ-1)
+Feeling the eyes of the restaurant's guests on your back, you take a small bite of the smelly seafood. ##It's surprisingly good, but you kindly refuse another serving.#(+5 EXPERIENCE / +1 STAMINA)|客の視線を背中に感じながら、#臭みのある海鮮料理を一口食べた。##意外といける…が、おかわりは遠慮しておこう。#(EXP+5 / スタミナ+1)
+Feeling the eyes of the restaurant's guests on your back, you take a small bite of the smelly seafood. ##It tastes like the sea and melts in your mouth. The restaurant owner nods and smiles strangely.#(+ CURSE)|他の客たちの視線を背中に感じながら、#臭みのある海鮮料理を少しだけかじる。##口の中に海の味が広がり、#ホロホロと溶けていく。#その様子を見た店主が、#不気味な笑みを浮かべながら頷いている。#(+呪い)
+SMALL SHRINE|小さな祠
+Following a trail of rotten fruit, you stumble on a small forest shrine. It’s probably dedicated to some local spirit.##The small statue looks alien and menacing.|腐った果物の匂いに誘われ、#森の中に祠に辿り着く。#恐らく地元の神霊を祀っているのだろう。##そこにあった小さな像はどこか異様で、#不穏な雰囲気を醸し出している。
+pray|お祈りをする
+destroy the shrine|祠を壊す
+Kneeling by the shrine, you discover a small piece of paper, tucked behind the statue.#(+5 EXP)|祠のそばで膝をつく。#すると、像の後ろに、#小さな紙切れが挟まれているのを発見する。#(EXP+5)
+To your horror, you discover a severed human hand behind the statue.#(-2 REASON)|恐ろしいことに、像の後ろには#切り落とされた人間の手があった。#(理性-2)
+You topple the evil-looking statue and discover a bundle of money beneath it.#(+3 FUNDS)|禍々しい像を倒すと、#その下から札束が見つかった。#(所持金+3)
+You topple the evil-looking statue. Nothing seems to happen, but you have a terrible feeling about it.#(+5% DOOM)|あなたはその禍々しい像を倒した。#何も起こらなかったが、#どこか嫌な予感がする。#(破滅値+5%)
+BOREAL EXPANSE|極北の大地
+The temperature abruptly drops and you shudder in the icy cold.#You find yourself in the middle of a snowy wasteland. A sudden gust flings you to your knees. You inhale deeply, feeling your chest tighten and ache. ##Your fingers and ears are already numb and freezing. You have to move.|急激に気温が下がり、凍てつくような寒さに震える。#ふと気が付くと、あなたは#雪原の中心に立っていた。#突然、吹きつける風に膝をついてしまう。#深く息を吸い込むと、#胸の辺りが締め付けられるように痛む。#指と耳は冷え切り、感覚がなくなってきている。#とにかく動かなければ…
+move toward the pyramid|ピラミッドへと向かう
+check the icy coast|氷の海岸を調べる
+give up|諦める
+The frozen guard-corpses standing on eternal guard duty find you worthy.##The Usurper King kindly decides to share his forbidden knowledge with you.#(+30 EXP / -3 REASON)|永遠に守衛を続ける“凍てつく亡番兵”。#彼らに適格者と認められたあなたは#王への謁見を許される。#簒奪王は快く、禁断の知識を#分け与えることに同意した。#(EXP+30 / 理性-3)
+The frozen guard-corpses watch you silently as you cut yourself on the razor-sharp edges of the ice.#(+ INJURY)|鋭利な氷刃があなたの体を切り裂き、#凍てつく亡番兵が黙然とその様子を見ている。#(+怪我)
+Sticking out of the ice, you find the hand of a nameless monarch, its fingers long and deformed.##Feeling a strange urge, you kneel and kiss it. One of its rings falls to the ground.#(+ ITEM)|氷の中から、名もなき君主の手が突き出ている。#その指は長く、奇妙な形をしていた。##ふと、あなたは不思議な衝動に駆られて跪き、#その手に口づけをする。#すると、一つの指輪が地面に落ちる。#(+アイテム)
+Countless corpses of a long-gone tribe are encased in the ice.##Their eyes follow your every movement.#(+5% DOOM)|氷に埋もれた、無数の古代民族の死体。##あなたの動きは一挙手一投足に至るまで、#その目に追われている。#(破滅値+5%)
+You collapse, devoid of all hope.#(-5 STAMINA, -5% DOOM)|あらゆる希望が絶たれ、#あなたはその場に倒れた。#(スタミナ-5 / 破滅値-5%)
+HALF OPEN|半開きの扉
+This door shouldn't be there. It shouldn't lead anywhere.##More importantly, it shouldn't pull you in.|その扉はそこにあってはならない。#なぜなら、その先はどこにも通じていないからだ。##何よりも、その扉に引きずり込まれてはならない。
+enter|扉の奥へ進む
+resist|抵抗する
+Slowly, you enter the unknown...|あなたはゆっくりと、#未知なる世界へ足を踏み入れた…
+You force yourself to leave the mysterious door behind.#(-2 STAMINA)|謎の扉を残し、無理やりその場から離れる。#(スタミナ-2)
+YASUGI|八杉神父
+Feeling like you are on the brink of losing your mind, you decide to visit your parents' old friend, Father Yasugi.##<<Hey kiddo,>> says the priest who’s currently moving some boxes in and out of the church building. <<Could you lend me a hand?>>|気が狂いそうになっていたあなたは、#両親の古い友人である八杉神父を#訪ねることに決めた。##<<おい、君。>># 神父が教会の周りで忙しなく箱を運んでいる。#<<ちょっと手を貸してくれないか？>>
+lift the heaviest box|一番重い箱を持ち上げる
+don't overwork yourself|無理せず適度に手伝う
+Lifting the box, you feel your back cracking, but you manage to get it all over with relatively quickly. ##Afterwards, Father Yasugi invites you inside for a cup of hot tea and home-baked cookies made by one of the parishioners.#You explain your situation to him. The priest listens, letting you vent all of your doubts and anxiety.#(+3 REASON / -1 STAMINA)|箱を持ち上げた瞬間、腰がバキッと鳴る。#だが、わりあい早く運び終えられた。##その後、あなたは中に招かれ、温かい紅茶と教区の人が焼いた自家製クッキーをご馳走になる。#神父に、今の自分の状況を吐露する。#彼は少しでも心が軽くなるようにと、#あらゆる不安や疑問に耳を傾けてくれた。#(理性+3 / スタミナ-1)
+You only pick up the smallest boxes, but the whole thing takes more time than you expected.##Afterwards, Father Yasugi invites you inside for a cup of hot tea and home-baked cookies made by one of the parishioners.#You explain your situation to him. The priest listens, letting you vent all of your doubts and anxiety.#(+3 REASON / +2% DOOM)|あなたは小さな箱だけ運んだが、#それでも予想以上に時間がかかってしまう。##その後、神父はあなたを中に招き、温かい紅茶と#教区の人が作ったというクッキーをご馳走してくれた。##神父に今の自分の状況を吐露する。#少しでもあなたの心が軽くなるようにと、#彼はあらゆる不安や疑問に耳を傾けてくれた。#(理性+3 / 破滅値+2%)
+MASKED FIGURES|覆面姿の者たち
+Walking through the village you’re suddenly pulled behind a building. Two menacing-looking masked figures block your escape.##<<Do you serve the OLD ONES?>>|村の中を歩いていると、#突然、建物の陰に引きずり込まれる。#覆面をした二人組が、あなたの逃げ道を塞ぐ。#危険な匂いがする。##<<“旧きもの”にお仕えしているのでしょう？>>
+<<yes>>|<<仕えている>>
+<<serve w-what?>>|<<な、何のこと…？>>
+<<We knew it! The prophecies were true!>>#The masked figures relax a bit, taking off their masks.##<<We apologize for this, master.>>#(+2 ALLIES / +7% DOOM)|<<やはり！あの予言は本当だったのだ！>>#彼らは少しだけ肩の力を抜き、覆面を外す。##<<主よ、この度は大変失礼しました。>>#(仲間+2 / 破滅値+7%)
+Masked men are visibly puzzled.#<<S-sorry to bother you,>> says one and they disappear around a corner.##What was that about?#(-2 REASON)|彼らは目に見えて、困惑している。#<<し、失礼しました…>># そう言って、曲がり角の先へと姿を消した。##一体、何だったんだ？#(理性-2)
+BITTEN|噛み跡
+Putting your hand in that hole was a bad idea. Seeing the big spider escape, you hope it wasn't poisonous...#(+ INJURY)|あの穴に手を入れたのはまずかった。#のっそりと這い出してきた大蜘蛛を見ながら、#あなたはそれに毒がないことを祈った。#(+怪我)
+SMALL COCOON|小さな繭
+You wonder what kind of animal the spider caught in its web.#You scare away the annoyed predator and rip open the cocoon to reveal...##a human finger.#(-2 REASON / + ITEM)|この蜘蛛の巣に一体何が引っかかったのだろう。#腹を立てた蜘蛛を追い払い、繭を引き裂くと…##人の指が埋もれていた。#(理性-2 / +アイテム)
+ART THERAPY|芸術療法
+As a part of the therapy, some patients took part in art classes.##Some of their work fills you with dread.#(-2 REASON)|治療の一環として、#絵画教室に参加する患者たちもいた。##その作品の中には、ゾッとするものもある。#(理性-2)
+OUT OF FUNDS|金欠
+>>It's a bad time to be out of cash,<< says the grim-looking man who’s standing in your way.#>>Our... company, fortunately, specializes in cases like yours and will gladly help you get back on track. After all...<<#He takes a step closer, and you could swear there is a faint smell of rust around the man. ##>>...everyone has something to sell.<<|>>こんなときに金欠になってお困りでしょう…<<#目の前に陰気な男性が立っている。#>>幸い、我々の会社はあなたのような方を#助けすることを専門としているので、#喜んでお手伝い致しますよ。何しろ…<<##男が一歩近づくと、微かに錆の臭いがする。##>>…誰だって、売るものがあるんですから。<<
+'jar of blood'|血の入った瓶
+'fondest memory'|かけがえのない思い出
+'peace of mind'|心の安らぎ
+You startle awake on a park bench. Did you faint? ##There’s no sign of the grim man anywhere, but you find an envelope full of cash inside in your pocket.#(-3 STAMINA / +2 FUNDS)|公園のベンチで、はっと目を覚ます。#気を失っていたのだろうか。##あの陰気な男の姿はどこにも見当たらない。#しかし、ポケットの中には#現金入りの封筒が入っていた。#(スタミナ-3 / 所持金+2)
+Everything suddenly gets dark. You feel sad, but... can't even tell why. In your pocket, you find an envelope with cash inside.#(-3 REASON / +2 FUNDS)|突然、辺りが暗くなる。#理由は分からないが…何故か悲しい気持ちになった。#そして、あなたはポケットに#現金入りの封筒が入っていることに気づく。#(理性-3 / 所持金+2)
+The man smiles, handing you an envelope. You feel like you've made a huge mistake.#(+5% DOOM / +2 FUNDS)|男がにっこりと笑いながら、封筒を渡してくる。#あなたは何か大きな間違いを犯したような#気がした。#(破滅値+5% / 所持金+2)
+BLEEDING DESERT|血に染まる砂漠
+A parasitic star is looming over the dying civilization. ##Is this the fate of our planet as well?|滅びゆく文明に迫りくる寄生星。##地球も同じ運命を辿るのだろうか？
+enter the destroyed temple|崩れた寺院に入る
+venture further into the desert|砂漠の奥へ進む
+dig through the sand|砂を掘り起こす
+Inside a decaying nave, you find a keepsake from the ancient world.##There’s a humanoid skeleton wearing ruined armor. Its weapon looks strangely familiar...#(+ ITEM)|朽ち果てた教会堂。#あなたはその主祭壇へと向かう身廊で、#古の世界より遺された形見を見つけた。##壊れた鎧を着た人型の骸骨…#不思議なことに、どこかでその武器を#見たことがあるような気がする。#(+アイテム)
+Inside a decaying nave, you find a keepsake from the ancient world.##Countless skeletons and corpses have shriveled in the arid air.#(-3 STAMINA)|朽ち果てた教会堂。#あなたはその主祭壇へと向かう身廊で、#古の世界より遺された形見を見つけた。##無数の骸骨や死体が、#乾燥した空気の中で萎びている。#(スタミナ-3)
+The trek through the desert is exhausting, but you finally reach the oasis.#You undress and step into the glowing water, submerging yourself completely.##When you leave the pool, you feel... different.#(+1 KNOWLEDGE)|疲れ果て、足を引きずりながらも#砂漠を横断するあなた。#そして、ようやくオアシスに辿り着く。#服を脱ぎ、光る水に足を浸して、深く身を沈める。##水から上がると、#自分の中で…何かが変わった感覚があった。#(賢さ+1)
+The trek through the desert is exhausting and you finally collapse onto sharp rocks.#(+ INJURY)|砂漠を歩くのに疲れ果てたあなたは、#ついに鋭い岩の上に倒れ込んでしまう。#(+怪我)
+Digging beneath a stone pillar, you unearth a chest.##It's filled with coins!#(+3 FUNDS)|石柱の下を掘ると、宝箱が出てくる。##コインがいっぱい出てきた！#(所持金+3)
+Digging beneath a stone pillar, you unearth a chest.##Inside, you find a rotting human head!#(-3 REASON)|石柱の下を掘っていると、宝箱を発見する。##中から出てきたのは…#腐敗した人間の頭蓋骨だった！#(理性-3)
+DESPERATE SOLUTION|血みどろの解決策
+A woman bumps into you as she runs from a beauty parlor! Before you can say anything, you notice her face... she's carved out her own eyes! ##<<I-if I can't see it,>> she cries, <<it c-can't see me, r-right?...>>##You shudder, seeing a faint vision of GOIZO reflected in the beauty parlor's mirrors.#(-2 STAMINA)|美容院から飛び出してきた女性とぶつかる。#彼女はなんと…自分の目をくりぬいていた… #<<な、何も見えなければ…>>#血の涙が滴る。#<<ア、アレを見なくて済む…そうでしょ…？>>##美容院の鏡にうっすらとゴイゾの幻影が映り、#あなたは戦慄した。#(スタミナ-2)
+SMOG|煙霧
+Wait, why is it suddenly so dark outside? You stand by the window to take a look.##Black smog emerges from the courtyard, coating everything in an oily vapor.|待て。どうして、急に外が暗くなったんだ？#あなたは窓際に立って、外の様子を見た。##中庭から黒い煙が立ち上り、#油っぽい蒸気があらゆるものを覆い尽くしている。
+observe the smog|煙をよく見る
+run from the window|窓から逃げ出す
+Sludgy vapors rise slowly upward, forming a perfect spiral. You back away from the window, surprised by this curious phenomenon. #(+8 EXP)|ぬめり気のある蒸気がゆっくりと上昇し、#完璧なうずまき模様を作り出す。#あなたはこの奇妙な現象に驚いて、#窓から後ずさった。#(EXP+8)
+By the time you realize the vapor is forming into a giant hand it’s too late. ##It crashes through the window, sending shards of glass everywhere.#(-2 STAMINA)|蒸気が巨大な手になっていく…#しかし、それに気づいた時にはもう手遅れだった。##その手が窓を突き破り、ガラスの破片が飛び散る。#(スタミナ-2)
+You run from the window before anything happens.#(+5 EXP)|何か悪いことが起こる前に、#あなたは窓から逃げ出した。#(EXP+5)
+You run from the window. ##Faint whispers coming from the smog itself will haunt you for weeks.#(-2 REASON)|あなたは部屋の窓から逃げ出した。##煙から聞こえてくるかすかな囁きが、#何週間もの間、あなたを苦しめることになる。#(理性-2)
+ANATOMY CLASS|解剖学の授業
+You hear a faint sound while walking outside the biology classroom. Inside is an old anatomy model, its heart beating.##The sight almost makes you sick.#(-1 STAMINA)|生物室のそばを歩いていると、#微かに何かの音が聞こえてくる。#中で、古い人体模型の心臓が脈打っている。##その光景を見て、あなたは気分が悪くなってしまう。#(スタミナ-1)
+THERE WAS A HOLE HERE|かつてあった穴
+Hearing an eerie sound coming from behind the door, you decide to check it out.#At first glance, the abandoned classroom seems empty. Once your eyes get used to the darkness, you discover an unusual sigil drawn on the floor. ##Judging by the smoke, someone put out the candles the moment you entered.|ドアの向こうから不気味な音が聞こえる…#あなたはその原因を探ることにした。#一見すると、何もなさそうな廃教室。#だが暗闇に目が慣れると、#床に奇妙な紋章が描かれているのに気づく。##辺りを漂う煙から察するに、教室に入った瞬間、#何者かが蝋燭の火を消したようだ。
+light the candles|蝋燭に火を灯す
+pick up the book|本を拾う
+study the writing on the blackboard|黒板の文字を調べる
+The moment you light the remaining candle, the ground under the sigil collapses, revealing an impossibly deep hole. Its walls are carved into a spiral shape, giving it the illusion of movement.##Because it's an illusion - right?#(-4 REASON, +20 EXP)|燃え残った蝋燭に火を灯す。#すると突然、紋章の描かれた地面が崩れ落ち、#底知れぬ深い穴が現れる。##暗い壁に刻まれたうずまき状の模様を見ていると、#まるで穴が蠢いているように思える。##ただの錯覚だと信じたいが…#(理性-4 / EXP+20)
+You recognize the sticker on the book. It came from the local library.#(+ ITEM)|表紙に貼られたシールに見覚えがある。#これは地元の図書館の本だ。#(+アイテム)
+You decipher the occult instructions and let the forbidden knowledge fill your brain.#(-2 REASON / -2 STAMINA)#(+ SPELL)|魔術的な教えを解読する。#頭の中に流れ込む禁断の知識を、#あなたはそのまま受け入れた。#(理性-2 / スタミナ-2)#(+呪文)
+VENDING MACHINE|自販機
+Wandering through an empty corridor, you find an old vending machine. You don't recognize the brands of sodas inside, but you really could use a drink.|何もない通路をぶらついていると、#古びた自販機が目に入る。##中にあるソーダの銘柄は分からない。#だが、何でもいいから飲み物が欲しい気分だった。
+get the most expensive one|一番高いものを買う
+get the cheapest one|一番安いものを買う
+The taste seems a little odd, but you enjoy the drink anyway.#(-1 FUNDS)|味は少し変だが、それほど悪くはなかった。#(所持金-1)
+When you realize you don't have enough money for a drink, a black can falls from the dispenser.##You take a sip... is it blood?!#(-2 REASON)|お金が足りないことに気付いた瞬間、#その自販機から黒い缶が出てきた。#一口飲んでみる…##まさか、これは…血！？#(理性-2)
+You buy a can of off-brand soda and take a sip. It tastes a little odd, but you enjoy the drink anyway.#(-1 FUNDS / +5 EXP)|ラベルのないソーダを買い、一口飲んでみる。#少し変な味がするが、それでも喉は潤った。#(所持金-1 / EXP+5)
+You buy a can of off-brand soda and when you reach for it, something inside the machine catches your hand. You have to jerk your hand out, injuring yourself!#(+ INJURY)|ラベルのないソーダを買って手を伸ばすと、#自販機の中から何かに手を掴まれる。#無理に手を引き抜いたせいで、#あなたは怪我をしてしまう！#(+怪我)
+SCULPTURES|彫刻
+You enter the art workshop.##The room is cluttered with half-finished sculptures and bizarre masks hanging on the wall. One sculpture strikes you as eerily realistic.|美術室に足を踏み入れる。##部屋の中は、未完成の彫刻や#壁に並ぶ奇妙な仮面で雑然としている。#その一つに不気味なほどリアルな彫刻があり、#あなたの目を引いてしまう。
+check out the sculpture|彫刻を調べる
+check out the masks|仮面を調べる
+The head of one sculpture looks so life-like, you move closer and raise your hand nervously to touch it.##It falls off.|ある彫刻の頭が本物そっくりに見える。#緊張しながらも、手を伸ばして触ろうとすると…##その頭が落ちた。
+One mask looks similar to the design you once saw in an occult book. You decide to take it with you.#(+ ITEM)|ある仮面が、かつてオカルト本で見たものと#驚くほど似ていた。#(+アイテム)
+PARK GUEST|招かれざる客
+ELDRITCH STATUETTE|怪魔の彫像
+Something pulls you towards the beach. A statuette, half-buried in the sand, is calling you.##Feeling your hands shaking, you take a step closer...|何かに引き寄せられるように浜辺へと向かう。#砂浜に半ば埋もれた彫像が、あなたを呼んでいる。##手が震えるのを感じながら、彫像に一歩近づく…
+take it home|像を持ち帰る
+ignore it|放っておく
+The statuette is surprisingly heavier than it looks.##Mesmerized, you take it home and wonder where you’ll display it.#(IT'S A BAD IDEA)|その彫像は見た目以上に重かった。##自宅に持ち帰るも、どこに飾ろうかと悩んでしまう。#(失敗した…)
+Despite your sudden desire, you get hold of yourself. Moving away from it, you quickly forget the whole encounter.#(+5 EXP)|突然、彫像に触れたい衝動に駆られるも、#何とか自分を抑える。#その場を離れると、#すぐに彫像があったことさえ忘れていた。#(EXP+5)
+A sudden wave of dread paralyzes you as you stare at the menacing statuette.##You manage to escape, but its gaze is forever burned into your brain.#(+ CURSE)|その像に目をやると、#突然、恐怖に襲われて動けなくなってしまう。##何とかその場から逃げ出したものの、#いつまで経っても“あの視線”が#脳裏に焼き付いて離れない。#(+呪い)
+WELCOME TO THE RICE FIELD|水田の広がる風景
+As you walk through the village, crops waver in the breeze, following your every movement.#(-2 REASON)|村の中を歩いていると、#こちらの動きに合わせるように#作物が風に揺らいだ。#(理性-2)
+WAVES|打ち寄せる波
+The waves lazily wash upon the shore. You take a deep breath - the fresh sea air clears your head.#(+1 REASON)|岸辺に打ち寄せる、ゆったりとした波。#深呼吸をすると、#新鮮な海の空気が頭をすっきりさせてくれる。#(理性+1)
+RESTING PLACE|死者の眠る場所
+It’s said that a famous priest died on this rock. Perhaps his mysticism has seeped into it?|とある高名な僧侶が、この岩の上で#亡くなったと言われている。##その神秘的な力が、この岩に#染みついているかもしれない。
+tap into his power|聖職者の力を感じ取る
+it's too risky|そんな危険は冒せない
+let HERMIT translate the inscription|隠者に碑文を解読させる
+[NEEDS 'HERMIT' ALLY]|解放条件: 「隠者」が#仲間にいること
+Touching it with your hand, you feel a new-found knowledge forming in your mind.#(+ SPELL)|石碑に触れてみると、#頭の中に新たな智慧が生まれるのを感じた。#(+呪文)
+You feel you've attracted the attention of something terrible.#(+2% DOOM)|何か恐ろしいものに、#目をつけられてしまった気がする。#(破滅値+2%)
+Disturbed by your surroundings, you take a step back and trip on a branch.#(-1 STAMINA)|何だか恐ろしくなり、#後ずさったところで枝に躓いてしまう。#(スタミナ-1)
+HERMIT kneels before the rock and mutters something. After a minute, they stand up and urge you to continue on your journey.#(-5% DOOM)|隠者が岩の前に跪き、ぶつぶつと何かを呟く。##少し経ってから立ち上がり、#このまま調査を続けるよう促された。#(破滅値-5%)
+AMATEUR PRIEST|素人の浅知恵
+An old man stops you and invites you into his house. You follow reluctantly, only to be amazed by the number of dusty old sorcery books inside.##<<I can teach you a thing or two about magic.>> he says. <<Don't worry about payment. I'm sure we'll work it out in the future.>>|ある老人に呼び止められ、家の中へ招かれるあなた。#渋々ついていくも、家の中には驚くべき数の#古い魔術書が埃を被っていた。##<<少しだけ魔術を教えてやろう。>>と老人が言う。#<<金の心配はいらん。#この貸しはそのうち返してもらえばいい。>>
+accept|教えてもらう
+decline|断る
+let PARK RANGER talk to the man|「自然保護官」に#説得してもらう
+[NEEDS 'PARK RANGER' ALLY]|解放条件: 「自然保護官」が#仲間にいること
+Among the nonsensical stories the man told you, you've caught one thing that could be the truth.#(+ SPELL)|ベラベラと語られる意味不明な話の中で、#あなたは一つだけ真の魔術と思われるものを学んだ。#(+呪文)
+It was a complete waste of time. The senile old man was a bore and had nothing interesting to tell you.#(+2% DOOM)|完全に時間の無駄だった。#退屈な老人の話をいくら聞いても、#興味深い情報など出てこない。#(破滅値+2%)
+<<You DON'T decline me, you fool!>>#He shouts as you flee the house. The old man throws the books at you and one of them hits you in the head.#(-1 STAMINA)|<<私を無下にするな、馬鹿者！>>#あなたが家から逃げ出すと、#老人が大声を上げながら本を投げつけてきた。#そのうちの一冊が頭に命中してしまう。#(スタミナ-1)
+<<Hisashi,>> says the PARK RANGER. <<Remember your 'bear' problem last summer and who helped you with it?#Consider helping my friend and _maybe_ we'll call it even.>>#(+ SPELL)|<<久志…>>自然保護官が口を開く。#<<去年の夏にクマ騒ぎで助けてやったよな？#私の仲間に手を貸してくれるなら、#それで貸しはチャラにしてやる。>>#(+呪文)
+STUBBORN RECEPTIONIST|頑固な受付
+Getting access to the student database would certainly speed up your investigation.#But the receptionist would never allow it. If only there was a way to make her go away for a while...|学生データベースにアクセスできれば、#間違いなくもっと早く調査が進む。#しかし、受付の女は頑として許可を出さない。#しばらくの間、彼女を遠ざける方法が#あればいいのだが…
+talk to her|彼女と話す
+let KAZUMI talk to the receptionist|和美に話をさせる
+[NEEDS 'KAZUMI NAKAWA' ALLY]|解放条件: 「名川和美」が仲間にいること
+It turns out that Kazumi and the receptionist are old friends. ##Under a pretense of catching up, they both go to a break room. This allows you to copy some names and addresses from the database.#(+20 EXP)|彼女と和美は旧知の仲だったらしい。##久しぶりに話に花を咲かせた二人は#休憩室に向かった。#これでデータベースから、名前と住所を#コピーできる。#(EXP+20)
+<<Unannounced inspection?>> she asks.#<<Thank you for telling me!>>##While the receptionist is busy updating some boring papers, you copy some names and addresses from the database.#(+10 EXP)|<<抜き打ち検査？>>と受付が尋ねてくる。#<<教えてくれてありがとね！>>##彼女が面倒な書類で手間取っているうちに、#データベースから名前と住所を#いくつかコピーした。#(EXP+10)
+You weren’t able to convince the receptionist to let you access the database. This has been a waste of time.#(+2% DOOM)|必死に受付係を説得しようとするも、#アクセスの許可は下りない。#せっかくの時間を無駄にしてしまった。#(破滅値+2%)
+STREET VENDOR|露天商
+You break out into a cold sweat when you see the street vendor's twisted grimace. You back off, wishing it was only a mask.#(-1 REASON)|露天商の歪んだ顔を見て、#あなたは冷や汗をかく。#それがお面であることを願いながら、#後ずさりをした。#(理性-1)
+WHITE SANDS|白砂
+A parasitic organism burrows under the bark, undulating slowly.|樹皮の下に寄生生物が潜り込み、#緩やかにうねっている。
+investigate it|調べる
+cut it open|幹を切り開く
+[NEEDS 'STEAK KNIFE' ITEM]|アイテム「ステーキナイフ」が必要
+[NEEDS 'PARK RANGER' ALLY]|解放条件:｢自然保護官」が#仲間にいること
+All nearby trees are connected underground. The main branch leads east. You make a mental note to avoid the region.#(+5 EXP)|そばにある木は全て地下でつながっていた。#主枝は東に伸びている。#その場所には行かないようにしようと#心に留めておく。#(EXP+5)
+The bark is flabby and sticky. It makes you recoil in horror.#(-2 REASON)|たわみのある樹皮がネバネバと手にまとわりつく。#あなたはぞっとして、怯んでしまう。#(理性-2)
+You cut the tree and quench your thirst with the dark red sap.#(+3 STAMINA)|あなたは木を切って、#濃厚な赤い樹液で渇きを癒やした。#(スタミナ+3)
+CLIFFSIDE RITUAL|断崖での儀式
+<<The ocean is hungry.>>##You're stopped by a person with a knife. They look incredibly sad.#<<It wants me... but I'm afraid I'm too much of a coward to do it myself... C-can you help me?>>|<<この海は飢えている。>>##あなたを呼び止めたその者の手には、#ナイフが握られていた…#悲壮に暮れた表情をしている。#<<海が呼んでいる…だけど、臆病者だから#自分じゃできなくて…て、手伝ってくれる？>>
+talk them out of it|説得する
+let them kill themselves|手伝う
+[NEEDS 'FAST HANDS' PERK]|パーク「手先の器用さ」#が必要
+knock the weapon out of their hands|ナイフを叩き落とす
+After a long conversation, they hand you the knife and thank you.#(+ ITEM)|ひとしきり話をすると、#相手は持っていたナイフを渡し、#あなたに礼を言った。#(+アイテム)
+Unable to convince the person, you close your eyes as they jump off the cliff.#(-2 REASON)|説得は失敗に終わる…#崖から身を投げるその姿を見て、#あなたは目を瞑った。#(理性-2)
+You close your eyes when they jump off the cliff. Maybe it will calm the ocean...#(-2 REASON)#(-2% DOOM)|崖から身を投げるその姿を見て、#あなたは目を瞑った。#これで海が鎮まるかもしれない…#(理性-2)#(破滅値-2%)
+You distract them and knock the knife out of their hand. It seems to break the spell and they thank you.#(-5% DOOM)|相手の気を逸らし、手からナイフを叩き落とす。#すると、その者はまるで呪いが解けたかのように、#感謝の言葉を述べた。#(破滅値-5%)
+RAINING BLOOD|血の雨
+A woman jumps out of her apartment covered in gore. Between sobs, she tries to explain what happened.##She was taking a shower when suddenly the showerhead started spraying blood.##A trail of blood leads into the dark apartment...|アパートから血まみれの女性が飛び出てくる。#嗚咽をあげながら、#彼女は何が起きたのかを説明しようとした。##その話によると、シャワーを浴びていたとき、#突然シャワーヘッドから血が噴き出したという。##血の跡が、その暗いアパートへと続いている…
+calm her down|彼女を落ち着かせる
+check the bathroom|浴室を調べる
+The woman sniffs and smiles weakly. You feel like you've prevented something awful.#(+4 REASON)|女性は鼻をすすり、弱々しく微笑んだ。#恐ろしい結末を防げた気がする。#(理性+4)
+When you touch her shoulder, she gets hysterical.##Her reaction shocks you. You move away as more neighbors enter the corridor.#(-2 REASON)|あなたの手が肩に触れると、#彼女はヒステリーを起こした。##その反応に、思わず動揺してしまう。#通路に隣の部屋の住人たちが群がってきたため、#あなたはその場を離れた。#(理性-2)
+You don't enter the bathroom.##Instead, you go straight to the building's boiler room. One pipe, coming from the ground, looks like it was welded to the central system recently. Where does it lead?#(+5 EXP)|あなたは浴室には入らず、ボイラー室へと向かった。##地面から一本の配管が伸びている。#最近になって熱源装置に溶接されたようだが…#一体、どこに繋がっているのだろうか。#(EXP+5)
+You don't find anything.##The smell of blood makes you weak.#(-1 STAMINA)|あなたは何も見つけられなかった。##血の匂いで、力が抜けてしまう。#(スタミナ-1)
+PETTY THIEF|コソ泥
+While you walk through the crowded space, someone bumps into you and quickly apologizes.|混雑した場所を歩いていると、#誰かがあなたにぶつかり、#すぐさま謝ってきた。
+realize what's happening|事態に気づく
+They stole your wallet! You quickly grab their arm, and they drop it before disappearing in the crowd.#(+5 EXP)|財布がない！#すかさず腕を掴むと、その者は財布を落とし、#人混みの中へと姿をくらました。#(EXP+5)
+Before you realize your wallet is missing, the thief is long gone.#(-2 FUNDS)|財布がないことに気づいた頃には、#すでに犯人は姿をくらましていた。#(所持金-2)
+VENETIAN SOCIETY|秘密結社
+That pair has been following you since morning. You finally manage to lose them but can't shake the feeling that it will only get worse.#(-2 STAMINA)|朝からずっと、あの二人組に跡を付けられている。##やっとの思いで尾行を撒くことができたものの、#事態は悪化する一方なのではという#不安が拭いきれない。#(スタミナ-2)
+SUBSTITUTE TEACHER|臨時教師
+A tall woman with an unsettling face and twitching lip stops you.##<<I'll be youR new b-biology teacher... coUld you help me move some stuff to my New office?>>|校内を歩いていると、不気味な長身の女性に#呼び止められる。#唇がぴくぴくと痙攣していて、明らかに様子が#おかしい。##<<私、今度かラ新しク、せ、生物ノ先生に#无るんダけど…以くツか準備室に物ヲ運びたいの。#手伝ってくれル？>>
+help her|手を貸す
+decline|断る
+She suddenly grabs your hand.#<<oOh I iNsiSt......>>##(-2 REASON)|突然、彼女に手を掴まれる。##<<ネェ…於ネ蛾ィ…>>#(理性-2)
+The creepy substitute teacher hands you some old books to carry. Among the mundane titles, you find one called 'EXTINCTION OF MANKIND'.##You shudder, feeling the teacher's gaze on your back.#(+5 EXP)|これを運ぶようにと、彼女から古びた本を#何冊か渡される。#何の変哲も無い、ありふれたタイトルの数々。#その中で、あなたは『人類絶滅』という本が#あるのを目にしてしまう。##教師の視線を背中に感じ、あなたは身震いした。#(EXP+5)
+The creepy substitute teacher hands you dusty, old biological specimens.##The rancid smell of Formalin almost makes you drop the jar. Should fetuses have so many legs?...#(-2 STAMINA)|埃まみれの古い生物標本を渡されたあなた。##ホルマリンの腐臭が鼻をつき、#つい瓶を落としそうになる。#こんなに足のある胎児がいるのだろうか…#(スタミナ-2)
+◯◯|◯◯
+SLEEPING NURSE|居眠り中の看護婦
+You enter the hospital looking for information about a certain patient. The main corridor is dark and strangely empty.##You spot a nurse at the registration booth. She’s asleep from exhaustion.|ある患者についての情報を求めて、#病院に入ったあなた。#正面廊下は暗く、異様なほど人がいない。##受付の窓口で一人の看護婦を見つける。#仕事の疲れからか、#その場で寝てしまっているようだ。
+sneak past her|こっそり通り過ぎる
+let her sleep|寝かせたままにする
+set trash can on fire|ゴミ箱に火をつける
+fake an injury|病気のフリをする
+[NEEDS 'FIRST AID' PERK]|パーク「応急処置」が必要
+You've managed to sneak past her and rummage through the cabinet. Finally, you locate the information you were looking for.#(+10 EXP)|彼女の横をこっそり通り抜けて、#棚の中を物色することに成功する。#ようやく、欲しい情報を見つけることができた。#(EXP+10)
+You've managed to sneak past her. Unfortunately, the old cabinet squeaks loudly, waking the nurse.##You’re thrown out of the hospital.#(-1 REASON)|彼女の前をこっそりと通り過ぎることに成功する。#だが不幸にも、古くなった棚が大きく軋んで、#彼女が目を覚ましてしまう。##あなたは病院から追い出された。#(理性-1)
+You abandon the idea of stealing the patient’s document. It will hamper your investigation for sure, but a well-rested nurse means a safer hospital.##(+2% DOOM)#(HOSPITAL'S THREAT LEVEL -1)|あなたは患者の書類を持ち去ることを断念した。#調査が捗らないのは間違いないが、#彼女が十分休んでくれれば、#結果的にそれが病院の安全確保にもつながる。#(破滅値+2%)#(病院の危険度-1)
+You set the trash can on fire. It causes wide-spread panic, but it allows you to rummage through the cabinet and find the information you need.#(+10 EXP)#(HOSPITAL'S THREAT LEVEL +1)|ゴミ箱に火をつけると、#院内はパニック状態になる。#あなたはどさくさに紛れて棚の中を物色し、#さらに求めていた情報を見つけることができた。#(EXP+10)#(病院の危険度+1)
+By faking an illness you manage to convince the nurse that you need immediate help.##As she runs for a doctor, you rummage through the cabinet.#(+10 EXP)|あなたは病気のフリをして、#看護婦に急患だと思い込ませた。##そして彼女が医者を呼びに走っている間に、#あなたは棚の中を物色するのであった。#(EXP+10)
+YATSUHAKA-MURA|八つ墓村
+It's getting dark as you arrive at the cemetery and shadows move in fantastic and unaccountable ways between the tombstones.##Finding the right grave may prove to be a challenge, especially when you feel someone's gaze on your back.|辺りが暗くなる中、あなたは墓地に足を踏み入れた。#墓石の間から、不可解な動きをする影がちらつく。##それに加え、背中に何者かの視線を感じる。#このまま目的の墓を探すのは難しいかもしれない。
+continue looking|そのまま探す
+confront the stranger|謎の人物に立ち向かう
+run in terror|恐怖に駆られて逃げ出す
+dig out the package|小包を掘り出す
+[NEEDS 'SHOVEL' ITEM]|アイテム｢シャベル｣が必要
+You quickly find the tombstone marked with red string.##Under a stone, you find a note someone left for you.#(+5 EXP)|早速、赤い糸で印をつけられた墓石を見つけた。##石の下に、誰かがあなたに残したメモがある。#(EXP+5)
+You can't seem to find the right tombstone and waste a lot of time before finally admitting defeat.#(+2% DOOM)|なかなか墓石が見つからず、#時間を無駄にしてしまう。#結局は途中で諦めるしかなかった。#(破滅値+2%)
+You whirl around and see who’s behind you. Luckily, the other person is a kind old lady who points you to the tombstone you were looking for.##Under a stone, you find a note someone left for you. #(+5 EXP)|後ろを振り向くと、#そこに誰がいたのか分かった。#幸運にも、あなたはその親切なおばあさんに#目的の墓石を教えてもらうのであった。##墓石の下に、誰かがあなたに残したメモを見つける。#(EXP+5)
+A priest from the nearby temple asks what you were doing. When you can't make up a lie, you are thrown out.#(-1 STAMINA)|近くの寺の住職に、#ここで何をしていたのかと聞かれる。#あなたはうまく誤魔化すことができず、#追い出されてしまう。#(スタミナ-1)
+It's too much for you! You flee in terror, leaving the cemetery behind!#(-1 REASON)|もう耐えられない！#あなたは恐怖のあまり、その墓地から逃げ出した。#(理性-1)
+Using a shovel, you dig out a package that was hidden underneath the marked tombstone.##You retrieve the letter and a dirty envelope with cash.#(+5 EXP)#(+2 FUNDS)|印の付いた墓石。#あなたはシャベルを使って、#その下にある土を掘り出した。##そこから、#手紙と現金入りの汚れた小包封筒が出てくる。#(EXP+5)#(所持金+2)
+DEAD MAN'S FLOAT|浮かぶ水死体
+You enter the damp-smelling sport wing.##You notice a backpack drifting on a swimming board in the middle of the pool. Could it be what you were looking for?|あなたは体育棟の中に入った。#湿っぽい臭いが鼻をつく。##プールの真ん中にビートバンが浮かんでおり、#その上にリュックが置かれている。#あれが探していたものかもしれない。
+enter the water|プールに入る
+You enter the pool and start swimming towards the backpack.##Suddenly, the water turns murky, and you realize you're not alone in the pool...|プールに入り、ビート板の方に向かって泳ぎ出す。##すると突然、水が黒く濁り始める。#そこにいたのは、#あなただけではなかったのだ…
+DRIFTING CLASSROOM|漂流教室
+Something is wrong...##Instead of a clear blue sky, you see the bloated corpse of a long-forgotten deity looming over the school's roof.##The barrier between worlds is coming apart. You must hurry or risk being noticed by whatever other eldritch horrors still lurk here.|どこか不穏な感じがする…#本来であれば、澄み切った青空が見えるはずの屋上。#空を見上げると、そこには驚愕の光景が#広がっていた。#長きにわたり、忘れ去られていた巨大な神。#その死体が、学校の屋上を覆い尽くしていたのだ。#向こうの世界との境界線が崩れつつある。#急がなければ…#この世界に潜む、他の怪異にも気付かれてしまう。
+try to sneak|こっそりと逃げる
+run|走り抜ける
+You succeed in grabbing the backpack and return to the staircase leading back to our world.#(+10 EXP)|何とかバックパックを手に入れ、#元の世界へと繋がる階段に戻った。#(EXP+10)
+You raise your head in time to see ATH-YOLAZSTH's single eye glaring down at you.#You scream as your mind is flooded with forbidden knowledge and your skin is etched with ancient runes and curses.#(+20 EXP / + CURSE)|空を仰ぐと、アトゥ＝ヨラズスの単眼が#こちらを見下ろしていた。#あなたが悲鳴を上げると、#禁断の知識が濁流のように頭へ流れ込む。#そして、古のルーン文字と呪印が、#肌に刻み込まれてしまう。#(EXP+20 / +呪い)
+You succeed in grabbing the backpack and return to the staircase leading back to our world.#(+10 EXP)|何とかバックパックを手に入れ、#元の世界へと繋がる階段に戻った。#(EXP+10)
+You raise your head in time to see ATH-YOLAZSTH's single eye glaring down at you.#You scream as your mind is flooded with forbidden knowledge and your skin is etched with ancient runes and curses.#(+20 EXP / + CURSE)|空を仰ぐと、アトゥ＝ヨラズスの単眼が#こちらを見下ろしていた。#あなたが悲鳴を上げると、#禁断の知識が濁流のように頭へ流れ込む。#そして、古のルーン文字と呪印が、#肌に刻み込まれてしまう。#(EXP+20 / +呪い)
+GYM DOLL|体育館の人形
+As you enter the school gym, you notice a strange black doll propped up against the wall.|学校の体育館に入るあなた。#すると、壁に奇妙な黒い人形が#立てかけられていることに気付く。
+come closer|もっと近づく
+realize what it is|その正体に気付く
+[NEEDS 'ANATOMY CLASS' PERK]|パーク｢解剖学の授業｣が必要
+Against your better judgment, you approach the doll. What you see makes you gasp in horror.##The doll isn't a doll. Your sudden movement causes tiny black spiders to flee, revealing a white, half-eaten corpse#(-2 REASON)|嫌な予感を抱えながらも、人形に近づくあなた。#その光景が目に入った瞬間、#あまりの恐怖に息を呑む。##それは、人形ではなかったのだ。#急に近づいたせいか、#小さな黒い蜘蛛たちが逃げ出す。#すると、白い食べかけの死体が現れた。#(理性-2)
+You don't have to come closer to realize what the weird black doll is, letting you avoid the nasty surprise.##You escape the gym, remembering to alert someone about the corpse.#(+2 REASON)|この黒い人形が何なのか、#これ以上近づかなくても解る。#触らぬ神に祟りなしだ。##あなたはこのことを記憶に留めつつ、忘れずに#誰かに伝えようと思いながら体育館を抜け出した。#(理性+2)
+CRAB FEAST|カニのご馳走
+Crabs are feasting on a bloated corpse, carried to the beach by waves.|波によって浜辺へと運ばれてきた水死体に、#カニたちが群がっている。
+search the body|死体を調べる
+escape|逃げる
+Inside the man's pocket, you find documents. They’re all strangely dry.##Did the man really drown or was he brought here?...#(+10 EXP)|男のポケットから紙きれを見つけた。#奇妙なことに、そのどれもが乾いている。##本当に溺れたのか、#あるいはここに連れてこられたのか…#(EXP+10)
+Reaching for the body, you’re attacked by several crabs that don’t want to share their meal.#(-2 STAMINA)|死体に手を伸ばすと、#食事を横取りされたくないカニたちに#襲われてしまう。#(スタミナ-2)
+You escape the beach, sure that the crabs won't leave anything but bones...#(-1 REASON)|浜辺から逃げる。#あの死体は骨以外何も残らないだろう。#(理性-1)
+FISH HEADS|魚頭
+A nauseating stench stops you. Someone has scattered rotting fish guts everywhere and hung up countless fish heads.##You cover your mouth as you slowly retreat. A vast flock of seagulls outside viciously attack the windows.#(-1 STAMINA / -1 REASON)|吐き気を催すような悪臭に、#思わず足が止まってしまう。#何者かが腐った魚の内臓を至る所にばらまき、#無数の魚の頭を吊るしていったのだ。##あなたは口を塞ぎ、おそるおそる退散した。#外ではカモメの大群が、#窓ガラスに激しくぶつかって割ろうとしている。#(スタミナ-1 / 理性-1)
+METRO RIDE|誰もいない地下鉄
+The only metro line in your town connects the university and the science complex.##You could take a ride to gain some time, but you've got a feeling something is wrong.##Where are all the people?|大学と科学施設を結ぶ#この町、唯一の地下鉄。##時間短縮のために乗ってみてもいいだろう。#…だが、どこか違和感がある。##乗客は全員、どこへ…？
+take a ride|乗車する
+decide to walk|歩いて行く
+Even though the metro car is completely empty, you arrive at your station without any problems, saving valuable time.#(-2% DOOM)|車内には誰一人としていなかったが、#特に何事もなく目的の駅に到着する。#時間を節約することができた。#(破滅値-2%)
+Something is clearly wrong. There are no lights inside the metro car, and all you can see are countless handprints pressed onto the windows...#(-2 REASON)|明らかに何かがおかしい。#車内に明かりはない。#あなたがそこで目にしたのは、#窓に押し付けられた無数の手形だった…#(理性-2)
+Walking to your destination takes precious time.#(+1% DOOM)|徒歩での移動で、#貴重な時間をムダにしてしまう。#(破滅値+1%)
+SUNSET BREAK|夕暮れ時の休憩
+You meet with your friend, who has recently started her nurse practice. You lazily chat on the roof of the hospital, watching the sunset.##Now would be the perfect opportunity to ask about the recent unearthly events.|あなたは友人と会った。#最近、看護婦の仕事を始めたばかりだという。#病院の屋上で夕日を見ながら、#のんびりとお喋りをする。##近頃起きている不可解な出来事…#これらについて聞いてみるなら、#今こそ絶好の機会だろう。
+ask about them|話題に出す
+don't ruin the calm moment|話題に出さない
+Her stories about missing patients, mysterious surgeries, and a strange infection are helpful, but they kill the mood.##You must leave this place.#(+10 EXP / -2 REASON)|行方不明の患者、謎の手術、奇妙な感染症など…#参考になる話を聞けたが、#その場の雰囲気は台無しになってしまった。##もう帰らなくては。#(EXP+10 / 理性-2)
+Sometimes it's better not to know. You chat until your friend's break is over.#(+1 REASON)|世の中には知らない方がいいこともある。#休憩時間が終わるまで、#友人とお喋りをした。##(理性+1)
+NEXT MOVE|次の予定
+As you prepare a bath, you think about all the possible leads so far. ##You’re very tired, so maybe ice-cold water is a good idea.|風呂の準備をしながら、これまでに掴んだ#手がかりについて考えてみる。##疲れが溜まっているから、#冷たい風呂の方がいいかもしれない。
+cold bath|冷たい風呂に入る
+hot bath|熱い風呂に入る
+Ice cold water revitalizes you and you're ready for the investigation.#(+10 EXP)|冷たい水でリフレッシュする。#調査を進める準備が整った。#(EXP+10)
+Your body clearly wasn't prepared for a cold bath and you can feel a cold coming on.#(-2 STAMINA)|冷たい水に体が慣れていなかった。#風邪を引きそうな気がする。#(スタミナ-2)
+The hot bath is so inviting that you've spent an extra hour in it.#(+1% DOOM)|あまりに気持ちよくて、#ついつい1時間以上も長風呂してしまう。#(破滅値+1%)
+PETRIFIED FOREST|石化林
+Drooping tree branches hang over the path, framing it in an almost macabre way.##It's... almost inspiring?|長く垂れ下がった木の枝が、#道の両脇で不気味なまでに揺らいでいた。##何だか…吸い込まれそうな気がする。
+get lost in thoughts|思案に暮れる
+get a grip|気を引き締める
+You get completely lost in your thoughts. You wander around the woods for a long time, but you’re sure you have some new leads in your investigation.#(+10 EXP)|すっかり考え事にふけるあなた。#この森の中を長らく彷徨っていたが、#ここで新たに調査の手がかりを得られた。#(EXP+10)
+You get completely lost in your thoughts and fall into a hole that was clumsily covered with branches and leaves.##Who set up this trap, and for whom?#(-2 STAMINA)|我を忘れて考え事をしていたところ、#あなたは枝葉に覆われた穴へと落ちてしまう。##誰が、何のために、こんな罠を仕掛けたのだろう…#(スタミナ-2)
+You quicken your pace and leave the menacing path.#(-1 REASON)|あなたは足早に、その恐ろしい道から離れた。#(理性-1)
+AGENTS OF GOIZO|ゴイゾの眷属
+You try to avoid mirrors, afraid of what could be waiting for you on the other side.#(-1 REASON)|鏡の向こう側に、何が待ち構えているのだろうか…#怖くて、鏡を見られない。#(理性-1)
+PILLAR OF FLAME|炎の柱
+A sudden blast of heat grabs your attention. An older man standing next to you screams in pain as he’s engulfed in fire from seemingly nowhere.#As other people start to panic and help the burn victim, you spot a hooded woman standing in the distance. When she sees you, she starts to run!##You can't shake off the feeling that _you_ were the target of this supernatural attack.|突然の熱風に目が眩む。隣にいた年配の男性が#突如現れた炎に包まれ、悲鳴を上げる。#周りの人たちが慌てて彼を助ける中、#あなたは遠くにフードを被った女を見かけた。#こちらに気付くなり、すぐさま女が逃げ出す。#普通に考えれば、ありえない現象だ…#もしかして、狙いは自分だったのか？#そんな疑念が頭から離れない…
+pursue the hooded woman|フードの女を追う
+The hooded woman disappears behind a corner and when you get there she's gone, already mixed in with a crowd.#In a nearby dumpster, you find the sulfur-stinking hoodie and an envelope containing your photo, plus a curious incantation...#(+ SPELL)|フードの女は曲がり角の奥へと消えてしまう。#あなたがそこに着いた時には、#彼女はすでに人混みの中に消えていた。#そばにあったゴミ箱から、#硫黄臭いパーカーとあなたの写真が入った封筒、#そして奇妙な呪文を発見する。#(+呪文)
+The hooded woman disappears behind a corner and when you get there she's gone, already mixed in with a crowd.#They failed to stop you today, but you're sure they’ll try again and again...#(+2% DOOM)|フードの女は曲がり角の奥へと消えてしまう。#あなたがそこに着いた時には、#彼女はすでに人混みの中に消えていた。#今日は失敗したようだが、#また何度でも襲ってくるはずだ…#(破滅値+2%)
+BAD FEELING|胸騒ぎ
+Despite your best efforts, you feel like the neighborhood is starting to change...#(LOCATION'S THREAT LEVEL INCREASES)|あなたの健闘もむなしく、#この一帯はおかしくなり始めていた…#(調査ポイントの“危険度”が上昇)
+VITAL CLUE|重要な手がかり
+The investigation is taking a toll on you. You start to miss the most obvious leads.#(+4% DOOM)|調査が進むにつれ、体力も精神も#限界に近づいてくる。#その結果、決定的な手がかりさえ#見逃すようになってしまう。#(破滅値+4%)
+BLACKCOAT RAFFLE|黒い法被のテキ屋
+>>theRe, theRe! WoUld you like to test your luck at tt-this fiNe game?<<|>>寄ってらッしゃイ、見テらっしゃい！#このイケてるゲームで#アんチャンも運試しシてミなイ？<<
+get one ticket|くじを1枚引く
+get two tickets|くじを2枚引く
+walk away|通り過ぎる
+>>we'Ve gOt a win-ner!<<#The creepy vendor hands you your prize.##>>s-See you soon-<<#(+2 FUNDS)|>>大当たりガ出たア！<<#怪しいテキ屋から景品を受け取る。##>>嘛マた來な！<<#(所持金+2)
+>>n-not your llucky day, sorRry!<<#The creepy vendor smiles.##>>s-See you soon-<<#(-1 FUNDS)|>>ざんネン！今日はツイて柰かッたナ！<<#怪しいテキ屋が笑う。##>>嘛マたキな！<<#(所持金-1)
+>>i-I'm sorRy! Y-you can't affo-rd a raf-fle ticket!<<#(-1 REASON)|>>ざんネン！くじヲ引ク余裕ワねェ繪ようダな！<<#(理性-1)
+>>A sPec-cial pR-Rize for y-you...<<##The creepy vendor hands you a map of the village. One building is marked with a red circle.|>>トク別无な景品ダ兊ゼ昰…<<##不気味な男から村の地図をもらった。#ある建物に赤い丸印が付けられている。
+You walk away, not wanting to part with your money.|お金を使いたくないので、その場を立ち去った。
+TRIAL OF BLOOD (KNIVES)|血の試練 (刃の恐怖)
+Following the winding staircase, you find a metal gate that blocks your way. #It's locked, but you notice an electrical cable. It seems to connect the door to a hole inside the central pillar.##If there's a switch inside, you'll have to risk getting cut by the numerous glass shards and knives.|螺旋階段を進むと、金属製の扉に行く手を阻まれる。#鍵がかかっているが、#そばに電気ケーブルがあるのが見えた。#これが中央の柱にある穴と扉を繋いでいるようだ。##もし、この中に何かの仕掛けがあるとしたら、#無数のガラス片や刃物に#切り刻まれる覚悟でやらなければ。
+find a switch|ボタンを探す
+(not enough dexterity)#You can feel the sharp glass ripping your flesh as you search for the switch. Finally, you grab a cable and follow it with your bleeding fingers until you find the button...##With a buzz, the gate opens.#(-3 STAMINA)|(敏捷性が足りない)#スイッチを探す間も、鋭いガラスが#肉を切り裂いていく。#あなたはようやくケーブルを掴み、血だらけの指で#その先にあるボタンを探り当てた。##ブザー音とともに扉が開く。#(スタミナ-3)
+You've managed to locate the door switch while avoiding the knives and glass shards.##With a buzz, the gate opens.#(+10 EXP)|何とかナイフやガラスの破片を避けながら、#スイッチを見つけることができた。##ブザー音とともに扉が開く。#(EXP+10)
+TRIAL OF BLOOD (ACID)|血の試練 (酸の恐怖)
+Following the winding staircase, you find a metal gate that blocks your way. #A cable that should be powering it is currently disconnected. The powerbox itself is covered in a weird moist goo.##Just inhaling the fumes makes your eyes itch and water, but to power the gate you'll need to disconnect a faulty plug.|螺旋階段を進むと、金属製の扉に行く手を阻まれる。#ゲートを動かすケーブルは断線しており、電源装置も変に湿った粘液で塗れていた。##そのガスを吸い込むだけで目がかゆくなり、#涙が出てくる。だが、扉を動かすためには、#故障したプラグを取り外さなければならない。
+disconnect the faulty plug|故障したプラグを引き抜く
+(not enough strength)#You’re surprised at how much effort it takes to disconnect the faulty plug. As you force it, the weird goo burns your fingers...##Finally, you manage to separate the faulty plug and connect the proper cable.#With a buzz, the gate opens.#(-3 STAMINA)|(筋力が足りなかった)#プラグを外すのに、意外と手間取ってしまった。#力を入れて引き抜くと、あの奇妙な粘液に#指を焼かれてしまう…#やっとの思いで故障中のプラグを取り外し、#正しいケーブルを繋ぐことができた。#ブザー音とともに扉が開く。#(スタミナ-3)
+Weird goo burns your fingers, but you quickly manage to separate the faulty plug and connect the proper cable.#With a buzz, the gate opens.#(+10 EXP)|奇妙な粘液に指を焼かれるも、#あなたは素早く故障したプラグを取り外し、#正しいケーブルを繋げることに成功した。#ブザー音とともに扉が開く。#(EXP+10)
+TOWERING EYE'S PROPHET|邪眼の代弁者
+People point at and talk about a man on the other side of the street.##He looks confused, muttering to himself while occasionally touching a festering wound on his cheek.##You stop in your tracks and listen to the man's cursed incantation...#(-2 REASON)|通りの反対側にいる男を指差して、#人々が話し込んでいる。#男は頭がこんがらがっているようで、#時折、頬の化膿した傷に触れながら#独り言を呟いていた。##彼が口ずさむ呪文に#足を止めて聞き入ってしまう…#(理性-2)
+SEAMSTRESS STORY|お針子さん
+There's a local legend about a heartbroken seamstress. One stormy night, she broke into a local inn and stitched the unsuspecting guests together. Her final, gruesome artwork...##But that's just a legend, right?|地元に、悲しいお針子にまつわる言い伝えがあった。#ある嵐の夜、地元の宿に忍び込んだ彼女は、#無防備に眠っている客たちの手を縫い合わせ、#おぞましい作品を残して逝ったらしい。##だがそれも、ただの言い伝えだろう。
+rifle through the cupboard|食器棚を漁る
+check out the sewing machine|ミシンを調べる
+Inside the cupboard, you find a sewing kit and decide to leave the room before any legends spring to life.#(+ ITEM)|戸棚の中から裁縫道具が見つかる。#あなたはあの言い伝えが甦るまえに、#部屋を出ることにした。#(+アイテム)
+On the sewing machine, you spot a strange engraving. When you get closer to investigate, your mind is flooded with forbidden knowledge. You leave the room quickly.#(+ SPELL)|ミシンを見ると、#奇妙な刻印があることに気づく。#近づいて調べてみると、#禁断の知識が頭の中に溢れ出す。#あなたはすぐさま、その部屋から出て行った。#(+呪文)
+I'vE fOuNd yOu aT lAsT...|見ーツけタァ…
+i'Ve foUnD YoU At LaSt...|見ーツケたァ…
+I'Ve fOuNd You aT laST...|ミーつケたぁ…
+PILLAR OF DOOM|呪われし石柱
+The whole building begins to shake as you enter the room.##Suddenly, a stone pillar bursts through the floor where you stood just seconds ago!##Noticing the arcane symbols painted on the stone, you take a step closer...|その部屋に入った途端、建物全体が揺れ始めた。##そこに突然、ついさっきまで立っていた床を#突き破り、石柱が現れる！##表面に不可解な印が描かれているのを目にした#あなたは、一歩近づいて…
+touch the stone|その石を触る
+retreat from the room|部屋から出る
+study the symbols|その印を調べる
+When your fingers touch the stone, the symbols disappear.##That's a good thing, right?...#(+10 EXP)|石に指が触れた瞬間、その印は消えてしまった。##これで良かったんだろうか…？#(EXP+10)
+When you reach out to touch the stone, you’re shocked at how hot the surface is. It burns your fingers!#(-2 STAMINA)|石に手が触れた瞬間、予想外の熱さに驚く。#指を火傷してしまった！#(スタミナ-2)
+You leave the strange room as the stone slowly disappears underground...#(-1 REASON)|その奇妙な部屋を出るあなたの後ろで、#石柱がゆっくりと地中に消えていった…#(理性-1)
+You recognize some of the symbols from a stone tablet you saw at the museum.##What's the connection?#(+10 EXP)|以前、美術館で見た石板のものと#似ている気がする。##何か繋がりがあるのだろうか？#(EXP+10)
+You try to recognize the symbols, but they shift and change right before your eyes!##Dizzy, you escape the room as blood oozes from your nose.#(-2 REASON)|何とかその印を解読しようとするも、#目の前で模様が変わっていってしまう！##眩暈がする…#鼻から血が滲ませながら、#あなたはその部屋から抜け出した。#(理性-1)
+RED INN|鮮血に染まる宿
+Worried and furious about the hole in the wall, you enter the inn from the back, trying to find the room that connects with yours. Thinking you've finally found it, you enter and...##All walls are covered with blood and gore! Someone has scribbled weird symbols everywhere. You spot _something_ on the nightstand but there's too much flesh and blood to tell what it is from here...|壁の穴が気になって仕方がない。#あなたは裏から宿に入り、#自室とつながっている部屋を探そうとした。#そうして、やっと見つけた部屋の中に入ると…##壁一面が血と肉で覆われていた。#加えて、至る所に奇妙な印が描き散らされている。#脇机の上に何かが見えるも、部屋中が血と肉で#溢れかえり、ここからではよく分からない…
+pick up the thing|それを手に取る
+For a second, you were worried it was a skull you had in your hands - but as you wipe more blood off, it's clear you've picked up a weird looking mask.#(+ ITEM)|一瞬、頭蓋骨を取ってしまったのかと心配したが、#血を拭き取ると、それが異様な形をした#仮面であることに気付く。#(+アイテム)
+The gore is too much for your stomach! When you finally compose yourself, you grab the thing.##For a second, you were worried it was a skull you had in your hands - but as you wipe more blood off, it's clear you've picked up a weird looking mask.#(+ ITEM / -2 STAMINA)|その凄惨な光景に、胃の中のものを#吐き出しそうになる！#ようやく落ち着き、その物を掴み取るあなた。##一瞬、頭蓋骨を取ってしまったのかと心配したが、#血を拭き取ると、それが異様な形をした#仮面であることに気が付く。#(+アイテム / スタミナ-2)
+CONSPIRANT (DELINQUENT GIRL)|共謀 (スケバン少女)
+You are stopped by a girl wearing dirty black school uniform.##<<I'm sorry, but I can't let you go any further.>> she says, reaching for her bag. <<It's too late anyway.>>##You instinctively take a step back when you notice a knife in her hand. You have to think fast!|黒く汚れた制服を着た少女に呼び止められる。#<<悪いけど、こっから先は行かせないから。>>#そう言って彼女は、カバンに手を伸ばした。#<<どのみち、もう手遅れなんだよ。>>##その手にナイフが握られていることに気づき、#本能的に身を引く。#どうする…すぐに考えなければ！
+try to reason with her|説得する
+You try to talk her into allowing you to pass.##<<It's too late anyway...>> she whispers again, letting you continue. The delinquent girl nods sadly as you pass her.#(+10 EXP)|何とか説得して、先に進もうとする。#<<もう手遅れなのよ…>>#彼女は先ほどと同じことを呟きつつ、#あなたを奥に通した。#通り過ぎる際、悲しげに頷く姿が目に入る。#(EXP+10)
+(not enough charisma)#You try to talk her into allowing you to pass but suddenly, she raises the knife and slices right across her own throat, nearly decapitating herself!##You carefully step over her body...#(-2 REASON)|(カリスマが足りなかった)#何とか彼女を説得して通ろうとする。#だが突然、彼女は持っていたナイフを振り上げて、#首を切り落とす勢いでその喉を切り裂いた…##あなたは慎重にその体を跨いで、先へと進んだ…#(理性-2)
+VEIL OF DARKNESS|夜の帳
+Following the winding staircase, you are stopped by... darkness.##A thick black cloud is obscuring your vision and you can swear _something_ is waiting for you inside of it.|曲がりくねった階段の先で足を止める。#そこには…闇が広がっていた。##視界を遮るほどの濃い黒煙。#この中で“何か”が自分を待ち構えている…#そんな予感がした。
+continue climbing|そのまま上る
+light your way|暗闇を照らす
+[NEEDS A LIGHT SOURCE]|[光源]が必要
+The light source seems to somehow repel the darkness and you continue to climb the staircase, safe.#(+10 EXP)|明かりを使って、どうにか闇を退ける。#そしてそのまま、何事もなく階段を上り続けた。#(EXP+10)
+You decide to brave the veil. You finally emerge a while later, safe. You can't, however, explain the blasphemous whispers you heard.#(-3 REASON)|意を決して、あの闇の中をくぐり抜けることにする。#時間はかかったものの、無事にその試みは成功した。#だが、そこで耳にした冒涜的な囁きを#理解することはできない。#(理性-3)
+TRIAL OF BLOOD (ELECTRICITY)|血の試練 (電気の恐怖)
+Following the winding staircase, you are stopped by a metal gate.##The tiny page nailed to the gate explains that opening the gate will require you to grab two metal rods. Using your own body as a natural conductor you will power up the gate.|螺旋階段を進むと、金属製の扉に行く手を阻まれる。#そこに釘打ちされた説明書きを読むと、#扉を開けるには二本の金属棒を掴まなければならないと記されていた。#自らの体を導体として、あの扉に電気を通すのだ。
+grab the metal rods|金属棒を掴む
+(not enough knowledge)#You grab the rods, electricity flowing through your body and burning the nerve endings! The pain is almost unbearable but...#with a buzz, the gate opens.#(-3 STAMINA)|(賢さが足りない)#棒を掴んだ瞬間、体中に電気が駆け巡った！#神経の先まで焼き尽くされるような、#耐えがたい痛みが広がる。#そして、ブザー音とともに扉が開いた。#(スタミナ-3)
+(knowledge check: passed)#You are about to grab the rods, when you notice the dials and buttons. You toy with them for a bit before adjusting both voltage and current so it's safe for you to grab them.#With a buzz, the gate opens.#(+10 EXP)|(賢さチェック: 成功)#棒を掴もうとしたその瞬間、#近くにダイヤルとボタンがあることに気付く。#少しいじってから電圧と電流を調整し、#安全に掴めるようにする。#すると、ブザーとともに扉が開いた。#(EXP+10)
+GARBLED MEMORIES|ぼんやりとした記憶
+Following the winding staircase, you are stopp-w-wait a minute...##Someone broke into your apartment, stole all the clues and newspaper clippings, and pinned them here! The more you study them, you discover you can't remember any of them... except one.##[SELECT THE TITLE OF THE SECOND MYSTERY YOU INVESTIGATED]|曲がりくねった階段の先で、#足を止めるあなた。ま、待て…#そこには見覚えのあるものが貼り付けられていた。#何者かがあなたのアパートに侵入し、手がかりから#新聞の切り抜きに至るまで全て持ち去ったのだろう。#じっくり見てみるが、どれもはっきり思い出せない…ただ一つを除いて。##[あなたが調査をした2つ目の謎を選択してください]
+(correct answer)#You rip the newspaper clipping of a case you seem to remember. Underneath it, is a tiny button. You press it and...#With a buzz, the gate opens.#(+10 EXP)|(正解)#うろ覚えながら、その事件に関する切り抜きを破く。#すると、その下から小さなボタンが見つかる。#それを押すと…ブザーとともに扉が開いた。#(EXP+10)
+(wrong answer)#Your head starts to hurt, is everything just something you've imagined?##The newspaper clippings suddenly disappear, so does the door, allowing you to continue.#(+5% DOOM)|(不正解)#頭が痛くなってくる。#あれは全て、自分の妄想だったとでも…？#すると突然、その切り抜きとともに扉が消えて、#先に進めるようになった。#(破滅値+5%)
+UPCOMING EXHIBITION|来たる展示会
+The museum started hanging up posters promoting the Greek art exhibition, unaware of the danger. The opening night may prove to be the last night for all of us.##ITHOTU is coming and now you know the date.#(+3% DOOM / +10 EXP)|ギリシャ美術展の宣伝ポスターが貼られ始める。#それがどれほど危険なことなのかも知らずに…#展示会の初日、その夜が私たちにとって#最期の夜となるかもしれない…##イトツのやってくる日が判明した。#(破滅値+3% / EXP+10)
+HUNTING PARTY|猟師の一団
+Hearing some rustling behind a bush, you decide to hide behind a tree.#There, you spot three men, each armed with a rifle. They are obviously looking for something... or someone.|茂みの向こうから物音が聞こえ、#あなたはすぐさま木の後ろに身を隠した。#3人の男が猟銃を持っている。##明らかに何か…#あるいは、“誰か”を探しているようだ。
+reveal yourself|姿を現す
+run|走り抜ける
+<<Hey there!>> says the hunter.#<<This forest is not safe at this hour. What are you doing here?>>##You try to ask about the danger but they just hand you a flashlight and point you to the nearest road. Something tells you, you should leave and not get on their nerves.#(+ ITEM)|<<おい！>>猟師が話しかけてくる。#<<この森は危険だ。こんな時間に何してる？>>#あなたは何が危ないのか尋ねようとした。#だが、彼らはただ懐中電灯を渡し、#一番近い道を指差すだけで何も言わない。#ここは彼らの神経を逆なでしないよう、#素直に立ち去るべきだと何かが告げている。#(+アイテム)
+You walk from behind a tree and wave. Suddenly, you hear a bang and feel an impact on your shoulder, which quickly turns into intense pain.#<<Damn! That's not him!>> You hear the scream of one of the men before everything gets dark.##When you open your eyes, you find yourself next to a road leading to the forest. Your wound is bandaged but you fear it's not enough.#(-2 STAMINA / + STATUS)|木陰から出て、猟師に手を振る。#すると突然、バンという音がして肩に衝撃が走った。#たちまち、鋭い痛みとなって広がる感覚。#<<くそっ！奴じゃない！>>#その叫び声を聞いた直後に、辺りが真っ暗になる。#目を覚ますと、あなたは森へと続く道のそばにいた。#傷に包帯が巻かれているが、これだけでは心配だ。#(スタミナ-2 / +｢応急手当｣)
+You run, quickly leaving the the hunter behind you. You stop when you reach the edge of the forest.#(+10 EXP)|素早く走り出し、#猟師たちを置き去りにする。#そして、森の端まで来たところで足を止めた。#(EXP+10)
+You decide to run from the suspicious men. Suddenly, you hear a bang and feel an impact on your shoulder, which quickly turns into intense pain.##<<Quick! Follow them!>> you hear the men but despite your injury, you manage to lose them behind you.#(+ INJURY)|不審な男たちから逃げ出そうとする。#突然、バーンという音がして、肩に衝撃が走る。#衝撃はたちまち激痛へと変わっていく。#<<急げ！追え！>>という男たちの声が聞こえる。#手負いの状態ではあったが、#何とか彼らを撒くことができた。#(+怪我)
+CRIME SCENE|犯行現場
+<<Stop! This is a crime scene!>>#You are halted by a sweaty police officer.##Behind him, two other policemen are packing something into black bags.|<<止まれ！ここは犯行現場だぞ！>>#汗だくの警察官に呼び止められる。##その後ろで、二人の警官が黒い袋に#何かを詰めていた。
+try to learn what happened|何が起こったのか探る
+focus on the officers|警官たちをよく見る
+You manage to catch a glimpse of an officer. He holds a glowing rock in his hand before packing it inside a bag. ##Could it be a meteorite the TV reporter talked about? You've got to return here later when the police are gone.#(+10 EXP)|ふと、一人の警官の姿が見えた。#彼は手に輝く岩を握り、それを袋に詰め込んでいた。##もしかして、テレビで報道されていた隕石だろうか？後で警察がいなくなったら、#ここに戻ってこなければ。#(EXP+10)
+You manage to catch a glimpse of a corpse with crushed head. Blood and gore is spilled everywhere on the sand.#(-2 REASON)|あなたの目に一瞬、#頭を潰された死体がちらっと見えた。#砂の上には血と内臓が散らばっている。#(理性-2)
+You notice something weird. Every 'officer' has a tiny tattoo on their neck. Who are they and what are they really doing here?!#(+10 EXP)|奇妙なものが、あなたの目に留まる。#どの警官の首にも、# “小さな刺青”が入っているのだ。#彼らは何者なのか…#そして、ここにいる本当の目的は何なのだろうか？#(EXP+10)
+<<What are you looking at? Scram or we'll lock you up for a night.>>#(-1 STAMINA)|<<何を見てるんだ？さっさと行け。#でないと、留置所に一晩ぶち込むぞ。>>#(スタミナ-1)
+BLOOD DRIVE|献血運動
+A pale woman wearing a nurse outfit stops you. <<Today, we are running a blood drive to help those in need.##You look... healthy, would you be so kind and help the community?>>|ナース服を着た、色白の女性に呼び止められる。#<<本日、血を必要とする方々のために、#私どもで献血活動を行っております。##あなたは…健康そうですね。#地域社会のためにも、協力いただけませんか？>>
+donate your blood|献血をする
+make an excuse|言い訳をする
+You feel like they took more blood than they should. You feel weak but fulfilled, knowing you are helping.#(-2 STAMINA / -3% DOOM)|必要以上に血を抜き取られた気がする。#多少ふらふらするが、誰かの役に立ったことで#心は満たされた。#(スタミナ-2 / 破滅値-3%)
+The weird nurse connects you to a machine in an empty room and leaves.##You feel weaker and weaker but only when the blood bag bursts open, spraying your blood everywhere, do the alarmed nurses free you from the contraption!#(-3 STAMINA)|何もない部屋で、不気味な看護師は#あなたを装置に繋いで去っていってしまった。##だんだん意識が遠のいていくのを感じる。#すると血液バッグが破裂し、#部屋中に血が飛び散ってしまう！#慌てた看護婦たちが、すぐに装置を外してくれた…#(スタミナ-3)
+You make an excuse and leave the disappointed nurse behind.#(-1 REASON)|あなたは言い訳をした。#がっかりした看護婦を置いて、その場を去る。#(理性-1)
+LOVESICK CORNER|恋わずらいの辻道
+They say a ghost of a heart-broken boy appears on this street at night.#Is it just an urban legend or is there some truth to this tale?|この通りには、#夜な夜な失恋した少年の霊が現れるという。##それはただの都市伝説なのか、それとも…？
+spend the night here|ここで一晩過ごす
+light the HOLY CANDLE|「聖なる蝋燭」に#火を灯す
+[needs 'HOLY CANDLE' item]|アイテム「聖なる蝋燭」が必要
+You wait the entire night, observing the spot where the supposed ghost would appear, but nothing happens.##You are relieved it's just a rumor.#(+1 REASON)|あなたは一晩中、幽霊が現れるとされる場所を#観察しながら待ってみた。#しかし、何も起こらない。##所詮、噂は噂に過ぎないのだと安心する。#(理性+1)
+You plan to wait the entire night, observing the spot where the supposed ghost would appear, but you fall asleep.##You wake up on a cold bench, your entire body aching badly.#(-1 STAMINA)|あなたは一晩中、幽霊が現れるとされる場所を#観察しながら待つことにした。#しかし、そのうちに寝てしまう。##目が覚めると、#冷たいベンチの上で、全身がひどく痛んでいる。#(スタミナ-1)
+Not wanting to waste more time, you decide to light a HOLY CANDLE, hoping to bring the ghost to rest.#(-3% DOOM)|時間を無駄にしたくない。#あなたは幽霊を安らかに眠らせるため、#「聖なる蝋燭」を灯すことにした。#(破滅値-3%)
+UPPER KINGDOM|聳え立つ王国
+Deserted temples overlook the giant corpses of the forgotten beasts.##With no priests to harvest it, their blood is slowly flooding the valley.|忘れ去られし巨獣の死骸を見下ろすように、#寂れた寺院が建っている。##血を集める僧侶がいないため、#その巨体から流れ出た血が#じんわりと谷間に広がっていた。
+start climbing the temple|寺に向かって登り始める
+submerge yourself in the sacred blood|聖なる血に身を沈める
+[NEEDS AN EMPTY CONTAINER]|アイテム「空の瓶」が必要
+fill the goblet with blood|杯を血で満たす
+fill an empty bottle with blood|「空の瓶」に血を入れる
+You spend what feels like days climbing the stone blocks. Reaching the top, you are rewarded with an impossible vista of countless pyramids and... beings too big to comprehend. #Something in you breaks...#(-3 REASON / +3 STAMINA)|あなたは石のブロックをひたすら登り続けた…#もう、何日も経ったような気がする。##頂上に辿り着くと、あなたは無数のピラミッドと…#名状しがたき巨大な存在を目にする。##その瞬間、あなたの中で何かが壊れた…#(理性-3 / スタミナ+3)
+You take a step into the pool of blood. The crimson liquid burns your skin through your clothes. Besides the boiling blood, something else rushes into your ear canals... the voices of countless scholars, revealing forbidden secrets.#(-3 STAMINA / +3 REASON)|血の池に足を踏み入れる。すると、紅い液体が#服の上からあなたの肌を焼き尽くした。##熱く煮えたぎる血の感覚とともに、耳の中に#何かが流れ込んでくる…#禁忌の秘密を囁く、無数の知識人たちの声だ。#(スタミナ-3 / 理性+3)
+You fill a container with the sacred blood. Bringing it back to your reality is surely a corruption of all rights and won't do you any good...#(+3% DOOM)|聖なる血で器を満たす。##それを現実世界に持ち帰ることは、#あらゆる正義を穢す行為であり、#あなたに何か利益をもたらすこともないだろう…#(破滅値+3%)
+BLOODY SWEATER|血まみれのセーター
+Walking through the woods, you discover a sweater. It's torn apart and covered in blood - but where is the owner?|森を歩いていると、一枚のセーターを見つける。#何かに引き裂かれ、血まみれになっている…#一体、持ち主はどこへ…？
+assume the worst|最悪の事態を想定する
+wait a minute...|待て…これは…
+[needs 'OUTDOORSMAN' perk]|パーク「アウトドア」が必要
+A wild beast must've killed this poor person. You say a quick prayer before continuing.#(-2 REASON)|きっと、野生の獣に襲われたに違いない…#可哀想に…#あなたは軽く祈りを捧げ、調査を進めた。#(理性-2)
+You recognize that sweater, it belongs to that girl who went missing! As you crouch down to inspect it, you hear the faint rustling of leaves.##Behind you stands Moriko, the missing girl, with an old shotgun aimed at you. You raise your hands and explain who you are. She nods and helps you get up. It seems like you're not the only one trying to save this town.#(+10 EXP)|見覚えがある…失踪したあの女の子のものだ！#しゃがんでセーターを調べると、#さらさらと葉っぱが揺れる音がした。#すると背後に、行方不明の少女、守子が立っていた。#古いショットガンの銃口がこちらを向いている。#両手を上げ、自分が何者なのかを説明する。彼女は#その言葉に頷くと、起き上がるのを手伝ってくれた。この町を救おうとしているのは、#あなただけではないようだ。#(EXP+10)
+HUNTED|追跡者
+The cult members are on your trail. You must hurry!#(+2% DOOM)|カルト教団の者たちに、後をつけられている。#急がなければ！#(破滅値+2%)
+DREAM MAN|夢幻の男
+In the morning, you usually only remember glimpses of your dreams. You know two things. First, they are always both terrifying and inescapable. #Second, the man from your nightmares is standing on the other side of the street, looking for you.|朝になれば、普通は断片的にしか#夢を覚えていないものだ。#だが、あなたは二つのことを知っている。#第一に、夢は常に恐怖を伴い、#逃れられないものであること。##第二に、悪夢に現れる男が通りの反対側に立ち、#あなたを探しているということ…
+confront the man|男と対峙する
+hide in the crowd|人混みに紛れる
+Getting closer, you decide the man doesn’t really remind you of the person from your nightmares. You feel good about confronting your fears. #(+1 REASON)|近づいてみると、その人は悪夢の中の人物とは#似ても似つかぬ者であることに気付く。#恐怖に立ち向かったことで、気分が良くなる。#(理性+1)
+Getting closer, you start panicking as the situation starts to resemble your nightmares. #Finally, you reach the breaking point and run in fear!#(-2 REASON)|男に近づくにつれて、この状況が#悪夢と同じような気がしてパニックに陥る。##あなたは遂に耐えきれなくなり、#恐怖に怯えて逃げ出した！#(理性-2)
+You quickly hide behind a talking pair of workers. When you take a peek a few moments later, the man is gone.#(+5 EXP)|あなたは会話中の作業員たちの後ろに、#素早く身を潜めた。#しばらくして覗き込むと、#あの男はいなくなっていた。#(EXP+5)
+You look around for a person to hide behind, but it’s too late.#The man starts walking towards you, and you begin to feel weak. Suddenly, you find yourself on the ground, and there’s a group of people standing over you. They said you lost consciousness. You excuse yourself and thank them. #The man is gone, and you leave before the ambulance arrives. #(-2 STAMINA)|身を隠せそうな人を探し回るも、時すでに遅し…#男がこちらに向かって歩き出すと、#段々と力が弱まってくる感じがする。#地面に倒れたあなたを何名かの人が囲む。#彼らから気絶していたことを知らされ、#あなたは謝罪とお礼の言葉を述べた。#男はすでにおらず、あなたは救急車が来る前に#その場を離れた。(スタミナ-2)
+FINAL BASE|最期のベース
+You stand in the middle of a baseball field, built back when the school had a team. It’s slowly become overgrown, and students only go here to study or relax. #Suddenly, something feels very wrong about this place, but you can’t quite put your finger on it yet.|あなたは、すでに廃部となった#野球部のグラウンドで立ち止まった。#次第に草に覆われ、今では生徒が勉強したり、#のんびり過ごす場所となっている。##すると急に不穏な感じがして、胸がざわつく。#だが、その原因までは分からない。
+what’s wrong?|どうしたんだ？
+Someone has drawn a weird occult symbol on the sand patch. You quickly erase it with a branch and instantly feel a wave of relief washing over you.#(-2% DOOM)|砂の上に、何者かが描き残した不気味な紋章がある。あなたはすぐに枝でその紋章を消した。#すると、瞬時に#安堵の波が押し寄せてくるのを感じる。#(破滅値-2%)
+You break into a cold sweat. A baseball field shouldn’t have so many bases. #Are those... graves?...#(-2 REASON)|一気に冷や汗が出る。#こんなにたくさんベースがあるはずがない。##あれは…墓…？#(理性-2)
+spot the backpack|リュックを見つける
+[needs 'LOOTING' perk]|パーク「ぶんどり」が必要
+You notice an old backpack stashed under a tree. Inside, you find some cash.#(+2 FUNDS)|あなたは木の下に、#古いリュックが隠してあることに気づく。#中には、現金が入っていた。#(所持金+2)
+CASTED|ギプス
+Walking through the hospital corridor, you are stopped by an older man with a cast on his leg.##<<Could you help me go down these stairs?>>|病院の廊下を歩いていると、#足にギプスをした年配の男性に呼び止められる。##<<この階段を下りたいんだが、#手伝ってくれんか？>>
+help the man|手伝う
+It takes you some time, but you successfully help the man and bring him a wheelchair. He thanks you and smiles.#(+10 EXP)|時間はかかったが、何とか車いすに乗せて#助けることができた。#彼はあなたに感謝の言葉を述べ、#笑顔を向けた。#(EXP+10)
+You struggle to help the man, but you both fall down the stairs. The man’s cast breaks, and you scream! Underneath the cast, there’s a seething sore frothing with green bubbles. The man smiles - his smile way too wide for his face.#(-2 STAMINA)|下りるのを手伝おうとしたところ、#彼と一緒に階段から転落してしまう。#そのギプスが砕け散ると、あなたは悲鳴を上げた！#見るもおぞましい傷口から、#緑色の泡が噴き出していたのだ。#男がにっこりと笑う…#顔に不釣り合いなほど、大きすぎる笑みで。#(スタミナ-2)
+it's not a good idea|階段は危ない
+[needs 'ANATOMY CLASS' perk]|パーク「解剖学の授業」が必要
+You nod politely and say that he shouldn’t overwork his leg. You point him towards an elevator, and the man thanks you.#(-2% DOOM)|あなたは大きく頷き、#足に負担をかけずに降りられるよう、#彼をエレベーターまで案内した。#男性から感謝の言葉を受ける。#(破滅値-2%)
+DAILY CATCH|今日の獲物
+You walk on the beach when you notice a group of men disembarking from a boat. #The fishermen have sunbaked and wind-dried skin, resembling more mummies you've seen in a museum than humans. ##<<Hey, you!>> One of them screams, waving at you. #<<Give us a hand, will you?>>#They point at the giant wet burlap sack in the back of the boat.|浜辺を歩いていると、#船から降りる男達の姿を目にした。 #その日焼けして風で干からびた肌は、#博物館で見たミイラに似ていて、#とても人間とは思えない。#<<おーい、あんた！>>#その中の一人が手を振って叫ぶ。#<<手を貸してくれねぇか？>> #彼はそう言って船の後ろにある#濡れた大きな麻袋を指差した。
+help the fishermen|漁師たちを手伝う
+You nod and get closer. The burlap sack smells horrible, making you gag. You ask the man what's inside.#<<Fish.>>#(+10 EXP)|あなたは頷いて船に近づいた。#しかし、あまりの臭いに吐き気を催してしまう。#麻袋の中に何が入っているのかと男に尋ねる。#<<魚さ。>>#(EXP+10)
+You nod and get closer. The burlap sack smells horrible, making you gag. You slip on the wet rock, and the rotten fish spill onto you.#(-1 STAMINA / -1 REASON)|あなたは頷いて船に近づいた。#しかし、あまりの臭いに吐き気を催してしまう。#加えて、濡れた岩の上で足を滑らせ、#袋からこぼれた腐った魚にまみれてしまう。#(スタミナ-1 / 理性-1)
+decline|断る
+There is something definitely wrong with the men. Their perpetual squints and calloused hands scare you. #You scream apologies as you run away from the boat and its weird crew.#(-2 STAMINA)|男たちは明らかに何かがおかしい…#半開きの目とタコだらけの手が#何やら恐ろしく思えた。#あなたは大声で謝り、#不気味な船と乗組員たちから逃げ出した。#(スタミナ-2)
+lift the sack yourself|一人で袋を運ぶ
+[needs 'CORE STRENGTH' perk]|パーク「体幹の強さ」が必要
+The burlap sack is surprisingly light, and you lift it alone. The fishermen thank you and hand you a cup of hot tea, straight from their thermos.#(+2 STAMINA)|麻袋は驚くほど軽く、#あなたは一人でそれを持ち上げた。#漁師たちからお礼を言われたあなたは、#魔法びんから注がれた熱いお茶を受け取った。#(スタミナ+2)
+LOST (FOREST)|迷いの森
+Exploring the forest is exhausting. It's getting dark, so you decide to get back to the main road but… where is that?##Are you lost?|森の探索は疲れる。#暗くなってきたので、大きな道に戻ろうと思った…#が、ここはどこだろう。##迷ってしまったのだろうか…？
+find your way out|森の出口を探す
+Luckily, it doesn't take long before you stumble upon a sign pointing you in the right direction. You really should be more careful in the future.#(+10 EXP)|幸いなことに、#出口を指し示す標識を見つけるまで、#そう時間はかからなかった。#次からはもっと注意して動かなければ。#(EXP+10)
+You seem to walk in circles, unable to leave the cursed forest. Hours later, a pair of hikers find you and help you. ##You're really embarrassed but safe. #(+2% DOOM)|あなたは呪われた森から抜け出すことができず、#ぐるぐると迷路のように歩き回ってしまう。#そんな中、偶然通りかかった#ハイカーの助けを借りることができた。##恥ずかしくて顔が熱くなるが、救われた。#(破滅値+2%)
+use your compass|「コンパス」を使う
+[needs 'COMPASS' item]|アイテム「コンパス」が必要
+Using your compass, you determine the direction and start walking in a straight line. It doesn't take long to finally spot the buildings. ##You feel safer, thinking about how prepared you were.#(+2 REASON)|コンパスを頼りに方角を判断し、#一直線に歩き始める。#あっという間に建物を発見することができた。##備えあれば憂いなしとは、まさにこのことだ。#(理性+2)
+LOST (MANSION)|恐怖の迷宮
+The room layout of this place doesn't make any sense! You've been trying to leave this mansion, but each door leads to the same musty hallway.##You start to panic, trying to find a solution.|この屋敷の部屋の配置は意味不明だ！#何とか抜け出そうとするが、#どの扉を開いてもカビ臭い廊下に戻されてしまう。##解決策が見つからず、パニックに陥る。
+look for a way out|出口を探す
+You decide to follow the wall on your left. When you touch it with your hand, you hear a click sound, and a hidden door appears in front of you. ##A way out!#(+1 REASON)|左側の壁に沿って進むことにしたあなた。#壁に手が触れた瞬間、カチッという音が聞こえ、#目の前に隠し扉が現れる。##脱出口だ！#(理性+1)
+You panic and begin to run through the doors, each time ending up in the same musty corridor. #Eventually, you collapse - exhausted and terrified. When you get up an hour later, you spot a tiny door you missed. It leads you to the main hall. ##A way out!#(-2 STAMINA)|あなたは焦って闇雲に扉を開けて進んだが、#どうしてもカビ臭い廊下に戻されてしまう。#疲れと恐怖で身も心もにボロボロになり、崩れ落ちる。#一時間後に目が覚めると、#見落としていた小さな扉に気付く。##脱出口だ！#(スタミナ-2)
+take a deep breath|深呼吸をする
+[needs 'SELF THERAPY' perk]|パーク「自己療法」が必要
+You take a deep breath and close your eyes. You calm yourself down, allowing your heart rate to normalize. When you open your eyes, you notice a door that wasn't there before. Entering it, you find yourself in the main hall. ##A way out! #(+10 EXP)|深呼吸をして目を閉じる。#心拍数を正常に戻し、自分を落ち着かせる。#目を開けると、#以前はなかった扉があることに気づく。#その扉を開けると、そこは大広間だった。##ここから出られる！#(EXP+10)
+BEHIND YOU|背後からの視線
+Talking with an older woman, you can't help but notice her worried face and quick looks pointed towards something behind you. Is it the wind you can feel on your neck or…?|老女と話していると、ふと違和感を覚える。#彼女は不安そうな顔で、#しきりにあなたの背後を気にしているようだ。#首筋に感じたのはただの風か、それとも…？
+try to ignore the feeling|気にしない
+turn around|振り返る
+You calm yourself down, remembering there is a breeze coming from the seaside region. You smile and continue your conversation.#(+2 REASON)|海の方から風が吹いていることを思い出し、#心を落ち着かせる。#あなたは笑顔で会話を続けた。#(理性+2)
+I-is someone behind you, breathing down your neck? It takes all your willpower not to turn around.#(-2 REASON)|誰かが…首筋に息を吹きかけている…？#振り向きたい衝動を必死に抑える。#(理性-2)
+You suddenly turn around and catch a man trying to hide behind a corner. You are being followed.#(+2% DOOM)|あなたはばっと振り返り、#角の後ろに隠れようとする男を捕まえた。#つけられているのだ。#(破滅値+2%)
+WEIRD BATHTUB|不気味な浴槽
+You return home to freshen up. When you enter your bathroom, however, you discover that your shower is missing. In its place, there's an old claw-foot tub.#The whole thing feels surreal, but you take a step towards it, wondering how this is possible.|家に帰ってさっぱりしよう。#そう思って浴室に入ると、#シャワーがないことに気づく。#その代わりになぜか#西洋風の古い浴槽が置いてあった。#異様な雰囲気を漂っている。#一体、こんなことがあり得るのだろうか。#そう不思議に思いながらも、あなたは一歩近づいた…
+take a bath|風呂に入る
+back out|入るのを止める
+The bathtub sure is weird, but you feel extra refreshed. #(+1 STAMINA)|不気味な風呂だが、#なぜかすごくすっきりした気分になる。#(スタミナ+1)
+The water in the bathtub suddenly gets murky and dark... are you bathing in blood?!#(-2 REASON)|浴槽のお湯が急に濁り、黒ずんでいく…#これはまさか、血！？#(理性-2)
+You may be a little sweaty, but there's no chance you'll risk entering this weird bathtub.#(-1 STAMINA)|少々汗ばんでいるとはいえ、#こんな不気味な風呂に入る気にはなれない。#(スタミナ-1)
+WALL OF PHOTOS (YOU)|壁の写真
+Following the winding staircase, you are stopp-w-wait a minute...##Someone has been taking photos focused on you. The photos include the enemies you've fought with. There's something wrong, but you can't precisely say what...##[SELECT THE SECOND ENEMY YOU FOUGHT THIS RUN]|曲がりくねった階段を進んだところで、足が止まる。#な、なんだこれは…#自分だけを狙って、何者かが写真を撮っている。#そこには、今まで戦った敵の姿も写っていた。#何がどうなってる。#この得体の知れない違和感は何だ…？##[今回のプレイで、#2番目に戦った敵を選んでください]
+(correct answer)#You rip the photo. Underneath it is a tiny button. You press it and...#With a buzz, the gate opens.#(+10 EXP)|(正解)#写真を破くと、裏から小さなボタンが現れる。#それを押すと…##ブザー音とともに扉が開いた。#(EXP+10)
+(wrong answer)#Your head starts to hurt, is everything just something you've imagined?##The photos suddenly disappear, so does the door, allowing you to continue.#(+5% DOOM)|(不正解)#頭が痛くなってきた…#あれは全て自分の妄想だった…ということなのか？#すると突然、写真と扉が消えて#先に進めるようになった。#(破滅値+5%)
+IRRESISTIBLE CLOUDS|幻惑する雲
+A weird cloud formation has formed above SHIOKAWA. Everyone you know thinks it's really freaky, but they can't help but observe it. You know there's a hidden, unsettling truth behind the weather lately.#(+2% DOOM)|塩川上空に、奇妙な形の雲が浮かんでいる。#誰もが気味悪がりつつ、#だが、それを見つめずにはいられなかった。#あなたはその雲の向こうに、#不穏な真実が隠されていることを知っていた…#(破滅値+2%)
+PEOPLE UNDER THE WAVES|波の中の者たち
+You think about the weird case of three people vanishing by the seaside. Rumors say, they just walked into the sea and disappeared under the waves. It's horrible but… ##you want to follow them, too.#(-2% DOOM / -2 REASON)|海辺で起きた奇妙な失踪事件について考えてみる。#噂によれば、その3人はただ海に向かって歩き続け、#そのまま波の中へと消えてしまったらしい。#恐ろしい出来事だが…##どこか、自分もついていきたい衝動に駆られる。#(破滅値-2% / 理性-2)
+BREAK THE GAZE|黒い目
+Not even closing your eyes lets you unsee the irresistible gaze of YGOTHAEG. A voice inside your head suggests getting rid of your eyes entirely, and with each passing day, you agree with it more and more.#(-2% DOOM / -2 STAMINA)|目を閉じていても、ユゴテグの抗いがたい視線から#逃れることはできない。#頭の中で、目など捨て去ってしまえばいい#という声が響く。日が経つにつれ、あなたはそれが#正しいとさえ感じるようになっていた。#(破滅値-2% / スタミナ-2)
+GHOSTLY AID|霊的な手助け
+As you turn the corner into the corridor, you're met with the gruesome sight of a student's ghost!##The girl is just standing there, pointing a bloody finger at one of the lockers. She's got to be trying to show you a clue, right?|廊下の角を曲がると、惨たらしい姿の幽霊が#目に飛び込んできた。##ただその場に立ち尽くし、血まみれの指で#ロッカーの一つを指差している。#きっと、何か手がかりを#見せようとしてくれてるんじゃ…？
+trust the spirit|彼女を信じる
+don't listen|無視する
+You search the locker and find some occult notes! With an eager smile, you turn to thank the spirit, but she's already gone. Oh, well.#(+ ITEM)|ロッカーを調べてみると、#奇怪な内容の資料が出てくる！##お礼を言おうと振り返るも、#すでに彼女はいなくなっていた。#まぁ、しょうがない…#(+アイテム)
+As you open the locker, the spirit shoves you in— It's full of knives! By the time you pull yourself off of the blades, she's gone.##As you recover, you sit and wonder why these ghosts would be so cruel. All you want to do is help... You hope that ghost can find some peace.#(-2 STAMINA)|ロッカーを開けると、霊が私を押し込んでくる…#何とその中はナイフで溢れかえっていた！#無数のナイフから身を引き剥がすと、#彼女はすでにいなくなっていた。#何でこんな酷いことを…座り込んで考えてしまう。#私はただ、助けたいだけなのに…#祈ろう、彼女が少しでも安らかに眠れるように…#(スタミナ-2)
+<<Sorry!>> you say, turning and hurrying down the hall. You feel bad just leaving her like that, but you need to keep a move on if you're going to save the world!##(after all, if *you* don't do it... n-no, you really don't want to think about it! just keep moving...)#(-2% DOOM)|<<ごめんね！>> #そう言って、私は急いで廊下を歩き去った。#こんな風に彼女を残していくのは辛いけど、#世界を救うためにも急がなきゃだから。#(だって、私がやらなきゃ…#い、いや、そんなこと考えたくない…#とにかく進むしかないんだ…)#(破滅値-2%)
+TAKING ITS TOLL|すり減る心
+You were planning out your next steps. It got you thinking about everything that needs to be done, and then everything that could happen, and every awful thing that's already happened, and...##and now all you can think about is just how scary and horrible things are.|私は次に何をするかを考えていた。#やらなければならないこと、#これから起こりそうなこと、#そしてすでに起きてしまった恐ろしいこと…##考えれば考えるだけ、#ぞっとするような怖いことばかり#思い浮かんでしまう。
+cry|泣き出す
+push through it|自分を励ます
+You shuffle off somewhere you won't be noticed, and let the tears gush out.##Eventually, you shakily get to your feet. You still don't feel too great, but for now, at least it's out of your system.#(+3 REASON)|人目につかないところでしゃがみこんで、涙を流す。##やがて、かろうじて立ち上がることができた。#まだ気持ちは不安定なままだけど、#とりあえず今は落ち着いた。#(理性+3)
+You can barely get out of sight before you break down into heaving sobs. Why? Why you? You don't want to do this anymore. But if you don't, everyone will die...!##You cry, and cry, and cry...#(+3% DOOM)|嗚咽を漏らす前に辛うじて、#物陰に隠れることができた。#どうして？なんで私が？もうやりたくないのに。#でも、そうしないとみんなが死んじゃう…！##私は泣いて、泣いて、泣き続けた…#(破滅値+3%)
+[you really are pathetic]#You wipe your eyes and just try to keep going. But no matter how hard you try, you can't get those thoughts out of your head...#(-1 REASON)|[本当に情けない]#流れ出た涙を拭く。#ただ前に進むしかないんだ…##なのにどんなに頑張っても、#頭からそんな思いが消えてくれない…#(理性-1)
+IN REMEMBRANCE|偲ぶ思い
+There's no reason for this memorial to be here. Neither of your parents were from SHIOKAWA.##So, why...? Who would do this? Is it just to taunt you for what happened?##... But, even still, all the materials are here to perform a seance...|何でここに位牌があるんだろう。#お父さんもお母さんも塩川の生まれじゃない。#じゃあ、どうして…？#こんなことをするのは誰？#あの時のことで私を責めようとしてるだけ？##…けど、おかしいな。#一通り、降霊術で使う道具が揃ってる…
+take the materials|道具を手に取る
+try one more time|もう一度試してみる
+You delicately step around the lines of salt and chalk encircling the memorial, keeping your mind on the present as you gather up the scattered ritual materials. You pat yourself on the back as you leave.#(+ ITEM)|私は“今”に心を集中させた。#位牌を囲む塩と白墨の線を踏まないように#気を付けつつ、散らばった儀式の道具を拾っていく。#上手くできたと自分を褒めて、#その場を離れた。#(+アイテム)
+You go to pick up a candle, but it seems it wasn't a good idea to disturb the memorial-- a horrible pain shoots through your hand and into the rest of your body!##Clutching your wrist and whimpering, you retreat...#(+ INJURY)|私は蝋燭を取りに行った。#けど、追悼の場を乱すのが良くなかったみたいで…#手から走った酷い痛みが全身に広がる。#私は手首をぎゅっと握りしめて、#涙を流しながら引き下がった…#(+怪我)
+[it was never going to work]#You just wanted to meet them. To know if they were proud of their daughter. But it was just as horrible of an idea this time as it was the last time. Dozens of angered spirits flow through you, as you collapse the ground, writhing in agony as they punish you for your foolishness.##At least you're the only one getting hurt this time.#(-2 STAMINA / -2 REASON) (+ CURSE)|[初めからうまくいく望みはなかった]#二人に会いたい、ただそれだけだった…娘のことを#誇りに思ってくれてたのか知りたかったんだ。#だけど、結果は前と同じ。#恐ろしい選択をした代償は高くつく。#何十もの怒れる霊たちが私の体に流れ込む。#愚かな行為に対する罰…痛みに身をよじらせ、地面に倒れ込む。少なくとも今回は、私以外に#傷つく人はいなくて済みそうだ…#(スタミナ-2 / 理性-2 / +呪い)
+THE PERFECT FORM (A)|完全体 (A)
+You wake up with a semi-translucent membrane covering both of your eyes. With increasing terror, you realize that you no longer need your eyes to see...#(+3 PERCEPTION / -2 REASON)|目を覚ますと、両目が半透明の膜で覆われていた。##恐怖が募る中、あなたは目を使わずとも#物が見えることに気付く…#(知覚+4 / 理性-2)
+THE PERFECT FORM (B)|完全体 (B)
+When you cut yourself accidentally, you discover that your blood has turned colorless and glassy. You feel fine but this can't be good...#(+3 STRENGTH / - 1 REASON)|うっかり怪我をしてしまった時、#あなたは自分の血が色を失い、#無色透明のガラスのようになっていることに気付く。##体調は問題ないが、放っていいわけがない…#(筋力+4 / 理性-1)
+THE PERFECT FORM (C)|完全体 (C)
+Acute pain in multiple joints alone is a reason to seek medical help. Today, you've realized that you can bend your finger _both_ ways...#(+3 DEXTERITY / -2 STAMINA)|数か所の関節に鋭い痛みが走る。#それだけでも、受診する理由としては#充分だったが…#この日、あなたは気付いてしまう。#自分の指が、どちらにも曲げられるように#なっていたことを…#(敏捷性+4 / スタミナ-2)
+THE PERFECT FORM (D)|完全体 (D)
+You're not the only one affected by the mysterious effects of ZHECTAST. People have started herding together like livestock, abandoning their previous inhibitions.##You're all in this together.#(+3 CHARISMA / -1 STAMINA)|ゼクタストの不可解な力は、あなただけではなく#他の者たちにも及んでいた。##自制心など捨て去り、家畜のように群れを成す彼ら。##あなたたちは…もはや運命共同体なのだ。#(カリスマ+4 / スタミナ-1)
+brace yourself|身構える
+MEDICAL TRIAL|医学的実験
+You blend in with the hospital staff and make your way into an unmarked ward, where a particular patient catches your eye. They look to be catatonic, eyes glazed over, shallow breathing, but of most interest are the irregular growths along the abdomen.##You wouldn't be much of a nurse if you ignored them, right? They need help.|病院の職員に紛れて何の表示もない病棟に入ると、#ある患者さんが目に留まった。#緊張病みたいだ…目が虚ろで呼吸も浅い。#けど、それより私が気になったのは、#腹部にある異常な腫瘤だった。##看護婦である以上、このまま放っておくわけには#いかない…患者さんを助けないと。
+inspect the patient|病状を診る
+excise the growth|腫瘤を切除する
+You eagerly pull on your spare pair of surgical gloves and probe at the growths, making mental notes about the texture and shape.##When you're back home with your textbooks, you realize that it doesn't match any known diagnosis. Isn't that amazing? You need to do some more digging later.#(+3 EXP)|私は嬉々として予備の手術用手袋をはめ、#探針で腫れた部分を調べた。#その質感や形状をしっかり覚えておく。#家に帰って教科書を見てみたけど、#過去のどんな症例とも合致しなかった…#すごい発見しちゃったかも！#後でもっと詳しく調べなきゃ。(EXP+3)
+You set your scalpel to work and carefully cut away the tumor-- only for it to immediately regenerate! This needs to be studied further. You pocket a sample of the tissue with breathless glee. This research could do the medical community some incredible good.##And god, isn't it just so _fascinating_?#(-2 REASON / + ITEM)|メスを使い、慎重に取り除く。けど、切った途端に#腫瘤が再生してきちゃう…これはもっと調べなきゃ。#私は興奮しながら、組織の一部を試料として#ポケットに入れた。もしかすると、この研究って#医学界に革命を起こしちゃうやつかな！#はぁ…それにしても、これってホント#オモシロイ ト オモワナイ？#(理性-2 / +アイテム)
+As you struggle to decide which method to use, you notice the patient staring at you with an agonized expression-- Goddammit, girl, you're doing it again! You smack yourself in the head a few times, ashamedly skulking out of the ward.##You really ought to book a psychologist. You can't take care of anybody like this.#(+2 REASON)|どうやるか悩んでるうちに、患者さんが#辛そうな表情でこっちを見てるのに気付く。#あっ、またやっちゃった！私は自分の頭をポカポカ叩き、恥ずかしくなってこっそり病棟を抜け出した。#そろそろ本気で心理系のセンセに診てもらった方が#いいかも…これじゃ、誰のお世話もできないよ。#(理性+2)
+LIFE OR LIMB|命か腕か
+Following the agonized screams, you discover a man with a horribly disfigured arm! Something murky and crystalline seems to explode out from the bone and up through his skin, his muscles spasming in pain.##He pleads with you to help... It sure is a good thing you found him!|苦しそうな声がした方に行ってみたら、#すごく変わった腕を持つ人がいた。#骨から濁った結晶みたいなのが飛び出してて、#それが皮膚を突き破って出てた。#男の人の筋肉がすごく痛そうに痙攣してる…##そしたら、彼が助けてって言ってきたの…ホント、私が見つけれて良かったぁ！
+perform surgery|手術をする
+amputate the limb|腕を切断する
+consult the grimoire|魔導書を参照する
+[requires 'DUSTY GRIMOIRE' item]|アイテム#｢埃まみれの魔導書｣が必要
+Working quickly but carefully, you manage to excise the protrusions before they can continue spreading. You stitch up the last gashes and escort the man to the hospital.#(+2 REASON / +10 EXP)|これ以上広がる前に、急ぎながらも慎重にやって、#何とかその突起を取り除くことができた。#最後の傷口を縫い上げる。#そして私は、彼を病院まで連れて行った。#(理性+2 / EXP+10)
+The protrusions regenerate quicker than you can remove them. You helplessly watch as they spread up his arm, and then suddenly burst from his heart, spurting a geyser of black as the man convulses, before finally falling dead.##Well, that didn't work.#(-2 REASON)|どれだけ結晶を取り除いても、#それより早く再生してきちゃう。#腕中にそれが広がるのを見てたら、#いきなり心臓からぶしゅーって黒いものが#噴き出して、痙攣しながら死んじゃった。#んー、あれじゃダメかぁ。(理性-2)
+As you explain what must be done, the man's face pales, but he agrees. You take his tie and use it as a tourniquette, and give him a roll of bandages to bite down on. Then, finally, you proceed with the amputation.#There's a lot of screaming.##You spend some time with the man to ensure that he doesn't go into shock. Despite his immense pain, he's grateful for your help.#(+5% DOOM / +2 REASON)|彼になにをしなきゃいけないか説明したら、#顔を真っ青にしながらも了承してくれた。#ネクタイを止血帯として使って、痛みを#ガマンするために包帯を噛むように頼んだ。#そして、とうとう腕の切断作業…あんまりにも叫ぶ#から、ショック状態にならないよう少し一緒にいて#あげる。すごく痛がってたけど、助かったって私にお礼を言ってくれた。#(破滅値+5% / 理性+2)
+Realizing the affliction seems familiar, you whip out the tome and flip through the pages. It's some kind of curse! You locate the counter-curse further down the page, and as you speak it, the spines recede back into the man's skin.##As you bandage up the few remaining wounds, he thanks you repeatedly. You simply give him a cheerful smile. This is a job well done.#(+5 REASON)|どっかで見たことあるような病状だなぁ…#すぐに本を取り出して、ページをめくる。#そっか、これは呪いの仕業なんだ！#ページの下の方に解呪の方法が載ってる。#その言葉を唱えたら、結晶がまた中に引っ込んだ。#残った傷を包帯で巻いてると、#何度もお礼を言われる。私はただ、彼に向かって#明るく微笑んだ。うん、上手くいった。#(理性+5)
+SUMMERTIME|真夏の陽射し
+Walking down the docks, feeling the sun on your face and the sea-salt breeze through your hair, you have to appreciate just how beautiful this town can be sometimes.##You'd have to be out of your mind to waste a gorgeous day like this!|陽射しを顔に浴びながら海岸を歩いてると、#吹き抜ける潮風が私の髪を撫でた。##改めて、この町が持つ美しさに気付かされる。##こんな素敵な日をムダにするだなんて、#狂ってるとしか思えないよ！
+SURF!|サーフィンしよう！
+[let's relax]#You successfully kill the afternoon hitting the waves and hanging out around the boardwalk. As the sun sets, you head home refreshed, though... Are you forgetting something?##Oh! Right, duh. The whole world ending thing. Isn't it funny how easily that slips your mind sometimes? But hey, it was super nice to get some in some 'you time'.#(+2 REASON / +4% DOOM)|[のんびりしよう]#午後はサーフィンをしたり、#遊歩道をブラついたりと楽しく過ごせた。#夕陽が沈む中、気分良く家路につく…#けど、なーんか忘れてるような…#あっ！そうそう、世界が滅びるんだった。#時々、すっぽり頭から抜け落ちてて面白い。#けど、自分の時間が持てて、いい気分転換になった！#(理性+2 / 破滅値+4%)
+(blank line)|(blank line)
+DISTANCE|隔たる心
+You bump into one of your teammates in the gym. <<Hey, Takahashi>>, she says, looking over you with her brows furrowed, <<Are you doing okay? You've been acting really weird lately, and you look super tired...>>##You shouldn't burden her with everything that's going on. But...|体育館にいると、部員の一人とばったり出会う。#<<ねえ、愛子…>>#彼女が眉をひそめながら、口を開く。#<<大丈夫？最近の愛子、何かほんとヘンだよ…#すっごく疲れて見えるけど…>>##こんな厄介ごとに巻き込みたくなんてない。#だけど…
+lie|嘘をつく
+explain yourself|今の状況を話す
+You tell her that you're just stressed out because of finals. She expresses some sympathy and offers to help you study. You say <<sure>>, but it's a promise you'll break.##It's better that she doesn't know about it, for her own sake. You can handle this on your own, just like you always do.|私は期末試験のせいで、ストレスが溜まってるだけだと伝えた。彼女は気を遣って、勉強を手伝おうかと#言ってくれる。その場では<<うん>>と返す。#だけど、結局その約束は破ることになってしまう。#彼女のことを考えれば、言わない方がいい。#私一人でも何とかなる、今までと同じように…
+You hesitate, but after a deep breath, you tell her what's really going on. Shockingly, she believes you and wants to help. You try to convince her that you're fine on your own, but she's clearly made up her mind. ##You feel guilty letting her get involved, but you know she'll be a big help.#(+ ALLY)|一瞬の躊躇い。私は深呼吸をしてから、#今、実際に起きていることを伝えた。#意外にも彼女はその話を信じ、協力したいと言って#くれた。私一人で大丈夫って説得しようとする…#でも、その決意は固かった。#こんなことに巻き込むなんて、悪い気がするけど#彼女は本当に頼りになる。(+仲間)
+You regret it as soon as you open your mouth. She looks at you like you're crazy. You pretend it was a joke and leave quickly.|口を開いた途端、私は後悔した。#まるで、狂った人を見るような目だ。#冗談だよとウソをつき、#慌ててその場を後にする。
+WORKOUT ROUTINE|日課の運動
+<<Takahashi!>> you hear a chipper voice shout during a jog around the area. You turn your head to see another one of your teammates in casual clothes, smiling. Blissfully unaware of everything going on.##<<What's up, Captain?>>|辺りをジョギングしてると、#<<高橋さん！>>と大きな明るい声が聞こえてくる。#後ろを向くと、私服姿の水泳部員がいた。#笑ってる…#今、起こってることなんて#何も知らないんだ…幸せだな。##<<部長、何してるんですか？>>
+<<come jog with me!>>|<<一緒に走ろ！>>
+<<notice anything weird recently?>>|<<最近、何か変わったこととかない？>>
+After a bit of playful coaxing, you convince her to join you for another lap or two. The extra competition motivates you to push yourself harder. You wrap up your workout tired, but satisfied with yourself. (-1 STAMINA / +2 REASON)|ちょっとした遊び心で彼女を誘い、#もう1周、2周と一緒に走った。#競争相手がいると、もっと頑張ろうって#やる気が出てくる。#ヘトヘトになるまで走っちゃったけど、#私としては大満足だ。#(スタミナ-1 / 理性+2)
+She tilts her head and presses a finger to her chin, thinking hard. Then with a tiny <<oh!>>, she begins telling you a strange story from the other day. (+10 EXP)|彼女が顎に指を当てながら、#小首をかしげて考え込む。#すると、<<あっ！>>と小さな声を上げ、#先日起きた奇妙な出来事について語り出した。#(EXP+10)
+She shakes her head, throwing up her hands in a shrug.#<<What makes you ask? Something wrong?>>##You tell her not to worry about it too much. You part ways shortly after that.|首を横に振り、肩をすくめて両手を上げる彼女。##<<どうしてそんなこと聞くんですか？#何かありました？>>##私はあまり気にしないでと言って、すぐに別れた。
+MIDNIGHT DRIVER|真夜中のドライバー
+After a long night without much sleep, you decide to go for a ride along the coast to clear your head. But it's hard not to think about the night that started everything. Behind this same wheel, driving like hell after watching your brothers in arms get slaughtered, and not doing a damn thing to save them.##You were a coward.#(+5 EXP / -1 REASON)|眠れぬ長い夜を過ごす。俺は頭を整理するため、#海岸沿いをドライブしようと思い立つ。#とはいえ、全てのきっかけとなった#あの夜のことを思い出さずにはいられない。#あの時も、今と同じハンドルを握っていた…#弟分達が虐殺されるのをただ見るだけで何もせず、#死に物狂いで走り去った。#俺は、ビビりだったんだ。#(EXP+5 / 理性-1)
+but not anymore|今はもう違う
+CATCHING UP|回ってきたツケ
+You're stopped dead in your tracks by the feeling of cold metal against your back. You look over your shoulder.<<Recognize me?>> the yakuza's face sneers.|背中から冷たい金属の感触が伝わり、#俺はその場で動けなくなった。#肩越しに後ろを見る。##<<俺のこと、覚えてるよな？>>##ヤクザが嘲笑うような表情を浮かべる。
+punch him|男を殴る
+go for his weapon|武器を奪う
+[what the hell?]#You let out a rumbling yell, turning and driving your fist into.. empty air. There's nobody there. He's gone. Your wild swing sends you stumbling and confused.##All of this shit is really starting to get to you... but even if you ran into one of the real guys, they'd probably hate your guts just as much.#(-1 REASON)|[一体何なんだ?]#怒りに震えた声を上げながら、振り向きざまに#殴りかかる…だが、拳は空を切っただけで#そこには誰もいなかった。乱暴に腕を振り回したせいで体がよろめき、気が動転してしまう。#このイカれた状況のせいで、#俺自身もおかしくなってきてるんだ…#だがホンモノの連中も、あの幻と同じくらい#俺を憎んでるんだろう。(理性-1)
+You whirl around and grab at the man's weapon. The two of you slam to the ground as you wrestle for it, until you finally manage to tear it from his fingers.##You find yourself with a pistol in your hand and the thug nowhere to be seen.#(+ ITEM)|振り向きざまに男の武器を掴む。#地面に倒れ込みながら、二人で武器を奪い合う。#そしてついに相手の指から、武器を引き剥がした。##気が付くと、俺の手には拳銃が握られていた…#だが、肝心のヤツがどこにもいない。#(+アイテム)
+You're too slow. Before you can even turn around, your side explodes with pain. You scream and clutch at the wound, collapsing. There's laughter in your ear as the man's footsteps fade.#(-3 STAMINA)|一瞬、遅れを取ってしまう。#振り向く間もなく、俺の脇腹で激痛が炸裂した。#叫び声を上げながら傷を押さえ、その場に倒れ込む。##足音が遠ざかる中、男の笑い声が耳の中に響いた。#(スタミナ-3)
+DEJA VU|デジャヴ
+On the other side of the dark hallway, you realize this isn't the same mansion you were in. It's a familiar one, with your car outside, blood dripping down the walls, and _something_ hurtling toward you.##This has got to be some kind of sick joke, to put you back here...!|暗い廊下を抜けると、さっきの屋敷とは#違う場所にいることに気付く。#見覚えがある…#外には俺の車があり、壁には血が流れ、#“何か”がこっちに向かって#猛烈な勢いで迫ってきてる。##イカれた悪ふざけだ、#またあの場所に戻されるなんてな…！
+confront it|立ち向かう
+run the hell away|死にもの狂いで逃げる
+[you won't be weak anymore]#You're not running away again. You're _not_ going to let yourself run away again. Not anymore. Not again. Never, never again. For the sake of everyone you left to die...##You're going to stand and fight, like you always should've...!!|[弱気な自分にはもう屈しない]#もう逃げねぇ。#また逃げようとする自分を許すな！#もうあの時とは違う。#二度と繰り返さない、絶対…絶対にだ！#俺のせいで死んじまったヤツらのためにも…##もっと早くこうすべきだったんだ、#立て…立って戦え！！
+[you were always weak]#You told yourself you'd changed, but here, back in the face of the pressure and the fear all over again, you buckle just the same as you did the first time.##You whirl around and barrel down the hallway with all the strength you've got, just like the coward you've always been.(-2 STAMINA / -2 REASON)|[臆病者は変わらない]#もう俺は変わったと信じ込んでいたが、#また同じ恐怖と重圧に晒されると、#あの時と同じようにヘタってしまう。##後ろを振り返り、全力で廊下を駆け抜ける…#“臆病者”は何も変わってなどいなかった。#(スタミナ-2 / 理性-2)
+WEIGHING THE EVIDENCE|証拠の吟味
+You pace back and forth beside your desk, piled high with photographs, notes, and documents relevant to your investigation.##You're so close to cracking this wide open. You can taste it! But the pieces don't quite fit together. You must still be missing something, but what could it be...?|調査に関わる写真、メモ、#そして書類が山積みになった机…#その横を僕は行ったり来たりしていた。##もう少しで、この謎が解けそうなんだ。#答えは目前だというのに、#最後のピースがはまらない。#何かを見落としてるんだろうけど、それは一体…？
+think it over again|もう一度考え直す
+inspect the photos closer|写真をよく見る
+talk to your informant|情報提供者と話す
+You might be looking at this all wrong. Work backwards. Assume you're right, and that everything's connected. Think about what _must_ have happened as a result, and find evidence for that. That's what you need.##Determined, you snatch up your camera and set out.#(+7 EXP)|まるっきり視点が間違ってたのかもしれない。#発想を逆転させよう。この考えは正しく、#全て繋がっていると仮定するんだ。#結果として起きたことを考慮し、その証拠を#見つけ出す…それこそ僕の求めるものだ。#意志を固めた僕はカメラを手に取り、#目的地へと向かった。#(EXP+7)
+You spend an hour thinking hard, considering things from every perspective you can.##The truth seems so close, but all you get for your troubles is a migraine.#(-1 STAMINA)|頭を悩ませること1時間、#考え得る全ての角度から状況を分析してみた。##真実はすぐそこだというのに、#苦労して得られたのは偏頭痛だけだった。#(スタミナ-1)
+There!#You notice a commonality that slipped by you until now, drawing a connection that your theory needed. Now that your theory has its lynchpin, it's time to act.#(+15 EXP)|これだ！#今まで見過ごしていた共通点に気付き、#これまで欠けていた仮説に繋がりが生まれる。#考えはまとまった。#あとはこれを行動に移すだけだ。#(EXP+15)
+You look over your photos again, but hold on. You're missing one. Where'd it go? Did you misplace it again?##You pore over your evidence again, and to your horror, you realize there's much more missing than just that photo. Someone's on to you.#(+3% DOOM)|もう一度、写真を見返す…あれ？1枚足りない。#どこにいったんだろう。またなくしたとかかな？#証拠をもう一度見直す中で、#ぞっとするようなことに気付いてしまう…#他の写真もなくなっている。#僕のやってることは、誰かにバレてるんだ…#(破滅値+3%)
+He finds you the whereabouts of a suspect. You corner and interrogate them. Under the pressure, they let a detail slip that all but confirms your theory. You grin.##Bingo!#(+25 EXP)|彼が容疑者の居所を突き止めてくれた。#その人物を追い詰め、質問攻めにする。#その圧に負けた容疑者が、#仮説を裏付けるような情報を漏らした。#ふふっ、ビンゴ！#(EXP+25)
+You're pointed to a man who might have answers. You call him on false pretenses, and agree to meet with him tomorrow night.##The next morning, the news reports his death.##...It must go deeper than you thought. It has to.#(+ CURSE)|僕は答えを知ってそうな男に当たりを付け、#ウソの理由で連絡を取った。#そして、明日の夜に会う約束を交わす。#翌朝、ニュースで彼の死が報じられた。#…この件には、僕の想像を超えた深い闇が#絡んでる。そうに違いない…#(+呪い)
+A FEW QUESTIONS|いくつかの質問
+You reach the spot where you and the interviewee agreed to meet, and sure enough, she's waiting for you there.##She looks nervous... about more than just being alone with you. You're certain she knows something about what happened in that recent missing persons incident.|待ち合わせの場所に着くと、#約束通りに取材相手の女性が待っていた。##彼女は緊張してるようだ…#僕と二人でいること以上の“何か”で。#最近の失踪事件について、#彼女が何か知ってるのは間違いない。
+act intimidating|脅しをかける
+act friendly|親切に接する
+You press her hard for answers, but despite her fear, she doesn't give anything up. But when she rushes to leave, she doesn't notice a peculiar object falling out of her bag.##... Well, she's not making a good case for her innocence.#(+ ITEM)|僕はしつこく問い詰めた。#それに対し彼女は怯えつつも、#何一つ明かしてくれない。#急いで彼女が立ち去ろうとした時、#変わったものがバッグから落ちた。#だが、当の本人はそれに気付いていない。#…無実と言うには、説得力に欠ける代物だ。#(+アイテム)
+You puff out your chest and try your best to seem tough, but she's clearly not impressed. She doesn't give you any good answers, and the interview is a waste of time. For some reason, these scare tactics rarely work for you.#(+2% DOOM)|胸を張って強そうに見せてみたけど、#肝心の彼女は明らかに興味がなさそうだった。#まともな答えが得られないまま、#取材は徒労に終わる。#なぜかは分からないけど、#僕のこういう脅しが効くことはあんまりない。#(破滅値+2%)
+You act calmly, sweetly, and like you're a little stupid, goading her into letting her guard down. Before long, she believes you're on her side, and confides in you about the last time she saw the missing person.#(+5 EXP)|冷静に、優しく、少し間抜けに見えるように#振る舞い、相手の警戒心を解こうとする。#やがて、彼女は僕を信頼してくれたのか、#最後に行方不明者を見た時のことを#打ち明けてくれた。#(EXP+5)
+Despite your efforts, you fail to assuage her anxiety. She acts tensely through the rest of the interview, and doesn't tell you anything that wasn't already obvious.|どれだけ頑張っても、#彼女の心の不安を和らげることはできなかった。##取材中は終始、緊張した面持ちで、#判明している情報以外は何も教えてくれなかった。
+DEAD END|我慢の限界
+God, you hate work.#(+7% DOOM)##You sure as hell wouldn't be here if you didn't need the money. Putting on a smile and pretending you give a shit makes you want to beat your head against a wall.#Your shift's over now, and you _really_ feel like breaking something.|がぁぁ！仕事なんて大っ嫌い！#(破滅値+7%)##金が要らなきゃ、死んでもこんなとこ来ないのに！#ニコニコ笑顔を作って、いかにもやる気あります！#みたいに振る舞うとか、ホント無理！#壁に頭をぶつけたくなるくらいイラつく。##もう仕事は終わったし、#今はマジで何かぶっ壊したい気分だ。
+break something|何かぶっ壊す
+pocket some cash|いくらか現金を盗む
+get back to the investigation|調査に戻る
+In your first steps out the door, you've already torn off your apron. In the next, you've stormed into the alley, and in a few more, you've walked up to one of the vending machines. You land a kick into the glass, and grin as the shards explode into the air.##You can't remember if the city owns it or if the restaurant does, but either way, it makes you happy.#(+3 REASON)|ドアを出た最初の一歩目で、アタシは#ビリビリにエプロンを引き裂いていた。#そのまま路地に飛び込み、#そばの自販機に向かって蹴りをぶち込む。#ガラスの破片が飛び散るのを見て、にやりと笑う。##それが町のなのか、あの店のなのかは覚えてない。#どっちにしろ、ハッピーな気分になったからいいや！#(理性+3)
+On your way out, your hand slips into the register and pulls out some pocket change. You're the one doing all the work around here, and you sure need it more than your goddamn boss does.#(+4 FUNDS)|帰り際にレジに手を伸ばし、#小銭をこっそり抜き取る。#この辺の仕事は全部こっちがやってるんだ。#あのゴミ店長なんかより、#アタシの方がよっぽどもらうに相応しい。#(所持金+4)
+It's not the first time you've done this, and it looks like the old bastard's gotten wise. He's watching you the whole time, so you don't get the chance to steal anything.##You settle for pickpocketing a wallet on the walk home.#(+1 FUNDS)|金を盗むのはこれが初めてじゃない。#あのジジイも、ちっとは賢くなったみたいだ。#ずっとこっちを見てるせいで盗むスキがない。#しょうがないので、アタシは帰り道に#財布をスることにした。#(所持金+1)
+Well, it's not like you've got time to waste. This is all just shit you have to deal with to get to the end of the day, and the incoming apocalypse isn't gonna be any less of a task master than your boss is. ##That said, between the two, they honestly piss you off about the same amount.#(-3% DOOM)|ったく、アタシもそんなヒマなわけじゃないのに。#最期の日が来るまで、アホなくらい#働かなきゃなんないだけ。#来たる終末ってやつも、#あのウザい店長よりはマシな気がする。#とはいえ、どっちもおんなじくらいイラつくけど。#(破滅値-3%)
+WATCH IT|どこ見てんだよ！
+Some guy slams his shoulder against you as he walks past, nearly knocking you to the ground. You whirl around and let out a furious <<HEY!>>, catching the attention of the man and a few other passerby. He stares back at you, his eyes dull behind his thick glasses, and his jaw slack and drooling.|通りすがりの男の肩が勢いよくぶつかり、#危うく転びそうになる。#カチンときたアタシは、ブンと振り向いて叫んだ。#<<おい！>>#コイツと他の通行人が気付いて、こっちを見てくる。#分厚いメガネ越しに見える目はぼんやりしていて、#半開きの口からよだれが垂れていた。
+terrorize him|男を脅す
+what's with this guy?|何だコイツ？
+You threaten him with the nearest thing you can find, screaming your lungs out. He seems to finally wake up, his eyes widening. The bystanders yell and flee, and the man soon follows their lead.#You linger in the street, glancing down at the weapon in your hand with a sigh.#(+5% DOOM / + ITEM)|手近にあったものを手に取り、肺が裂けるくらいの#大声で脅す。我に返ったのか、男が大きく目を#見開く。よーやくお目覚めみたいだ。周りの野次馬達がギャーギャー言って逃げ出し、その後を追うように男も逃げる。その場に残ったアタシは手に持った武器を見て、はぁ…とため息をついた。#(破滅値+5% / +アイテム)
+You grab a broken bottle and scream at the man, but he just *stands* there. It's then when you hear shouting behind you-- cops. Cursing, you break for it, running in circles until you can get them off your back.#(+3% DOOM)|アタシは割れた瓶を掴んで、男に向かって怒鳴った。#けど、コイツはじーっと立ってるだけで#うんともすんともしない。#その時、後ろから誰かの大声が聞こえた…#ちっ、ポリ公か。#アタシはポリを振り切るためにぐるぐる走り回った。#(破滅値+3%)
+Your enraged expression falters when you realize something's seriously up with this guy. He suddenly lurches forward, crumpling like a puppet with its strings cut. A weird symbol glows on his forehead, and you hear screams from the bystanders as he begins to melt into gore!#Good god, you're gonna be sick...#(-2 STAMINA)|ムカついた顔が崩れる…コイツ、なんかおかしい。#まるで糸が切れた人形みたいに、いきなり男が前に#倒れ込む。デコにあったヘンテコなしるしが光って、ぐちゃぐちゃの血の塊になるまで溶け出した。#野次馬たちがぎゃーぎゃー騒ぎ出す。#くそ、気持ち悪すぎてゲボが出そう…#(スタミナ-2)
+PRICE OF FAME|有名税
+Passing an alleyway, you notice an old poster on a wall. At first you don't recognize the person presented. Then it hits you.#In the background, there's a mansion. The exact mansion where you...#started your career. ##Someone has written GUILTY in red paint (..blood?) and, sadly, you know what they meant.|路地を通り過ぎると、#壁に貼られた古いポスターが目に入る。#最初はそれが誰なのか分からなかった。#その瞬間、ぱっと全てが繋がる。#背景に映り込んだお家は…#私が初めて仕事をした場所だった。#血のような赤い文字で“有罪”と書かれている。#悲しいことに、その意味することが分かってしまう。
+tear the poster down|ポスターを破く
+try to forget|忘れようとする
+With a one swift motion, you tear down the shameful poster. With friends on your side, you _will_ escape your past.#Even if you can't fix it.#(+10 EXP / +1 REASON)|私はその恥ずかしいポスターを一気に破り捨てた。#友達がそばにいれば、きっと過去も乗り越えられる。##起きちゃったことは、もうどうしようもないんだ。#(EXP+10 / 理性+1)
+Someone has glued countless razor blades behind the poster and they tear through your fingers, staining the shameful poster with blood.##Distressed, you flee.#(-1 STAMINA / -1 REASON)|ポスターの裏に、誰かが剃刀の刃を#大量に仕込んでいた。#指が切り裂かれ、その血で恥ずかしいポスターが#赤く染まっていく。#動揺した私はその場から逃げ出した。#(スタミナ-1 / 理性-1)
+You touch your side, instinctively.#Though faded and almost invisible, you still can feel the scar under your fingers.#You've been telling everyone about a tree falling accident when you were little but the truth is...#you don't want to know.#(-10 EXP / +1 REASON)|無意識のうちに脇腹を触る。#ほとんど消えかけていたとはいえ、#まだ指先で傷跡を感じ取ることができた。#みんなには小さい頃に木が倒れる事故があったと#言ってたけど、真相は…#私も知りたくない。#(EXP-10 / 理性+1)
+FINE PRINT|細字の契約事項
+Mr. YOKOYAMA, your new manager, corners you. The previous one mysteriously disappeared a few months ago.#<<My dearest Mizuki, long time no see!>> His breath stinks like rotten meat.#<<Our parent company in Tokyo desperately needs new material. Something thrilling and exciting...>> he smiles.#<<...new blood.>>|新しいマネージャーの横山さんが近寄ってくる。#マネージャーさん自体は前にもいたけど、#数か月前に行方をくらましたまま、#未だに帰ってこない。#<<瑞希ちゃ～ん、久しぶりだねぇ！>>#口から、腐った肉のような臭いがする…#<<東京の親会社がね、どーしても新しいネタが#欲しいって言うんだ。こうゾクゾクするというか、#刺激的な…>>ニヤリと彼が笑う。#<<…若い人がね。>>
+shocking tattoo|派手な刺青を入れる
+lengthy photoshoot|長時間の写真撮影
+recommend one of your allies|「仲間」の1人を紹介する
+[NEEDS AT LEAST ONE ALLY]|最低1人の「仲間」が必要
+<<Tattoo? Splendid! >>#Mr. YOKOYAMA claps loudly.##<<I even know an artist willing to do a certain design... It might be a bit painful, but I'm sure that everyone will love it.>>#(+ STATUS / -2 STAMINA)|<<刺青？最高だね！ >>#横川さんが大きく手を叩いた。##<<知り合いにね、#あるデザインを彫ってくれる奴がいるんだ…#ちょっと痛いかもしれないけど、#きっとみんな気に入ってくれるさ。>>#(+パーク / スタミナ-2)
+<<Yes, yes. I could arrange that.>>#Mr. YOKOYAMA smiles.##<<I'm sure the boss will find that satisfactory...>>#(+5% DOOM)|<<そうか、いいね。それなら手配できる。>>#横川さんが笑う。##<<上も、きっとそれで納得してくれるよ…>>#(破滅値+5%)
+Mr. YOKOYAMA eyes the person you introduced up and down.#<<Yeah... I think we can work with that....>>##You avoid your friend's gaze when they get in a car with your manager, sure you'll never see them again.#(- ALLY)|私が連れてきた人を、#彼が上から下まで舐め回すように見る。#<<ああ…これなら何とかなるな…>>##友達がマネージャーと一緒に車へ乗り込む。#けど、私は目を合わせなかった。#もう二度と会うことはないと分かっていたから…#(-仲間)
+CRISIS OF FAITH|信仰の危機
+Allowing yourself a little break, you mind starts to wander.#Can God really explain everything that you're experiencing?##A dark part of you wonders if the occult you've been fighting can give you the answer you are looking for...|一息入れていると、心の中で迷いが生じ始める。#今、僕が経験してること全部、#神様は説明できるのかって…##これまで戦ってきた怪異が、#果たして僕の求める答えをくれるのだろうか…#そう、心の暗い部分が問いかけてくる。
+stay strong|気を確かに持つ
+what's wrong with doubt|疑って何が悪い
+Your steadfast resolve to save this town can come from only one source.#You sigh and prepare yourself for the unknown ahead. #(+4 FAITH)|この町を救いたいという固い決意は、#この心の中からしか生まれない。#これから待ち受ける未知の恐怖に備え、#僕は心を落ち着かせた。#(信仰値+4)
+What if... your God isn't the only one that could influence humans? What if... there are bigger powers at play here?#(-4 FAITH)|もし…僕の信じる神以外に、#人々に影響を与える存在がいたとしたら？#もし…もっと大きな力が#ここに存在しているとしたら？#(信仰値-4)
+MY MEMORIES|忘れ形見
+Going through your old stuff boxed in your room, you discover an unexpected keepsake. An old rosary bought when you found your faith, and a photo of you and your sister at the beach.##You don't have much time to go through other boxes - which memento will you take with you?|部屋の中にある古い物を詰め込んだ箱。#偶然、その中から思い出の品が見つかる。#神様を信仰し始めた頃に買った古いロザリオと、#浜辺で姉ちゃんと撮った写真だ。##他の箱を見ている時間はない…#どっちを持っていこう？
+an old rosary|古いロザリオ
+a photograph|写真
+You grab the rosary. You'll need all the help you can get if you're to survive in Shiokawa.#(+ ITEM)|僕はロザリオを手に取った。##塩川で生き残るには、できる限りの助けが要る。#(+アイテム)
+You grab the photo and place it in your wallet. You'll save this city. For her.#(+10 EXP)|僕は写真を手に取り、財布の中に入れた。#この町を救う。姉ちゃんのために。#(EXP+10)
+CORNUCOPIA|コルヌコピア
+Suddenly, the ONYX MEDALLION begins to shake violently. You try to stop it by pressing it hard to your chest, and it burns your skin.#You yell in pain, catching the attention of a man standing nearby. He takes a step towards you and grabs your hand, clearly trying to help. Help, just like your friends tried to...##Before you can say anything, the man explodes into a cornucopia of blood and gore. The medallion has claimed another victim.|いきなり、オニキスの首飾りが激しく揺れ始める。#胸に強く押し当てて止めようとするも、肌が焼けるような痛みがした。大声で叫ぶと、近くにいた男の人が気付いてくれた。こちらに近寄り、私の手を掴む彼。#助けようとしてくれてるんだ。#助ける…友達もそうしようとして…#けど、私が何か言う前に彼の体は吹き飛び、#血と肉片の塊になってしまう。#また一人、首飾りが犠牲者を出した。
+search the remains|遺体を調べる
+flee|逃げる
+Being guided by the medallion's strange powers, you stick your hand into the pile of steaming flesh. The meat fuses with your skin and slowly gets absorbed.#(+2 STAMINA / +5 EXP)#(+ CURSE)|首飾りの奇妙な力に導かれ、#熱く蒸れた肉の山に手を突っ込む。##肉は私の肌と融合して、#ゆっくりと体内に吸収されていった。#(スタミナ+2 / EXP+5 / +呪い)
+This can't keep happening!!#You scream, trying to rip the medallion off, but it's no use. You will have to find a way to get rid of it!#(+10 EXP)#(+1 CURSE REMOVAL ADDED)|このままでいいわけがない！#私は悲鳴を上げながら、#首飾りを引き剥がそうとした…#けど、びくともしない。#どうにかしてこれを取り除かないと…！#(EXP+10 / 呪い: 除去可能数+1)
+BAD BLOOD|血塗られし確執
+Feeling the wave of nausea coming, you fall on your knees. The liquid you vomit is dark red in color and smells metallic.#When you finally get up, you notice the blood on the floor pools in a certain pattern. The same magic sigil you've drawn during the ritual in which your friends died!##The medallion vibrates a bit, as if happy with the anguish it caused you.#(-1 STAMINA, -5% DOOM)#(+ STATUS?)|吐き気が込み上げてきて、床に膝をついてしまう。#吐き出した赤黒い液体から、金属の匂いがする。#ようやく立ち上がると、床に広がる血が#何かの模様を描いていることに気づく。#あの儀式で使ったのと同じ、私が描いた魔法陣だ！#あれのせいで、みんな死んじゃったんだ。#わずかに首飾りが揺れ動く…#まるで、その苦しむ姿を喜ぶかのように。#(スタミナ-1 / 破滅値-5% / +怪我？)
+THE FORBIDDEN COLLECTION|禁忌の収集品
+That fateful night, you only managed to steal the NECRONOMICON itself. While extremely dangerous on its own, other titles threaten the safety of this city, too.##What other book do you regret not taking with you the most?|運命の夜、ついに俺はあのネクロノミコンを#盗み出すことに成功した。かなり危険な代物だが、#これ以外もまた、この町の脅威となり得る。##あの中で持ち出せずに一番後悔しているのは…？
+a notebook full of contact information|連絡先がたくさん#書かれたノート
+tome of dangerous spells|危険な呪文が#書かれた書物
+a ring binder with details about your life|俺の人生について#詳しく書かれたファイル
+Yes, having that notebook would help you identify possible threats located in various parts of SHIOKAWA.#(+6 EXP)#(LOCATION'S THREAT LEVEL INCREASES)|そう、あのノートがあれば、#塩川の色んな場所に潜む脅威を特定できる。#(EXP+6)#(調査ポイントの“危険度”が上昇)
+Yes, the NECRONOMICON can only protect you against threats known to you. Is the pain you're feeling a result of their spells?#(+8 EXP)#(-2 STAMINA)|そう、ネクロノミコンは#既知の脅威からしか身を守れない。##俺が感じてる痛みは、あの呪文のせいなのか？#(EXP+8)#(スタミナ-2)
+Yes, that ring binder definitely contained too much information about you. You're afraid that the cult will use it to torment you and your family.#(+8 EXPERIENCE)#(-2 REASON)|そう、確かにあのリングファイルには#俺の情報が載りすぎている。##カルト教団の手に渡れば、#自分だけじゃなく#家族にも累が及ぶかもしれない。#(EXP+8)#(理性-2)
+FUNKY RAMEN|風変わりなラーメン
+Sitting in a restaurant, you are interrupted by a young waiter.#<<Excuse me, are you Mr. WAKAMATSU?>> she starts.#<<There's someone on the phone asking for you. It seems to be urgent.>>##Feeling a cold sweat, you follow her behind a counter and pick up the phone. The familiar voice of the club leader greets you and...|食堂で座っていると、#突然若い店員が声をかけてきた。#<<すみません、若松さんですよね？>>#彼女が続ける。#<<お電話が来てます。どうも、お急ぎのようで…>>#冷や汗をかきつつ、彼女を追って#カウンターの裏に入り、受話器を取った。#聞き慣れた部長の声だ。軽く挨拶をすると、彼は…
+he warns you about the ramen you're eating|そのラーメンについて警告した
+he demands you return the NECRONOMICON|ネクロノミコンを返せと迫った
+...wait, you weren't the one who bought ramen. You take a quick glance at a table nearby and quickly flee the restaurant as the man who ordered it falls to the ground, frothing at the mouth.#(+5 EXP)|…ラーメンなんて、俺は頼んでない。#確か、近くに座ってた客が頼んでたような…#そう思い、その席をさっと覗いた。#すると、男が口から泡を吹きながら#倒れるのを見てしまう。#俺は慌てて電話を切り、食堂から逃げ出した。#(EXP+5)
+The ramen? Frankly, you thought that it tasted funny but...###You suddenly feel ill as if something was about to explode in your stomach. #The feeling passes after a few minutes and you've caused quite a commotion. You excuse yourself and leave the restaurant, hungry and weak.#(-2 STAMINA)|ラーメン？正直、ヘンな味だとは思ったが…#すると突然、胃の中で何かが爆発するような、#激しい吐き気に襲われる。#数分間ずっと苦しみもがいて、やっと胃の調子は#落ち着いたものの店内は騒然としていた。#空腹と脱力感に襲われながら、俺は店を後にした。#(スタミナ-2)
+They must be following your every step, getting closer and closer. You excuse yourself to the waiter and flee from the restaurant.#(+2% DOOM)|きっと奴らは後をつけてきてるんだ、#一歩一歩確実に…#俺は一言、店員に謝って、#急いで店から飛び出した。#(破滅値+2%)
+CLIFF'S EDGE|崖の縁
+The investigation leads you to the edge of a cliff. The same cliff where you... never mind, you must focus on the case and saving the town.#Involuntarily, you glance down, expecting to find the half-rotten corpse of a popular girl adored by everyone. Instead, all you can see are the waves crashing violently against the cliff.##God, what's happening to you?#(+5 EXP / -2 REASON)|調査中、私はまるで誘われるかのように崖の縁まで#来ていた。ここは…いや、思い出すのはよそう。#今はこの事件と、町を救うことに集中しないと。#無意識のうちに目が下を向く。そこには腐りかけの#死体がある…はずだった。荒々しい波が岩肌に打ち#つける。皆から慕われていた彼女の姿はどこにも#見当たらない。あぁ…私、どうしちゃったんだろう？#(EXP+5 / 理性-2)
+they will find her one day|いずれ彼女は見つかる
+MY HAIRCUT|ヘアカット
+Sitting in a bathtub, you spot something and pick it up. It's a pair of scissors. You've used it to cut your own hair. It wasn't a perfect job by any means, but you fooled them. They had a more serious matter to focus on, after all.#(+5 EXP / -2 STAMINA)|お風呂に浸かってると、ある物が目に入る…#ハサミだ。#自分で髪を切るときによく使ってた。#完璧な仕上がりとは言えないけど、#追っ手の目を欺くにはこれで十分だった。#だって、彼らにはもっと大事なことが#あったんだから。#(EXP+5 / スタミナ-2)
+ECHOES OF THE PAST|過去の残響
+Wandering down the dirt paths of the village, you find yourself someplace familiar. You realize this is where you used to live when you were little. As your mind drifts, you wander further down the road. ##You find yourself at the cemetery where Mom is buried.|村の泥道を彷徨ってると、#どこか懐かしい場所に辿り着く。#ここって…小さい頃に住んでた場所？#ぼんやりしてるうちに、#そのまま道の奥まで進んでしまう。#ふと気がつくと、私はママのお墓がある#墓地まで来ていた。
+return to the investigation|調査に戻る
+leave an offering|お供えをする
+dig|墓を掘り返す
+[needs 'SHOVEL' item]|アイテム｢シャベル｣が必要
+You spend a little longer looking over the graveyard before you leave. ##It's been a long while since you thought about Mom. But there'll be plenty of time for it when this is all over.#(+5 EXP)|少しだけ見て回った後、私はその場を後にした。##ママのことを考えるなんて、久しぶりだ。#これが全部終われば、考える時間はたくさんある。#(EXP+5)
+From the nearby temple, you buy incense and flowers. After cleaning the grave and placing your offerings, you spend a few minutes praying. ##You don't remember her, and you were too young. But the way Dad talks about her, you still miss her anyway.#(-1 FUNDS / +2 REASON)|近くのお寺でお香と花を買う。#お墓の掃除を済ませてからお供えをして、#しばらく手を合わせた。#ママのことはあんまり覚えてない…#私もまだまだ小さかったから。#それでもパパの話を聞くと、#やっぱりどこか寂しくなってしまう。#(所持金-1 / 理性+2)
+You realize you don't have the money to actually get her an offering. You leave the cemetery, but the guilt still clouds your mind. You end up getting lost due to the distraction.#(+2% DOOM)|お供え物を買うお金がないことに気づき、#墓地を後にする。#けど、心に浮かぶ罪悪感はどうしても消えなかった。#気が散っていたせいで、つい道に迷ってしまう。#(破滅値+2%)
+... Something overcomes you. Your body moves before you can think better of it, and you plunge your shovel into the foot of her grave. Sweat pours down your face. You dig.##There's nothing. No urn, no ashes, no bones. Nothing. You stare into the dirt, trembling.##What the hell is this?#(+40 EXP / -4 REASON)|考えるより先に体が動き、私はシャベルを土に突き#刺していた…まるで何かに取り憑かれたみたいに。#顔中、汗だくになりながら、ただただ掘り続ける。#だけど、何も見つからない。骨壺も遺灰も骨も…#全部なくなってる。土を見つめてると、震えが止まらなくなってしまう。一体どういうことなの？#(EXP+40 / 理性-4)
+THE TRUMPETS OF SHIOKAWA|凶兆を告げるラッパ音
+Surely, you can't be the only one who can hear the haunting melody. It can be felt resonating from within everything you touch. The Court's Ball is coming, and you're not ready yet.|その不気味な旋律を耳にしたのは、#あなただけではないだろう。#何に触れても、その響きを感じ取ってしまう。##もう間もなく…舞踏会が開かれるのだ。#だが、まだ心の準備が整っていない…
+prepare yourself|覚悟を決める
+fight this feeling|何とか抗う
+You will make an excellent addition to the Court.#(+3% DOOM)|あなたが来れば、宮廷はより盛り上がるだろう。#(破滅値+3%)
+Resisting will only make the HERALD work harder.#(-1% DOOM / + INJURY)|抵抗すればするほど、ヘラルドの動きが#活発になるだけだ。#(破滅値-1% / +怪我)
+CHEERLEADING ROUTINE|完璧なチアダンス
+A group of students are practicing a cheerleading routine. Weird, you don't recognize the coach - is he new? Thinking nothing else of it, you continue on your way until you overhear something disturbing.##>>KeEp-p prR-acticiNg! Th-ee roUtine mUSt b-e perf-Fect for oOur Ball's Hosts.<<#(-1 REASON / -1 STAMINA)|チアリーディングの練習をしている生徒たち。#変だ、見慣れないコーチがいる…新任の人だろうか？#特に気に留めることもなく通り過ぎるも、#そこで不気味なかけ声を耳にしてしまう。#>>この埜まマ,練習ヲ続ケ繧ろ！#舞踏会をオ乎開かレ繧る.主の為にモ,#完璧ナn演技をしŠ柰けレrば！<<#(理性-1 / スタミナ-1)
+strength|筋力
+dexterity|敏捷性
+perception|知覚
+knowledge|賢さ
+charisma|カリスマ
+luck|幸運
+stamina|スタミナ
+reason|理性
+(strength check: success)|<筋力チェック: 成功>
+(strength check: failure)|<筋力チェック: 失敗>
+(dexterity check: success)|<敏捷性チェック: 成功>
+(dexterity check: failure)|<敏捷性チェック: 失敗>
+(perception check: success)|<知覚チェック: 成功>
+(perception check: failure)|<知覚チェック: 失敗>
+(knowledge check: success)|<賢さチェック: 成功>
+(knowledge check: failure)|<賢さチェック: 失敗>
+(charisma check: success)|<カリスマチェック: 成功>
+(charisma check: failure)|<カリスマチェック: 失敗>
+(luck check: success)|<幸運チェック: 成功>
+(luck check: failure)|<幸運チェック: 失敗>
+resolve this event|イベント終了
+gain a spell|呪文習得
+resolve this event#(cancels the effect)|イベント終了#(効果消失)
+prepare for combat|身構える
+where are you?|どこに行ったのだろう？
+event continues|イベント続行
+prepare yourself|身構える
+continue climbing|そのまま上る
+[click anywhere to continue]|（画面をクリックしてください）
+ACCESS YOUR STORAGE|カバンを開ける

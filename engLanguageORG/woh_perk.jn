@@ -1,0 +1,365 @@
+[UPGRADE]|[アップグレード]
+SECOND SIGHT|透視力
+additional damage against GHOST and ELDRITCH enemies|[悪霊][怪魔]の敵に対する#ダメージが上昇
+SELF-THERAPY|自己療法
+forgetting spells regains extra REASON|｢呪文｣を忘れると#｢理性｣が回復する
+Your self-therapy allows you to forget all this! (+2 REASON)|自己療法で何もかも忘れ去ることができた！(理性+2)
+GHOST CONNECTION|霊との交信
+completing a mystery grants a random SPELL|謎を解明すると#ランダムな呪文を習得する
+[GHOST CONNECTION] You learn something new!|<霊との交信> 新たな呪文を習得した！
+ARCANE GRASP|秘義の智恵
++2 additional SPELL slots available|呪文スロットが2つ追加される
+RUNNING SHOES|ランニングシューズ
+smaller DOOM penalty from running from combat|戦闘逃亡時の破滅値上昇が#通常より抑えられる
+HOT BATH|熱々のお風呂
+improved resting at home|アクション｢自宅で休む｣の#効果が高まる
+DISCIPLINE|猛練習
+regain 1 STAMINA for all successful event skill checks|スキルチェック成功時に#スタミナが1回復
+Your discipline and hard work pay off! (+1 STAMINA)|猛練習をしたその努力がついに実を結んだ！(スタミナ+1)
+FAST SWIMMER|高速泳法
+faster offensive actions|攻撃アクションの速度が上昇
+CQC TRAINING|近接格闘術
+using firearms as melee weapons deals more damage|[銃器]系の武器を使うと#ダメージが上昇する
+IREZUMI|刺青
+items in the shops are cheaper by 1#[minimum 1]|各ショップのアイテムが#安くなる##(最低: -1)
+CORE STRENGTH|体幹の強さ
+all combat moves deal an extra point of damage|全戦闘アクションに#追加ダメージが付与される
+YAKUZA CARD|ヤクザカード
+one additional slot becomes available in all shops#remove the [ILLICIT] tag from all items|全ショップで購入可能な#アイテムが1つ増える##全アイテムの#[違法]タグが無くなる
+SIGNED CONTRACT|サイン済み契約書
+extra FUNDS gained for completing a mystery|謎を解明すると所持金が増える
+#[CONTRACT] This will make a great story!|#<契約書> これはいいネタになりそう！
+OCCULT SIGNS|オカルトサイン
+small EXP bonus for casting spells|呪文を唱える際、#僅かにEXPを獲得する
+FAME|名声
+faster combat actions for each ALLY you have|｢仲間｣が増える度に、戦闘#アクションの速度が上昇
+PARTING GIFT|別れのしるし
+letting ALLIES go grants a permanent bonus to one of your stats|｢仲間｣と別れると、能力値の#いずれか1つに永続的な#ボーナスが付与される
+DEDUCTION|推理
+bonus EXP gained for completing a mystery|謎を解明すると#追加でEXPを獲得する
+FAST HANDS|手先の器用さ
+allows switching of equipment during combat encounters|戦闘中に装備の切り替えが#可能となる
+REPORTER'S BAG|取材バッグ
+additional INVENTORY slot|所持品スロットが増える
+IMPROVISE|間に合わせ
+throwing ITEMS during combat encounters is more effective|戦闘中に投げたアイテムの#効果が上昇する
+FAST LEARNER|飲み込みの早さ
+taking damage in combat grants a small experience bonus|戦闘でダメージを受けた際、#僅かに追加EXPを獲得
+ANATOMY CLASS|解剖学の授業
+extra damage against HUMAN enemies|[人間]の敵に対して、#追加ダメージを与える
+FIRST AID|応急処置
+defeating an enemy regains 2 REASON|敵を倒すと｢理性｣が回復する##｢理性｣+2
+You patch yourself up. (+2 REASON)|あなたは自分で手当てをした。(理性+2)
+PICKPOCKET|スリ
+higher chance of finding ITEMS after combat|戦闘後のアイテム発見率上昇
+ADRENALINE|アドレナリン
+faster combat actions|戦闘アクションの速度が上昇
+DOOMED ALREADY|死線を越えし者
+regain 1 REASON for all failed event skill checks|スキルチェック失敗時に#｢理性｣が1回復する
+Luckily, it's not the first time you've failed something. (+1 REASON)|幸いにも、これが初めての失敗ってわけじゃない。(理性+1)
+LOOTING|ぶんどり
+gain 1 FUNDS for each defeated enemy|敵を倒す度にお金が増える##所持金+1
+You loot an extra 1 FUNDS from this enemy!|この敵から、さらにお金をぶんどった！(所持金+1)
+FOLKLORE STUDIES|民俗学
++1 KNOWLEDGE#[knowledge of various rituals and regional myths]|様々な儀式や地方の神話に#関する知見##｢賢さ｣+1
+LEADERSHIP|統率力
++1 CHARISMA#[natural ability to guide others]|人々を率いる天賦の才##｢カリスマ｣+1
+QUICK THINKING|機転の良さ
++1 DEXTERITY#[there's always a way out from seemingly hopeless situations]|どんな絶望的な状況でも#必ず道はある: 敏捷性+1
+ART KNOWLEDGE|芸術の知識
++1 PERCEPTION#[you've got an eye for art and details]|芸術やその細部の描写に対する感覚が鋭くなる##｢知覚｣+1
+FINAL STRETCH|最後の踏ん張り
++2 STAMINA#+2 REASON#[we are so close, we can't give up!]|もう少しだ！ここで諦めるわけにはいかない！##｢スタミナ｣+2#｢理性｣+2
+OUTDOORSMAN|アウトドア
++1 LUCK#[attuned with the natural rhythm of life]|自然な生活リズム##｢幸運｣+1
+AMMO STASH|弾薬のストック
+Gain 1-2 BULLETS at the end of each mystery|謎を解明する度に#｢弾薬｣を1～2発獲得する
+#[AMMO STASH] +1 BULLET|#[弾薬のストック] 弾薬+1
+DADDY'S GIRL|父親思い
+Regain 2 STAMINA at the end of each mystery|謎を解明する度に#スタミナが回復する##｢スタミナ｣+2
+#[DADDY'S GIRL] +2 STAMINA|#[父親思い] スタミナ+2
+DEFT HANDLING|巧みな銃さばき
+FIREARM melee attacks are 20% faster|[銃器]による近接攻撃が#20%速くなる
+DOOM EFFIGY|呪いの人形
+completing a mystery lowers extra DOOM depending on the amount of CURSES you have#-10% MAX REASON|謎を解明すると#｢呪い｣の数に応じて#破滅値が下がる##理性上限-10%
+BLOOD MANIA|血の渇望
+all combat moves deal extra damage and are faster depending on the amount of CURSES you have#-10% MAX STAMINA|｢呪い｣の数に応じて#全能力値にボーナスを付与#理性上限-10%#スタミナ上限-10%
+ELDRITCH POSSESSION|怪魔の憑依
+bonus to all stats depending on the amount of CURSES you have#-10% MAX STAMINA and REASON|｢呪い｣の数に応じて#全能力値にボーナスを付与#理性上限-10%#スタミナ上限-10%
+RAGE OF RAGH-ZHULL|ラグ＝ズールの怒り
++1 DAMAGE until the end of this mystery#[COST: 6 DOOM]|この謎を解明するまで#与ダメージ+1##コスト: 破滅値+6%
+F’THOTH FLASH|フ・トスの光
+lower DOOM by 3#[COST: 15 EXP]|破滅値を3%下げる##コスト: EXP-15
+SHEBBE’S SURGE|シェベの猛進
++1 to all STATS until the end of this mystery#[COST: 5 DOOM]|この謎の調査を終えるまで#全能力値+1##コスト: 破滅値+5%
+KROOTKY’S KILL|クルートキーの虐殺
+defeat the current enemy#[COST: 15 DOOM]|戦闘中の敵を撃破する##コスト: 破滅値+15%
+CURE OF CTHUR-IZTO|クトゥルイズトの治癒
++3 STAMINA / +3 REASON#[COST: 7 DOOM]|スタミナ+3 / 理性+3##コスト: 破滅値+7%
+ZEAL|敬虔なる信徒
+all combat moves deal an extra 1 damage;#MAX STAMINA and MAX REASON are lowered by 4|全戦闘アクションの#与ダメージ+1#スタミナ上限-4#理性上限-4
+MY WEIRD COLLECTION|奇怪な蒐集品
+gain one random ITEM with an [OCCULT] tag at the end of each mystery|謎を解明する度に[オカルト]#タグがついたアイテムを#ランダムに1つ獲得
+You decide to take one ITEM from your weird collection with you.|奇怪な蒐集品の中から｢アイテム｣を1つ持っていくことにした。
+STEALTH|隠密行動
+gain 10 EXP for escaping from an enemy encounter|戦闘から逃亡するとEXP+10
+Your stealth has paid off! (+10 EXP)|隠密行動が功を奏した！(EXP+10)
+ON YOUR OWN|単独調査
++1 to all STATS if you have no ALLIES with you|｢仲間｣がいなければ、#全能力値+1
+HARD-KNOCK|仁義なき闘い
++1 DAMAGE while under the NICOTINE RUSH effect|｢ニコチン中毒｣の効果発動中は#ダメージ+1
+MORBID INSPIRATION|恐ろしいひらめき
+gain EXP when losing REASON|｢理性｣を失うとEXPを獲得
+That's... inspiring. (+2 EXP)|そりゃあ…ゾクッとするね。(EXP+2)
+HAUNTING DREAMS|鮮烈なる悪夢
+regain extra REASON for completing a mystery|謎を解明したとき、通常より#さらに｢理性｣が回復する
+[HAUNTING DREAMS]: +1 REASON|[鮮烈なる悪夢]: 理性+1
+FRESH MEAT|新鮮な肉
+gain a mysterious meat for completing a mystery|謎を解明したとき、奇妙な肉を入手する
+[FRESH MEAT]: + ITEM|[新鮮な肉]: アイテム入手
+SHARPENING STONE|砥石
+[SHARP]-type weapons get an extra 1 damage|[鋭器]タイプの武器#ダメージ+1
+QUICK SHOPPER|素早いお買い物
+buying an ITEM lowers DOOM by 2|アイテムを買うと破滅値が2%#下がる
+BIG SPENDER|太客
+a chance to regain 1 FND after buying an ITEM|アイテムを買うと、#一定の確率で所持金+1
+A surprise discount, nice! (+1 FND)|えっ、割引？ありがとう！(所持金+1)
+PREDESTINED|宿命
++2 MAX REASON#+2 REASON|理性上限+2#｢理性｣+2
+UNRELENTING|不屈
++2 MAX STAMINA#+2 STAMINA|スタミナ上限+2#｢スタミナ｣+2
+PREMONITION|予感
+event options display which STAT will be tested against when selected|イベントの選択肢に#どのスキルチェックが#行われるかが表示される
+STARS ARE RIGHT|星辰が揃う時
+automatically pass all LUCK skill checks|｢幸運｣のスキルチェックが#全て成功する
+SURVIVAL INSTINCT|生存本能
+pass all event skill checks when your REASON is lower than 3|｢理性｣が3以下の時、全イベントの#スキルチェックが#成功する
+WINGING IT|ぶっつけ本番
+all event skill checks have a negative modifier that makes them harder. Passing an event skill check grants extra EXP|全イベントのスキルチェック#でマイナス補正がかかるが、#チェックに成功すると#追加EXPが付与される
+You've always been winging it and it finally pays off. (+5 EXP)|いつも勢い任せだったが、ついにそれが上手くいった。(EXP+5)
+--TREATMENT--##|－治療－##
+STABLE CONDITION|安定した容態
+(discard): nothing happens|捨てる: 何も起きない
+HASTY AID|応急手当
+when taking STAMINA damage in combat, replace HASTY AID with a new random INJURY|戦闘中スタミナダメージを#受けたとき、｢応急手当｣が#ランダムな｢怪我｣と#入れ替わる
+BADLY BRUISED|酷い打撲
+-1 STRENGTH until the end of the current mystery|この謎を解明するまで#｢筋力｣-1
+BLOOD LOSS|失血
+-10% MAX STAMINA|スタミナ上限-10%
+DISCHARGE SUMMARY|退院サマリー
+(discard): +20 EXP|捨てる: EXP+20
+HORRIBLE MEMORIES|酷い思い出
+[they didn't have any anesthetics left]#-1 MAX REASON|[麻酔を一回もされなかった]#理性上限-1
+--INJURY (MINOR)--##|－怪我(軽傷)－##
+--INJURY (MAJOR)--##|－怪我(重傷)－##
+--CURSE (MENTAL)--##|－呪い(精神)－##
+--CURSE (MUTATION)--##|－呪い(変異)－##
+--STATUS (PERSONAL)--##|－固有ステータス－##
+HANGOVER|二日酔い
+-1 to all STATS until the end of the current mystery|今回の謎が終了するまで#｢全能力値｣-1
+CONCUSSION|脳震とう
+-1 to KNOWLEDGE until the end of the current mystery|今回の謎が終了するまで#｢賢さ｣-1
+<<my head...>>|<<頭が…>>
+SUICIDAL|希死念慮
+chance of losing STAMINA each time you lose REASON|｢理性｣を失うたびに#一定の確率で#｢スタミナ｣が減少する
+There's no sense in fighting back! (-1 STAMINA)|抗う意味なんてない… (スタミナ-1)
+HOLES|穴
+each day, more holes appear|日に日に穴が増えていく
+#[HOLES] More holes are spreading#on your body: -2 STAMINA|#[穴] 体の穴がさらに増えた: スタミナ-2
+INSMASU LOOK|インズマス面
+[ocean is calling]#chance of a negative effect with each SEASIDE investigation|[海が呼んでいる]#｢海辺｣で調査をする度に#一定の確率でマイナス効果を#受ける
+HUNGER|血餓の呪い
+-1 CHARISMA#[they look tasty]|｢カリスマ｣-1#[あの人、美味しそう]
+BROKEN BONE|骨折
+-1 STRENGTH#-1 DEXTERITY|｢筋力｣-1#｢敏捷性｣-1
+BADLY BLEEDING|酷い出血
+chance of losing 1 STAMINA with each investigation|調査をする度に、#一定の確率でスタミナ-1
+<<I feel weak>>|<<力が入らない>>
+You are losing blood. (-1 STAMINA)|出血が激しい。(スタミナ-1)
+TORN MUSCLE|肉離れ
+deal -1 DAMAGE on all attacks in combat|全攻撃アクションの#与ダメージ-1
+LEECHES|吸血ヒル
+chance of losing 1 STAMINA with each investigation|調査する度に、#一定の確率でスタミナ-1
+Leeches get bigger... (-1 STAMINA)|ヒルがどんどん大きくなってる…(スタミナ-1)
+FROSTBITE|凍傷
+-2 STRENGTH|｢筋力｣-2
+BITE|噛み傷
+[hopefully it'll go away on its own]|[自然に治るのを祈ろう]
+That bite mark is getting worse with each day.|その噛み傷は日に日に酷くなっていた。
+INFECTED WOUND|創傷感染
+-1 DEXTERITY#-1 PERCEPTION|｢敏捷性｣-1#｢知覚｣-1
+COUGHING BLOOD|喀血
+-2 DEXTERITY|｢敏捷性｣-2
+<<should I be worried?...>>|<<これは、まずいかも…？>>
+SLIT MOUTH|口裂け
+-1 CHARISMA#-1 STRENGTH|｢カリスマ｣-1#｢筋力｣-1
+<<smile!>>|<<笑え！>>
+STALKER|ストーカー
+[someone is following you]#HUMAN enemies get more powerful#[effect stacks]|[何者かに追われている]##[人間]の敵がより強力になる#[効果重複あり]
+BRANDED|烙印
+chance of raising DOOM with each investigation|調査する度に一定の確率で破滅値が上昇する
+You feel sudden pain in the area around the branded mark. (+1% DOOM)|突然、焼き付けられた烙印に痛みが走る。(破滅値+1%)
+PARANOIA|パラノイア
+chance of losing REASON each time you lose STAMINA|｢スタミナ｣が減る度に、#一定の確率で#｢理性｣も失う
+There's no sense in fighting back! (-1 REASON)|反撃する意味など、どこにもない…(理性-1)
+TINY CUTS|細かな切り傷
+[no effect]|[効果なし]
+<<more annoying than anything>>|<<かすり傷だ、大したことない>>
+CURSED SIGNS|呪いの前兆
+casting SPELLS raises DOOM|｢呪文｣を唱えると#破滅値が上昇する
+charred skin forms weird signs|焦げた肌に奇妙な印が浮かぶ
+BLOATED|腹部に蠢くもの
+something is moving inside your stomach|腹の中で何かが#蠢いている
+<<I feel sick>>|<<気持ち悪い…>>
+BURN|火傷
+you receive additional combat damage|戦闘による被ダメージが上昇
+FRACTURED RIBS|肋骨骨折
+-1 DEXTERITY|｢敏捷性｣-1
+BROKEN NOSE|鼻骨骨折
+RESTING is less effective|アクション｢自宅で休む｣の#効果が弱まる
+CUT ARM SINEW|腱の断裂
+deal -1 DAMAGE on all attacks in combat|戦闘中の全ての#与ダメージ-1
+ABDOMINAL CUT|腹部の切り傷
+-10% MAX STAMINA|スタミナ上限-10%
+EXPOSED RIBS|むき出しの肋骨
+-20% MAX STAMINA|スタミナ上限-20%
+MANGLED HAND|痛ましい手
+attacking in combat deals 1 STAMINA damage to yourself|自分が攻撃したとき、#ダメージを受ける#｢スタミナ｣-1
+Moving your hand causes you pain! (-1 STAMINA)|手を動かすと痛みが走る！(スタミナ-1)
+CUT ARTERY|動脈断裂
+-1 STAMINA each investigation|調査をする度に#｢スタミナ｣-1
+You are losing blood, seek help! (-1 STAMINA)|出血が激しい。助けを呼ばないと！(スタミナ-1)
+TRAUMATIZED|トラウマ
+-10% MAX REASON|理性上限-10%
+BRAIN DAMAGE|脳損傷
+-2 KNOWLEDGE#+10% MAX REASON|｢賢さ｣-2#理性上限+10%
+BROKEN JAW|下顎骨骨折
+you can't cast any SPELLS|｢呪文｣が唱えられなくなる
+BROKEN JAW prevents you from casting this SPELL.|“下顎骨骨折”によって、呪文が唱えられない。
+PANIC|パニック
+-10% chance to succeed on any combat action that has a base chance to hit|基本命中率のある#戦闘アクションにおいて#成功率が10%下がる
+NICOTINE RUSH|ニコチン中毒
+[-1 CIGARETTE each investigation]#all combat actions are faster##[0.9x combat multiplier]|調査をする度に｢タバコ｣を1本失う##全戦闘アクションの#速度が上昇#[シーケンスバーx0.9]
+N. WITHDRAWAL|禁断症状
+all combat actions are slower##[1.2x combat multiplier]|全戦闘アクションの#速度が下がる#[シーケンスバーx1.2倍]
+DRENCHED|ずぶ濡れ
+all combat actions are slower until the end of the current mystery##[your wet clothes stick to your skin, slowing you down]|この謎の調査が終わるまで#全戦闘アクションが遅くなる##[濡れた服が体に張りつき、#動きが遅くなる]
+MAYHEM|災禍をもたらす者
+[raising DOOM will increase your STATS]|破滅値が上がると#能力値も上昇する
++1 to all STATS|全能力値+1
++2 to all STATS|全能力値+2
++3 to all STATS|全能力値+3
++4 to all STATS|全能力値+4
+FACELESS|無貌
+-2 to all STATS|全能力値-2
+rEd cAPe|阿迦万ト
+MIMI'S OBSESSION|美々の妄執
+-20% MAX REASON|理性上限-20%
+SWOLLEN JOINT|関節の腫れ
+can't run from combat encounters|戦闘から逃げられなくなる
+RINGING EARS|耳鳴り
+all combat actions are slower until the end of the current mystery|この謎が終わるまで、#全戦闘アクションが遅くなる
+WEIRD LUMP|奇妙な腫れ
+shorten the COMBAT SEQUENCE bar by 20 time units|戦闘シーケンスバーが#20短くなる
+COLLAPSED LUNG|潰れた肺
+shorten the COMBAT SEQUENCE bar by 20 time units|戦闘シーケンスバーが#20短くなる
+FACIAL TRAUMA|顔面損傷
+-10% chance to all combat actions|全戦闘アクションの成功確率#-10%
+'maxillofacial fracture'|顎全体の骨折
+OMINOUS LETTER|不吉な手紙
+leveling up requires an extra 20 EXP|レベルアップに追加で20EXPが#必要となる
+<<I'm waiting for you...>>|<<待ってるからね…>>
+ALWAYS THERE|いつでもそばに
+Sets MAX STAMINA and REASON to 8.#You can't lose from loss of your health.|｢スタミナ｣｢理性｣の上限が#8になる##その両方がなくなっても#敗北しない
+<<you can count on me>>|<<頼りにしなって>>
+SURVIVOR'S GUILT|自責の渦
+add 2% DOOM at the end of the mystery|謎の調査を終えると、#破滅値が2%上昇
+<<it should have been me>>|<<俺が死ぬべきだった…>>
+[SURVIVOR'S GUILT] +2% DOOM|[自責の渦] 破滅値+2%
+k|k
+a|a
+n|n
+MIND WIPE|記憶抹消
+-100 EXP#(discard): lose 3 REASON|EXP-100##捨てる: ｢理性｣-3
+<< ... >>|<<…>>
+a|a
+k|k
+a|a
+INSOMNIA|不眠症
+lose 2 REASON at the end of the mystery|謎の調査が終わると#｢理性｣-2
+<<my head hurts...>>|<<頭が痛い…>>
+[INSOMNIA] -2 REASON|[不眠症] 理性-2
+DISLOCATED SHOULDER|脱臼した肩
+-1 MAX STAMINA#(discard): lose 2 REASON|スタミナ上限-1#捨てる: ｢理性｣-2
+FEARFUL|怖がり
+lose 1 REASON at the start of each enemy encounter|戦闘が開始される度に#｢理性｣-1
+<<I'm worried>>|<<不安だ…>>
+W-who c-could it be?... (-1 REASON)|い、一体、誰…？(理性-1)
+IRRATIONAL|失われた理性
+(buying an ITEM): small chance of buying another ITEM instead|アイテム購入時、低確率で#別のアイテムを#買ってしまう
+<< ... >>|<<…>>
+MASOCHISTIC|マゾヒズム
+regain 1 REASON at the start of each enemy encounter;#-2 MAX REASON|戦闘開始時: ｢理性｣+1##理性上限-2
+<<...>>|<<…>>
+You can't help but smile... (+1 REASON)|思わず笑みがこぼれる… (理性+1)
+GHASTLY PRESENCE|身の毛のよだつ気配
+disables all standard OFFENSIVE combat actions;#+4 MAX REASON|通常の戦闘アクションが#全て無効になる##理性上限+4
+<< ... >>|<<…>>
+CAT'S CURIOSITY|好奇心は猫をも殺す
+deaths so far:|スタミナ上限-1#捨てる: 理性-2
+<<you could count on me>>|<<任せなさいっ！>>
+SAFETY IN NUMBERS|皆がいれば怖くない
+[why did you sign that contract?]##+1 MAX REASON#(at the end of the mystery): if you don't have at least 2 followers, lose 2 REASON|[何であんな契約をしたんだろう？]##理性上限+1#<謎の解明時>#｢仲間｣が2人以上いなければ#理性-2
+<<he's looking for you>>|<<彼はアナタを探している…>>
+Chaos rises! All STATS improved!|混沌が巻き起こり、全能力値が上昇した！
+THE OLD GOD STIRS...#(click here to reveal its effect)|旧き神の禍いが降りかかる…#(ここをクリック)
+「STORE CLOSED」|閉店
+The [SHOP] additional action is disabled.|アイテムショップが#選択不可となる。
+The friendly dog disappeared last night. You will have to find a new place to buy equipment...|昨日の夜から、あの人懐っこい犬がいなくなってしまった。#装備品を買うなら違う店を探さなければ…
+「ROADS CLOSED」|道路封鎖
+Investigating places located outside the city (VILLAGE, MANSION, FOREST) costs 1% more DOOM.|町の外にある場所#(村、屋敷、森)を#調査すると破滅値+1%
+Roads leading out of town were closed by the police. You'll have to find a new way out...|町の外に続く道は警察に封鎖されてしまった。どこか違う道を探さなければ…
+「SCHOOL BURNED DOWN」|焼け落ちた学校
+While classes will continue in an old wing, no student will gather in the schoolyard.|授業は旧館で続いているが、#校庭に生徒達の姿はない…
+While classes will continue in an old wing, no student will gather in the schoolyard.|授業は旧館で続いているが、校庭に生徒達の姿はない…
+「RIOTS」|暴動
+Dangerous bands of rioters gather around the DOWNTOWN area.|中心街の周りに危険な#暴徒の集団が集まっている。
+Dangerous bands of rioters are gathering around the downtown area. The police are hopeless...|中心街の周りに危険な暴徒の集団が集まっている。#これには警察もお手上げだった…
+「WINDS OF PLAGUE」|疫病の風
+TREATMENT and SURGERY actions cost more|｢治療｣と｢手術｣の#代金が上がる
+A weird epidemic keeps staff at the hospital busy. Skipping the line will cost you more...|奇妙な伝染病のせいで病院の職員たちは大忙しだ。#割り込み診察はもっと高くつく…
+「CUT OFF FROM THE OUTSIDE WORLD」|外界から隔絶されし世界
+The whole town stopped receiving any outside signal. It must be the radio mast failure...|電波を受信できなくなった。#電波塔が壊れたのだろう…
+The whole town stopped receiving any outside signal. It must be the radio mast failure...|町中で外の電波を受信できなくなった。#きっと電波塔が壊れたのだろう…
+「FETID FUMES」|悪臭のする煙
+Your REST action is less effective.|アクション｢自宅で休む｣の#効果が弱まる。
+The air feels heavy, making it hard to breathe...|空気が重く、息苦しくなり始めた…
+「CONTAMINATED WATER」|水の汚染
+You can't regain health in between mysteries.|｢お風呂｣がまともに#使えなくなる。
+There's something wrong with the tap water. It is black and oily and glistening, smelling like death. You hope it's just a temporary issue...|蛇口の水がおかしい。黒々と油っぽく光っていて死臭がする。#すぐに直るといいんだが…
+「ARCANE STORM」|超自然的な嵐
+REASON cost of all SPELLS is increased by 1.|全呪文の理性コスト+1
+Local scientists are baffled. An unprecedented aurora-like event has bathed the entire town in an unnatural green glow...|地元の科学者たちが困惑している。過去に例を見ないオーロラのような現象が#発生したのだ。不気味な緑色の光に、町全体が包み込まれている…
+「PRICE HIKE」|物価高
+All shop ITEMS cost 1 FUNDS more.|全ショップのアイテム価格が#1上昇する。
+Preparing for the worst, people are stocking up on everything, making it harder for you to find what you want.|人々は最悪の事態に備えて、あらゆるものを買い占めていた。#そのため、なかなか目当ての物が見つからない。
+「FREAKY FLOOD」|異常洪水
+Exploring the SEASIDE location has a chance of inflicting DRENCHED status.|海辺を探索すると、#一定の確率で#｢ずぶ濡れ｣状態となる。
+Did the water level suddenly increase or is our city slowly sinking?|水位が急に上がったのか、この町が段々と沈んでいるのか…？
+「HEART OF DARKNESS」|闇の中心地
+Lighthouse gets one additional floor.|灯台に新たな階層が#1つ増える。
+The imposing shadow cast by the old lighthouse is getting longer each day...|日に日に、あの古びた灯台が落とす影が伸びている…
+「SCHOOL CURFEW」|学校閉鎖
+The [LIBRARY] additional action is disabled.|｢図書室｣でアクションが#行えなくなる。
+With more and more students going missing, the police have restricted access to the school's building.|生徒たちの失踪事件が増えているため、#警察は校内への立ち入りを制限することにした。
+「TIME SKIP」|時空超越
++5% DOOM|破滅値+5%
+What? I'd have sworn it was Monday, not Tuesday... right?|ん…？今日って火曜日？#確か、月曜だったはずじゃ…？
+「BLOOD MOON」|紅き月
+All enemies get additional 20 POWER.|全ての敵: ｢パワー｣+20
+The crimson moon spotted over SHIOKAWA keeps everyone on the edge...|塩川の上空に浮かぶ真紅の月に、人々は不安を感じている…
+The flooded areas make it harder to navigate. (+ STATUS)|洪水による被害で移動が難しくなっている。(+状態異常)
+The ocean is calling you...|海があなたを呼んでいる…
+You must enter the water. (-1 REASON)|海に入らなければ。(理性-1)
+The underwater city is rising. (+1% DOOM)|海底都市が、その姿を現した。(破滅値+1%)
+You continue to change. (-1 STAMINA)|その姿は今も変容し続けている…(スタミナ-1)

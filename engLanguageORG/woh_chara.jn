@@ -1,0 +1,196 @@
+eng|jp
+WORLD OF HORROR|恐怖の世界
+<<At the beginning, no one had any idea what we were up against.>>|「自分たちが何と対峙していたのか、#初めは誰も知らなかった。」
+[NO EFFECT]|調査中に発動する効果: なし
+MEDICAL HISTORY|病歴
+<<Brittle bones run in your family and you've spent each summer in a cast.>>|「家系的に骨がもろく、夏は毎年#ギブスをはめて過ごしていた。」
+[you start with extra EXP and BANDAGES but an INJURY may occur whenever the player takes damage in combat]|追加EXPと｢包帯｣を持った状態で#スタート。ただし、戦闘ダメージを#受けると怪我を負うことがある。
+HUNTED BY THE CULT|教団の追っ手
+<<You've managed to run from them once, but the cult is tireless...>>|「一度は逃げ切ったものの、狂信者たちは休む間もなく追ってきた…」
+[solving mysteries reduces more DOOM but you get more unique combat encounters]|謎を解くと通常より破滅値が#下がるが、一部の敵との戦闘#エンカウントが増える。
+THE SEVENTH CURSE|セブンス･カース
+<<Your family was cursed. Everyone around you will die...>>|「お前の家族は呪われてんだよ。#周りがみんな、死んじまう…」
+[you start the playthrough with more FUNDS but can't have any HUMAN allies]|通常より所持金が多い状態で#スタートするが、[人間]の#仲間ができなくなる。
+ILL-FATED|不幸体質
+<<You were born under a bad moon...>>|「不吉な月の下、お前は#生まれたんだ…」
+[all event skill checks automatically fail]|全イベントのスキルチェックに#失敗する。
+KNIGHT-ERRANT|夢想家
+<<Only I can save our town...>>|「この町を救えるのは俺だけだ…」
+[receive a major penalty each time you complete a mystery with a sub-A ending]|Aエンディング以外の#エンディングを迎えると、#大きなペナルティを受ける。
+SCARS|傷痕
+<<I've made it through hell and back, you won't break me now.>>|「私は地獄を乗り越えてきたんだ。#今さらお前に屈するわけがない。」
+[lowers incoming damage by 1, drastically lowers MAX STAMINA and REASON]|被ダメージ-1##｢スタミナ｣｢理性｣の上限が#大幅に低下
+CURIOUS BIRTHMARK|奇妙なあざ
+<<Doctor, if it looks 'fine', please explain to me, why is it changing its shape?>>|「これのどこが大丈夫なの、先生！#何で形が変わってるのよ！」
+[any damage taken in combat can cause a CURSE]|戦闘中にダメージを受けると、#一定の確率で「呪い」が#付与される。
+ELDRITCH PARASITE|怪魔の寄生蟲
+<<Something is... growing inside me.>>|「何かが…この中で育ってる…」
+[you start with extra STAMINA and REASON but can't regain them]|｢スタミナ｣｢理性｣が高い状態で#スタート。ただし、それらを回復#することができなくなる。
+FATALIST|運命論者
+<<It's... pointless, I can't change my fate...>>|「そりゃ…ムダだね。#運命には抗えないのさ…」
+[you must solve the mysteries in the order they appear on the board]|ボードに表示された順番で、#謎を解いていかなければならない。
+TRANSFER STUDENT|転校生
+Name: KIRIE MINAMI#20 / FEMALE# #Could the ghosts following her be in any way connected with all the weird events happening in this town?|南 桐江#20歳 / 女##幽霊たちが彼女につきまとう理由。#それは、この町で起きている怪異と#何か関連しているのかもしれない…
++ KNOWLEDGE#- STRENGTH#starts with one random SPELL|賢さ＋#筋力－#ランダムに｢呪文｣を#1つ習得した状態でスタート
+KIRIE|桐江
+SWIMMING TEAM CAPTAIN|水泳部部長
+Name: AIKO TAKAHASHI#20 / FEMALE# #Barely surviving after a ghost of a drowned man kept her underwater, she is determined to solve this mystery.|高橋 愛子#20歳 / 女##溺死した男の霊に襲われ、#水中へ引きずり込まれた彼女。#何とか一命をとりとめた彼女は、#この謎を解き明かすことを決心する。
++ DEXTERITY#- KNOWLEDGE#starts with combat speed bonus|敏捷性＋#賢さ－#全戦闘アクションに#速度上昇ボーナスを付与
+AIKO|愛子
+YAKUZA DRIVER|逃走するヤクザ
+Name: HARU#24 / MALE# #Robbing that old abandoned manor was a mistake. With his friends dead and mutilated, and a vengeful horror chasing him, no speed is too fast.|春#24歳 / 男#あの古びた廃屋敷に#盗みに入ったのは失敗だった。#無残にも切り刻まれ、殺された弟分達。#報復せんと迫り来る怪物に対し、#彼はただ、車で逃げ去ることしか#できなかった…
++ STRENGTH#- KNOWLEDGE#starts with CIGARETTES|筋力＋#賢さ－#｢タバコ｣を持った状態でスタート
+HARU|春
+TEEN IDOL|ティーンアイドル
+MIZUKI HAMASAKI#20 / FEMALE# #What a strange world we live in, where stopping an ancient evil is the easiest way to boost your career.|濱崎 瑞希#20歳 / 女##なんとも奇妙な世界だ。#自身のキャリアを上げる#一番手っ取り早い方法…#それがまさか、古の怪異を#止めることだとは。
++ CHARISMA#- STRENGTH#starts with a random ALLY|カリスマ＋#筋力－#ランダムな｢仲間｣が#1人いる状態でスタート
+MIZUKI|瑞希
+PHOTOGRAPHER|カメラマン
+Name: KOUJI TAGAWA#20 / MALE# #They say a picture is worth a thousand words.#The government won't sweep this one under the rug.|田川 浩二#20歳 / 男##百聞は一見にしかず。#これがあれば、政府も#うやむやにはできないだろう。
++ PERCEPTION#- DEXTERITY#starts with a CAMERA|知覚＋#敏捷性－#｢カメラ｣を持った状態でスタート
+KOUJI|浩二
+MED STUDENT|医学生
+Name: MIMI#22 / FEMALE# #Finally a way to put into practice everything she's learned so far.|美々#22歳 / 女##…ついに来た。#これまで学んできた、#その全てを試す時が…
++ KNOWLEDGE#- DEXTERITY#starts with a SCALPEL|賢さ＋#敏捷性－#｢メス｣を持った状態でスタート
+MIMI|美々
+RIOTER|暴徒
+Name: MIKU#20 / FEMALE# #Rebelious teenager keen on spreading chaos. She will protect her hometown, even if only for her own selfish reasons.|未久#20歳 / 女##混沌を広めることに熱中している#反抗的な少女。身勝手な理由とはいえ#彼女は彼女なりに自分の故郷を#守ろうとしていた。
++ STRENGTH#- PERCEPTION#increasing DOOM grants various bonuses|筋力＋#知覚－#破滅値が上がると、様々なボーナスが#付与される
+MIKU|未久
+HUNTER'S DAUGHTER|猟師の娘
+Name: MORIKO ISHII#20 / FEMALE# #Ignoring her father's warnings, she decided to hunt the monster killing the animals to protect this forest... and, unknowingly, save the world.|石井 守子#20歳 / 女#父の警告を振り切り、狩りに出た守子。#全ては動物たちの命を奪う怪物を狩り、#この森を守るために…#そして、知らず知らずのうちに#彼女はこの世界を救うこととなる。
++ PERCEPTION#- DEXTERITY#starts with her father's shotgun|知覚＋#敏捷性－#父の猟銃を持った状態でスタート
+MORIKO|守子
+WITCH|魔女
+Name: AYAKA KUROI#20 / FEMALE# #They didn't want to participate in Ayaka's ritual. Now, they are all dead and their souls will continue to torment her.|黒井 彩伽#20歳 / 女#彩伽の儀式には関わりたくない。#そう言って彼らは参加を拒んだ。#だが、最終的にその全員が#亡き者となってしまう。#そして、彼らの魂は今も彼女を#苦しめ続けており…
++ KNOWLEDGE#- LUCK#starts with ONYX MEDALLION|賢さ＋ / 幸運－#｢オニキスの首飾り｣を持った状態で#スタート
+AYAKA|彩伽
+EX-CULTIST|元カルト信者
+Name: TOSHIAKI WAKAMATSU#20 / MALE# #When Toshiaki discovered the club's sinister intention, he flew into action, stealing their most prized possession. This cursed book will either save or doom our entire world...|若松 俊明#20歳 / 男#歴史部の邪悪な企みを知った俊明は、#部員たちが最も大切にしている物を#盗み取った。#その呪われし本が世界に#もたらすのは救いか、滅びか…
++ PERCEPTION#- STRENGTH#starts with NECRONOMICON|知覚＋#筋力－#｢ネクロノミコン｣を#持った状態でスタート
+TOSHIAKI|俊明
+PRIEST|聖職者
+Name: YASHIRO KAWAJ#24 / MALE# #While he didn't technically complete his studies at the seminary, a worrying letter from his sister forced Yashiro to take the first train to Shiokawa. After all, she died a few years ago...|川地 八代#26歳 / 男#厳密に言えば、彼は神学校を卒業#していない。ある時、姉から心配の#手紙が届く。それがきっかけで、彼は#塩川行きの始発電車に飛び乗ることと#なった。なぜなら、姉は数年前に#亡くなっていたのだから…
++ KNOWLEDGE#- CHARISMA#starts with BRONZE CRUCIFIX|賢さ＋#カリスマ－#｢銅の十字架｣を持った状態でスタート
+YASHIRO|八代
+You need to leave this smelly town soon.|早くこの怪しい町から出ないと。
+The cards predicted this...|カードが次の行動を予言した…
+What a lovely day today.|今日はとても良い天気だ。
+The order won't matter anyway...|順番など、どうでもいい…
+PRIEST|聖職者
+CHUPACABRA SWEATER|チュパカブラのセーター
+EXQUISITE TASTE|美食家
+<<Only a few places are good enough for me.>>|「この肥えた舌を唸らせてくれる#店なんて、そうそうないよ。」
+[only one additional action is available per location]|各調査ポイントで、追加でアクションを1回行える。
+The cult members are on your trail!|カルト集団の信者達に追われている…！
+The curse continues to follow you...|あなたは今もその呪いに苦しみ続けていた…
+Something is growing inside you...|何かが…体の中で育っている…
+You were born under a bad moon...|あなたは不吉な月の下で生まれた…
+You've been waiting for this your entire life...|この時をずっと待ちわびていた…
+The parasite stirs.|体内の寄生蟲がうごめいている…
+You've been through worse...|これよりもっとひどい目に遭ってきた…
+INCOGNITO|お忍び姿
+<<SORRY I DON'T CELEBRATE THAT>>|<<悪いが、祝うつもりはない。>>
+HAPPIEST LEMON|ハッピーレモン
+COMMONER|一般人
+<<I was supposed to die.>>|<<私が死ぬはずだった。>>
+[you can't gain EXPERIENCE]|EXPを獲得できなくなる。
+BOOKWORM|本の虫
+SPORT JACKET|スポーツジャケット
+TEEN WITCH II|ティーンウィッチ II
+WINDSTOPPER|防風ジャケット
+HIS SWEATER|彼のセーター
+RUNAWAY JACKET|逃亡者のジャケット
+CULT OF THE CORN|トウモロコシ畑の信者
+HUNTER'S SWEATER|猟師のセーター
+WARM JACKET|暖かいジャケット
+EST.65|EST.65
+MORI KEI|森ガール
+HAIL TO THE KING|血まみれのはらわた
+ASPIRING IDOL|アイドルの卵
+INNOCENT STUDENT|無垢なる学生
+THE COLLECTION|コレクション
+REBEL OUTFIT|叛逆者
+PRIVATE SCHOOL|私立学校
+<STAR>|<STAR>
+SKELETON|スケルトン
+REPORTER|記者
+BLOODY SWEATER|血染めのセーター
+JUNIOR SALARYMAN|平社員
+HAWAII|アロハシャツ
+LEATHER REBEL|レザレボー
+CHAD|モテ男
+DORAKYURA|ドラキュラ
+THUG JACKET|チンピラスタイル
+BAR BRAWL|バーファイト
+MAFIA|マフィア
+SAMURAI|サムライ
+LEATHER|レザー
+T-SHIRT|Tシャツ
+DOG GOD FESTIVAL|犬神祭
+RIOT JACKET|狂暴な襲撃者
+BAND T-SHIRT|バンドT
+COOL STUDENT|クールな生徒
+TOKYO|トーキョー
+OCCULT TANK-TOP|オカルト・タンクトップ
+ALTERNATYWKA|奇矯な少女
+LITTLE DEVIL|小悪魔
+NURSE|看護婦
+TANK-TOP|タンクトップ
+P.CULTURE|ポップカルチャー
+GOOD GIRL|いい子
+TRACKSUIT|ジャージ
+SURF!|SURF!
+(ACTUAL) NURSE|(正真正銘の)看護婦
+TRANSFER GIRL|転校生の制服
+CASUAL SHIRT|カジュアルなシャツ
+TEEN WITCH|ティーンウィッチ
+HIRIE|ヒリエ
+60S|60年代
+WZ.86|WZ.86
+SHEET GHOST|シーツの幽霊
+CAPTAIN|部長
+GYM CLOTHES|体育着
+SAKHALIN|サハリン
+TEACHER'S PET|優等生
+VANITY JACKET|スタジャン
+MUMMY|ミイラ
+SPORT TEAM|スポーツチーム
+CUTE SHIRT|キュートなシャツ
+ALWAYS RUNNING|ランニングウェア
+chosen perk packs|選択したパークパック
+A new page was added to the NECRONOMICON.|｢ネクロノミコン｣に新たなページが追加された。
+I've failed them... (+6% DOOM)|皆の期待を裏切ってしまった…(破滅値+6%)
+You've lost the hunting cultists... for now. (-1% DOOM)|カルト信者の姿は見えなくなった。今のところは…(破滅値-1%)
+FAITH|信仰値
+(passive effect):#-2 MAX STAMINA/REASON#+1 DAMAGE#+1 STRENGTH#(effect per mystery):#-10 EXPERIENCE|<パッシブ効果>#スタミナ上限-2 / 理性上限-2#与ダメージ+1#｢筋力｣+1#<謎の調査開始時>EXP-10
+(passive effect):#-1 MAX STAMINA/REASON#(effect per mystery):#-5 EXPERIENCE|<パッシブ効果>#スタミナ上限-1 / 理性上限-1#<謎の調査開始時>#EXP-5
+(passive effect):#+2 MAX STAMINA/REASON#+1 DEXTERITY#(effect per mystery):#regain 1 STAMINA/REASON#+20 EXPERIENCE|<パッシブ効果>#スタミナ上限+2 / 理性上限+2#｢敏捷性｣+1#<謎の調査開始時>#｢スタミナ｣｢理性｣を1回復#EXP+20
+(passive effect):#+1 MAX STAMINA/REASON#(effect per mystery):#+10 EXPERIENCE|<パッシブ効果>#スタミナ上限+1 / 理性上限+1#<謎の調査開始時>#EXP+10
+CURRENT VALUE|現在の信仰値
+#increase FAITH by defeating enemies and solving mysteries#decrease FAITH by getting damaged in combat#-----#|#｢信仰値｣は敵を倒したり、謎を解いたり#することで高まるが、戦闘時にダメージを受けると低下する。#-----#
+RANDOM CHARACTER|探索者 (ランダム)
+Randomly selects one of the unlocked characters!|ランダムな探索者が選ばれる。#(アンロックされた探索者のみ)
+[cheaper PHARMACY items]|｢薬局｣のアイテムが安くなる。
++1 REASON / STAMINA|｢理性｣+1 / ｢スタミナ｣+1
+BRAVE|勇気
+COWARD|臆病者
+AKITO|昭人
+CHIHARU|千晴
+DOI|土井
+HACHI|ハチ
+HARUE|春江
+HIKARU|光
+KAEDE|楓
+KAIRI|海里
+TARU|多留
+REIKO|麗子
+MICHI|ミッチー
+KOHAKU|琥珀
+CHARISMA|カリスマ
+KNOWLEDGE|賢さ
+DEXTERITY|敏捷性
+PERCEPTION|知覚
+STRENGTH|筋力
+LUCK|幸運
+STUDENT|生徒

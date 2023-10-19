@@ -1,0 +1,129 @@
+---KTU-RUFU, THE DREAMING---|---夢見の神 クトゥ＝ルフ---
+The gargantuan body of KTU-RUFU lies submerged within a sunken city, where its boundless reveries sow turmoil and insanity. When the stars are right, KTU-RUFU will awaken once more, and the nightmare shall begin...|クトゥ＝ルフはその巨体を水没都市へと沈め、無限の混乱と狂気を撒き散らしている。#星辰が揃う時、クトゥ＝ルフは再び目覚め、悪夢が始まるのだ…
+NIGHTMARES: Losing REASON raises DOOM.|悪夢: 理性を失うと破滅値が上昇する
+DREAMING OF SHIOKAWA|夢魘に苛む塩川
+The gargantuan body of KTU-RUFU lies submerged within a sunken city, where its boundless reveries sow turmoil and insanity. When the stars are right, KTU-RUFU will awaken once more, and the nightmare shall begin...|クトゥ＝ルフはその巨体を水没都市へと沈め、#無限の混乱と狂気を撒き散らしている。##星辰が揃う時、クトゥ＝ルフは再び目覚め、#悪夢が始まるのだ…
+[losing REASON raises DOOM]|理性を失うと破滅値が上昇する
+KTU-RUFU|クトゥ＝ルフ
+The prophecy was right, and there was nothing you could do to stop it. KTU-RUFU's dream of SHIOKAWA has ended.|予言は正しかった…だが、あなたにそれを止める力はなかった。#クトゥ＝ルフの塩川への夢は、終わりを迎えたのだ。
+Being a part of this dream, you and everyone you know have ceased to exist...|この夢の一部として、あなたを含む全ての人が存在ごと消えてなくなった…
+Just a dream?...|ただの夢…？
+JUST A DREAM?|ただの夢？
+lower DOOM by 2% at the end of the mystery|謎を解決すると#破滅値が2％低下
+<<was it all just a dream?>>|<<全部…ただの夢？>>
+HALLUCINATIONS|幻覚
+-1 PERCEPTION|知覚-1
+<<...he's not real...>>|<<奴は本物じゃない…>>
+FLASHBACKS|フラッシュバック
+-2 DEXTERITY#(discard): +4% DOOM|｢敏捷性｣-2#捨てる:破滅値+4%
+<<they can't find the body>>|<<あの死体を見つけられる訳がない>>
+TAINTED VIOLIN|血染めのバイオリン
+(equip): faster combat actions|装備: 戦闘アクションが#速くなる
+Its wood has soaked in a curious dark red liquid.|赤黒い液体が木に染み込んでいる。
+You can't get the stains out.|染みは落とせない。
+HOLY GLYPHS|聖なる秘符
+lower DOOM by 1% for every item in your inventory#[discard on use]#[COST: 2 REASON]|所持品へアイテムが増える度に#破滅値1%低下#[使用後に消失]#コスト:｢理性｣-2
+THE NORWEGIAN|ノルウェー風
+BAD DREAMS|悪夢
+Staying up is becoming harder and harder for you, but the horrible nightmares you've been having lately worry you.##What if you couldn't wake up from one?|だんだん夜遅くまで起きているのが辛くなってきた。#ここ最近、繰り返し恐ろしい悪夢を見るように#なって、心が安まらない。##もし、あの悪夢から#目を覚ますことができなかったら…
+give in; your body needs it|諦めて眠る#体を休めなくては…
+you can't go to sleep now|いま寝れるわけがない
+Your nightmares are getting more realistic each time you close your eyes, but your body feels rested, and you're ready for action.#(+1 STAMINA / -3 REASON)|目を閉じる度、じりじりと悪夢が#現実の世界に迫り寄ってくる。#だが、疲れはしっかり取れたようで#動く準備はできていた。#(スタミナ+1 / 理性-3)
+You drink another cup of coffee, praying that your body will get used to it.#(+STATUS)|コーヒーをもう一杯飲む。#寝なくてもいいように#体も慣れてくれればいいが…#(+ステータス)
+MASK FESTIVAL|仮面の奇祭
+As you glance around, you notice that more and more people are wearing strange masks, unlike anything you've ever seen before.#As you turn to your friends for reassurance, you notice that some also wear these eerie masks. Their voices sound muffled and distorted, and you can't shake off the feeling that they're not quite themselves.#The hairs on the back of your neck stand on end, and you realize something is terribly wrong.|ふと気付くと、不気味な仮面を着けた人が、周りに#どんどん増えていた…こんなの、見たことがない。#助けを求めて友達の方を向くと、#そのうち何人かも同じ仮面をつけていた。##くぐもった声が、さらにひずんで聞こえる。#まるで別人のようだ。#ゾクリと首筋の毛が逆立つ…#直感的に、何か恐ろしいことが#起きているような気がした。
+<<They are preparing for something...>>|<<何かの準備を…？>>
+<<This can't be healthy!>>|<<こんなのどうかしてる！>>
+<<Are they hiding something?>>|<<何か隠してるのか？>>
+A sense of dread creeps over you, as the masked people are swarming through the store, filling their carts with food and survival equipment.#You notice the goods' prices have already skyrocketed.##You realize that you need to act fast if you want to have any chance of survival.#(-2 FUNDS)|店に押し寄せた仮面を着けた人々が、#食料やサバイバル用品をカートに詰め込んでいる。#その様子を見て、あなたは恐怖を覚えた。#どの商品も価格が跳ね上がっている。##生き残るためには、すぐに行動を起こさなければ。#(所持金-2)
+What are they protecting themselves against? You take a deep breath and the air around you feels heavy as if it's thick with an invisible poison. You cough, and your eyes begin to water.##The world around you is not as safe as you once thought. .#(-2 STAMINA)|一体、この人達は何から#身を守ろうとしてるのだろう？#深呼吸をすると、やけに空気が重く感じる。#まるで辺りに見えない毒が満ちているかのようだ。#ゴホゴホと咳き込むと、じわりと涙が滲んでくる。##かつてあなたが思っていたほど、#もうこの世界は安全ではないのだ。#(スタミナ-2)
+You can't help but wonder what lies behind the masks that conceal the faces of the people around you.##Are these even the people they claim to be? Or are they just masquerading as something they're not, hiding their true identities behind the masks that they wear?#(-2 REASON)|あの仮面の奥に何を隠しているのだろう？#思わず考えてしまう。##その人物が名乗ったとしても、#顔が覆われていては本人なのかさえ分からない。#あるいは仮面を着けて別人になりすまし、#その正体を隠しているのだろうか？#(理性-2)
+CRUMBLING REALITY|崩れゆく現実
+The line between your dreams and reality has blurred beyond recognition, and you can't tell what's real anymore.#As you struggle to hold on to your sanity, a sense of panic takes hold. The world around you starts to warp and distort, and you can feel yourself slipping further and further away from reality.##WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP WAKE UP|夢と現実の境界線が曖昧になり、#何が現実なのか分からなくなってきた。#理性と狂気の瀬戸際で恐慌状態に陥ってしまう。#世界がぐにゃりと歪み始め、現実から自分が#遠ざかっていくのを感じる。#目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ
+IÄ! IÄ!#KTU-RUFU FHTAGN!|イア！イア！#クトゥ＝ルフ・フタグン！
+let the DIMENSIONAL VOYEUR devour you|｢次元を覗くもの｣に#身を委ねて喰われる
+fight against this feeling|狂気に抗う
+KTU-RUFU will rise once again and the world as you know it is about to be consumed by darkness!!#(+10 EXPERIENCE / +2% DOOM)|再び目覚めたクトゥ＝ルフにより、#世界は闇に呑み込まれていく！#(EXP+10 / 破滅値+2%)
+You try to fight it, to deny the hunger that can never be sated, but deep down, you know it's no use.##You slowly close your eyes...#(+3 EXPERIENCE)|決して満たされることない飢えに抗おうとする。#内心、そんなことをしても無駄なのは分かっていた。##そうして、あなたはゆっくりと目を閉じ…#(EXP+3)
+this can't be happening#this can't be happening#this can't be hap-##You open your eyes, half expecting to find yourself in the grip of a nightmare. But everything seems normal. Too normal.#(+4 REASON)|現実じゃない#現実じゃない#現実じゃ…#もう悪夢に囚われてしまったのだと、#半ば諦めて目を開ける。#だが、辺りにはいつもの光景が広がっていた。#“ 全てが普通”すぎる。不自然なほどに…#(理性+4)
+The world around you warps and twists in a dizzying display of madness, pushing you to the brink of insanity. You try to hold on, but it's too much, and you collapse in a heap on the ground...###Suddenly, you're jolted back to reality by a police officer staring down at you with confusion and suspicion..#(-2 STAMINA)|歪んでねじれ、めまぐるしく変わっていく世界で#狂気の淵に立たされる。#何とか正気を保とうとするも、#ついに限界を超えて地面に倒れ込んでしまう…##すると突然、あなたは現実に引き戻された。#困惑した警察官が訝しげにこちらを見下ろしている…#(スタミナ-2)
+BOX CUTTER (BROKEN)|刃の折れたカッター
+Your BOX CUTTER's blade broke!|｢カッターの刃｣が折れた！
+MIMI'S LITTLE PROJECT|美々の小さな計画
+<<this will deal with these annoying floaters...>>|<<これで、うっとうしいモヤモヤもなくなる…>>
+[REPLACE THE LIQUID IN YOUR EYEBALL WITH A SALINE SOLUTION]#---#-1 PERCEPTION#-10% chance to all combat actions|眼球の中の液体を#生理食塩水と替える#---##｢知覚｣-１#全戦闘アクションの#成功確率-
+You must commit yourself to one of your projects before continuing your investigation.|調査を続ける前に、自身の体を使った研究を一つ#行わなければならない。
+With the next project completed, you should continue your investigation.|次の調査が終わったら、また新たな研究が待っている。
+[STAB AN ICEPICK THROUGH THE NOSE TO DISABLE THE PAIN RECEPTORS IN YOUR BRAIN]|鼻にアイスピックを#突き刺し、脳内の痛覚#受容器を不能にする
+-2 KNOWLEDGE#-1 INCOMING DAMAGE|｢賢さ｣-2##被ダメージ-1
+[REPLACE THE LIQUID IN YOUR EYEBALL WITH A SALINE SOLUTION]|眼球の中の液体を#生理食塩水と替える
+-1 PERCEPTION#-10% chance to all combat actions|｢知覚｣-1##全戦闘アクションの#成功確率-10%
+[FORCIBLY REWIRE YOUR VESTIBULAR SYSTEM]|前庭系を無理やり#組み替える
+-1 LUCK#fail all event checks|｢幸運｣-1##全イベントで#スキルチェックに失敗する
+[IMPLANT A SECOND HUMAN HEART]|第二の心臓を移植する
+-1 CHARISMA#+5% DOOM|｢カリスマ｣-1##破滅値+5%
+[BREAK YOUR ARM TO FORM A NEW JOINT]|腕を折り、新たな関節を#形成する
+-1 STRENGTH#slower combat actions|｢筋力｣-1##戦闘アクションが遅くなる
+[SELL YOUR KIDNEY TO FINANCE YOUR PROJECT]|腎臓を売り、研究用の#資金を調達する
+-3 MAX STAMINA#+1 FUNDS|スタミナ上限-3##所持金+1
+[CUT OFF YOUR KNEECAP]|膝頭を切除する
+-2 DEXTERITY; -1 ITEM slot|｢敏捷性｣-2##アイテムスロット-1
+<<It's time to put my knowledge to use...>>|<<今まで勉強してきたことが、#やっと活かせる…>>
+Before each investigation, you'll have to choose one experiment to perform.|調査を始める前に、実験を一つ行わなければならない。
+<<Not here.>>|<<ここじゃない…>>
+HIRE AN ALLY#(+5% DOOM)|仲間に加える#(破滅値+5%)
+DOOMER MORIKO|Doomer
+BHP|BHP
+[LAW]|[法律]
+Your ONYX MEDALLION shakes a little.|｢オニキスの首飾り｣がわずかに揺れ動く。
+REAL NIGHTMARE|真の悪夢
+encounter three DREAM enemies in one playthrough|1回のプレイで#｢夢魔｣の敵に3回遭遇する
+KICK-BOX CUTTER|鋭い蹴り
+deal 10 damage with a single kick|1回の｢キック｣で#10ダメージ与える
+WELCOME TO THE FAMILY|家族の一員
+let the real JURI in|樹里が本当の自分を#受け入れる
+STEEL BOX|鋼鉄の箱
+break the blade|刃を折る
+CAN YOU TRUST THEM?|頼れる仲間？
+hire two allies in one playthrough and win|1回のプレイで｢仲間｣を#2人加えてクリアする
+(H)EXPERIMENTAL THERAPY|常識外れの人体実験
+complete the [MIMI'S LITTLE PROJECT] challenge|チャレンジ｢美々の小さな計画｣を#クリアする
+CATCH ME IF YOU CAN|捕まえてみな
+handcuff the ultimate opportunist|｢究極のご都合主義者｣に#手錠をかける
+RAIN OF SPIDERS|蜘蛛の雨
+as YASHIRO, complete a TRUE BELIEVER playthrough with CTHAC-ATORASU as the OLD GOD|八代: 旧き神｢クタク＝アトラス｣#を召喚し、難易度#｢真の信奉者｣をクリア
+EXIT TO MENU|メニューに戻る
+EXIT (confirm)|戻る (確定)
+EXTRA MATH DISPLAYED: ON/OFF|詳細な計算式表示#ON / OFF
+EXTRA INFORMATION DISPLAYED: ON/OFF|追加情報の表示: ON / OFF
+when investigating|調査を続ける…
+combat damage dealt|与ダメージ
+combat damage received|被ダメージ
+[STRENGTHEN YOUR RESOLVE]: +3 FAITH|決意を固める: 信仰+3
+[START DOUBTING]:-3 FAITH|疑念を抱く: 信仰-3
+YOU DON'T BELONG HERE (modded characters can't save progress)|(MODの探索者は進行状況をセーブできません)
+You've encountered|エンカウント:
+You are investigating|調査:
+You've discovered|発見:
+You've run into|イベント発生:
+You continue your investigation...|調査を続ける…
+FUNNY MASK|おかしな仮面
+(equip): +1 STAMINA or REASON at the beginning of a combat encounter|装備: 戦闘開始時｢スタミナ｣#もしくは｢理性｣+1
+<<This mask is anything but funny...>>|<<ちっとも面白くない…>>
+<<I don't like it.>>|<<好きにはなれない。>>
+ACTIVE RITUALS|発動中の儀式効果
+STA|STA
+REA|REA
+enter the hospital|病院に入る
+shop for items|アイテムショップ
+rest|休む
+each combat encounter|戦闘突入時
+MYSTERY MONOGRAPH|怪異研究論文
+ENDINGS ENCYCLOPEDIA allows you to revisit all unlocked ending screens.|アンロック済みの#エンディング画面を#改めて見ることができます。
+MYSTERY MONOGRAPH compiles all mystery endings you've seen.|これまで見てきた謎の#エンディングが全て#まとめられています。
+ACCESS ROOFTOP|屋上に行く
+<<I've overheard my parents talking about a horrible accident. They said that the girl's father went mad from grief...>>|<<親からの盗み聞きだけどさ、その女の子、酷い事故に遭って、#悲しんだお父さんが正気を失っちゃったらしいよ…>>
+<<What's that?>>|<<あれは…？>>
+The girl whispers|少女がささやく…
+[GRAFT BEAR CLAWS TO YOUR TOES]|熊の爪をつま先に#移植する
+new random INJURY each mystery#+2 KICK damage|#毎回、謎を解く前に#ランダムな「怪我」を負う##「キック」のダメージ＋２

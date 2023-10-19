@@ -1,0 +1,365 @@
+[MEJORA]|[アップグレード]
+SEGUNDA SEÑAL|透視力
+daño adicional contra enemigos FANTASMA y ELDRITCH|[悪霊][怪魔]の敵に対する#ダメージが上昇
+AUTOTERAPIA|自己療法
+olvidar hechizos recupera RAZÓN extra|｢呪文｣を忘れると#｢理性｣が回復する
+¡Tu autoterapia te permite olvidar todo esto! (+2 RAZÓN)|自己療法で何もかも忘れ去ることができた！(理性+2)
+CONEXIÓN FANTASMA|霊との交信
+completar un misterio otorga un HECHIZO aleatorio|謎を解明すると#ランダムな呪文を習得する
+[CONEXIÓN FANTASMA] ¡Aprendes algo nuevo!|<霊との交信> 新たな呪文を習得した！
+AGARRE ARCANO|秘義の智恵
++2 espacios de HECHIZO adicionales disponibles|呪文スロットが2つ追加される
+ZAPATOS PARA CORRER|ランニングシューズ
+Menor penalización de DOOM por huir del combate.|戦闘逃亡時の破滅値上昇が#通常より抑えられる
+BAÑO CALIENTE|熱々のお風呂
+mejor descanso en casa|アクション｢自宅で休む｣の#効果が高まる
+DISCIPLINA|猛練習
+recupera 1 RESISTENCIA por todas las pruebas de habilidad del evento exitosas|スキルチェック成功時に#スタミナが1回復
+¡Tu disciplina y trabajo duro dan sus frutos! (+1 RESISTENCIA)|猛練習をしたその努力がついに実を結んだ！(スタミナ+1)
+NADADOR RÁPIDO|高速泳法
+acciones ofensivas más rápidas|攻撃アクションの速度が上昇
+ENTRENAMIENTO DEL CQC|近接格闘術
+usar armas de fuego como armas cuerpo a cuerpo causa más daño|[銃器]系の武器を使うと#ダメージが上昇する
+IREZUMI|刺青
+los artículos en las tiendas son 1# más baratos[mínimo 1]|各ショップのアイテムが#安くなる##(最低: -1)
+FUERZA DEL NÚCLEO|体幹の強さ
+Todos los movimientos de combate causan un punto extra de daño.|全戦闘アクションに#追加ダメージが付与される
+YAKUZA CARD|ヤクザカード
+un espacio adicional estará disponible en todas las tiendas#eliminar la etiqueta [ILÍCITO] de todos los artículos|全ショップで購入可能な#アイテムが1つ増える##全アイテムの#[違法]タグが無くなる
+CONTRATO FIRMADO|サイン済み契約書
+FONDOS adicionales obtenidos por completar un misterio|謎を解明すると所持金が増える
+#[CONTRATO] ¡Esta será una gran historia!|#<契約書> これはいいネタになりそう！
+SIGNOS OCULTOS|オカルトサイン
+pequeña bonificación de EXP por lanzar hechizos|呪文を唱える際、#僅かにEXPを獲得する
+FAMA|名声
+acciones de combate más rápidas por cada ALIADO que tengas|｢仲間｣が増える度に、戦闘#アクションの速度が上昇
+REGALO DE DESPEDIDA|別れのしるし
+dejar ir a los ALIADOS otorga una bonificación permanente a una de tus estadísticas|｢仲間｣と別れると、能力値の#いずれか1つに永続的な#ボーナスが付与される
+DEDUCCIÓN|推理
+EXP adicional obtenida por completar un misterio|謎を解明すると#追加でEXPを獲得する
+MANOS RÁPIDAS|手先の器用さ
+permite cambiar de equipo durante encuentros de combate|戦闘中に装備の切り替えが#可能となる
+BOLSA DE REPORTERO|取材バッグ
+ranura de INVENTARIO adicional|所持品スロットが増える
+IMPROVISAR|間に合わせ
+Lanzar OBJETOS durante los encuentros de combate es más efectivo.|戦闘中に投げたアイテムの#効果が上昇する
+APRENDIZ RAPIDO|飲み込みの早さ
+recibir daño en combate otorga una pequeña bonificación de experiencia|戦闘でダメージを受けた際、#僅かに追加EXPを獲得
+CLASE DE ANATOMÍA|解剖学の授業
+daño extra contra enemigos HUMANOS|[人間]の敵に対して、#追加ダメージを与える
+PRIMEROS AUXILIOS|応急処置
+derrotar a un enemigo recupera 2 RAZONES|敵を倒すと｢理性｣が回復する##｢理性｣+2
+Tú mismo te remendas. (+2 RAZÓN)|あなたは自分で手当てをした。(理性+2)
+CARTERISTA|スリ
+mayor probabilidad de encontrar ARTÍCULOS después del combate|戦闘後のアイテム発見率上昇
+ADRENALINA|アドレナリン
+acciones de combate más rápidas|戦闘アクションの速度が上昇
+YA CONDENADO|死線を越えし者
+recuperar 1 RAZÓN por todas las pruebas fallidas de habilidades del evento|スキルチェック失敗時に#｢理性｣が1回復する
+Por suerte, no es la primera vez que fallas en algo. (+1 RAZÓN)|幸いにも、これが初めての失敗ってわけじゃない。(理性+1)
+SAQUEO|ぶんどり
+Gana 1 FONDOS por cada enemigo derrotado.|敵を倒す度にお金が増える##所持金+1
+¡Saqueas 1 FONDOS extra de este enemigo!|この敵から、さらにお金をぶんどった！(所持金+1)
+ESTUDIOS FOLCLÓRICOS|民俗学
++1 CONOCIMIENTO#[conocimiento de diversos rituales y mitos regionales]|様々な儀式や地方の神話に#関する知見##｢賢さ｣+1
+LIDERAZGO|統率力
++1 CARISMA#[habilidad natural para guiar a otros]|人々を率いる天賦の才##｢カリスマ｣+1
+PENSAMIENTO RÁPIDO|機転の良さ
++1 DESTREZA#[siempre hay una salida a situaciones aparentemente desesperadas]|どんな絶望的な状況でも#必ず道はある: 敏捷性+1
+CONOCIMIENTO DEL ARTE|芸術の知識
++1 PERCEPCIÓN#[tienes buen ojo para el arte y los detalles]|芸術やその細部の描写に対する感覚が鋭くなる##｢知覚｣+1
+TRAMO FINAL|最後の踏ん張り
++2 RESISTENCIA#+2 RAZÓN#[¡estamos tan cerca que no podemos rendirnos!]|もう少しだ！ここで諦めるわけにはいかない！##｢スタミナ｣+2#｢理性｣+2
+EXTERIOR|アウトドア
++1 SUERTE#[en sintonía con el ritmo natural de la vida]|自然な生活リズム##｢幸運｣+1
+ALijo de munición|弾薬のストック
+Gana 1-2 BALAS al final de cada misterio.|謎を解明する度に#｢弾薬｣を1～2発獲得する
+#[ALijo de munición] +1 BALA|#[弾薬のストック] 弾薬+1
+LA NIÑA DE PAPÁ|父親思い
+Recupera 2 RESISTENCIA al final de cada misterio.|謎を解明する度に#スタミナが回復する##｢スタミナ｣+2
+#[NIÑA DE PAPÁ] +2 RESISTENCIA|#[父親思い] スタミナ+2
+MANEJO HÁBIL|巧みな銃さばき
+Los ataques cuerpo a cuerpo con ARMA DE FUEGO son un 20% más rápidos|[銃器]による近接攻撃が#20%速くなる
+EFIGIE DE DOOM|呪いの人形
+completar un misterio reduce la DOOM adicional dependiendo de la cantidad de MALDICIONES que tengas#-10% MÁXIMO RAZÓN|謎を解明すると#｢呪い｣の数に応じて#破滅値が下がる##理性上限-10%
+MANÍA DE SANGRE|血の渇望
+todos los movimientos de combate causan daño adicional y son más rápidos dependiendo de la cantidad de MALDICIONES que tengas#-10% RESISTENCIA MÁXIMA|｢呪い｣の数に応じて#全能力値にボーナスを付与#理性上限-10%#スタミナ上限-10%
+POSESIÓN SOBRE ELDRITCH|怪魔の憑依
+bonificación a todas las estadísticas dependiendo de la cantidad de MALDICIONES que tengas#-10% RESISTENCIA MÁXIMA y RAZÓN|｢呪い｣の数に応じて#全能力値にボーナスを付与#理性上限-10%#スタミナ上限-10%
+FURIA DE RAGH-ZHULL|ラグ＝ズールの怒り
++1 DAÑO hasta el final de este misterio#[COSTO: 6 DOOM]|この謎を解明するまで#与ダメージ+1##コスト: 破滅値+6%
+FLASH F'THOTH|フ・トスの光
+reducir DOOM en 3#[COSTO: 15 EXP]|破滅値を3%下げる##コスト: EXP-15
+LA OLEADA DE SEBEBE|シェベの猛進
++1 a todas las ESTADÍSTICAS hasta el final de este misterio#[COSTO: 5 DOOM]|この謎の調査を終えるまで#全能力値+1##コスト: 破滅値+5%
+LA MATANZA DE KROOTKY|クルートキーの虐殺
+derrota al enemigo actual#[COSTO: 15 DOOM]|戦闘中の敵を撃破する##コスト: 破滅値+15%
+CURA DE CTHUR-IZTO|クトゥルイズトの治癒
++3 RESISTENCIA / +3 RAZÓN#[COSTO: 7 DOOM]|スタミナ+3 / 理性+3##コスト: 破滅値+7%
+CELO|敬虔なる信徒
+todos los movimientos de combate causan 1 daño adicional; #MAX STAMINA y MAX REASON se reducen en 4|全戦闘アクションの#与ダメージ+1#スタミナ上限-4#理性上限-4
+MI COLECCIÓN EXTRAÑA|奇怪な蒐集品
+gana un ELEMENTO aleatorio con una etiqueta [OCULTO] al final de cada misterio|謎を解明する度に[オカルト]#タグがついたアイテムを#ランダムに1つ獲得
+Decides llevarte un ARTÍCULO de tu extraña colección.|奇怪な蒐集品の中から｢アイテム｣を1つ持っていくことにした。
+SIGILO|隠密行動
+Gana 10 EXP por escapar de un encuentro enemigo.|戦闘から逃亡するとEXP+10
+¡Tu sigilo ha dado sus frutos! (+10 EXP)|隠密行動が功を奏した！(EXP+10)
+POR TU CUENTA|単独調査
++1 a todas las ESTADÍSTICAS si no tienes ALIADOS contigo|｢仲間｣がいなければ、#全能力値+1
+GOLPE DURO|仁義なき闘い
++1 DAÑO mientras estás bajo el efecto NICOTINE RUSH|｢ニコチン中毒｣の効果発動中は#ダメージ+1
+INSPIRACIÓN MÓRBIDA|恐ろしいひらめき
+ganar EXP al perder RAZÓN|｢理性｣を失うとEXPを獲得
+Eso es... inspirador. (+2 EXP)|そりゃあ…ゾクッとするね。(EXP+2)
+SUEÑOS INCREÍBLES|鮮烈なる悪夢
+recuperar una RAZÓN adicional para completar un misterio|謎を解明したとき、通常より#さらに｢理性｣が回復する
+[SUEÑOS INCREÍBLES]: +1 RAZÓN|[鮮烈なる悪夢]: 理性+1
+CARNE FRESCA|新鮮な肉
+Gana una carne misteriosa por completar un misterio.|謎を解明したとき、奇妙な肉を入手する
+[CARNE FRESCA]: + ARTÍCULO|[新鮮な肉]: アイテム入手
+PIEDRA DE AFILAR|砥石
+Las armas de tipo [SHARP] obtienen 1 daño extra|[鋭器]タイプの武器#ダメージ+1
+COMPRADOR RÁPIDO|素早いお買い物
+comprar un ARTÍCULO reduce DOOM en 2|アイテムを買うと破滅値が2%#下がる
+GASTADOR|太客
+una oportunidad de recuperar 1 FND después de comprar un ARTÍCULO|アイテムを買うと、#一定の確率で所持金+1
+Un descuento sorpresa, ¡qué bueno! (+1 FND)|えっ、割引？ありがとう！(所持金+1)
+PREDESTINADO|宿命
++2 MÁXIMO RAZÓN#+2 RAZÓN|理性上限+2#｢理性｣+2
+IMPLACABLE|不屈
++2 RESISTENCIA MÁXIMA#+2 RESISTENCIA|スタミナ上限+2#｢スタミナ｣+2
+PREMONICIÓN|予感
+Las opciones de eventos muestran contra qué STAT se probará cuando se seleccione|イベントの選択肢に#どのスキルチェックが#行われるかが表示される
+LAS ESTRELLAS TIENEN RAZON|星辰が揃う時
+pasa automáticamente todas las pruebas de habilidad de SUERTE|｢幸運｣のスキルチェックが#全て成功する
+INSTINTO DE SUPERVIVENCIA|生存本能
+pasar todas las pruebas de habilidad del evento cuando tu RAZÓN sea inferior a 3|｢理性｣が3以下の時、全イベントの#スキルチェックが#成功する
+IMPROVISANDO|ぶっつけ本番
+Todas las pruebas de habilidades de eventos tienen un modificador negativo que las hace más difíciles. Pasar una prueba de habilidad del evento otorga EXP adicional|全イベントのスキルチェック#でマイナス補正がかかるが、#チェックに成功すると#追加EXPが付与される
+Siempre has estado improvisando y finalmente vale la pena. (+5 EXP)|いつも勢い任せだったが、ついにそれが上手くいった。(EXP+5)
+--TRATAMIENTO--##|－治療－##
+CONDICIÓN ESTABLE|安定した容態
+(descartar): no pasa nada|捨てる: 何も起きない
+AYUDA PRISA|応急手当
+al recibir daño de RESISTENCIA en combate, reemplace AYUDA RÁPIDA con una nueva LESIÓN aleatoria|戦闘中スタミナダメージを#受けたとき、｢応急手当｣が#ランダムな｢怪我｣と#入れ替わる
+MUY MUERTE|酷い打撲
+-1 FORTALEZA hasta el final del misterio actual.|この謎を解明するまで#｢筋力｣-1
+PÉRDIDA DE SANGRE|失血
+-10% RESISTENCIA MÁXIMA|スタミナ上限-10%
+RESUMEN DE ALTA|退院サマリー
+(descartar): +20 EXP|捨てる: EXP+20
+RECUERDOS HORRIBLES|酷い思い出
+[no les quedaba ningún anestésico]#-1 MAX RAZÓN|[麻酔を一回もされなかった]#理性上限-1
+--LESIÓN (MENOR)--##|－怪我(軽傷)－##
+--LESIÓN (GRANDE)--##|－怪我(重傷)－##
+--MALDICIÓN (MENTAL)--##|－呪い(精神)－##
+--MALDICIÓN (MUTACIÓN)--##|－呪い(変異)－##
+--ESTADO (PERSONAL)--##|－固有ステータス－##
+RESACA|二日酔い
+-1 a todas las ESTADÍSTICAS hasta el final del misterio actual|今回の謎が終了するまで#｢全能力値｣-1
+CONCUSIÓN|脳震とう
+-1 a CONOCIMIENTO hasta el final del misterio actual|今回の謎が終了するまで#｢賢さ｣-1
+<<mi cabeza...>>|<<頭が…>>
+SUICIDA|希死念慮
+posibilidad de perder RESISTENCIA cada vez que se pierde RAZÓN|｢理性｣を失うたびに#一定の確率で#｢スタミナ｣が減少する
+¡No tiene sentido contraatacar! (-1 RESISTENCIA)|抗う意味なんてない… (スタミナ-1)
+AGUJEROS|穴
+cada día aparecen más agujeros|日に日に穴が増えていく
+#[AGUJEROS] Más agujeros se están extendiendo#en tu cuerpo: -2 RESISTENCIA|#[穴] 体の穴がさらに増えた: スタミナ-2
+LOOK INSMASU|インズマス面
+[el océano está llamando]#posibilidad de un efecto negativo con cada investigación de SEASIDE|[海が呼んでいる]#｢海辺｣で調査をする度に#一定の確率でマイナス効果を#受ける
+HAMBRE|血餓の呪い
+-1 CARISMA#[se ven sabrosos]|｢カリスマ｣-1#[あの人、美味しそう]
+HUESO ROTO|骨折
+-1 FUERZA#-1 DESTREZA|｢筋力｣-1#｢敏捷性｣-1
+MUCHO SANGRADO|酷い出血
+Posibilidad de perder 1 RESISTENCIA con cada investigación.|調査をする度に、#一定の確率でスタミナ-1
+<<Me siento débil>>|<<力が入らない>>
+Estás perdiendo sangre. (-1 RESISTENCIA)|出血が激しい。(スタミナ-1)
+MÚSCULO DESGARRADO|肉離れ
+inflige -1 DAÑO en todos los ataques en combate|全攻撃アクションの#与ダメージ-1
+sanguijuelas|吸血ヒル
+Posibilidad de perder 1 RESISTENCIA con cada investigación.|調査する度に、#一定の確率でスタミナ-1
+Las sanguijuelas se hacen más grandes... (-1 RESISTENCIA)|ヒルがどんどん大きくなってる…(スタミナ-1)
+CONGELACIÓN|凍傷
+-2 FUERZA|｢筋力｣-2
+MORDER|噛み傷
+[con suerte desaparecerá solo]|[自然に治るのを祈ろう]
+Esa marca de mordedura empeora cada día.|その噛み傷は日に日に酷くなっていた。
+HERIDA INFECTADA|創傷感染
+-1 DESTREZA#-1 PERCEPCIÓN|｢敏捷性｣-1#｢知覚｣-1
+TOS SANGRE|喀血
+-2 DESTREZA|｢敏捷性｣-2
+<<¿debería preocuparme?...>>|<<これは、まずいかも…？>>
+BOCA CORTADA|口裂け
+-1 CARISMA#-1 FORTALEZA|｢カリスマ｣-1#｢筋力｣-1
+<<¡sonríe!>>|<<笑え！>>
+ACOSADOR|ストーカー
+[Alguien te está siguiendo]#Los enemigos HUMANOS se vuelven más poderosos#[acumulaciones de efectos]|[何者かに追われている]##[人間]の敵がより強力になる#[効果重複あり]
+MARCA|烙印
+Posibilidad de aumentar DOOM con cada investigación.|調査する度に一定の確率で破滅値が上昇する
+Siente un dolor repentino en el área alrededor de la marca. (+1% CONDENACIÓN)|突然、焼き付けられた烙印に痛みが走る。(破滅値+1%)
+PARANOIA|パラノイア
+posibilidad de perder RAZÓN cada vez que se pierde RESISTENCIA|｢スタミナ｣が減る度に、#一定の確率で#｢理性｣も失う
+¡No tiene sentido contraatacar! (-1 RAZÓN)|反撃する意味など、どこにもない…(理性-1)
+PEQUEÑOS CORTES|細かな切り傷
+[sin efecto]|[効果なし]
+<<más molesto que cualquier otra cosa>>|<<かすり傷だ、大したことない>>
+SIGNOS MALDITOS|呪いの前兆
+lanzar HECHIZOS aumenta DOOM|｢呪文｣を唱えると#破滅値が上昇する
+La piel carbonizada forma signos extraños|焦げた肌に奇妙な印が浮かぶ
+HINCHADO|腹部に蠢くもの
+algo se mueve dentro de tu estómago|腹の中で何かが#蠢いている
+<<Me siento mal>>|<<気持ち悪い…>>
+QUEMAR|火傷
+recibes daño de combate adicional|戦闘による被ダメージが上昇
+COSTILLAS FRACTURADAS|肋骨骨折
+-1 DESTREZA|｢敏捷性｣-1
+NARIZ ROTA|鼻骨骨折
+DESCANSAR es menos efectivo|アクション｢自宅で休む｣の#効果が弱まる
+CORTAR EL TENDÓN DEL BRAZO|腱の断裂
+inflige -1 DAÑO en todos los ataques en combate|戦闘中の全ての#与ダメージ-1
+CORTE ABDOMINAL|腹部の切り傷
+-10% RESISTENCIA MÁXIMA|スタミナ上限-10%
+COSTILLAS EXPUESTAS|むき出しの肋骨
+-20% RESISTENCIA MÁXIMA|スタミナ上限-20%
+MANO DEstrozada|痛ましい手
+atacar en combate te inflige 1 daño de RESISTENCIA|自分が攻撃したとき、#ダメージを受ける#｢スタミナ｣-1
+¡Mover la mano te causa dolor! (-1 RESISTENCIA)|手を動かすと痛みが走る！(スタミナ-1)
+CORTAR ARTERIA|動脈断裂
+-1 RESISTENCIA cada investigación|調査をする度に#｢スタミナ｣-1
+¡Estás perdiendo sangre, busca ayuda! (-1 RESISTENCIA)|出血が激しい。助けを呼ばないと！(スタミナ-1)
+TRAUMATIZADO|トラウマ
+-10% MÁXIMO MOTIVO|理性上限-10%
+DAÑO CEREBRAL|脳損傷
+-2 CONOCIMIENTO#+10% MÁXIMO RAZÓN|｢賢さ｣-2#理性上限+10%
+FRACTURA DE MANDÍBULA|下顎骨骨折
+no puedes lanzar ningún HECHIZO|｢呪文｣が唱えられなくなる
+MANDÍBULA ROTO te impide lanzar este HECHIZO.|“下顎骨骨折”によって、呪文が唱えられない。
+PÁNICO|パニック
+-10 % de probabilidad de tener éxito en cualquier acción de combate que tenga una probabilidad básica de acertar.|基本命中率のある#戦闘アクションにおいて#成功率が10%下がる
+SUBE DE NICOTINA|ニコチン中毒
+[-1 CIGARRILLO cada investigación]#todas las acciones de combate son más rápidas##[multiplicador de combate de 0,9x]|調査をする度に｢タバコ｣を1本失う##全戦闘アクションの#速度が上昇#[シーケンスバーx0.9]
+N. RETIRO|禁断症状
+todas las acciones de combate son más lentas##[multiplicador de combate 1,2x]|全戦闘アクションの#速度が下がる#[シーケンスバーx1.2倍]
+empapado|ずぶ濡れ
+todas las acciones de combate son más lentas hasta el final del misterio actual##[tu ropa mojada se pega a tu piel, ralentizándote]|この謎の調査が終わるまで#全戦闘アクションが遅くなる##[濡れた服が体に張りつき、#動きが遅くなる]
+VIOLENCIA|災禍をもたらす者
+[aumentar DOOM aumentará tus ESTADÍSTICAS]|破滅値が上がると#能力値も上昇する
++1 a todas las ESTADÍSTICAS|全能力値+1
++2 a todas las ESTADÍSTICAS|全能力値+2
++3 a todas las ESTADÍSTICAS|全能力値+3
++4 a todas las ESTADÍSTICAS|全能力値+4
+SIN ROSTRO|無貌
+-2 a todas las ESTADÍSTICAS|全能力値-2
+capa roja|阿迦万ト
+LA OBSESIÓN DE MIMI|美々の妄執
+-20% MÁXIMO MOTIVO|理性上限-20%
+ARTICULACIÓN HINCHADA|関節の腫れ
+No puedo huir de los encuentros de combate.|戦闘から逃げられなくなる
+SONIDO DE OREJAS|耳鳴り
+todas las acciones de combate son más lentas hasta el final del misterio actual|この謎が終わるまで、#全戦闘アクションが遅くなる
+bulto extraño|奇妙な腫れ
+acortar la barra de SECUENCIA DE COMBATE en 20 unidades de tiempo|戦闘シーケンスバーが#20短くなる
+PULMÓN COLAPSADO|潰れた肺
+acortar la barra de SECUENCIA DE COMBATE en 20 unidades de tiempo|戦闘シーケンスバーが#20短くなる
+TRAUMA FACIALES|顔面損傷
+-10% de probabilidad de todas las acciones de combate.|全戦闘アクションの成功確率#-10%
+'fractura maxilofacial'|顎全体の骨折
+CARTA SINIESTRA|不吉な手紙
+subir de nivel requiere 20 EXP adicionales|レベルアップに追加で20EXPが#必要となる
+<<Te estoy esperando...>>|<<待ってるからね…>>
+SIEMPRE ALLÍ|いつでもそばに
+Establece RESISTENCIA MÁXIMA y RAZÓN en 8.#No puedes perder si pierdes tu salud.|｢スタミナ｣｢理性｣の上限が#8になる##その両方がなくなっても#敗北しない
+<<puedes contar conmigo>>|<<頼りにしなって>>
+LA CULPA DEL SUPERVIVIENTE|自責の渦
+Añade un 2% de DOOM al final del misterio.|謎の調査を終えると、#破滅値が2%上昇
+<<debí haber sido yo>>|<<俺が死ぬべきだった…>>
+[CULPA DEL SUPERVIVIENTE] +2% DOOM|[自責の渦] 破滅値+2%
+k|k
+a|a
+norte|n
+LIMPIAR LA MENTE|記憶抹消
+-100 EXP#(descartar): pierde 3 RAZONES|EXP-100##捨てる: ｢理性｣-3
+<<... >>|<<…>>
+a|a
+k|k
+a|a
+INSOMNIO|不眠症
+pierde 2 RAZONES al final del misterio|謎の調査が終わると#｢理性｣-2
+<<me duele la cabeza...>>|<<頭が痛い…>>
+[INSOMNIO] -2 RAZÓN|[不眠症] 理性-2
+HOMBRO DISLOCADO|脱臼した肩
+-1 RESISTENCIA MÁXIMA#(descartar): pierde 2 RAZONES|スタミナ上限-1#捨てる: ｢理性｣-2
+TEMEROSO|怖がり
+pierde 1 RAZÓN al comienzo de cada encuentro enemigo|戦闘が開始される度に#｢理性｣-1
+<<Estoy preocupado>>|<<不安だ…>>
+¿Q-quién p-podría ser?... (-1 RAZÓN)|い、一体、誰…？(理性-1)
+IRRACIONAL|失われた理性
+(comprar un ARTÍCULO): pequeña posibilidad de comprar otro ARTÍCULO en su lugar|アイテム購入時、低確率で#別のアイテムを#買ってしまう
+<<... >>|<<…>>
+MASOQUISTA|マゾヒズム
+recuperar 1 RAZÓN al inicio de cada encuentro enemigo;#-2 RAZÓN MÁXIMA|戦闘開始時: ｢理性｣+1##理性上限-2
+<<…>>|<<…>>
+No puedes evitar sonreír... (+1 RAZÓN)|思わず笑みがこぼれる… (理性+1)
+ESPANTOSA PRESENCIA|身の毛のよだつ気配
+desactiva todas las acciones de combate OFENSIVAS estándar;#+4 RAZÓN MÁXIMA|通常の戦闘アクションが#全て無効になる##理性上限+4
+<<... >>|<<…>>
+LA CURIOSIDAD DEL GATO|好奇心は猫をも殺す
+muertes hasta el momento:|スタミナ上限-1#捨てる: 理性-2
+<<podrías contar conmigo>>|<<任せなさいっ！>>
+SEGURIDAD EN NUMEROS|皆がいれば怖くない
+[¿por qué firmaste ese contrato?]##+1 RAZÓN MÁXIMA#(al final del misterio): si no tienes al menos 2 seguidores, pierde 2 RAZONES|[何であんな契約をしたんだろう？]##理性上限+1#<謎の解明時>#｢仲間｣が2人以上いなければ#理性-2
+<<te está buscando>>|<<彼はアナタを探している…>>
+¡El caos surge! ¡Todas las ESTADÍSTICAS mejoradas!|混沌が巻き起こり、全能力値が上昇した！
+EL DIOS VIEJO SE MUEVE...#(haga clic aquí para revelar su efecto)|旧き神の禍いが降りかかる…#(ここをクリック)
+「TIENDA CERRADA」|閉店
+La acción adicional [COMPRAR] está deshabilitada.|アイテムショップが#選択不可となる。
+El simpático perro desapareció anoche. Tendrás que encontrar un nuevo lugar para comprar equipo...|昨日の夜から、あの人懐っこい犬がいなくなってしまった。#装備品を買うなら違う店を探さなければ…
+「CAMINOS CERRADOS」|道路封鎖
+Investigar lugares ubicados fuera de la ciudad (PUEBLO, MANSIÓN, BOSQUE) cuesta un 1% más de DOOM.|町の外にある場所#(村、屋敷、森)を#調査すると破滅値+1%
+La policía cerró las carreteras que salen de la ciudad. Tendrás que encontrar una nueva salida...|町の外に続く道は警察に封鎖されてしまった。どこか違う道を探さなければ…
+「ESCUELA QUEMADA」|焼け落ちた学校
+Si bien las clases continuarán en un ala antigua, ningún estudiante se reunirá en el patio de la escuela.|授業は旧館で続いているが、#校庭に生徒達の姿はない…
+Si bien las clases continuarán en un ala antigua, ningún estudiante se reunirá en el patio de la escuela.|授業は旧館で続いているが、校庭に生徒達の姿はない…
+「Disturbios」|暴動
+Peligrosas bandas de alborotadores se reúnen alrededor del CENTRO DE LA CIUDAD.|中心街の周りに危険な#暴徒の集団が集まっている。
+Peligrosas bandas de alborotadores se están reuniendo en el centro de la ciudad. La policía no tiene remedio...|中心街の周りに危険な暴徒の集団が集まっている。#これには警察もお手上げだった…
+「VIENTOS DE PLAGA」|疫病の風
+Las acciones de TRATAMIENTO y CIRUGÍA cuestan más|｢治療｣と｢手術｣の#代金が上がる
+Una extraña epidemia mantiene ocupado al personal del hospital. Saltarte la cola te costará más...|奇妙な伝染病のせいで病院の職員たちは大忙しだ。#割り込み診察はもっと高くつく…
+「SEPARADO DEL MUNDO EXTERIOR」|外界から隔絶されし世界
+Todo el pueblo dejó de recibir señal exterior. Debe ser el fallo del mástil de radio...|電波を受信できなくなった。#電波塔が壊れたのだろう…
+Todo el pueblo dejó de recibir señal exterior. Debe ser el fallo del mástil de radio...|町中で外の電波を受信できなくなった。#きっと電波塔が壊れたのだろう…
+「HUMOS FÉTIDOS」|悪臭のする煙
+Su acción REST es menos efectiva.|アクション｢自宅で休む｣の#効果が弱まる。
+El aire se siente pesado, lo que dificulta la respiración...|空気が重く、息苦しくなり始めた…
+"AGUA CONTAMINADA"|水の汚染
+No puedes recuperar la salud entre misterios.|｢お風呂｣がまともに#使えなくなる。
+Algo anda mal con el agua del grifo. Es negro, aceitoso y reluciente, y huele a muerte. Esperas que sea sólo un problema temporal...|蛇口の水がおかしい。黒々と油っぽく光っていて死臭がする。#すぐに直るといいんだが…
+「TORMENTA ARCANA」|超自然的な嵐
+MOTIVO El coste de todos los HECHIZOS aumenta en 1.|全呪文の理性コスト+1
+Los científicos locales están desconcertados. Un evento sin precedentes parecido a una aurora ha bañado a toda la ciudad con un brillo verde antinatural...|地元の科学者たちが困惑している。過去に例を見ないオーロラのような現象が#発生したのだ。不気味な緑色の光に、町全体が包み込まれている…
+"ALZA DE PRECIOS"|物価高
+Todos los ARTÍCULOS de la tienda cuestan 1 FONDOS más.|全ショップのアイテム価格が#1上昇する。
+Preparándose para lo peor, la gente se abastece de todo, lo que hace que sea más difícil encontrar lo que busca.|人々は最悪の事態に備えて、あらゆるものを買い占めていた。#そのため、なかなか目当ての物が見つからない。
+「INUNDACIÓN EXTRAÑA」|異常洪水
+Explorar la ubicación JUNTO AL MAR tiene la posibilidad de infligir el estado EMAPADO.|海辺を探索すると、#一定の確率で#｢ずぶ濡れ｣状態となる。
+¿Aumentó repentinamente el nivel del agua o nuestra ciudad se está hundiendo lentamente?|水位が急に上がったのか、この町が段々と沈んでいるのか…？
+"CORAZÓN DE LA OSCURIDAD"|闇の中心地
+El faro tiene un piso adicional.|灯台に新たな階層が#1つ増える。
+La imponente sombra que proyecta el antiguo faro es cada día más larga...|日に日に、あの古びた灯台が落とす影が伸びている…
+「TOQUE DE QUEDA EN LA ESCUELA」|学校閉鎖
+La acción adicional [BIBLIOTECA] está deshabilitada.|｢図書室｣でアクションが#行えなくなる。
+Con cada vez más estudiantes desaparecidos, la policía ha restringido el acceso al edificio de la escuela.|生徒たちの失踪事件が増えているため、#警察は校内への立ち入りを制限することにした。
+「SALTO DE TIEMPO」|時空超越
++5% CONDENACIÓN|破滅値+5%
+¿Qué? Habría jurado que era lunes, no martes... ¿no?|ん…？今日って火曜日？#確か、月曜だったはずじゃ…？
+"LUNA DE SANGRE"|紅き月
+Todos los enemigos obtienen 20 de POTENCIA adicionales.|全ての敵: ｢パワー｣+20
+La luna carmesí vista sobre SHIOKAWA mantiene a todos en vilo...|塩川の上空に浮かぶ真紅の月に、人々は不安を感じている…
+Las zonas inundadas dificultan la navegación. (+ ESTADO)|洪水による被害で移動が難しくなっている。(+状態異常)
+El océano te está llamando...|海があなたを呼んでいる…
+Debes entrar al agua. (-1 RAZÓN)|海に入らなければ。(理性-1)
+La ciudad submarina está surgiendo. (+1% CONDENACIÓN)|海底都市が、その姿を現した。(破滅値+1%)
+Continúas cambiando. (-1 RESISTENCIA)|その姿は今も変容し続けている…(スタミナ-1)

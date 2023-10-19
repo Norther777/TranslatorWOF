@@ -1,0 +1,402 @@
+English|Japanese
+NEW STORY|はじめから
+OPTIONS|オプション
+EXTRA|エクストラ
+EXIT|終了
+WORLD OF HORROR|恐怖の世界
+(CLICK ANYWHERE TO CONTINUE)|（画面をクリックしてください）
+START DEMO|デモを始める
+MODS|MOD
+VOLUME DOWN|音量を下げる
+VOLUME UP|音量を上げる
+CONTINUE|次へ進む
+DISPLAY EXTRA MATH|詳細な計算式の表示#
+FULL SCREEN/WINDOWED|全画面表示 / ウィンドウ
+FULL SCREEN STRETCH: ON/OFF|画面拡大: ON / OFF
+1BIT MODE|1bitモード
+2BIT MODE|2bitモード
+LAST PALETTE AVAILABLE|カラーパレット: 最後に飛ぶ
+PREVIOUS PALETTE|カラーパレット: 前へ
+NEXT PALETTE|カラーパレット: 次へ
+FIRST PALETTE AVAILABLE|カラーパレット: 最初に戻る
+DISABLE EXTRA EFFECTS FOR CERTAIN SCENES (MORE FPS)|特定シーンの追加エフェクトを#無効にする(FPSが向上)
+1X SCALE|画面拡大: 1倍
+2X SCALE|画面拡大: 2倍
+3X SCALE|画面拡大: 3倍
+FULLSCREEN BORDER STYLE A|全画面表示の境界線: A
+FULLSCREEN BORDER STYLE B|全画面表示の境界線: B
+FULLSCREEN ON/OFF|全画面表示: ON / OFF
+VOLUME|音量
+(LOG IN TO PROCEED)|（ログインして進む）
+WHAT'S NEW?|お知らせ
+cases solved|解明済みの謎
+DOOM|破滅値
+ITEM LIMIT|アイテム数上限
+SPELL LIMIT|呪文数上限
+CHARACTER LEVEL|探索者のレベル
+EXPERIENCE|EXP
+ITEMS|アイテム
+SPELLS|呪文
+STATUS|ステータス
+YOU|あなた
+OLD GOD|旧き神
+TOWN STATUS|町の状態
+ALLIES AND PERKS|仲間とパーク
+'a feeling of paranoia and discomfort is almost palpable in the air...'|イヤな予感がする…#何かに取り憑かれそうなほど#重苦しい雰囲気だ…
+[as DOOM progresses, OLD GOD's influence will slowly corrupt and change this calm, seaside town]|[破滅値が上がるにつれ、この穏やかな港町が旧き神の狂気に侵蝕されていく]
+CREDITS AND THANKS|クレジット
+ACHIEVEMENTS|実績
+EVENTS CODEX|怪異の写本
+ENEMY BESTIARY|異端生物図鑑
+PANTHEON|万神殿
+EVENT EDITOR|イベントエディター
+ENDINGS ENCYCLOPEDIA|終局全書
+RESET YOUR PROGRESS|達成状況のリセット
+!!WARNING!! This will reset your game's progress including achievements and CODEX/BESTIARY entries.|※この操作を行うと、｢実績｣｢怪異の写本｣そして｢異端生物図鑑｣を含むゲームの進行状況がリセットされます。
+Explore the vast cosmos and learn about things older than time.|広大なる宇宙を探索し、太古の歴史を学ぶことができます。
+Check your achievement progress and plan your next playthrough.|実績の達成度を確認し、次の#調査の計画を立てましょう。
+Check what events you've seen and how many are you still missing.|これまでに見たイベントや#未プレイのイベントを#確認できます。
+Check what enemies you've defeated and how many are still lurking out there.|これまでに倒した敵、#そして未だこの世界に蠢く#敵を確認できます。
+Currently, you can only edit the .ito files manually in a text editor. The in-game editor is a work in progress.|現在、.itoファイルのみがテキストエディターで編集可能となっています。インゲーム・エディターは開発中です。
+Mods have been temporarily turned off and will be coming soon!# #Thank you for your patience!|MODは一時的にOFFになっていますが、今後、実装する予定です。##もうしばらくお待ちください。
+back to#menu|メニューに#戻る
+progress|達成状況
+Multiple padlocks prevent you from entering the building.##You need five KEYS.|南京錠がいくつもかかっていて、#中に入れない。##鍵が5つ必要だ。
+The ominous lighthouse has been closed down for longer than you can remember...|この不気味な灯台は、#だいぶ前に閉鎖された。##思い出せないほど#昔のことだ…
+LEAVE|立ち去る
+ENTER LIGHTHOUSE|入口に向かう
+OPEN PADLOCK|この錠を開ける：
+You don't have a fitting key to open this padlock.|この錠に合う鍵を#持っていない。
+You used the key to open one of the padlocks.|鍵を使って、錠を一つ開けた。
+You've already opened this padlock.|この錠はもう開いている。
+One or more padlocks prevents you from entering the lighthouse.|いくつもの南京錠が#かかっており、#中に入れない。
+If it's your first time playing WORLD OF HORROR, it is recommended that you start with the 'SPINE-CHILLING STORY OF SCHOOL SCISSORS' option before trying more complex playthroughs.|初めての方は、複雑な謎に挑む前に「身の毛もよだつハサミ女の未解決事件」からプレイすることをオススメします。
+QUICK PLAY options|クイックプレイの設定
+C O M B A T|戦闘
+DIFFICULTY|難易度
+TIMELINE|タイムライン
+complexity|レベル
+Would you like to customize your next playthrough's look?##There are many color palettes and display modes to choose from.|カラーパレットを#変えてみませんか？##豊富なカラーパレットの中から#好みのものをお選びください。
+#EXTENDED|##拡張パック
+(don't ask again)|（次回から表示しない）
+(ask again next time)|（次回も表示する）
+RANDOMIZE|ランダム
+SPINE-CHILLING STORY OF SCHOOL SCISSORS|身の毛もよだつハサミ女の未解決事件
+EXTRACURRICULAR ACTIVITY|部活動
+QUICK PLAY|クイックプレイ
+(CUSTOMIZE THE PLAYTHROUGH)|カスタムプレイ
+--- DEATH MODE: random ---|－デスモード: ランダム－
+--- DEATH MODE: LAST STAND ---#Starting new encounters will kill you if you drop below 1 STAMINA/REASON but you can drop to -5 in combat. This option will allow you to rethink your strategy, forget spells or use a healing item.|－デスモード: 最後の抵抗－#通常、STAかREAが1以下でゲームオーバーとなるが、#このモードでは-5まで生き残れる。その間に呪文を忘れたり、#回復アイテムを使用することで戦略の立て直しが可能。
+--- DEATH MODE: SUDDEN DEATH ---#Dropping below 1 STAMINA/REASON will kill you immediately.#Just like in real life.|－デスモード: 予期せぬ死－#STAかREAが1以下になると、その時点でゲームオーバーとなる。#そう、まるで現実と同じように…
+SPINE-CHILLING STORY OF SCHOOL SCISSORS##A tiny section of a standard playthrough, showcasing one of the available mysteries.|「身の毛もよだつハサミ女の未解決事件」##あなたを待ち受ける多くの謎。#その中から切り取られた一部分のみ、プレイすることができます。
+EXTRACURRICULAR ACTIVITY##This option will prepare the standard [SKEPTIC] playthrough for you, allowing you to start the game without worrying about in-depth stuff for now.|「部活動」##標準的な難易度設定「懐疑主義者」で進めます。#気軽にプレイしたい方にオススメ。
+A true chaos.#This option will start a new playthrough, randomly selecting CHARACTER, OLD GOD, BACKGROUND and more.|真の混沌が訪れる。#「探索者」「旧き神」「バックストーリー」などが#ランダムな状態でスタートします。
+Choose your own character, background and other playthrough specifics.|「探索者」や「バックストーリー」など、自由にプレイスタイルを#カスタマイズすることができます。
+FOUND YOU|ミーツケタ
+May|5月
+June|6月
+customize the playthrough by choosing:#←CHARACTER&BACKGROUND->|プレイ上の設定変更#←探索者 / 背景→
+CHALLENGES|チャレンジ
+Test yourself with a selection of challenges|特定の条件下で、調査を進めていくモード。#通常のプレイでは物足りない方に。
+(locked)|(未解放)
+Bad decisions, like running from enemies and reading occult books can raise a location's THREAT LEVEL, making it more dangerous to explore in the future.|｢敵から逃げる｣#｢オカルト本を読む｣#などの誤った判断を#すると、調査ポイントの危険度が上がり、#その後の調査がより#危険なものになる。
+A quickplay option.##Start the game with a randomly selected CHARACTER and OLD GOD.|クイックプレイの設定##｢探索者｣｢旧き神｣がランダムな状態で#スタート
+EXTRA OPTIONS|追加設定
+CULTIST|狂信者
+MAX STAMINA|スタミナ上限
+MAX REASON|理性上限
+start with 4 FUNDS|開始時の所持金: 4
+start with 5 FUNDS|開始時の所持金: 5
+start with 3 FUNDS|開始時の所持金: 3
+start with 0 FUNDS|開始時の所持金: 0
+THREAT level increased|｢危険度｣が上昇
+THREAT level lowered|｢危険度｣が低下
+character's STATS decreased|全能力値が低下
+stronger enemies|敵が強くなる
+weaker enemies|敵が弱くなる
+TRUE BELIEVER|真の信奉者
+INITIATE|新参者
+HARBINGER OF DOOM|破滅の前触れ
+SKEPTIC|懐疑主義者
+BASIC OPTIONS|基本設定
+timeline A#(WORLD OF HORROR)|タイムラインA#<恐怖の世界>
+timeline B#(OCCULT CAPITAL OF JAPAN)|タイムラインB#<オカルトの聖地>
+Item statistics randomization:#ON##Enables a random cost and statistics variation to all items this playthrough.|<アイテムスタッツのシャッフル>#設定: オン##全アイテムのコストと効果が#ランダムに変動する。
+Item statistics randomization:#OFF##Cost and statistics of all items stay the same every playthrough.|<アイテムスタッツのシャッフル>#設定: オフ##周回プレイをしても、全アイテムの#コストと効果が変動しなくなる。
+When leveling-up, use the character-exclusive perk cards only|<レベルアップ時>#探索者の固有パークカードのみ#選択可能になる。
+When leveling-up the character, enable all unlocked perk cards.|<レベルアップ時>#アンロックした全パークカードが#選択可能になる。
+prioritize new content|新たなコンテンツを優先
+keep the content randomized|コンテンツをランダムにしておく
+[don't randomize the price and statistics of item you find and buy this playthrough]|アイテムの｢価格｣と｢効果｣を#シャッフルしない。
+[randomize the price and statistics of item you find and buy this playthrough]|アイテムの｢価格｣と｢効果｣を#シャッフルする。
+[an increased chance of encountering mysteries you have not completed yet]|[未解決の謎に遭遇する確率が上昇]
+[an even chance of encountering all mysteries]|[全ての謎と遭遇する確率が均等に]
+[when leveling up, the game will only draw generic and character-exclusive perk cards]|レベルアップ時に#選択可能なパークカード##共通もしくは探索者の固有パーク
+[when leveling up, the game will draw random unlocked perk cards]|レベルアップ時に、アンロックされた#パークカードをランダムに引く
+[timeline choice determines the choice of available additional actions and changes in both mysteries and endings]|選んだタイムラインによって#謎とそのエンディング、#さらに選択可能な#アクションが変化する。
+[Every year, our city is visited by hundreds of tourists interested in the paranormal]|毎年、超常現象好きの観光客が#何百人もこの町に訪れる。
+SELECT YOUR CHALLENGE|「チャレンジ」を選択してください。
+set difficulty to HOD|難易度:破滅の前触れに設定
+(MUSIC)|(BGM)
+(SFX)|(効果音)
+<<I can't be caught with this...>> [ITEM discarded]|<<これを持っているのがバレたらマズい…>>[アイテムを捨てた]
+#[THERE'S STILL HOPE] -4% DOOM|#[まだ希望はある]: 破滅値-4%
+#[THERE'S STILL HOPE] -3% DOOM|#[まだ希望はある]: 破滅値-3%
+#[THERE IS NO HOPE] -2% DOOM|#[希望は絶たれた]: 破滅値-2%
+#[YOU ARE ALREADY DOOMED]|#[もう死は避けられない]
+#[THERE'S STILL HOPE] -5% DOOM|#[まだ希望はある]: 破滅値-5%
+#[THOROUGH INVESTIGATION]: +15 EXP|#[徹底調査]: EXP+15
+#[TIRELESS]: +1 REASON / STAMINA|#[疲れ知らず]: 理性+1 / スタミナ+1
+#[TIME PASSES]: +1 DAY|#[経過時間]: 1日経過
+STAMINA|スタミナ
+REASON|理性
+FUNDS|所持金
+[WARNING] Your health dropped too low!|<※注意※> もう体力がもたない！
+[WARNING] You will die at the beginning of your next encounter!|<※注意※> このまま戦闘に突入すると死んでしまう！
+[!!!] You've got enough experience to level up!|<!!!> EXPを獲得した。レベルアップができる！
+Lost in time and space, you drift in nothingness until something pulls you towards the light...|時空の中に迷い込み、虚無の世界を漂う。#すると、何かがあなたを#光の方へと引き寄せ…
+ [strength check]| [筋力チェック]
+ [dexterity check]| [敏捷性チェック]
+ [perception check]| [知覚チェック]
+ [knowledge check]| [賢さチェック]
+ [charisma check]| [カリスマチェック]
+yes|はい
+no|いいえ
+skip|スキップ
+WELCOME TO 「WORLD OF HORROR」!|｢恐怖の世界｣へようこそ！
+(IMPORTANT MESSAGES WILL APPEAR HERE)|[重要なメッセージがここに表示されます]
+You've sustained a new injury:|｢怪我｣を負った:
+You've learned a new spell:|新たな呪文を習得:
+You've started a new mystery:|新たな謎の調査を開始:
+You've found a new item:|新たなアイテムを発見:
+You've gained a new status:|状態異常付与:
+A new ally has joined you:|新たな仲間が加入:
+random|ランダム
+standard|スタンダード
+halloween|ハロウィン
+last stand|最後の抵抗
+sudden death|予期せぬ死
+Start your playthrough with a randomly chosen timeline.|タイムラインがランダムに選ばれる。
+TIMELINE A#(WORLD OF HORROR)#Timeline choice determines changes in mysteries and their endings.|タイムラインA#<恐怖の世界>#選択したタイムラインによって、#謎とそのエンディングが変化する。
+TIMELINE B#(OCCULT CAPITAL OF JAPAN)#Every year, our city is visited by hundreds of tourists interested in the paranormal.|タイムラインB#<オカルトの聖地>#毎年、超常現象好きの観光客が#何百人もこの町に訪れる。
+story|ストーリー
+easy|イージー
+normal|ノーマル
+hard|ハード
+v.hard|マニアック
+Start your playthrough with a randomly chosen difficulty level|ランダムな難易度でプレイ
+Get the full gameplay experience with a selection of tiny changes to make the dreadful town of SHIOKAWA a more hospitable place.|僅かな努力で、恐怖の町｢塩川｣に平穏が訪れる。#思う存分、全てのコンテンツを楽しみたい方へ。
+Something weird is happening here but I'm sure that together, we can deal with it!|何かおぞましいことが起きているようだ。#しかし、力を合わせればきっと乗り越えられる！
+Evil forces are gathering around SHIOKAWA. Let's hope we can make it out alive...|塩川を取り囲むように邪悪な力が集まってきている。果たして、あなたは無事に生き残れるだろうか…
+We can't save everyone but we have to try.|全員を救うことはできない。#それでも、まだできることはある。
+This place is doomed, flee while you still can!|この町が滅ぶのは#止められない。#命があるうちに逃げろ。
+WORLD OF HORROR#BASE GAME##Card pack containing everything you need to play this 1bit horror investigation game.|恐怖の世界#「基本パック」##怪異の調査に必要なものが#全て収録されたカードパック
+WORLD OF HORROR#UNLOCKABLES##Contains all cards you've unlocked through achievements.|恐怖の世界#「アンロックパック」##実績でアンロックした#カードを全て収録
+WORLD OF HORROR#MORE STUDENTS##Contains additional#4 skins for random student allies.|恐怖の世界#「新たなる生徒」##<追加コンテンツ>##仲間になる生徒のスキンを4種類収録#（ランダムに獲得）
+Contains additional eight events and encounters|8つの新イベントを収録
+[unlock while playing]|（プレイ中にアンロック）
+Contains additional five events and encounters.|5つの新イベントを収録
+Contains three additional mysteries.|新たな謎を3つ収録
+One of the core ideas behind WORLD OF HORROR is modularity, allowing you to mix and match various card packs with different content.##Simply select card packs you want to be included and continue by pressing the arrow on the bottom.|本作の中核をなす要素。#その一つにカスタマイズ性の#高さが挙げられます。##様々なカードパックを#自由に組み合わせることで、#毎回違った感覚で#お楽しみいただけます。##カードパックを選択したら、#下のボタンから次に進みましょう。
+One last thing... a tall man left a suitcase for you this morning. He said you will know the password.##...I wonder, what could that mean?|最後にもう一つ…今朝、長身の男があなたのためにと、#スーツケースを置いていった。#あなたなら暗証番号を知っているはずだと言っていたが…#一体、どういうことなのだろうか？
+[CITY OF SHIOKAWA, JAPAN. 198X]#SOMETHING STRANGE IS HAPPENING IN OUR TOWN...|[198X年 日本 塩川町]#私たちの住むこの町で、何か奇妙なことが起こり始めていた…
+ROBED FIGURES CAN BE SEEN GATHERING IN THE WOODS AT NIGHT. PEOPLE ARE GOING MISSING.#DISGUSTING CREATURES ARE TERRORIZING THE SEASIDE...|夜な夜な、森の中に集まるローブを着た集団。次々と行方不明になる町の人々。#海辺を脅かす不気味な怪物…
+THE RAPID TECHNOLOGICAL PROGRESS OF THE MODERN ERA BRINGS COMFORT...#BUT ALSO NEW UNKNOWN THREATS.|現代の科学技術は飛躍的な進歩は遂げ、人々に快適な暮らしをもたらす…#一方で、新たに未知なる脅威も現れていた。
+OLD GODS, MALICIOUS ELDRITCH BEINGS WHO RULED THE EARTH EONS AGO,#ARE AWAKENING AS REALITY STARTS TO CRUMBLE...|現実が崩れ去る中、かつて地球を支配していた存在「旧き神」が目覚めようとしている。
+ARMED WITH CLUES, SPELLS, AND YOUR DWINDLING SANITY, YOU'LL INVESTIGATE#MYSTERIES ACROSS THE CITY... AND IN REALMS BEYOND.|手がかりと呪文、そして薄れゆく理性を頼りに、あなたは町中の謎を調査することになる…#時には、現実世界を超えた異界へと足を踏み入れることになるだろう。
+AN OLD TRAIN SLOWS DOWN AND STOPS AT ITS LAST STATION.##---##THE END OF THE WORLD IS AT HAND, AND YOU'VE FINALLY ARRIVED IN THE DOOMED TOWN...|古びた電車が減速し、#終着駅で停車する。##---##世界の終わりが迫る中、#ついにあなたは#怪異渦巻く町へと#辿り着いたのであった…
+EXTENDED|拡張パック
+UNLOCKS:|<アンロック>
+[item]|[アイテム]
+[location]|[調査ポイント]
+[spell]|[呪文]
+[character]|[探索者]
+[ally]|[仲間]
+[outfit]|[服装]
+[backstory]|[バックストーリー]
+[old god]|[旧き神]
+[game mode]|[ゲームモード]
+[status]|[ステータス]
+[card pack]|[カードパック]
+[injury]|[怪我]
+CHAIN SMOKER|ヘビースモーカー
+at any point in the game, have 30 cigarettes in the inventory|所持品にずっと｢タバコ｣が#30本ある状態で#プレイする
+JUNIOR PRIEST|見習い神官
+purify two cursed places in a single playthrough|1回のプレイで呪われた場所を#2か所浄化する
+PARANOIA AGENT|妄想の代理人
+defeat an enemy with a BASEBALL BAT|｢野球バット｣で敵を倒す
+PEEPING TOM|出歯亀
+discover a hole in the painting|掛け軸の中の穴を見つける
+PERFECT DISGUISE|完璧な変装
+enter the overgrown factory wearing RITUAL ROBE and 'KARUKOSA' MASK|｢儀式用ローブ｣と#｢カルコサの仮面｣を装着して、#草むした工場に侵入する
+FREQUENT BUYER|お得意様
+shop for items ten times in a single playthrough|1回のプレイで10回#買い物をする
+LIGHTBURN|闇を切り裂く光
+equip two sources of light at the same time|同時に[光源]アイテムを#2つ装備する
+OTHERWORDLY THIRST|ただならぬ渇き
+drink the blood of a forgotten beast and survive|忘れられし巨獣の血を#飲んで、生き延びる
+JUNIOR SCOUT|ボーイスカウト
+investigate 20 locations with a COMPASS equipped|｢コンパス｣を装備した状態で#20か所を調べる
+HOUSE OF PAPER|ペーパーハウス
+as MIKU, take a hostage wearing TOKYO outfit|未久: 服装｢トーキョー｣を着た#状態で人質を取る
+THIS IS FOR MY FRIENDS|友達のために
+as AIKO, defeat the MAD JANITOR|愛子: ｢狂った用務員｣を倒す
+WAIT FOR IT|好機を狙え
+during combat, prepare to strike but don't attack that turn|戦闘中、｢攻撃準備｣だけ行い、#そのターンは攻撃しない
+TEAM KILL|忘恩の徒
+backstab a follower|｢仲間｣を殺す
+SAY HELLO|ご挨拶
+meet your _other_ neighbor|もう一人の隣人に会う
+JUNIOR LIBRARIAN|新入り司書
+discard three books in one playthrough|1回のプレイで#3冊の本を捨てる
+WE DON'T NEED EYES|第三の目
+destroy your eye and open the third one|自分の眼を潰し、#第三の眼を開く
+TRUE IDOL|正真正銘のアイドル
+at any point in the game, have 4 followers|常に｢仲間｣が4人いる状態を#維持する
+CLASSY RITUAL|高等儀式
+sacrifice your ALLY with a RITUAL DAGGER equipped|｢儀式用の短剣｣を使って#｢仲間｣を生贄に捧げる
+PEEKING TOM|のぞき魔
+meet a school wraith haunting the corridor|学校の廊下に出没する亡霊と#遭遇する
+AWOO|56709
+call Junko|純子に電話をする
+PAID IN BLOOD|血の償い
+have your ALLY die during a combat encounter|戦闘中に｢仲間｣を死亡させる
+EXORCISM|エクソシズム
+exorcise a ghost|｢悪霊｣の敵を追い払う
+NEVER-ENDING SUMMER|NEVER ENDING SUMMER
+change the date and stop the curse|日付を変えて、呪いを止める
+RESTLESS|眠れぬ夜
+complete a playthrough without resting|エンディングまで#休まずにプレイする
+SCHOLAR|学者
+research five spells in a single game|一度のプレイで#5つの呪文を研究する
+TRANSFER GIRL|転校生
+complete a game with the first character|1人目の探索者で#ゲームをクリアする
+FIT GIRL|快活な女の子
+complete a game with the second character|2人目の探索者で#ゲームをクリアする
+THUG SURVIVOR|生き延びた若頭
+complete a game with the third character|3人目の探索者で#ゲームをクリアする
+IDOL SURVIVOR|生き残ったアイドル
+complete a game with the fourth character|4人目の探索者で#ゲームをクリアする
+REPORTER SURVIVOR|死を免れた記者
+complete a game with the fifth character|5人目の探索者で#ゲームをクリアする
+LUNGFUL OF AIR|新鮮な空気
+complete the [COLD TURKEY] challenge|チャレンジ｢禁煙開始｣を#クリアする
+GROUNDED FOREVER|永遠のお仕置き
+complete the [BUT DAD!!] challenge|チャレンジ｢だけど、パパ！｣を#クリアする
+STUDENT SURVIVOR|生き延びた医学生
+complete a game with the sixth character|6人目の探索者で#ゲームをクリアする
+CHAOS SURVIVOR|混沌の生還者
+complete a game with the seventh character|7人目の探索者で#ゲームをクリアする
+BAD LUCK|不運
+roll a 1 during a stat check|能力値チェックで｢1｣を出す
+FROM THE BRINK|死の淵
+defeat an OLD GOD with over 90% DOOM|破滅値が90％以上の状態で#旧き神を倒す
+NEED NO EDUCATION|教育なんていらない
+burn down the school building|｢校舎｣を焼き払う
+BOOP|悪ふざけ
+surprise the dog|犬を驚かせる
+MY DEAR GHOST|愛しき幽霊
+complete the [GHASTLY PRESENCE] challenge|チャレンジ#｢身の毛のよだつ気配｣を#クリアする
+MOST POPULAR IDOL|トップアイドル
+complete the [GHOST TOWN] challenge|チャレンジ｢ゴーストタウン｣を#クリアする
+WORLD SAVED I|世界の救済Ⅰ
+win your first playthrough|1回目のプレイをクリア
+WORLD SAVED II|世界の救済Ⅱ
+win your second playthrough|2回目のプレイをクリア
+WORLD SAVED III|世界の救済Ⅲ
+win your third playthrough|3回目のプレイをクリア
+WORLD SAVED IV|世界の救済Ⅳ
+win your fourth playthrough|4回目のプレイをクリア
+WORLD DOOMED I|世界の破滅Ⅰ
+lose your playthrough due to REASON loss|｢理性｣を失って#ゲームオーバーになる
+WORLD DOOMED II|世界の破滅Ⅱ
+lose your playthrough due to STAMINA loss|｢スタミナ｣を失って#ゲームオーバーになる
+PAINTED HOSPITAL|血塗られた病院
+win your fifth playthrough|5周目をクリアする
+ONYX MEDALLION|オニキスの首飾り
+gather five curses|｢呪い｣を5つ集める
+WORLD DOOMED III|世界の破滅Ⅲ
+lose your playthrough due to DOOM|破滅値が上昇して、#ゲームオーバーになる
+ELDRITCH BACKSTORY I|奇妙なバックストーリーⅠ
+win a playthrough using WORLD OF HORROR backstory|バックストーリー｢恐怖の世界｣#を選択した状態で#クリアする
+ELDRITCH BACKSTORY II|奇妙なバックストーリーⅡ
+win a playthrough using MEDICAL HISTORY backstory|バックストーリー｢病歴｣を#選択した状態でクリアする
+ELDRITCH BACKSTORY III|奇妙なバックストーリーⅢ
+win a playthrough using HUNTED BY THE CULT backstory|バックストーリー｢教団の追っ手｣#を選択した状態でクリアする
+ELDRITCH BACKSTORY IV|奇妙なバックストーリーⅣ
+win a playthrough using SEVENTH CURSE backstory|バックストーリー#｢セブンス･カース｣を#選択した状態でクリアする
+ELDRITCH BACKSTORY V|奇妙なバックストーリーⅤ
+win a playthrough using ILL-FATED backstory|バックストーリー｢不幸体質｣を#選択した状態でクリアする
+CLUB MEMBER|部員
+join the club|部活に入る
+ELDRITCH BACKSTORY VI|奇妙なバックストーリーⅥ
+win a playthrough using KNIGHT ERRANT backstory|バックストーリー｢夢想家｣を#選択した状態でクリアする
+SOFT SIDE|優しい一面
+buy and return an expensive drug|高価な薬を買って返す
+BLOOD DEAL|血の取引
+feed an OUTER ENTITY|｢外なる存在｣に血を捧げる
+SHIOKAWA HISTORY I|塩川の歴史Ⅰ
+unlock 15 achievements|実績を15個アンロックする
+SHIOKAWA HISTORY II|塩川の歴史Ⅱ
+unlock 20 achievements|実績を20個アンロックする
+SHIOKAWA HISTORY III|塩川の歴史Ⅲ
+unlock 25 achievements|実績を25個アンロックする
+SHIOKAWA HISTORY IV|塩川の歴史Ⅳ
+unlock 30 achievements|実績を30個アンロックする
+SHIOKAWA HISTORY V|塩川の歴史Ⅴ
+unlock 40 achievements|実績を40個アンロックする
+SHIOKAWA HISTORY VI|塩川の歴史Ⅵ
+unlock 50 achievements|実績を50個アンロックする
+TRUE DESPAIR|真の絶望
+win a playthrough on hard difficulty|難易度｢ハード｣をクリアする
+FINAL STAND I|最後の抵抗Ⅰ
+reach turn 30 in ENDLESS mode|エンドレスモードで#30ターンに達する
+FINAL STAND II|最後の抵抗Ⅱ
+reach turn 40 in ENDLESS mode|エンドレスモードで#40ターンに達する
+FINAL STAND III|最後の抵抗Ⅲ
+reach turn 50 in ENDLESS mode|エンドレスモードで#50ターンに達する
+MIRA|ミラ
+solve the BLUE GEM riddle|｢青い宝石｣の謎を解く
+SOMETHING EVIL|邪悪なるもの
+meet and defeat SOMETHING EVIL|｢真なる邪悪｣に遭遇して#撃破する
+TRUE ANARCHY|真のアナーキー
+complete the [PAROLE VIOLATION] challenge|チャレンジ｢仮釈放違反｣を#クリアする
+HAIL TO THE KING|血まみれのはらわた
+as MORIKO, defeat an enemy with a working CHAINSAW|守子: 修理した｢チェーンソー｣#で敵を倒す
+GOOD OLD TIMES|古き良き時代
+equip CARPENTER HAMMER with both EXPEL EVIL and REGENERATION learned|釘抜きハンマーに｢破邪の呪文｣#と｢再生の秘法｣を#セットで装備
+PRIMUM NON NOCERE|まず害を及ぼさない
+defeat DREAM DEVOURER without killing a single patient|患者を一人も死なせずに#｢夢を喰らうもの｣を倒す
+SWEATER GIRL|セーターの少女
+find the missing girl|行方不明の女の子を見つける
+ELDRITCH BACKSTORY VII|奇妙なバックストーリーⅦ
+win a playthrough using SCARS backstory|バックストーリー｢傷痕｣を#選択した状態でクリアする
+ELDRITCH BACKSTORY VIII|奇妙なバックストーリーⅧ
+win a playthrough using CURIOUS BIRTHMARK backstory|バックストーリー｢奇妙なあざ｣#を選択した状態で#クリアする
+ELDRITCH BACKSTORY IX|奇妙なバックストーリーⅨ
+win a playthrough using ELDRITCH PARASITE backstory|バックストーリー#｢怪魔の寄生蟲｣を選択した#状態でクリアする
+ELDRITCH BACKSTORY X|奇妙なバックストーリーⅩ
+win a playthrough using EXQUISITE TASTE backstory|バックストーリー｢美食家｣を#選択した状態でクリアする
+ELDRITCH BACKSTORY XXX|奇妙なバックストーリーXI
+win a playthrough using FATALIST backstory|バックストーリー｢運命論者｣を#選択した状態でクリアする
+EVENT EDITOR|イベントエディター
+EXTRAS|エクストラ
+TRACK THIS ACHIEVEMENT|この実績をマーク
+ACHIEVEMENTS|実績
+Achievements unlocked:|アンロック済み
+progress|達成率
+EVENTS|イベント
+EVENTS CODEX|怪異の写本
+ENEMIES|敵
+ENEMY BESTIARY|異端生物図鑑
+THE OUTER BEING|外なる神
+GO BACK|戻る
+check all|全てチェック
+uncheck all|チェックを全て外す
+FULL|「フルパック」
+coming soon|近日リリース
+CHARACTER|探索者
+BACKSTORY|バックストーリー
+audio-visual|音声 / 映像
+extra|その他
+language|言語

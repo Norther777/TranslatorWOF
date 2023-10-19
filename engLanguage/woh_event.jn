@@ -1,0 +1,1174 @@
+ALTAR HORRIBLE|惨たらしい供物台
+Al ver las dos cabezas cortadas, no puedes evitar preguntarte ¿quién ha estado preparando tu comida durante la semana pasada?|切り落とされた二つの頭。##その光景を前にして、あなたはこの一週間、#誰が食事を作っていたのだろうと気になってしまう。
+notas de investigación oculta|オカルトノートを調べる
+Llame a la policía|警察を呼ぶ
+hacer nada|何もしない
+Las notas que se encuentran cerca hablan de civilizaciones antiguas y horrores indescriptibles.# Has logrado aprender un encantamiento, pero la horrible imagen permanecerá contigo por mucho tiempo.#(+HECHIZO / -1 RAZÓN)|近くにあったノート…#そこには古代文明に関する記録が綴られており、#あなたは形容しがたい恐怖に襲われた。#呪文を習得したものの、その恐ろしいイメージが#脳裏に焼き付いて離れない。#(+呪文 / 理性-1)
+Leer las divagaciones de un loco te ha puesto enfermo.#(-2 RAZÓN)|狂人の独り言を読み進めるうちに、#気分が悪くなってしまう。#(理性 -2)
+En el kōban más cercano, le cuentas al oficial sobre el espantoso descubrimiento.#El viejo policía está agradecido y te da una pequeña recompensa antes de desaparecer adentro para hacer una llamada.#(+2 FONDOS)|最寄りの交番に駆け込み、#あの凄惨な状況について説明する。#年老いた警官は礼を言って、#あなたに少しばかりの謝礼を渡した。#そうして、警官は電話をかけに中に消えた。#(所持金+2)
+Había algo en tu versión de los hechos que no cuadraba.# #Has sido detenido, pero debido a la falta de pruebas, la policía te dejó ir después de 48 horas.#(+3% DOOM)|話の中に辻褄の合わない部分があったようだ…#あなたは警察に拘留されてしまう。##証拠不十分のために釈放されたのは、#それから48時間後のことだった。#(破滅値+3%)
+Toma nota mental de evitar visitar pequeños restaurantes familiares en el corto plazo. (-1 RESISTENCIA)|小さな家族経営の店に行くのは、#しばらく止めておこうと心に決めた。#(スタミナ-1)
+[NECESITA HABILIDAD DE 'SEGUNDA VISTA']|パーク「透視力」が必要
+consulta a los fantasmas|霊たちに尋ねる
+Tocas la cabeza, concentrándote en tu pasado. Una corriente de imágenes extrañas inunda tu mente.# #Tus visiones no son claras. Alguien ha cosechado las almas de los propietarios, pero vislumbras una máscara extraña.#Intentas recordarla mientras te desplomas en el suelo, exhausto.#(-1 RESISTENCIA, +10 EXPERIENCIA)|頭に手を触れて、過去に意識を集中させる。#すると、そこに奇妙な映像が流れ込んできた。#ぼやけて視にくい…#この者達は、何者かに魂を刈り取られたようだ…#そこに一瞬、不気味な仮面が映る。#あなたは何とかそれを記憶に留めようとするも、#疲れ果てて床に倒れ込んでしまう。#(スタミナ-1 / EXP+10)
+EXHAUSTO|疲労
+La investigación está empezando a pasar factura a su salud. Sientes que estás a punto de quedarte dormido de pie.##¿Cómo abordas tu estado de debilidad?|調査を進めるうちに体調が悪化し始めた。##立ったまま、寝てしまいそうになる。##こんな状態では何もできない…どうしようか？
+tomar una siesta|仮眠を取る
+comprar un cafe|コーヒーを買う
+trotar alrededor de la cuadra|町中を軽く走る
+Puede que el mundo se esté desmoronando, pero realmente lo necesitabas.#(+1 RESISTENCIA/+1 RAZÓN)#(+2% DOOM)|世界が崩壊しようとも、#今は何よりも休息が必要だった。#(スタミナ+1 / 理性+1)#(破滅値+2%)
+Este doble frappe macchiato es un buen estimulante.#(-1 FONDOS)|ダブルフラッペマキアートを飲む。##気分転換にはちょうどいい飲み物だ。#(所持金-1)
+Cuando pides tu café, descubres que ni siquiera puedes pagarlo.#Infeliz, sales rápidamente de la tienda.#(-1 RAZÓN)|コーヒーを頼むも、#その代金すら支払えないことに気が付く。##機嫌を損ねたあなたは、早歩きで店を出た。#(理性-1)
+Este ejercicio rápido te ayuda a despejar la mente.#(+1 RAZÓN)|軽い運動をして、頭の中がすっきりした。#(理性+1)
+Medio dormido, tropiezas con el pavimento y tropiezas.#(-1 RESISTENCIA)|半分眠りかけていたため、#舗道で躓いて転んでしまう。#(スタミナ-1)
+<<el baño caliente hace maravillas>>|<<やっぱ、熱いお風呂はいい>>
+[NECESITA HABILIDAD DE 'BAÑO CALIENTE']|パーク｢熱々のお風呂｣が必要
+Ciertamente sabes cómo descansar y recuperarte.#(+2 RESISTENCIA / +2 RAZÓN)|あなたはしっかり、体と心を休める術を#心得ていた。#(スタミナ+2 / 理性+2)
+FUNERAL EXTRAÑO|奇妙な葬式
+No tenías idea de que el funeral al que te invitaron terminaría con los invitados cortándose las manos para 'alimentar' al difunto con su sangre.#Te quedas atrás, sorprendido por lo grotesco que es. De repente, los invitados giran la cabeza en tu dirección.##<<Ahora es tu turno.>>|まさか弔問客として呼ばれた葬儀で、#参列者達が自らの手を切り、#故人に血を飲ませているとは思ってもみなかった。##その凄惨な光景にショックを受け、#あなたは後ろの方で小さくなっていた。##すると突然、彼らの頭がぐるっとこちらを向く…##あなたの番が来たのだ。
+sigue la horrible tradición|恐ろしいしきたりに従う
+luchar para salir|周りを振り切って逃げる
+trata de disuadirlos de esto|何とか言い逃れようとする
+utilizar una tradición local como excusa|地元のしきたりでやり過ごす
+[NECESITA EL BENEFICIO DE 'ESTUDIOS FOLCLÓREOS']|パーク「民俗学」が必要
+Por más espantoso que sea, sigue siendo una tradición.#Sin embargo, no puedes evitar la sensación de que el difunto sonrió levemente mientras te cortabas la mano con cuidado.#(-1 RESISTENCIA)|どれほど恐ろしくとも、#これは昔からのしきたりなのだ。##慎重に手を切る…#その時、微かに遺体が笑ったような気がした。#(スタミナ-1)
+Los invitados hablan en serio. Al echar a correr, chocas contra un doliente que está parado cerca de la salida.##Afortunadamente, no te persiguen.#(+10 EXPERIENCIA)|弔問客達は本気だ。##出口付近に立っていた者とぶつかりながらも、#その場から走って抜け出す。##幸運にも、追いかけられることはなかった。#(EXP+10)
+Los invitados hablan en serio. Empiezas a correr frenéticamente. Sin embargo, esto sólo enfurece a los dolientes. Pronto te alcanzan y te dominan.#Después de un sacrificio involuntario, te echan a la calle.#(+HERIDA)|弔問客達は本気だ。#無我夢中で逃げ出すも、#それは彼らの怒りを買うだけだった。#すぐに追いつかれ、取り押さえられる。##その後、強引に血を捧げさせられ、#路上に投げ捨てられるのであった。#(+怪我)
+Usando la anemia aguda como excusa, convences a los dolientes de que hagan una excepción contigo.#(+10 EXPERIENCIA)|急な貧血で動けないと弔問客達を説得し、#例外的に自分だけ許してもらった。#(EXP+10)
+Los dolientes no aceptan un no por respuesta y te extraen sangre a la fuerza.#(-2 RESISTENCIA)|弔問客達は有無を言わさず、あなたの手を切って、#無理やり血を吸わせた。#(スタミナ-2)
+De pie junto al cadáver, aplaudes dos veces y te inclinas tres veces.#Los dolientes mayores parecen contentos con el sacrificio y te dejan ir.##No puedes evitar la sensación de que el difunto sonrió levemente.#(+10 EXP)|遺体の前に立って二度手を叩き、三度お辞儀をする。#年配の弔問客達がこれに満足したようで、#あなたは血を捧げずに済んだ。#微かに遺体が笑っていたような気がしてならない。#(EXP+10)
+ESTATUAS DE PIEDRA|石像の恐怖
+Los expertos quedan desconcertados por la repentina aparición de veinte estatuas de piedra alineadas en fila en medio del parque ◯◯◯.#[Puedes lanzar un HECHIZO sin pagar nada]|専門家たちは困惑していた…#OOO公園の中心部に、#突然20体の石像が現れたのだ。##[コストなしで呪文を1つ唱えることが可能]
+CALLE SILENCIOSA|無音の道
+Algo está mal. No ves a nadie en la calle y podrías haber jurado que estaba abarrotada hace apenas un minuto. Será mejor que te apresures a salir de aquí.#(-1 RAZÓN)|何かがおかしい…#さっきまで人通りの多かった道が静まり返っている。##急いで逃げた方が良さそうだ。#(理性-1)
+PERIÓDICOS VIEJOS|古い新聞
+Ahora que el rastro se está enfriando, podría ser el momento de adoptar un enfoque diferente.##¿Podría haber ocurrido un caso similar en el pasado? Una visita a la biblioteca podría ser una buena idea.|手がかりが乏しくなってきた。#そろそろ、別の方向から探るべきなのかもしれない。##過去に似たような事件がなかっただろうか？#図書館に行ってみるのもアリだろう。
+estudiar temas de periódicos locales|地元新聞の各号を調べる
+es una pérdida de tiempo|時間の無駄だ
+Cerca de la hora de cerrar, te topas con un artículo curioso en la última página de un periódico local.##Copias el nombre del autor, junto con la dirección, antes de prepararte para partir.#(-3% DOOM / +10 EXP)|閉館時間が迫る中、新聞の裏一面に載っていた#興味深い記事に目が留まる。##図書館を出る前に、あなたはその記事を書いた者の#名前と住所を書き留めた。#(破滅値-3% / EXP+10)
+Fue una completa pérdida de tiempo. Has pasado todo el día leyendo sobre lindos perros, vegetales gigantes y algún que otro accidente.#No encuentras nada relacionado con el caso que nos ocupa.#(+5% DOOM)|完全に時間の無駄だった…#カワイイ犬や巨大な野菜、時折起きる事故など、#記事を読んでいるうちに丸一日潰れてしまう。##事件の手がかりとなるものは、全く見つからなかった。#(破滅値+5%)
+La mera idea de estudiar todos esos periódicos viejos y polvorientos hace que te duela la cabeza.#¡No hay forma de que pierdas un día entero en esa biblioteca desmoronada!#(-1 RESISTENCIA)|あの古びた埃だらけの新聞を調べるのか…#考えただけで、頭が痛くなってくる。##一日中、あんなカビ臭い場所で過ごすだなんて#考えられない！#(スタミナ-1)
+conecta los puntos|点と点を結ぶ
+[NECESITA EL ESTADO 'PARANOIA']|呪い「パラノイア」が必要
+En cada artículo que lees encontrarás pistas obvias relacionadas con las actividades de la secta. Su arrogancia será su perdición.##Arrancas los párrafos incriminatorios de sus páginas y los organizas en una secuencia elaborada. Los bibliotecarios pronto descubren tu vandalismo y te echan disgustados.#(-2 RAZÓN, -5% DOOM)|どの記事を読んでも、カルト教団の活動に関する#確固とした手がかりが見つかる。##その驕りが破滅を招くことになるだろう。##新聞から証拠となる箇所を破って、緻密に並べ直す。#だが、その乱暴行為は司書にすぐ見つかり、#非難の視線を受けながら追い出された。#(理性-2 / 破滅値-5%)
+PINTURA SIN TERMINAR|未完成の絵画
+Mientras miras alrededor de la habitación saqueada de tu amigo recientemente fallecido, descubres un cuadro a medio terminar de una mujer, con la piel de un espantoso color amarillo pálido.|亡き友の荒れた部屋を物色していると、# 未完成の女性の絵が目に入る。##その肌は不気味な淡黄色に塗られていた。
+La escena es inquietante. Te cuesta mirarla.|どうも、不穏なものを感じる#まともに見ることができない
+Sin dejarte intimidar por la pintura, te brinda una nueva visión de la locura que poseía a tu amigo.#(+5 EXPERIENCIA)|怯むことなく絵を見続けていると、#友達が取り憑かれていた狂気について、#新たな気づきを得た。#(EXP+5)
+Intimidado por el inquietante retrato, te persiguen las pesadillas#(-2 RAZÓN)|その不気味な絵に怯えたあなたは、#悪夢にうなされてしまう。#(理性-2)
+Mientras examinas la habitación saqueada de tu amigo recientemente fallecido, descubres una imagen a medio terminar de un rostro escondido en las sombras...##(ALGO VERDADERAMENTE MAL SE ESTÁ ACERCA)|亡き友の荒れた部屋を物色していると、#未完成の絵が目に入る。##その顔は影に隠れて、#半分だけしか見えなかった…#(真なる邪悪が近づいている)
+PAQUETE DE FORMA EXTRAÑA|異様な形の小包
+Cuando entras en un vagón del metro, notas un paquete de forma extraña en el asiento frente a ti.##Está marcado con tu nombre.##Coges el paquete pero dudas, una sensación helada se instala en la boca del estómago...|地下鉄に乗り込むと、向かい側の座席に#変わった形の小包が置かれているのに気付く。##何とそこには…自分の名前が記されていた。#小包を持とうとした瞬間、ぴたっと手が止まる。#そばの広告に、見覚えのある顔があったからだ…#(真なる邪悪がこちらに気づいた)
+examinar el paquete|小包を調べる
+ignoralo|放っておく
+Tan pronto como recoges el paquete, te das cuenta de lo que estás sosteniendo y lo sueltas horrorizado.#(+8 EXPERIENCIA)|その小包を手に取った途端、中身が何なのかを悟り、#恐れを感じて手から落としてしまう。#(EXP+8)
+No es hasta que lo desenvuelves que entiendes lo que es. Sorprendido, lo dejaste caer al suelo desde tus manos ensangrentadas.#(-2 RAZÓN)|開封して初めて、その中身が何なのかを理解した。##衝撃のあまり、“それ”を血で汚れた手から#床に落としてしまう。#(理性-2)
+Sales rápidamente a la siguiente estación con la esperanza de olvidar el paquete lo antes posible.#(-1 RESISTENCIA)|一刻も早く、あの小包のことは忘れたい…#そう思いながら、あなたは急いで次の駅で降りた。#(スタミナ-1)
+Cuando entras en un vagón del metro, notas un paquete de forma extraña en el asiento de enfrente. Está marcado con tu nombre. Cuando alcanzas el paquete, te detienes de repente y ves una cara familiar en un anuncio cercano.##(ALGO VERDADERAMENTE MAL TIENE TU AROMA AHORA)|地下鉄に乗り込むと、向かい側の座席に#変わった形の小包が置かれているのに気付く。##なんとそこには、あなたの名前が記されていた…#その小包を持とうとしたその瞬間、ぴたっと手が止まる。#そばの広告に、見覚えのある顔があったからだ…#(真なる邪悪がこちらに気づいた)
+EMPRESA DE MUDANZAS|引っ越し業者
+Ha pasado casi un año desde que un amigo de la infancia se mudó a otra ciudad. Se fue repentinamente sin siquiera despedirse.##En una carta reciente, se disculpaba por la desaparición y le pedía que retirara los muebles de su piso porque quería venderlo. En el sobre encuentras la llave de su apartamento.|幼なじみが別の町に越してから、もう1年になる。#何の別れの言葉もなく、突然姿を消した彼。##あなたの元に近頃、一通の手紙が届く。#そこに書かれていたのは、突然消えたことへの謝罪…#そして、アパートの家具を撤去して欲しいという#お願いだった。どうやら売り払うつもりらしい。##封筒を開けると、中からアパートの鍵が出てきた。
+ayudar a tu amigo|友人の頼みを聞く
+registrar su piso con una fuente de luz|[光源]を使ってアパートを調べる
+[NECESITA UNA FUENTE DE LUZ]|[光源]が必要
+Encuentras otra carta detrás de un armario. Explica que la razón por la que tu amigo se fue fue que la 'gente de la sombra' lo estaba acosando.##Te estremeces cuando te das cuenta de que no has visto la cara del camionero de la empresa de mudanzas.#(+5 EXP)|タンスの裏から、別の手紙が出てくる。#そこには「シャドーピープル」に付きまとわれていたので、家を離れざるを得なかったと書かれていた。##その瞬間、ぞわりと鳥肌が立つ。#アパートに来た引っ越し業者…#そのトラック運転手の顔を…まだ見ていない。#(EXP+5)
+Al pasar el armario por la puerta, das un paso en falso y te torces el tobillo. No es nada grave, pero tendrás problemas para caminar durante unos días.#(-2 RESISTENCIA)|タンスを玄関から運び出す際、#足を踏み外して足首を捻挫してしまう。##大した怪我ではないが、#数日はうまく歩けないだろう。#(スタミナ-2)
+Haces brillar tu fuente de luz en el armario oscuro y algo brilla hacia ti.##Lo agarras cuando la empresa de mudanzas entra a la casa.#(+ ARTÍCULO)|暗いクローゼットの中を照らすと、#何かがキラッと光るのが見えた。##あなたがそれを取ると同時に、#引っ越し業者が家に入ってきた。#(+アイテム)
+PROFESOR TAKEUCHI|武内教授
+Nadie responde cuando llamas a la puerta del profesor Takeuchi. Esto es extraño ya que suele ser puntual en sus citas.##El olor a sangre te indica que algo anda mal, y rápidamente abres la puerta y entras. No hay señales del profesor, pero la cantidad de sangre por todas partes deja pocas dudas sobre lo sucedido. Pero ¿cómo... y por qué?|武内教授がいる部屋のドアをノックする。#しかし、何の反応もない。#妙だ、約束の時間を破るような人ではないのに…##血の匂いで異変を察したあなた。#急いでドアを開けて、中に入る。#教授の姿は見当たらない…#だが、至る所に飛び散った大量の血が#ここで起きたことを物語っている。#どうやって…それに、なぜこんなことを…？
+busca pistas en la habitación|手がかりがないか、#部屋を調べる
+hurgar en la habitación en busca de artículos útiles|部屋を隅々まで調べて、#使えるアイテムを探す
+[NECESITA HABILIDAD DE 'SEÑALES OCULTAS']|パーク「オカルトサイン」が#必要
+comprobar el símbolo dibujado en una pintura|絵画に描かれた印を調べる
+Observas un libro tirado en el suelo. Lo levantas y descubres que se han arrancado cuatro páginas. Memorizas el título del libro.##¿Por qué alguien los tomaría y qué contenían?#(+10 EXP)|あなたは、床に本が落ちているのに気付いた。#手に取ってみると、4ページほど破り取られている…##この本のタイトルは覚えておこう。##なぜ、その数ページだけ持ち去られたのか…#そして、そこに何が書かれていたのか…？#(EXP+10)
+Buscas en la habitación pero no encuentras nada. El sonido de las sirenas de la policía te obliga a saltar por una ventana rota y resultas herido.#(+ LESIÓN)|部屋の中を探し回るが、何も見つからない。##パトカーのサイレンが聞こえてきたため、#割れた窓から無理やり飛び降りたが、#その際に怪我を負ってしまう。#(+怪我)
+Buscas en los cajones, tratando de encontrar algo útil. El sonido de las sirenas de la policía te obliga a agarrar el objeto más cercano y huir de la escena del crimen.#(+ ITEM)|何か役立つものはないかと、#引き出しの中をくまなく調べる。##パトカーのサイレンの音が聞こえてきたため、#すぐ近くにあったものを掴み、#その場から逃げ出した。#(+アイテム)
+Buscas en la habitación pero no encuentras nada. El sonido de las sirenas de la policía te obliga a saltar por una ventana rota y resultas herido.#(-2 RESISTENCIA)|部屋の中を探し回るが、何も見つからない。##パトカーのサイレンが聞こえてきたため、#割れた窓から無理やり飛び降りたが、#その際に怪我を負ってしまう。#(スタミナ-2)
+Reconoces el signo oculto dibujado en un cuadro. Lo quitas y encuentras un compartimento oculto. Por suerte, quienquiera que haya agredido al profesor TAKEUCHI se lo perdió.#(+ ARTÍCULO)|絵に描かれたオカルトチックな印には、#どこかで見覚えがあった。##絵を取り外すと、隠れた収納スペースが見つかる。##不幸中の幸いと言うべきか、#教授を襲った犯人はこれを見落としていた。#(+アイテム)
+ILUSIÓN DEstrozada|砕けた幻想
+Estás parado en medio del campo, congelado por el terror.#Un desgarro en nuestra realidad muestra el horrible futuro de nuestro planeta.##Al ver la figura familiar mirándote, no puedes evitar preguntarte si es nuestro mundo el que está Solo una ilusión.|あまりの恐怖に、畑の真ん中で立ちすくむあなた。##現実の裂け目から、#この星の恐るべき未来が映し出される。##見覚えのある者がこちらを見つめ返す。##その光景に、私たちの住む世界こそ、#ただの幻想なのではないかという疑念が湧いてくる。
+cuestiona tu cordura|自分の正気を疑う
+entra al portal|異界の扉に入る
+Caes de rodillas, con arcadas secas. Nada volverá a ser igual.#(+ MALDICIÓN)|吐き気が込み上げてきて、#あなたは膝をついて倒れてしまう。##取り返しのつかないことになった…#(+呪い)
+Tú y la figura os acercáis al portal, listos para intercambiar lugares...|お互いのいる場所を入れ替えようと、#あなたたちは「異界の扉」に近づいた…
+[NECESITA EL ARTÍCULO 'SIGILO ANTIGUO']|アイテム#「旧き印」が必要
+sellar el portal|異界の扉を塞ぐ
+Colocas el antiguo sello en el suelo mientras la figura detrás del desgarro se retuerce de agonía. Estás a salvo.##Por ahora.#(-10% DOOM)|旧き印を地面に置く。##すると、裂け目の向こうにいる者が#苦悶の声を上げて、身をよじらせた。#もう大丈夫だ…##これでしばらくは。#(破滅値-10%)
+RITUAL DEL BOSQUE|森の儀式
+El grupo sospechoso que has estado siguiendo está reunido en un bosque cercano.#Están realizando una especie de ritual en un claro más adelante. El único mirador cercano es una gran roca.|あなたが目を付けていた不審な集団は、#近くの森に集まっていた。##この先の空き地で何らかの儀式を行っているようだ。##この辺りをよく見渡せる場所といえば、#あの大きな岩の上しかない。
+intenta escalarlo|岩を登ってみる
+sabotear el ritual|儀式を妨害する
+[NECESITA EL ARTÍCULO 'TÚNICA RITUAL']|アイテム「儀式用ローブ」が必要
+Logras ver algunas de las caras y escuchar los nombres del grupo.#(+5 EXP)|何人かの顔を見るだけではなく、#集団の名を聞き取ることもできた。#(EXP+5)
+Te caes y te lastimas. #Afortunadamente, logras pasar desapercibido cojeando.#(-2 RESISTENCIA)|あなたは転んで、怪我をしてしまう。##足を引きずりながらも、#幸い、誰にも気付かれずに逃げることができた。#(スタミナ-2)
+Te ajustas más la capucha alrededor de tu cara y te mezclas sin esfuerzo con la multitud vestida con túnicas.##Un brasero que se cae interrumpe el ritual y, en medio de todo el caos, escapas.#(-3% DOOM)|ローブを着た群衆の中に、#フードを目深に被ったあなたがすんなりと紛れ込む。##火鉢が倒れ、中断となる儀式。#混乱に乗じて、あなたはその場から逃げ去った。#(破滅値-3%)
+MARCAS EXTRAÑAS|奇妙な印
+Una tormenta repentina te obliga a buscar refugio en una cueva cercana. ##Mirando a tu alrededor, descubres extrañas marcas en las paredes de la cueva...|突然の嵐に見舞われ、#近くの洞窟に駆け込むあなた。##辺りを見回すと、その壁に奇妙な印が#描かれているのに気付く…
+intenta descifrarlos|解読を試みる
+usa tu linterna|懐中電灯を使う
+[NECESITA EL ARTÍCULO 'LINTERNA']|アイテム「懐中電灯」が必要
+Reconoces los extraños símbolos y los conectas con los horrores que asolan tu ciudad.#(+5 EXPERIENCIA)|その奇妙な印には見覚えがあった。##これらは、町を苦しめる怪異と関連しているのだ。#(EXP+5)
+Te preguntas qué podría significar todo esto.|一体、どういう意味なんだろう？
+El haz de la linterna revela símbolos adicionales escondidos en las sombras. Te ayudan a interpretar las instrucciones del hechizo dibujadas en la pared de la cueva.#(+HECHIZO)|懐中電灯の光を当てると、#暗がりの中に隠れていた印がさらに浮かび上がる。##おかげで、何とか壁に描かれた呪文を#読み解くことができた。#(+呪文)
+LIBRERÍA CURIOSA|珍竹林
+Te has topado con una librería olvidada en un pequeño callejón. El interior está lleno de tomos viejos y polvorientos, huesos de animales, viales extraños y animales exóticos disecados que ni siquiera reconoces.##<<¿Puedo ayudarte?>> pregunta el hombrecito detrás del mostrador.#'Tengo cosas Eso seguramente te ayudará en tu búsqueda.'|狭い路地で偶然、寂れた書店を見かける。##埃を被った古書や動物の骨、奇妙な小瓶、#見知らぬ外来生物の剥製で取っ散らかった店内。#カウンターの中にいた小柄な男が#<<何かお探しかい？>>と聞いてきた。##<<調査に使えそうなもんなら、#きっとここにあるはずさ。>>
+comprar un hechizo (2 FONDOS)|購入: 呪文 (所持金-2)
+comprar un objeto mágico (3 FONDOS)|購入: 魔法アイテム (所持金-3)
+<<Lo siento, solo estoy mirando.>>|<<すいません、ちょっと見るだけ。>>
+muestra tu tarjeta yakuza|ヤクザカードをちらつかせる
+[NECESITA EL ARTÍCULO 'TARJETA YAKUZA']|アイテム｢ヤクザカード｣が必要
+El hombrecito te entrega un paquete.##<<Estoy seguro de que le darás buen uso.>>|男から包みを受け取る。##<<こいつなら、きっと役に立つだろうよ。>>
+El hombrecito frunce un poco el ceño.##<<No tienes suficiente dinero para eso, querida.>>|男が少し顔をしかめる。##<<お前さん、金ねぇんだろ？>>
+<<¡Tómate tu tiempo y hasta pronto!>>|<<ま、どうぞごゆっくり。また来いよ！>>
+El hombrecito deja de sonreír.#<<¿Ustedes otra vez? Vas a arruinar mi negocio.>>##De mala gana, abre la caja registradora y te entrega el dinero.#(+4 FONDOS / -2 RAZÓN)|小柄な男の笑みが消える。##<<まーたお前らか。商売上がったりだぜ。>>##渋々、男はレジを開き、あなたに金を渡した。#(所持金+4 / 理性-2)
+PACIENTE PARANOICO|妄想に取り憑かれた患者
+Cuando el paciente llegó a casa una mañana cubierto de cicatrices y balbuceando sobre extraterrestres, la policía hizo que los internaran.##Están murmurando algo en voz baja cuando pasas.|ある朝、宇宙人についてぶつぶつ言いながら、#傷だらけで帰ってきた者がいた。#その者は、警察によって病院に収容されてしまう。##あなたがそばを通りかかった時、ある声が聞こえた。#その患者が小声で何かを呟いている。
+Háblales|話しかける
+hazles saber que no están solos|一人ぼっちじゃないと伝える
+[NECESITA EL ESTADO 'PARANOIA']|呪い「パラノイア」が必要
+Inmediatamente comprendes que la única diferencia entre tú y el "loco" es que aún no te han atrapado. Los convences para que se escapen y se unan a ti en tu búsqueda.#(+ ALIADO)|すぐにその話を理解する。自分と狂人との違いは、#まだ警察に捕まっていないということだけなのだ。##あなたは調査に加わるようその者を説得し、#密かに病院を抜け出した。#(+仲間)
+Intentas razonar con ellos para que te cuenten lo que realmente pasó, pero no funciona. Se necesitan dos enfermeras para calmarlos después de haberte maltratado.#(-2 RESISTENCIA)|その身に何が起きたのか#聞き出そうとするも、#なかなかうまくいかない。##乱暴を振るってきた患者に対し、#看護婦が二人がかりで落ち着かせた。#(スタミナ-2)
+El paciente reconoce instantáneamente en usted un alma afín. Los ayudas a escaparse del hospital y se unen a ti en tu misión.#(+ ALIADO / +2% DOOM)|患者はあなたを見て、#瞬時に同じ魂の持ち主だと感じ取った。##病院から密かに患者を連れ出すあなた。#結果、その者は調査に同行することとなった。#(+仲間 / 破滅値+2%)
+BAÑO ESCOLAR|学校のトイレ
+Entras al baño de la escuela para lavarte la cara con agua fría.##Un ruido repentino detrás de ti te detiene en seco. Una de las puertas del cubículo se ha abierto sola...|冷たい水で顔を洗おうと、トイレに入るあなた。##背後で聞こえた突然の物音に足を止める。##ある個室のドアが、ひとりでに開いたのだ…
+Cierre la puerta|ドアを閉める
+escapar del baño|トイレから逃げる
+enciende el VELO SANTO|「聖なる蝋燭」に#火を灯す
+[necesita el elemento 'VELA SANTA']|アイテム#「聖なる蝋燭」が必要
+Caminas hacia la puerta e intentas cerrarla, pero algo la bloquea.#Cuando miras hacia arriba, ves una mano pálida y fantasmal sosteniendo la puerta...|個室の前に行きドアを閉めようとしたが、#“何か”にそれを阻まれた。#目を上げると、幽霊のような青白い手が#ドアを押さえており…
+Puede que estés paranoico, pero no hay forma de que te arriesgues a encontrarte con un fantasma aquí.#(-2 RAZÓN)|考えすぎかもしれないが、#ここで幽霊と遭遇するのは絶対に避けたい。#(理性-2)
+Enciendes el VELO SANTO, purificando el lugar.##(-3% DOOM)|「聖なる蝋燭」に火を灯して、その場を清める。#(破滅値-3%)
+TEATRO DE CADÁVERES|死の舞台
+Los cadáveres están colgados de alambre, como marionetas macabras con sonrisas pintadas y mejillas sonrosadas.#(-2 RAZÓN)|ワイヤーで死体が吊るされている。##塗り固められた笑顔と紅い頬を持つ死体は、#どこか操り人形のようで猟奇的なものを感じる。#(理性-2)
+SENDERO FRÍO|消えた足跡
+Siguiendo a una persona sospechosa, ingresas a una antigua mansión en ruinas. Apesta a leche en mal estado y solo tiene dos puertas, por una de las cuales entraste.##No puedes ver al hombre extraño por ningún lado.|不審な男を追って、#古く荒れ果てた屋敷の一室に入る。#腐った牛乳のような臭いが漂っている。##2つあるドアのうち、#1つはあなたが通ってきたものだ。##あの怪しい男の姿はどこにも見当たらない。
+salir por la otra puerta|もう一方のドアから出る
+buscar en la habitación|この部屋を調べる
+Al volver al pasillo, ves al hombre desaparecer detrás de una esquina.#Como lo estás alcanzando, no tiene tiempo de cerrar la puerta.##Pierdes al hombre, pero encuentras libros de ocultismo en el sucio habitación que son igual de valiosas.#(+10 EXP)|廊下に戻ると、あの男が角を曲がって#消えていくのが見えた。#こちらに追いつかれそうになり、#向こうは鍵をかける余裕もなさそうだ。##男は見失ったものの、あなたは汚れた部屋で#魔術本を手に入れる。これもまた使えそうな本だ。#(EXP+10)
+Al volver al pasillo, ves al hombre desaparecer detrás de una esquina.##Desafortunadamente, eres demasiado lento para alcanzarlo.#(+2% DOOM)|廊下に戻ると、あの男が角を曲がって#消えていくのが見えた。##しかし、足が遅すぎて追いつくことができない。#(破滅値+2%)
+No hay nada realmente importante aquí, pero crees que podrías usar el único elemento que encuentres.#(+ITEM)|特に重要そうなものはなかったが、#1つ使えそうなアイテムが見つかった。#(+アイテム)
+FUERZA AEREA|空軍
+El ejercicio militar te hace sentir más seguro, pero ¿son las armas suficientes para detener los horrores indescriptibles que acechan ahí fuera?#(+4% DOOM / +2 RAZÓN)|軍事演習を見て、胸を撫で下ろす…##しかし、外に潜むあの名状しがたい恐怖に#銃だけで立ち向かえるのだろうか？#(破滅値+4% / 理性+2)
+TALLAS|刻まれた印
+Mientras deambulas por el bosque descubres extraños grabados en uno de los árboles y, por su aspecto, fueron hechos recientemente. ¿Podrían estar relacionados con el misterio actual?|森の中を彷徨っていると、奇妙な印が彫られた#一本の木を発見する。#見た目からして、最近彫られたもののようだ。##今、追っている謎と何か関係があるのだろうか？
+intenta descifrar las señales|何とか読み解こうとする
+Toma una foto para analizarla más tarde.|写真を撮って後で解析する
+[NECESITA EL ARTÍCULO 'CÁMARA']|アイテム「カメラ」が必要
+Estás seguro de que las personas desaparecidas estaban aquí. ¡Estás en el camino correcto!#(+5 EXP)|ここに行方不明者がいたのは間違いない。#この道で大丈夫だ！#(EXP+5)
+No se puede saber qué significan los símbolos extraños. Vagando sin rumbo por este bosque, pasará algún tiempo antes de que retomes el rastro nuevamente.#(+2% DOOM)|この奇妙な印が何を意味しているのか、#あなたには理解できなかった…#あてもなく森を彷徨えば、道を見つけるまで#かなりの時間を要するだろう。#(破滅値+2%)
+Tomas una fotografía de las tallas para compararlas con varias fuentes en casa.#(+10 EXP)|あなたは家にある色んな資料と比較するため、#その木の写真を撮った。#(EXP+10)
+RECESO PARA FUMAR|タバコ休憩
+Necesitabas eso. #(+1 RAZÓN)|この一服がたまらない。#(理性+1)
+Empiezas a toser incontrolablemente. ¿Quizás es hora de dejar de fumar?#(+ LESIÓN)|咳が止まらなくなる。そろそろ、やめ時だろうか？#(+怪我)
+SALA DE PSIQUIATRÍA|精神病棟
+Alguien ha estado marcando a los pacientes con símbolos ocultos...|何者かが、患者たちに奇妙な印を焼き付けている…
+asumir lo peor|最悪の事態を想定する
+reconocer los símbolos arcanos|難解な焼印を読み取る
+[NECESITA HABILIDAD DE 'agarre ARCANO']|パーク「秘義の智恵」が必要
+Marcado... ¡como ganado!|焼印だなんて…まるで家畜だ…！
+¿Están preparando un festín para sus maestros sobrenaturales?#(+4% DOOM)|怪魔の主のために、#生け贄でも用意しているのだろうか…#(破滅値+4%)
+Reconoces un símbolo protector. Alguien está vigilando a los pacientes.#(-2% DOOM)|お守りのような意味であることが分かる。#何者かが患者たちを監視しているのだ。#(破滅値-2%)
+VIEJO AMIGO|旧友
+Te sorprende gratamente encontrarte con tu vieja amiga mientras esperas un tren. Sin duda, ha cambiado mucho desde la última vez que la viste. Actualmente, modera un foro web dedicado a lo paranormal.##¿Quizás sepa algo útil?|電車を待つ間、あなたは懐かしの友人と出会い、#嬉しい驚きを覚えた。最後に会った時から、#明らかに大きく変わっている。最近は、超常現象に#特化したウェブ掲示板の管理人をしているそうだ。##何か良い情報を掴んでいるかもしれない。
+charlar|雑談する
+invitar a un cafe|コーヒーでも飲もうと誘う
+pregúntale qué está escuchando|何を聴いているのか尋ねる
+[NECESITA EL ARTÍCULO 'REPRODUCTOR DE CASSETTE']|アイテム#｢カセットプレーヤー｣が必要
+Entre teorías de conspiración y avistamientos de pies grandes, escuchas un rumor preocupante sobre un antiguo dios que despierta lentamente para gobernar la Tierra una vez más.#¿Podría ser esta la razón de los recientes y horrendos acontecimientos?#(+5 EXP / -1 RAZÓN)|陰謀論、ビッグフットの目撃情報…#その中で、あなたは気になる噂を耳にする。#話によれば、古の神が再び地球を支配するべく、#徐々に目覚めつつあるらしい。##最近起きている恐ろしい出来事は、#これが関係しているのだろうか…？#(EXP+5 / 理性-1)
+Ciertamente es agradable reencontrarse con un viejo amigo después de tantos años, pero no aprendes nada importante.#(+1 RAZÓN)|久しぶりに古い友達と会えて嬉しかったが、#大事なことは何も学べなかった。#(理性+1)
+Entre teorías de conspiración y avistamientos de Pies Grandes, escuchas un rumor preocupante sobre un viejo dios que despierta lentamente para gobernar la Tierra una vez más.|陰謀論、ビッグフットの目撃情報…#その中で、あなたは気になる噂を耳にする。#話によれば、古の神が再び地球を支配するべく、#徐々に目覚めつつあるらしい。
+#¿Podría ser esta la razón de los horribles acontecimientos recientes?#(-1 FONDOS / +7 EXP)|#最近起きている恐ろしい出来事は、#これが関係しているのだろうか…？#(所持金-1 / EXP+7)
+Avergonzado, descubres que no puedes permitirte un café.#(-2 RAZÓN)|恥ずかしいことに、#コーヒーを買うお金がないことに気付く。#(理性-2)
+<<Una tienda de música local tiene una buena oferta para comprar uno y llevarse uno del contenedor de ofertas.#Aquí, escúchalo tú mismo.>>#(+ ARTÍCULO)|<<近所のレコード屋が、お得なキャンペーンを#やっててね。1つ買えば、もう1つもらえるの。#ほら、あんたも聴いてみてよ。>>#(+アイテム)
+GRIMORIO MALDITO|呪われし魔術書
+Encuentras un tomo pesado envuelto en terciopelo negro apolillado en un viejo armario cerrado con llave. Cuando quitas el envoltorio del libro, retrocedes con disgusto. Está encuadernado en carne humana.|鍵のかかった古い戸棚の中から、#ずっしりとした分厚い書物を発見する。##虫に食われた黒いベルベットの覆いを取った瞬間、#あまりの気味悪さに後ずさる。##その本は“人肉”で装丁されていたのだ。
+léelo|読む
+quémalo|焼き払う
+tómalo|手に取る
+Descubres algunos de los secretos del dios dormido.#(+10 EXP)|眠れる神…その秘密の一端を解き明かした。#(EXP+10)
+Tu cabeza nada con innumerables voces blasfemas.#(+2% DOOM)#(+ MALDICIÓN)|頭の中に、無数の冒涜的な声が鳴り響く。#(破滅値+2%)#(+呪い)
+Puede que nunca sepas qué hay dentro de este horrible libro...##pero eso es algo bueno.#(-3% DOOM)|見るも恐ろしい本だった。#あの中身については、#もう二度と知ることはないだろう…##むしろ、その方が良い。#(破滅値-3%)
+Al tomar un libro, te cortas con un clavo oxidado que atraviesa la cubierta.#(+ LESIÓN / + ARTÍCULO)|本を持った瞬間、表紙に打ち込まれた錆びた釘で#手を切ってしまう。#(+怪我 / +アイテム)
+INUNDACIONES|洪水
+Las inundaciones fuera de temporada han cerrado muchas de las carreteras...|季節外れの洪水により、#多くの道路が閉鎖されてしまっている…
+buscar una manera alternativa|別の道を探す
+consultar el mapa|地図を確認する
+[NECESITA EL ARTÍCULO 'MAPA']|アイテム「地図」が必要
+Has perdido mucho tiempo buscando un camino seguro.#(+3% DOOM)|安全な道を探すのに、#かなり時間を費やしてしまった。#(破滅値+3%)
+Después de estudiar el mapa, finalmente localizas un camino seguro utilizado por los lugareños.#(+5 EXP)|あなたは地図を見ながら、#地元の人間が使う安全な道を探した。#(EXP+5)
+Matorral de la ladera|山腹の雑木林
+Los árboles en lo alto bloquean la luz del sol y comienzas a sentirte triste.#(-2 RAZÓN)|頭上の木々が日の光を遮り、#陰鬱とした気分になってくる。#(理性-2)
+LODO NEGRO|黒い汚泥
+El pasillo está inundado por un lodo negro que lentamente sale por debajo de la puerta del aula de química. Un hedor a humedad y moho crece a medida que te acercas.##¿Cómo vas a llegar al otro lado?|化学室の扉の下からじんわりと滲み出る#黒い汚泥が、廊下を覆い尽くす。#近づくにつれて、#湿ったカビの臭いが酷くなる。##どうすれば、向こう側に行けるのだろう？
+tomar un desvío|遠回りをする
+riesgo de pasar por|危険を覚悟して進む
+tomar una muestra del lodo|汚泥を試料として採取する
+¡Más vale prevenir que lamentar! Subes las escaleras a otro piso para evitar el lodo.#(+2% DOOM)|念には念を入れた方がいい！##あなたはその泥を避けて、#階段で別の階に上がった。#(破滅値+2%)
+Ves un movimiento repentino cerca de tu tobillo, justo a tiempo para alejarte de algo que intenta morderte la pierna. #¡Llegas sano y salvo al otro lado!#(+5 EXP)|足首の辺りで突然、何かが動くのを目にした。#足に噛みつかれる寸前に飛び退き、#間一髪のところで避ける。##何とか無事に向こう側まで渡れた！#(EXP+5)
+Llegas demasiado tarde para evitar que -algo- te muerda el tobillo. No sangra mucho, pero te preocupa una infección si el lodo negro entra en la herida.#(+ LESIÓN)|避けるのが遅かった…#あなたは足首を“何か”に噛みつかれてしまった。##それほど出血は酷くないものの、傷口に泥が入れば#何かに感染してしまうのではないかと不安になる。#(+怪我)
+Embotellas una muestra del lodo, haciendo todo lo posible para no desmayarte por el hedor.#(+ ARTÍCULO)|悪臭で倒れないように気を付けながら、#汚泥を試料として瓶に詰めていく。#(+アイテム)
+[NECESITA EL ARTÍCULO 'BOTELLA VACÍA']|アイテム「空の瓶」が必要
+ESTUCHE DE TROFEO|トロフィーケース
+Encuentras una vieja vitrina de trofeos ubicada en un pasillo aparentemente abandonado. Todo el interior está cubierto por una gruesa capa de polvo. Una medalla parece particularmente valiosa.|誰も通っていないような廊下に、#ぽつんと置かれた古いトロフィーケース。#厚く積もった埃で、中身は全て覆われている。##そのうち、あるメダルだけが一際、価値があるように見えた。
+comprobar placas y trofeos|プレートとトロフィーを#調べる
+rompe la ventana para agarrarla|ガラスを割って奪い取る
+Eh, parece que la persona involucrada en el caso actual era un nadador premiado.#(+5 EXP)|なるほど、今回の件には受賞歴のある水泳選手が#関わっているようだ。#(EXP+5)
+Encuentras un pequeño trofeo con una curiosa placa.##'Gran Campeón del Concurso de Comida Caníbal, 1956.'#(-2 RAZÓN)|あなたは奇妙なプレートがついた#小さなトロフィーを見つけた。##[1956年 人喰いコンテスト総合優勝]#(理性-2)
+Rompes la ventana de cristal y te cortas un poco en el proceso.#Esta medalla no está hecha de oro, pero podrás venderla fácilmente.#(+1 FONDOS / -1 RESISTENCIA)|ガラス窓を割った時に、少し手を切ってしまう。##金でできているわけではないが、#このメダルはすぐに売れそうだ。#(所持金+1 / スタミナ-1)
+[NECESITA EL ARTÍCULO 'LLAVE PEQUEÑA']|アイテム「小さな鍵」が必要
+abre el gabinete|棚を開ける
+Usando una llave que encuentras, abres la vitrina de trofeos y tomas una extraña copa dorada sin placa.#(+ ARTÍCULO)|見つけた鍵を使って、トロフィーケースを開ける。##あなたは台座のない#奇妙な金色の杯を手に入れた。#(+アイテム)
+NO EUCLIDEANO 101|非ユークリッド幾何学入門
+Ángulos imposibles y líneas aparentemente en movimiento te hacen dar vueltas la cabeza.|不可解な角度に揺らめく曲線…##これを見ていると、頭がくらくらしてくる。
+mirar con incredulidad|信じがたい気持ちでじっと見る
+consultar con ESTUDIANTE DE ARQUITECTURA|建築学専攻の生徒に相談する
+NECESITA UN ALIADO 'IKUMI'|解放条件: 「幾美」が仲間にいること
+¿Cómo es esto posible?#(-1 RAZÓN)|一体、どうやってこれを書いたんだろうか？#(理性-1)
+Ikumi comienza a hablar sobre teoría de la geometría. Si bien es aburrido, te ayuda a olvidarte de los ángulos extraños.#(+2 RAZÓN)|幾美が幾何学理論について語り始める。#退屈ではあったが、おかげで#あの不可解な角度のことを忘れることができた。#(理性+2)
+SALA DE ORDENADORES|コンピューター室
+Te topas con la sala de ordenadores. Esta es una buena oportunidad para consultar la base de datos de la escuela en busca de cualquier cosa que pueda ayudar en su investigación.|偶然、コンピューター室を見つけたあなた。##この機会に学校のデータベースを調べて、#調査に役立ちそうな情報を探してみよう。
+Échale un vistazo|調べる
+déjalo para más tarde|後回しにする
+Encuentra un curioso archivo de texto que contiene instrucciones ocultas. Lo eliminas, evitando que nadie pueda probarlo.#(-2% DOOM)|あなたは奇妙なテキストファイルを見つけた。#これは、魔術の手引きだろうか？##あなたはファイルを削除した…#誰も試すことができないように。#(破滅値-2%)
+Encuentras una curiosa carpeta que contiene fotos.##Con creciente horror descubres que estás en cada una de ellas. La última foto muestra a un hombre sonriente parado junto a tu cama.#(-2 RAZÓN)|あなたは写真の入った奇妙なフォルダを見つけた。##それらを目にした途端、震えが止まらなくなる…#全ての写真に自分が写っていたのだ。#最後の一枚を見ると、そこにはあなたのベッドの上で#にっこりと笑う男が写し出されていた…#(理性-2)
+No puedes perder el tiempo frente a la computadora.#(-2 RESISTENCIA)|こんなところで時間をムダにしている場合ではない。#(スタミナ-2)
+410 MIL MILLONES|了解、刺殺します
+Alarmado por el sonido de cristales rotos, descubres el cadáver de un policía tirado en un charco de sangre. Parece como si alguien (o algo) le hubiera arrancado la garganta.|ガラスの割れる音にびっくりして様子を見に行くと、#警官の死体が血の海に横たわっていた。#誰かが…あるいは“何か”が#彼の喉を切り裂いたようだ。
+robar su arma|拳銃を盗む
+revisa sus heridas en busca de pistas|傷を調べて手がかりを探す
+escapar antes de que llegue más gente|人が来る前に逃げる
+Seguramente no lo necesitará, pero aun así te sientes mal por robarle a un cadáver.#(+ ARTÍCULO / -3 RAZÓN)|彼にとってはもう必要のないものだが、#やはり死体から盗むのは悪い気がする。#(+アイテム / 理性-3)
+No le arrancaron la garganta, sino que tallaron un símbolo oculto con algo afilado.#Intentas recordar la forma y escapar antes de que llegue alguien.#(+15 EXP)|犯人は喉を切り裂いたのではない…#何か鋭利なもので、奇妙な印を彫り込んだのだ。##誰かが来る前にあなたはその模様を頭に叩き込み、#その場から逃げ去った。#(EXP+15)
+Escapas antes de que llegue alguien.#(+2 RAZÓN)|誰かが来る前に、あなたはその場から逃げ去った。#(理性+2)
+ARTISTA EN LUCHA|悩める漫画家
+Sr. OOO, su vecino es un artista de manga de terror. Está luchando por encontrar un final satisfactorio para su nueva historia.|隣の部屋の住人であるホラー漫画家のOOさん。##彼は新作の結末をどう上手く着地させるか、#満足のいくアイデアが思い浮かばず、苦労していた。
+Comparte tu experiencia|これまでの経験を話す
+deja que invente sus propias cosas|彼自身に考えさせる
+<<¡Increíble!>> grita emocionado.#<<¿Cómo se te ocurren estas cosas?>> Sintiendo que esta historia será un gran éxito, te paga una muestra de agradecimiento.#(-15 EXP / +2 FONDOS)|<<すばらしいっ！！>>と興奮して叫ぶ彼。##<<よくそんなの思いつくねえ？>>##この新作が大ヒットすると予感した彼は、#感謝のしるしとしてあなたに謝礼を渡した。#(EXP-15 / 所持金+2)
+(no hay suficiente EXP)#Lamentablemente, no tienes ninguna historia reciente que pueda ayudarlo.#Al menos el público no experimentará los mismos horrores que tú.#(-1 RAZÓN)|(EXPが足りない)#残念ながら、あなたは彼の役に立ちそうなネタを#持っていなかった。##少なくとも、あなたが経験したような恐怖を#一般人が味わうことなどない…#(理性-1)
+<<¿Fue todo un sueño? ¡Eres un genio!>> grita, agarrando un lápiz.#<<Disculpa ahora, tengo un bestseller que escribir.>>##Pones los ojos en blanco y te preparas para irte.|<<それが全部、夢だって？あんたは天才だっ！>>#そう叫んで、彼は鉛筆を手に取った。#<<失礼、大ヒット漫画を描かねばならんのでね。>>##あなたは呆れて、その場を立ち去ることにした。
+<<¿Q-qué es esa foto?..>>|<<あ、あの絵は何だ…？>>
+Vislumbras por un momento la cosa... pintada.##De repente, te sientes muy débil y te disculpas para irte.##(ALGO VERDADERAMENTE MALVADO TE TIENE EN SU AGARRE)|視界に一瞬、“何かの絵”が映り込む。##すると突然、がくっと力が抜けるような感覚に#襲われる。そのため、あなたは失礼して#その場を立ち去った。#(真ナル邪悪ガ アナタノ姿ヲ捉エタ…)
+SANTUARIO EN LA CIMA DE LA COLINA|山頂の神社
+Este sendero hacia un santuario sintoísta abandonado está cubierto de maleza y es empinado. Sin embargo, podría ser un lugar importante para investigar.|草木に覆われた急な坂道が、#放棄された神社へと続いている。##しかし調査上、あの場所が重要な手掛かりと#なるかもしれない。
+tomar la ruta rápida|近道を通って行く
+tomar la ruta segura|安全な道で行く
+Como tienes prisa, caminas hasta la cima de la colina. La cera de las velas quemada y la sangre seca alrededor del santuario significan que un nuevo y siniestro culto se ha apoderado del lugar.#(+5 EXP)|時間がないため、急いで頂上まで駆け登る。##神社の周りに目を向けると、#燃え尽きた蝋燭と乾いた血痕が残っていた。#ここから、新たに現れた邪悪なカルト教団が、#この神社を占拠したことが伺える。#(EXP+5)
+Te lastimaste gravemente la rodilla cuando pisas una piedra suelta y te caes.##Regresas cojeando al pueblo para que te revisen la lesión.#(-2 RESISTENCIA)|ぐらついた石に足を取られて転倒し、#膝を強く痛めてしまう。##その後、あなたは足を引きずって村に戻り、#怪我の具合を診てもらったのであった。#(スタミナ-2)
+Tomar la ruta segura te cuesta tiempo, pero llegas a la cima sin incidentes.##La cera de las velas quemada y la sangre seca alrededor del santuario significan que un nuevo y siniestro culto se ha apoderado de esta ubicación.#(+5 EXP / +2% DOOM )|安全を取ったために時間はかかったが、#何事もなく山頂まで辿り着いた。##神社の周りに目を向けると、#燃え尽きた蝋燭と乾いた血痕が残っていた。#ここから、新たに現れた邪悪なカルト教団が、#この神社を占拠したことが伺える。#(EXP+5 / 破滅値+2%)
+VISITANTE|訪問者
+Los golpes fuertes te despiertan en mitad de la noche. <<¡ABRE!>> grita la voz profunda desde detrás de la puerta.#<<SÉ QUE ESTÁS AHÍ.>>|夜中に大きなノック音が響き、目が覚めてしまう。#<<開ケロ！>>#ドアの向こうから、低い怒鳴り声が響く。##<<ソコニ イルンダロウ？>>
+Acércate a la puerta y pregunta qué te pasa.|ドアに近づいて#用件を聞く
+Llame a la policía|警察を呼ぶ
+Antes de que puedas responder, el buzón de la puerta se abre de repente y un invasor desconocido intenta mirar dentro.#Afortunadamente, logras quedarte quieto.##Después de un par de minutos, el hombre se retira, probablemente sin estar seguro de si estás en casa después de todo. #(+5 EXP)|答える間もなく、郵便受けが突然ガタッと開き、#見知らぬ男が中を覗こうとしてきた。#しかし運良く、そこでじっと動かずに#耐え抜くことができた。##数分の後、あなたが家にいないと思ったのか、#男はそこから去っていった。#(EXP+5)
+Antes de que puedas responder, el buzón de la puerta se abre de repente y un invasor desconocido intenta mirar dentro.##Te tambaleas hacia atrás en estado de shock. El hombre te ve e intenta entrar, gritando maldiciones todo el tiempo.#Un vecino llama a la policía y el atacante escapa de tu edificio de apartamentos.#(-2 RAZÓN)|答える間もなく、郵便受けが突然ガタッと開き、#見知らぬ男が中を覗こうとしてきた。##驚きで後ろに飛び退く。それに気付いた男が、#呪詛を吐きながら部屋に入ろうとしてくる。#そこに隣人が警察を呼び出したため、#犯人はアパートから逃げ去った。#(理性-2)
+El hombre escapa cuando escucha la sirena de la policía. Pero antes de irse, dibuja un símbolo desconocido con sangre en la puerta de entrada.#(+3% DOOM)|サイレンの音を聞いて逃げ出す男。##だが去る前に、見知らぬ血の印を#玄関のドアへと描き残していった。#(破滅値+3%)
+CONGELARSE|凍結
+De repente, el aire a tu alrededor comienza a girar. ¡Se acerca una ola sobrenatural de viento helado!|突如として、周りの空気が渦巻くように動き出す。##まるで超常現象のような冷気の波が、#こちらに迫ってくる！
+Prepárate|身構える
+La repentina tormenta de nieve desaparece tan rápido como comenzó. Sales rápidamente de la playa.#(+5 EXPERIENCIA)|突然の吹雪はあっという間に消え去り、#あなたは急いで浜辺から離れた。#(EXP+5)
+La tormenta de nieve te congela hasta los huesos y desaparece tan rápido como comenzó.#(-2 RESISTENCIA)|吹雪によって骨まで凍り付くような寒さに襲われる。#だがそれも、突如として消え去るのであった。#(スタミナ-2)
+[NECESITA LA VENTAJA DE 'agarre ARCANO']|パーク「秘義の智恵」が必要
+contraataque|対抗する
+Te concentras en el entorno y murmuras la fórmula mágica.##La repentina tormenta de nieve desaparece, pero tal vez no deberías haber llamado la atención.#(+20 EXPERIENCIA, +2% DOOM)|周囲に意識を集中させ、魔法の言葉を呟く。##急に発生した吹雪は消え去ったが、#目立ちすぎたかもしれない。#(EXP+20 / 破滅値+2%)
+CULTOS OCULTOS|暗躍するカルト信者
+Las fuerzas oscuras planean contra ti. Ya no sabes en quién puedes confiar.#(+ MALDICIÓN)|あなたに対し、陰謀を企てている闇の勢力。#誰を信用すればいいのか、もう分からない…#(+呪い)
+VENTANA DE LA TORRE|塔の窓
+La ventana redonda de la torre torcida de la mansión te llama. Sientes que tus fuerzas se agotan mientras miras fijamente la luz brillante.|歪んだ塔の丸窓に引き寄せられるあなた。##その明るい光を見ていると、#徐々に力が抜けていく感じがする。
+luchar contra este sentimiento|その感覚に抗う
+perderse en la luz|光の中を彷徨う
+Basta con echar un vistazo al paisaje sobrenatural.#Logras taparte los ojos y moverte hacia donde no puedes ver la maldita ventana. Te sientes mal, pero al menos estás a salvo. Por ahora.#(+10 EXP / -1 RAZÓN)|あんな禍々しい光景など、もう見たくない。##あなたは目を覆って、#あの忌まわしき窓が見えない場所に移動した。#気分は良くないが、ひとまずここなら安全だろう。#(EXP+10 / 理性-1)
+No tienes la fuerza para mover un dedo.#La luz cegadora se hace cada vez más grande...##Para tu sorpresa, no puedes sentir el suelo bajo tus pies...#(-1 RAZÓN)|指一本動かす力さえない。#目も眩むような光がどんどんと大きくなっていく…##地面を踏んでいる感覚がなく、#あなたは愕然としてしまう。#(理性-1)
+La luz cegadora se hace cada vez más grande...#Para tu sorpresa, no puedes sentir el suelo bajo tus pies...#Te preparas para lo que venga.#(+1 RAZÓN)|目も眩むような光がどんどんと大きくなっていく…##地面を踏んでいる感覚がなく、#あなたは愕然としてしまう。##何が起きてもいいように、心の準備をしておく。#(理性+1)
+[NECESITA LA VENTAJA DE 'PENSAMIENTO RÁPIDO']|パーク「機転の良さ」が必要
+obligarte a esconderte|無理やり身を隠す
+Ves un viejo árbol caído y saltas detrás de él, sintiendo aún la luz antinatural en tu piel. #Pronto, las cosas se calmarán. ¡Estás a salvo!#(+2 RAZÓN, +5 EXP)|古い木が倒れているのを見つけ、#その後ろに飛び込むあなた。#異様な光が放たれているのを、#まだ肌で感じる。##やがて、辺りは静寂を取り戻す。#無事にやり過ごせた！#(理性+2 / EXP+5)
+BAÑO|入浴
+La investigación puede esperar. Un baño caliente es demasiado tentador.|調査は後回しにしよう。#熱々の風呂の誘惑には勝てない。
+tómate un baño|お風呂に入る
+no hay tiempo para eso|そんな暇はない
+[NECESITA EL BENEFICIO DE 'BAÑO CALIENTE']|パーク「熱々のお風呂」が#必要
+prepararse para el baño|お風呂の準備をする
+Te bañas felizmente y continúas con nuevas fuerzas.#(+1 RAZÓN)|嬉々として湯船に浸かると、#新たな力が湧いてくる。#(理性+1)
+Por muy atractivo que sea, tienes cosas más importantes que hacer.#(-3% DOOM)|そんなことより、もっと大事なことがあるはずだ。#(破滅値-3%)
+Te das un baño extra caliente. Después te sientes preparado para cualquier cosa.#(+2 RAZÓN, +2 RESISTENCIA)|熱めの風呂に入る。#すると、何でもできる気分になってきた。#(理性+2 / スタミナ+2)
+VIGILANTE INVISIBLE|見えざる観測者
+Algo gigantesco e invisible deja un profundo vacío en el mar. No se mueve pero juras que te está mirando.#(-2 RAZÓN)|見えざる巨大な“何か”が、海に深い空洞を作り出す。#それはただ動かず、だが確実にあなたを見ている。#(理性-2)
+RUMOR DEL FARO|灯台の噂
+Hay un rumor sobre luces extrañas que aparecen en el cielo alrededor del faro.##Sin embargo, después de pasar la noche, no ves nada inusual.#(-1 RESISTENCIA)|灯台周辺の空に奇妙な光が浮かぶという噂がある。##だが、一晩過ごしても、#特に変わったものは見られなかった。#(スタミナ-1)
+DÍA DEL CORREO|郵便
+Cuando pasas por casa para recoger tu almuerzo, encuentras un montón de cartas en tu buzón.|昼食を取りに家に寄ると、#郵便受けに大量の手紙が入っていた。
+leer las cartas|手紙を読む
+compruébalos más tarde|後で読む
+¡Dulce! Parece que has ganado una pequeña cantidad de dinero en la lotería. ¡Qué suerte!#(+2 FONDOS)|やった！宝くじでちょっとした賞金が当たった。#ラッキー！#(所持金+2)
+Quedarse despierto hasta tarde investigando el caso actual realmente ha aumentado su factura de electricidad.#(-2 FONDOS)|夜遅くまで調査をしていると、#どうしても電気代がかさむ。#(所持金-2)
+Colocas las cartas sobre la mesa de la cocina, sintiendo que se avecina un ataque de ansiedad.#(-1 RESISTENCIA)|不安な気持ちがこみ上げてくるのを感じながら、#キッチンテーブルの上に手紙を置いた。#(スタミナ-1)
+¿Q-qué es eso?...##(HAS ATRAIDO LA ATENCIÓN DE ALGO VERDADERAMENTE MALVADO)|な、なんだあれは…？#(真なる邪悪の注意を引いた)
+CARA EN LA VENTANA|窓から覗く顔
+No puedes evitar la sensación de que esos pequeños edificios portuarios esconden terribles secretos.#(+2% DOOM)|波止場にある小さな建物。#そこには、何か恐るべき秘密がある…#そんな気がしてならない。#(破滅値+2%)
+OJOS EN LA OSCURIDAD|暗闇に光る目
+Te sientes observado.|誰かに見られている気がする。
+retiro|その場から離れる
+enciende el VELO SANTO|「聖なる蝋燭」に火を灯す
+[necesita el elemento 'VELA SANTA']|アイテム#「聖なる蝋燭」が必要
+Te retiras de la habitación.#(-2 RAZÓN)|あなたは部屋から出た。#(理性-2)
+Enciendes las VELAS SANTAS, purificando la habitación.#(-3% DOOM)|「聖なる蝋燭」を灯し、部屋を清めた。#(破滅値-3%)
+VIAJE EN ASCENSOR|エレベーター
+Mientras tomas un ascensor, tienes una sensación terrible, como si algo malo estuviera a punto de suceder.##Las puertas del ascensor se abren...|エレベーターに乗っていると、#何か恐ろしいことが起こるような予感がした。##そうして、ドアが開くと…
+Las puertas del ascensor se abren y revelan el pasillo del hospital.|視界に病院の廊下が映った。
+Las puertas del ascensor se abren y revelan una masa negra de ojos y dientes que entran en el ascensor, mordiéndote y asfixiándote...##Más tarde, te despiertas en el consultorio de un médico. Una enfermera te descubrió inconsciente en el piso del ascensor.#(-3 RAZÓN)|ドアが開いた瞬間、黒い目と牙を持つ塊が#大量になだれ込んでくる。#その牙に噛みつかれ、あなたは窒息してしまう。##しばらくして、あなたは診察室で目を覚ました。#あの中で気を失っていたのを#看護婦さんが見つけてくれたのだ。#(理性-3)
+COCINA ESCOLAR|調理実習室
+Entras a la cocina. Aunque está abandonado y las luces están apagadas, algo se está cocinando en una olla grande. No te gusta su olor.|調理実習室に入るとキッチンが見えた。#電気は消え、誰も使っていない場所だというのに#大鍋で何かが調理されていた…#嫌な臭いがする。
+buscar un arma|武器を探す
+busque un botiquín de primeros auxilios|救急箱を探す
+ver que se esta cocinando|鍋の中を見る
+Buscas en los cajones y recoges el cuchillo más afilado que puedas encontrar.#(+ ARTÍCULO)|引き出しの中を漁り、#一番切れ味の良さそうなナイフを手に取った。#(+アイテム)
+Parece que alguien se ha llevado todos los cuchillos de la cocina. Sólo pensar en ello te hace sentir muy incómodo.#(-2 RAZÓN)|誰かがキッチンの包丁を全て持ち去ったようだ。#考えるだけで、大いに不安を覚える。#(理性-2)
+Encontrarás el botiquín de primeros auxilios al lado del armario de almacenamiento. Rápidamente te vendas y sales de la cocina.#(+2 RESISTENCIA)|保管棚の横に救急箱がある。#あなたは手早く包帯を巻き、その場を後にした。#(スタミナ+2)
+No puedes encontrar el botiquín de primeros auxilios por ningún lado. ¿Podría haber sido trasladado a otro lugar?|救急箱が見当たらない。#どこか、別のところに動かしたのだろうか？
+Quitas lentamente la tapa de la olla. Un hedor espeso, ahumado y vil llena tus pulmones. El aspecto de los 'ingredientes' utilizados para hacer este caldo te enferma.#(-3 RAZÓN)|鍋の蓋をゆっくり取る。#すると、強烈な煙と酷い悪臭が肺に充満した。##加えてスープの“材料”を見てしまい、#吐き気を覚える。#(理性-3)
+CENA LUJOSA|豪華なディナー
+Un amigo que regresa de un viaje a África te ha invitado a cenar. Esta vez se han superado.#Esto es un auténtico festín, lleno de carnes exóticas.##Se hace tarde y no puedes quedarte mucho tiempo, pero el anfitrión te pregunta si quieres llevarte algo a casa.|アフリカ旅行から帰ってきた友達に夕食を誘われる。#これはまた一段と豪華な料理だ。##外国の珍しい肉をふんだんに使った#本格的なご馳走が振る舞われる。##夜も更け、これ以上長居はできないと思っていると、#向こうから持って帰りたいものはないかと聞かれた。
+<<este bistec es para morirse>>|<<このステーキが#死ぬほど美味い>>
+<<ese vino es buenísimo>>|<<あのワインがすごかった>>
+rechazar cortésmente|丁重に断る
+<<Sabía que te gustaría>> dice tu amigo, guiñando un ojo y empaquetándolo para ti.#(+ ARTÍCULO)|<<気に入ると思ったよ…>>#友達はウインクをして、#持ち帰り用にそれを包んでくれた。#(+アイテム)
+<<Por supuesto. Tengo botellas suficientes para un año entero,>> dice tu amigo, entregándote una botella.#(+ ITEM)|<<だろ？一年は困らないくらいあってね…>>#そう言って友達は、ボトルを1本くれた。#(+アイテム)
+<<Está bien. Nos vemos en otro momento, ¿quieres? >> dice tu amigo. <<Todavía tenemos mucho por hacer para ponernos al día.>>|<<そう、じゃあまた来てくれ。>>#帰り際に友達が言った。#<<まだまだ話したいことがいっぱいあるんだ。>>
+Tu amigo te recibe con una extraña sonrisa.#<<Sabía que volverías>>, dicen, dejándote entrar a la cocina.##Un hombre desnudo con una bolsa en la cabeza está atado a una silla. Su muslo izquierdo ya ha sido despojado de carne. #Tu amigo toma un cuchillo de carnicero y da un paso hacia el hombre...#(+ ARTÍCULO)|不気味な笑みを浮かべた友達に出迎えられる。#<<また来てくれると思ってたよ。>>#友達はそう言って、あなたをキッチンに通した。#頭に袋を被った裸の男が#椅子に縛り付けられている…#左太ももの肉が削ぎ落とされた状態で。#友達が肉切り包丁を手に取り、#男の方に向かって歩き出した…#(+アイテム)
+MUELLES DE LA CIUDAD|町の波止場
+Los muelles de la ciudad son una mezcla de almacenes modernos, pequeñas tiendas y bares donde se reúne la multitud "alternativa". Un antiguo templo de madera ocupa la pequeña colina en el centro de la ciudad.|町の波止場は、近代的な倉庫や小さなお店、さらにははみ出し者たちが集う飲み屋などが混在していた。#町の中心にある小高い丘には、#古い木造のお寺が建っている。
+busco trabajo de almacen|倉庫の仕事を探す
+intenta reclutar aliados|仲間を探してみる
+orar en el templo|お寺を参拝する
+Siempre hay un trabajo para una persona fuerte como tú. Ayudas a mover cajas e intercambias chismes recientes junto al mar con otros trabajadores.#(+2 FONDOS / +5 EXP)|ここはあなたのような体力のある人であれば、#いつでも仕事があった。#木箱を運ぶ手伝いをしながら、他の作業員らと#最近の海辺にまつわる噂話を交わす。#(所持金+2 / EXP+5)
+Siempre hay un trabajo para una persona como tú. Ayudas a desempacar el pescado. El hedor es insoportable, pero ganas buen dinero.#(+1 FONDOS)|ここならば、あなたのような人にも必ず仕事は#あった。魚の荷下ろし手伝う仕事をする。#作業中の悪臭には耐え難いものがあったが、#いい稼ぎになった。#(所持金+1)
+No pasó mucho tiempo para encontrar a alguien dispuesto a acompañarte en el bar. Explicas todo lo que sabes hasta ahora tomando unas copas.#(+ ALIADO)|飲み相手を見つけるのに、#そう時間はかからなかった。#何杯かのお酒を交えつつ、#あなたはこれまでに知ったことを全て話した。#(+仲間)
+No solo no lograste reclutar a nadie para que te ayudara, sino que cuando sales del bar, estás casi seguro de que alguien te está siguiendo.#(+2% DOOM)|協力者が見つからなかったばかりか、#飲み屋を出るときに#何者かに尾行されてしまっていた。#(破滅値+2%)
+No importa si crees o no. El olor a incienso quemado y a madera vieja te calma.#(+2 RAZÓN)|たとえ信仰する気がなくても、#お香や古木の燃える香りが#心を落ち着かせてくれる。#(理性+2)
+SALA DE LECTURA|書斎
+Parece que a uno de los anteriores propietarios de esta mansión le gustaba leer. Los tomos polvorientos llegan al techo. No tienes mucho tiempo, pero ¿tal vez podrías dedicar un minuto a hojear los libros?|過去にこの屋敷を所有していた人は、#本を読むのが好きだったようだ。#天井まで埃まみれの本が積まれている。#あまり時間はないが、少しくらい#これらの本に目を通してもいいだろうか？
+empezar con los estantes|まずはあの棚から…
+mira la tabla|机を調べる
+no tienes tiempo para esto|そんな時間はない
+Los libros están cubiertos de una gruesa capa de polvo. Sin embargo, notas que un tomo debe haber sido colocado aquí recientemente. A partir de él, aprendes sobre mundos distantes y rituales extraños.#(+ HECHIZO / -2 RAZÓN)|こんもりと厚い埃が積もっている本の数々。#しかし、その中に一冊だけ#最近置かれた本があることに気づいた。#あなたはその本を読んで、遙か遠くの世界や#奇妙な儀式について学んだ。#(+呪文 / 理性-2)
+Los libros están cubiertos de una gruesa capa de polvo. Parecen raros, pero cubren temas mundanos como la botánica y la anatomía.|こんもりと厚い埃が積もっている本の数々。#珍しい本が並んでいるように見えたが、#実際は植物学や解剖学など#ありふれたテーマのものばかりだった。
+Las notas que hay sobre la mesa parecen las divagaciones de un loco, pero puedes ver un método para su locura.#(+5 EXP)|机の上に置かれたノート…#その内容は狂人の妄言としか思えないものであった。#しかし、狂気の中にも#著者なりの道理があるように思える。#(EXP+5)
+Las notas que hay sobre la mesa parecen las divagaciones de un loco. Mientras intentas comprenderlos, lees un pasaje en voz alta.#No pasa nada, pero de repente te sientes observado. Sales rápidamente de la sala de lectura.#(+3% DOOM)|机の上に置かれたノート…#その内容は狂人の妄言としか思えないものであった。#何が起きたわけでもないが、#急に何者かからの視線を感じる…#あなたはすぐさま書斎を後にした。#(破滅値+3%)
+Pasas a la siguiente habitación.|その部屋を後にした。
+CÁMPING|キャンプ場
+Descubres un antiguo campamento situado al borde de un pequeño claro. La tienda ha sido derribada y la comida y los utensilios están esparcidos por todas partes.|小さな空き地の端に、古いキャンプ場を発見する。#テントは倒され、食べ物や調理器具が#あちこちに散らばっていた。
+buscar en la tienda|テントを調べる
+investigar el terreno en busca de pistas|地面の痕跡を調べる
+ignora la tienda|テントを無視する
+El saco de dormir está hecho trizas.##Encontrarás una cartera cerca. No hay ningún documento de identidad en el interior, pero estás seguro de que la ausencia de dinero en efectivo es el menor de los problemas del propietario desaparecido.#(+2 FONDOS)|ズタズタに切り裂かれた寝袋。##その近くに財布があったが、#身分証は入っていなかった。#失踪中の本人は、現金を投げ出すほど#何か大変なことに巻き込まれたのだろう。#(所持金+2)
+El saco de dormir ha sido hecho trizas.##La cantidad de sangre dentro no deja dudas sobre lo que le pasó al dueño.#(-2 RESISTENCIA)|寝袋はズタズタに引き裂かれている。##中にあった大量の血痕を見るに、#何が起きたかは想像に難くない。#(スタミナ-2)
+Huellas y huellas sugieren una pelea.#El dueño de la tienda debe haber sido arrastrado por dos atacantes desconocidos al bosque.#(+5 EXPERIENCIA)|残った足跡や痕跡を見るに、#争いがあったことが伺える。テントの持ち主は#正体不明の襲撃者2名に引きずられて、#森の中へと連れて行かれたのだ。#(EXP+5)
+¿Aprendieron los lobos a caminar sobre sus patas traseras?#(-2 RAZÓN)|オオカミが二本足で歩くことを覚えたのだろうか？#(理性-2)
+Retrocedes porque no quieres alterar la posible escena del crimen.#(-1 RAZÓN)|あなたは事件現場をかき乱さぬよう、#その場を去った。#(理性-1)
+AZULES MORTUARIOS|亡者の嘆き
+Te encuentras en una parte antigua y sin uso del hospital. Respiras hondo.#El desagradable olor a restos descongelados aún persiste en la habitación. Solía ​​ser la morgue del hospital, donde los médicos determinaban las causas de la muerte.|院内の一角にある古くて誰も使っていない場所。#自分が不気味な病棟にいるのだと気づき、#あなたは深呼吸をした。#解凍された遺体の嫌な臭いがまだ残っている。#かつてはこの霊安室で、医師たちが#患者の死因を特定していたのであった。
+Retire la tela de la mesa de disección.|解剖台を覆う布をめくる
+buscar en el gabinete|棚を調べる
+mira el congelador|冷凍庫を調べる
+Rezando para que no sea lo que crees, lentamente quitas la tela y revelas un viejo maniquí de anatomía. Probablemente se utilizó como ayuda para las clases de anatomía. Das un suspiro de alivio.#(+2 RAZÓN)|おぞましいものを見ないことを祈りながら、#ゆっくりと布をめくると、#実習用の古いマネキンが現れる。#おそらく解剖学の授業で使われていたものだろう。#あなたは安堵のため息をついた。#(理性+2)
+Antes de que puedas descubrir lo que se esconde debajo de la tela, involuntariamente dejas escapar un grito y huyes aterrorizado de la morgue.#(-2 RAZÓN)|布の下に隠れているものを確認する前に、#あなたは思わず悲鳴を上げてしまう。#そして、恐怖のあまり霊安室から逃げ出した。#(理性-2)
+Algo parpadea en la esquina de un cajón polvoriento y lo alcanzas. Es un kit de costura, que puede resultarte útil más adelante.#(+ ARTÍCULO)|埃っぽい引き出しの隅で何かが光るのに気づき、#手を伸ばすあなた。これは…裁縫道具だ。#後で役に立つかもしれない。#(+アイテム)
+Algo parpadea en la esquina de un cajón polvoriento. Demasiado tarde, te das cuenta de que es una hoja de bisturí oxidada y te cortas gravemente.#(-2 RESISTENCIA)|埃っぽい引き出しの隅で何かが光るのに気づき、#手を伸ばす。しかし気づくのが遅すぎた…#錆びたメスの刃によって、#あなたは手を深く切ってしまう。#(スタミナ-2)
+Echas un vistazo al congelador pero no ves nada importante. Te preguntas qué puede oler tan mal si no hay nada dentro.##Cerca, el cuerpo sobre la mesa de disección se mueve ligeramente...|冷凍庫の中を覗いてみるが、#特に重要なものは見当たらない。#何もないのに、なぜこんなにも#酷い臭いがするのだろうか。##すると、解剖台の上に横たわっていた死体が#僅かにピクッと動いた…
+REFLEXIÓN TORCIDA|歪んだ鏡像
+En el espejo, vislumbras algo que no debería estar ahí.#(+2% DOOM)|鏡の中に、あるはずのないものが見える。#(破滅値+2%)
+VIEJOS PESCADORES|ベテラン漁師
+Decides entrar en un pequeño bar con sombra en los muelles. Tal vez algunos de los viejos pescadores puedan ayudarte en tu búsqueda.#Sin embargo, persuadirlos para que lo hagan puede resultar difícil.|波止場にある、こぢんまりとした怪しい飲み屋に#入ることにしたあなた。#もしかすると、漁師のおじさん達が#調査を手伝ってくれるかもしれない。##だが、そう簡単に彼らを説得できるだろうか…
+intenta hablar con ellos|話しかけてみる
+comprarles una ronda|全員に一杯奢る
+Pillas a los pescadores de buen humor. Te cuentan historias de ciudades hundidas, habitadas por seres submarinos con demasiadas patas.#(+5 EXP / -1 RAZÓN)|あなたは上機嫌な漁師たちを見つけた。#すると彼らは、足がたくさん生えた水中生物が住む、#とある海底都市の話をしてくれた。#(EXP+5 / 理性-1)
+Hacer demasiadas preguntas pone a todos nerviosos y te echan.#(-2 RESISTENCIA)|あれこれ聞き出そうとすると漁師たちは苛立ち、#あなたは店を追い出されてしまった。#(スタミナ-2)
+Ningún pescador rechazaría una ronda gratis.##Te cuentan historias de ciudades hundidas, habitadas por seres submarinos con demasiadas patas.#(-1 FONDOS / +5 EXP)|タダ酒を断る漁師などいない。##すると彼らは、足がたくさん生えた水中生物が住む、#とある海底都市の話をしてくれた。#(所持金-1 / EXP+5)
+No puedes permitirte el lujo de invitarles a una ronda de bebidas. Derrotado, abandonas el bar.#(+2% DOOM)|全員に一杯をおごる余裕などない。#あなたは失意にくれて、店を出た。#(破滅値+2%)
+NIÑA DESAPARECIDA|行方不明の少女
+Caminando por el parque, encuentras a una niña llorando sola en el patio de recreo.#Cuando le preguntas qué pasa, ella dice que no puede encontrar a su mamá. Afortunadamente, ves la dirección de la niña en una mochila que hay cerca.|公園を歩いていると、小さな女の子が#一人で泣いているのを見つける。#何かあったのかと聞くと、#ママが見つからないと言う。#幸いにも、あなたは近くに置かれたリュックに#家の住所が書かれていることに気付く。
+llevala a su casa|家に連れて行く
+deja que la policia se encargue|警察に任せる
+Te ofreces a llevarla a casa. Cuando llegas allí, ¡la madre aterrorizada te cierra la puerta en la cara! Desde detrás de la puerta, comienza a gritar para alejar a la niña. ##La pequeña te dice tranquilamente que desde aquí puede encargarse.#(+10 EXP / -2 STAMINA)|あなたはその子を家まで送ることにした。#家に着くと、恐れおののいた母親が#こちらの顔に向かってバタンとドアを閉めてしまう。#ドアの向こうから、その子を連れてどっか行って！#と叫び声が聞こえる。##女の子は落ち着いた声で、#ここからはもう一人で大丈夫と言った。#(EXP+10 / スタミナ-2)
+Le dices a la chica que espere mientras buscas a un oficial.##Cuando regresas, ella se ha ido.#(-1 RAZÓN)|警官を探す間、彼女にここで待っているように#伝えるあなた。##公園に戻ってくると、#女の子はすでにいなくなっていた。#(理性-1)
+PERRO ATRAPADO|罠にかかった犬
+En el bosque se oyen a lo lejos unos débiles gemidos. Cuando lo encuentras, descubres un perro salvaje atrapado por su pata trasera en una trampa para osos. El perro gruñe amenazadoramente cuando te acercas.|森の中、遠くから微かに#何かの鳴き声が聞こえてくる。#声の主を探してみると、野犬が後ろ足を#熊の罠に捕らわれ、動けなくなっていた。#近づくと、犬がこちらを威嚇するように唸る。
+ayuda al perro|犬を助ける
+no te arriesgues|危ない橋は渡らない
+Liberas al perro herido. #Agradecido, el animal te sigue.#(+ALIADO)|怪我を負った犬を罠から解放する。#恩返しとばかりに、その犬がついてきた。#(+仲間)
+Liberas al perro, pero el mecanismo oxidado se rompe y la trampa se cierra en tu mano.#(-2 RESISTENCIA)|犬を解放したあなた。#しかし錆びた仕掛けが壊れ、罠が手に食い込んだ。#(スタミナ-2)
+Decides dejar al animal atrás.#(-1 RAZÓN)|その野犬を見捨てることにした。#(理性-1)
+SHIMO-KAGE|下鹿毛
+Un viejo sacerdote está realizando un ritual para apaciguar a un demonio local encarcelado bajo tierra.##Estás invitado a unirte a ellos.|老神官が儀式を執り行っている。##そして、あなたもこの儀式に招かれた。
+participar en el ritual|儀式に参加する
+amablemente rechace|丁重にお断りする
+Has leído sobre el ritual. Seguir el intrincado patrón de pasos, reverencias y aplausos no es un problema para ti.##Una vez que finaliza el ritual, el sacerdote te agradece y te entrega un objeto.#(+ ARTÍCULO)|この儀式については何かで読んだことがあった。#神官にならって足踏み、お辞儀、拍手をする。#細かな作法もあなたにとっては簡単だった。##儀式が終わると神官は感謝して、お礼の品をくれた。#(+アイテム)
+Distraído por un hombre enorme que lleva una máscara de demonio, tienes problemas para seguir el intrincado patrón de pasos, reverencias y aplausos.##Este ritual es un desastre.#(+2% DOOM)|この儀式には足踏み、お辞儀、拍手をするという#細かな作法があったのだが、#あなたは鬼の面を被った大男に気を取られ、#流れについていけなくなって#しまう。##儀式は大失敗に終わった。#(破滅値+2%)
+El viejo frunce el ceño y se aleja.|老神官は眉をひそめて立ち去った。
+PASILLO VACÍO (¿O LO ES?)|誰もいない廊下？
+Al caminar por un pasillo vacío de la escuela, puedes sentir que la gema azul en tu bolsillo comienza a vibrar.##La alcanzas, pero te detienes cuando vislumbras una cara en la ventana.#(-1 RAZÓN)|誰もいない学校の廊下を歩いていると、#ポケットの中の「青い宝石」が#震え始めたのに気づく。##宝石を取ろうとしたその瞬間、#窓に映った顔を見てしまい、体が凍りついた。#(理性-1)
+LUCES EXTRAÑAS|奇妙な明かり
+Has notado patrones extraños en los que vibra tu GEMA AZUL. Entrar en este bosque ha hecho que vibre tan violentamente que apenas puedes sostenerlo en la mano.|青い宝石が震える時は、#何かしら奇妙なことが起こる。#あなたが森に入ると、#しっかり握っていなければ落ちてしまいそうなほど、#青い宝石が激しく震え出した。
+De repente se pone muy oscuro|急に辺りが暗くなる
+Un peculiar disco gigante aparece en el cielo y te sientes cada vez más ligero a medida que tus pies dejan el suelo...|上空に現れた謎の巨大円盤。#体がどんどん軽くなり、#ふわっと地面から足が離れていく…
+REFLEXIÓN TRAITORIA|鏡の中の裏切り者
+Tu reflejo se retuerce y brilla cuando no lo miras directamente. ##GOIZO cada vez está más cerca...#(+MALDICIÓN)|鏡から目を離すと、#ねじ曲がり、歪んだ姿のあなたが映っていた。##ゴイゾが近づいてきている…#(+呪い)
+SOL ABRASADOR|灼熱の太陽
+Continúa una ola de calor con temperaturas récord.#Continuar tu investigación requiere cada vez más esfuerzo.#(-2 RESISTENCIA)|熱波により、記録的な酷暑が続いている。#調査を続けるにも、これからますます苦労しそうだ。#(スタミナ-2)
+ESTUDIO DE LAS ESTRELLAS|天体観測
+Tu amigo te ha pedido que te reúnas con él en un lugar apartado. Al llegar allí, encuentras un telescopio con una nota firmada por tu amigo. La nota te dice que mires por el telescopio.|友達から、とある人里離れた場所で#待ち合わせをしようと言われたあなた。#その場所に向かうと、#友達からのメモと一緒に望遠鏡が置いてあった。#そこには、望遠鏡を覗くようにと書かれている。
+curioso, miralo|気になるので覗いてみる
+Al principio no ves nada. ##Entonces, lo notas. ¡El cuerpo hinchado de ATH-YOLAZSTH se acerca!#(+3% DOOM)|最初は何も見えなかった。##次の瞬間、視界にその姿が映る…#アトゥ＝ヨラズスの巨体が、#こちらに迫ってきている！#(破滅値+3%)
+PREDICADOR CON CABLE|電話先の伝道者
+>>Disculpe, ¿tiene un momento para hablar sobre nuestro -real- señor y salvador? ¡Se acerca el día del juicio final!<<#dice la voz al otro lado de la línea. ##Definitivamente no te gusta la forma en que el hombre al otro lado de la línea pone énfasis en "real".#>>¿Hola? ¿Sigues ahí?<<|>>すみません、わレらが真の主について、#お話する時間はございマすか？#審判の日が迫って異るのデす！#<<受話器の向こう側から声が聞こえる。##男が"真の"という言葉を強調しているのが、#どうも気に食わない。#>>もしもし、聞コえまスか？<<
+escucha al hombre|そのまま話を聞く
+cuelga inmediatamente|すぐに電話を切る
+Aprendes algunos datos útiles sobre tu némesis. Sin embargo, si todo lo que dijo el hombre fuera verdad...##la humanidad está condenada.#(-5% DOOM / -3 RAZÓN)|あなたは自分が対峙している敵について、#有益な情報を得た。#しかし、もしこの男の言うことが#全て真実だったとしたら…##人類は滅亡の危機に瀕していることになる。#(破滅値-5% / 理性-3)
+Cuelgas el teléfono, un poco conmocionado. ¿A cuántas personas llamó ese hombre extraño hoy?#(-1 RAZÓN)|あなたは少し動揺しながら、受話器を置いた。#あの怪しい男は、今日だけでどれだけの人に#電話をかけたのだろうか。#(理性-1)
+CLASE DE ARTE|美術室
+Se vislumbra una clase de arte. Un cuadro inquietante llama tu atención...|美術室を覗いてみると、#不気味な絵が一枚見つかる。#思わず、その絵に目を奪われてしまう…
+echa un vistazo, horrorizado|恐る恐る覗き込む
+[NECESITA LA VENTAJA DE 'CONOCIMIENTO DE ARTE']|パーク「芸術の知識」が必要
+Usa tus conocimientos artísticos para interpretar la pintura extraña.|芸術の知識を駆使して、#絵の意味を読み解く
+echa un vistazo, horrorizado|恐る恐る覗き込む
+Jadeas de puro horror.##¡Las caras retorcidas, los ángulos imposibles y los enormes monolitos te enferman!#(-2 RESISTENCIA)|純粋なる恐怖を感じ、息を呑んだあなた。##歪んだ顔、狂気的な角度、#巨大な石碑が描かれた絵を見て、気分が悪くなる。#(スタミナ-2)
+Jadeas de horror pero reconoces rápidamente el estilo surrealista distópico.#Pides la pintura para poder venderla a un ávido coleccionista de arte.#(+1 FONDOS)|あまりの恐怖に息を呑む。#しかし、あなたはこれがディストピア的な#超現実主義の絵であることに気付く。#そのため、その絵をもらい受けて#熱心な美術品収集家に売ることにした。#(所持金+1)
+MUNDO DEL TERROR|戦慄の世界
+A través de la ventana sucia del restaurante ves a un hombre de aspecto sombrío que lleva una chaqueta cubierta de extraños símbolos.##Se detiene frente a una casa, visiblemente nervioso. Antes de entrar a la casa, se da vuelta como si estuviera buscando seguidores no deseados. #¿Qué podría significar?|汚いレストランの窓から怪しげな男が見える。#彼が着ていたジャケットには、#奇妙な記号が描かれていた。##緊張した面持ちで、とある家の前で立ち止まる男。#家の中に入る前に、彼は追っ手がいないか#確認するかのように後ろを振り返った。#一体、どういうことなのだろうか？
+sigue al hombre raro|怪しい男を追う
+Llame a la policía|警察を呼ぶ
+hacer nada|何もしない
+[NECESITA LA VENTAJA DE 'PENSAMIENTO RÁPIDO']|パーク「機転の良さ」が必要
+pregunta al camarero|店員に尋ねる
+La puerta está cerrada con llave, pero repites el patrón de golpes que utilizó el hombre sospechoso. Un momento después, la puerta se abre y un adolescente sorprendido con el pelo grasiento pregunta quién diablos eres. #Confundir a estos nerds con cultistas es vergonzoso, pero en el fondo te sientes aliviado.#(-2% DOOM)|ドアは鍵がかかっていた。#そこであなたはあの怪しい男と同じリズムで#ノックをする。しばらくするとドアが開き、#脂ぎった髪の若者が出てきた。#彼は驚いた様子で<<誰、あんた？>>と尋ねる。#あなたはオタクの集まりをカルト集団と勘違いをして恥ずかしい思いをしたが、内心はホッとしていた。#(破滅値-2%)
+La puerta está cerrada con llave, pero crees que puedes repetir el patrón de golpes que utilizó el hombre sospechoso. #No pasa nada.#(+2% DOOM)|ドアには鍵がかかっていた。#そこであなたはあの怪しい男と同じリズムで#ノックをしてみる。#しかし、何も起きなかった。#(破滅値+2%)
+La policía le agradece el aviso y promete vigilar la casa. Antes de irte te dan una recompensa.#(+1 FONDOS)|警察はあなたの情報提供にお礼を言って、#その家を見張ることを約束した。#帰る前に報奨金を受け取った。#(所持金+1)
+No puedes convencer al oficial de policía de que te tome en serio y cuando logras encontrar un policía dispuesto, la casa está vacía.#(-1 RAZÓN)|警察はあなたの話をまともに聞いてくれず、#やっと信じてくれる警官を見つけたときには、#すでに家の中は空っぽになっていた。#(理性-1)
+Intentas convencerte de que todo está bien y pierdes el apetito.#(-1 RESISTENCIA)|あなたは気にすることはないと#自分に言い聞かせるも#食欲が失せてしまった。#(スタミナ-1)
+Antes de perseguir al hombre, le preguntas al camarero si lo conoce.#El camarero sonríe y explica que el hombre es parte de una comunidad de juegos de rol.##Le agradeces, un poco avergonzado.#(+10 EXP)|あなたは男を追いかける前に、#店員に尋ねてみることにした。#すると店員は笑いながら、#彼がテーブルトークRPGコミュニティの#一員であることを説明した。##あなたは若干の恥ずかしさを感じながら、#お礼を言った。#(EXP+10)
+AMABLE DONACIÓN|親切な手紙
+Encuentras un sobre sobre una almohada en tu dormitorio. Dentro hay dinero en efectivo y una nota de "alguien que te ha estado observando". Te desean suerte en tu tarea y prometen reunirse contigo pronto.##¿Cómo terminó este sobre en tu habitación?#(+2 FONDOS / - 1 RAZÓN)|寝室にある枕、その上に謎の封筒が置かれていた。#中には、現金と“あなたを見守る者”とやらの手紙が入っており…そこには、“調査の成功を祈る。#じきにお会いできることを約束しよう。”#などと書かれていた。##しかし、どうやって封筒を寝室に…？#(所持金+2 / 理性-1)
+LABERINTO|迷路
+Las carreteras parecen girar y girar cuando no estás mirando, atrapándote en este vecindario...|ふと目を離すと、道が不可解に#曲がりくねりっていた。#このままでは閉じ込められてしまう。
+Piérdase|途方に暮れる
+sigue el mapa|地図を取り出す
+[NECESITA EL ARTÍCULO 'MAPA']|アイテム「地図」が必要
+Pasas horas intentando encontrar una salida. Finalmente, completamente exhausto, terminas en la calle principal mientras el paso al barrio arruinado se cierra lentamente detrás de ti...#(+2% DOOM)|何時間もかけて、出口を探すあなた。#やっとの思いで大通りに辿り着いた頃には、#完全に疲れ果てていた。#あなたの後ろでは、荒廃した町へと続く道が#ゆっくりと閉ざされていく…#(破滅値+2%)
+Usando el mapa, descubres que algunas de las intersecciones no cambian en absoluto.##Te lleva un tiempo, pero finalmente encuentras una salida. El paso al barrio maldito se cierra lentamente detrás de ti...#(+2 RAZÓN)|地図を開くと、#変化しない交差点があることに気づいた。##長い時間をかけて、ようやく出口を見つける。#あなたの後ろでは、呪われた町へと続く道が#ゆっくりと閉ざされていった…#(理性+2)
+OBSERVADOR DEL BOSQUE|森からの視線
+Tienes la sensación de que te están observando y cuando escuchas el chasquido de una rama, rápidamente te das la vuelta.##Hay _alguien_ parado entre los árboles, a sólo unos metros de distancia.|どこかから視線を感じる…#枝の折れる音がして、その方向を振り返ったあなた。##数メートル先の木立の中に、#“誰か”が立っている。
+confrontar a la persona|正面から立ち向かう
+empezar a correr|逃げ出す
+[NEEDS 'RYOKO' ALLY]|解放条件:｢涼子｣が#仲間にいること
+enviar guardaparque|｢自然保護官｣を送り込む
+Es... sólo un espantapájaros espeluznante. Aliviado, decides abandonar el área por si acaso.#(+5 EXP)|その正体は…#ただの不気味なカカシだった。#ほっとしたあなたは、#念のためその場から離れることにした。#(EXP+5)
+La piel en descomposición y la mirada vacía solo pueden significar una cosa: es un cadáver que alguien ha apuntalado.##La idea de que alguien pueda hacerlo tan cerca de ti y tan silenciosamente te hace estremecer...#(+2% DOOM)|腐敗した皮膚と虚ろな眼差し。#それはある一つの事実を示していた…#誰かがこの死体を立てかけたのだ。##こんなにも近くにいたのに気づかなかったとは… #あなたは戦慄を覚える…#(破滅値+2%)
+Llegas al borde del bosque asustado, pero a salvo.#(+5 EXP)|恐怖を感じながらも、#あなたは無傷で森を抜けることができた。#(EXP+5)
+Tropiezas con una raíz y te lastimas gravemente el tobillo. Mientras te alejas cojeando, no hay rastro de la persona extraña.#(-2 RESISTENCIA)|木の根につまずき、#足首をひどく痛めてしまったあなた。#足を引きずりながら逃げるも、#辺りには怪しい人影は見当たらなかった。#(スタミナ-2)
+PARK RANGER te dice que te escondas mientras levanta su rifle y se dirige a enfrentar a la persona.##Después de un rato, te asomas desde detrás de un árbol. Lo único que queda es un rifle en el suelo. Faltan RYOKO y el Ranger.#(- ALIADO / + ARTÍCULO)|ライフルを構えた彼女はあなたに隠れろと言って、#その人影のもとへ向かっていった。##しばらくして、木の陰からそっと顔を出す。#だが、地面にライフルが落ちているだけで、#涼子の姿はどこにも見当たらない。#(-仲間/ +アイテム)
+TERAPIA|治療
+Te detiene un hombre enmascarado que lleva una bata de laboratorio. Se presenta como un investigador de la Universidad de Tokio que está probando un nuevo método de tratamiento que promete "revolucionar" la medicina moderna.##Te ofrece una pila de documentos y te dice que puede curar tus heridas gratis.#<<Solo necesitas para firmar aquí.>>|マスクをした男に呼び止められたあなた。#東京大学の研究者だと名乗るその男は、#現代医療に革命を起こす新たな治療法を#実験しているという。彼は書類の束を差し出し、#無償でその傷を治すと言い出した。##<<ここにサインするだけでいいので。>>
+aceptar|サインする
+rechazar|断る
+Más tarde, te despiertas en una sala de cirugía. No hay señales del médico, pero te sientes más saludable y notas que una de tus heridas ha desaparecido sin dejar rastro.#[PUEDES SELECCIONAR UN ESTADO DE LESIÓN Y CURARLA GRATIS]|その後、あなたは手術室で目を覚ました。#医者の姿が見えない…だが体調は良くなっていて、#怪我が跡形もなく治っていることに気づく。##[選択した怪我が1つ無料で治る]
+Más tarde, te despiertas en la sala quirúrgica abandonada dentro de la parte antigua del hospital con una herida nueva y desagradable.##El 'doctor' no está por ninguna parte.#(+ HERIDA)|その後、あなたは病院の旧棟にある、#廃墟のような外科病棟で目を覚ました。#さらに酷い傷を負っている。##しかし、医者はどこにも見当たらない。#(+怪我)
+Rechazas cortésmente la generosa oferta y continúas tu camino.|あなたはその申し出を丁重に断り、#その場を立ち去った。
+FLOTADOR DEL HOMBRE MUERTO (I)|水死体 (I)
+La piscina está vacía a esta hora.##Está oscuro, pero se podría jurar que algo se movió repentinamente bajo la superficie del agua.|この時間のプールは誰もいない。#すでに辺りは暗くなっていたが、#水面の下で“何か”が動いたような気がする。
+Acércate|近づいてみる
+mira los casilleros|ロッカーを調べる
+enciende las luces|明かりをつける
+Con creciente horror, crees reconocer la forma que acecha bajo el agua...|恐怖が高まり、体中に緊張が走る。#水中に潜むその姿は、#どこか見覚えがあるような気がした…
+Alguien dejó su billetera en uno de los casilleros abiertos.#(+2 FONDOS)|開いたロッカーの中に、#誰かが財布が置き忘れていた。#(所持金+2)
+Enciendes las luces. Por suerte para ti, no hay horrores acechando en el agua.#(+1 RAZÓN)|あなたはライトをつける。#幸いなことに、#水中には何も恐ろしいものは潜んでいなかった。#(理性+1)
+ITADAKIMASU|いただきます
+Con hambre, has entrado en un pequeño restaurante local y has pedido el especial del día elaborado con la pesca de hoy. ## ¿Adónde diablos fueron esos pescadores?|お腹が空いたため、#地元の小さな食堂に入ったあなた。#そこで、その日の獲れたてを使った#日替わりスペシャルを頼む。##あの漁師たちは、どこで#この魚を獲ってきたのだろう？
+de ninguna manera vas a comer ESO|こんなもの#食べられるわけがない
+un bocado no dolerá|一口だけなら#大丈夫だろう
+El olor del plato casi te enferma y sales corriendo del espantoso restaurante.#(-1 RESISTENCIA)|料理の匂いだけで気持ち悪くなり、#あなたはその不気味な店を飛び出した。#(スタミナ-1)
+Sintiendo las miradas de los comensales del restaurante en tu espalda, das un pequeño bocado al maloliente marisco. ##Es sorprendentemente bueno, pero amablemente rechazas otra porción.#(+5 EXPERIENCIA / +1 RESISTENCIA)|客の視線を背中に感じながら、#臭みのある海鮮料理を一口食べた。##意外といける…が、おかわりは遠慮しておこう。#(EXP+5 / スタミナ+1)
+Sintiendo las miradas de los comensales del restaurante en tu espalda, das un pequeño bocado al maloliente marisco. ##Sabe a mar y se deshace en la boca. El dueño del restaurante asiente y sonríe extrañamente.#(+MALDICIÓN)|他の客たちの視線を背中に感じながら、#臭みのある海鮮料理を少しだけかじる。##口の中に海の味が広がり、#ホロホロと溶けていく。#その様子を見た店主が、#不気味な笑みを浮かべながら頷いている。#(+呪い)
+PEQUEÑO SANTUARIO|小さな祠
+Siguiendo un rastro de fruta podrida, te topas con un pequeño santuario forestal. Probablemente esté dedicada a algún espíritu local.##La pequeña estatua parece extraña y amenazadora.|腐った果物の匂いに誘われ、#森の中に祠に辿り着く。#恐らく地元の神霊を祀っているのだろう。##そこにあった小さな像はどこか異様で、#不穏な雰囲気を醸し出している。
+orar|お祈りをする
+destruir el santuario|祠を壊す
+Arrodillándote junto al santuario, descubres un pequeño trozo de papel escondido detrás de la estatua.#(+5 EXP)|祠のそばで膝をつく。#すると、像の後ろに、#小さな紙切れが挟まれているのを発見する。#(EXP+5)
+Para tu horror, descubres una mano humana cortada detrás de la estatua.#(-2 RAZÓN)|恐ろしいことに、像の後ろには#切り落とされた人間の手があった。#(理性-2)
+Derribas la estatua de aspecto malvado y descubres un fajo de dinero debajo.#(+3 FONDOS)|禍々しい像を倒すと、#その下から札束が見つかった。#(所持金+3)
+Derribas la estatua de aspecto malvado. Parece que no sucede nada, pero tienes un presentimiento terrible al respecto.#(+5% DOOM)|あなたはその禍々しい像を倒した。#何も起こらなかったが、#どこか嫌な予感がする。#(破滅値+5%)
+EXTENSIÓN BOREAL|極北の大地
+La temperatura baja bruscamente y te estremeces por el frío glacial. Te encuentras en medio de un páramo nevado. Una ráfaga repentina te hace caer de rodillas. Inhalas profundamente y sientes que tu pecho se oprime y duele. ##Tus dedos y oídos ya están entumecidos y congelados. Tienes que moverte.|急激に気温が下がり、凍てつくような寒さに震える。#ふと気が付くと、あなたは#雪原の中心に立っていた。#突然、吹きつける風に膝をついてしまう。#深く息を吸い込むと、#胸の辺りが締め付けられるように痛む。#指と耳は冷え切り、感覚がなくなってきている。#とにかく動かなければ…
+avanzar hacia la pirámide|ピラミッドへと向かう
+revisa la costa helada|氷の海岸を調べる
+abandonar|諦める
+Los cadáveres de guardias congelados que hacen guardia eterna te consideran digno.##El Rey Usurpador decide amablemente compartir contigo su conocimiento prohibido.#(+30 EXP / -3 RAZÓN)|永遠に守衛を続ける“凍てつく亡番兵”。#彼らに適格者と認められたあなたは#王への謁見を許される。#簒奪王は快く、禁断の知識を#分け与えることに同意した。#(EXP+30 / 理性-3)
+Los cadáveres de guardias congelados te observan en silencio mientras te cortas con los bordes afilados del hielo.#(+ HERIDA)|鋭利な氷刃があなたの体を切り裂き、#凍てつく亡番兵が黙然とその様子を見ている。#(+怪我)
+Sobresaliendo del hielo, encuentras la mano de un monarca sin nombre, con dedos largos y deformes.##Sintiendo un extraño impulso, te arrodillas y la besas. Uno de sus anillos cae al suelo.#(+ ITEM)|氷の中から、名もなき君主の手が突き出ている。#その指は長く、奇妙な形をしていた。##ふと、あなたは不思議な衝動に駆られて跪き、#その手に口づけをする。#すると、一つの指輪が地面に落ちる。#(+アイテム)
+Innumerables cadáveres de una tribu desaparecida están encerrados en el hielo.##Sus ojos siguen cada uno de tus movimientos.#(+5% DOOM)|氷に埋もれた、無数の古代民族の死体。##あなたの動きは一挙手一投足に至るまで、#その目に追われている。#(破滅値+5%)
+Te derrumbas, desprovisto de toda esperanza.#(-5 RESISTENCIA, -5% DOOM)|あらゆる希望が絶たれ、#あなたはその場に倒れた。#(スタミナ-5 / 破滅値-5%)
+MEDIO ABIERTO|半開きの扉
+Esta puerta no debería estar ahí. No debería llevarte a ninguna parte.##Más importante aún, no debería atraerte.|その扉はそこにあってはならない。#なぜなら、その先はどこにも通じていないからだ。##何よりも、その扉に引きずり込まれてはならない。
+ingresar|扉の奥へ進む
+resistir|抵抗する
+Poco a poco entras en lo desconocido...|あなたはゆっくりと、#未知なる世界へ足を踏み入れた…
+Te obligas a dejar atrás la misteriosa puerta.#(-2 RESISTENCIA)|謎の扉を残し、無理やりその場から離れる。#(スタミナ-2)
+YASUGI|八杉神父
+Sintiendo que estás a punto de perder la cabeza, decides visitar al viejo amigo de tus padres, el padre Yasugi.##<<Hola niño,>> dice el sacerdote que actualmente está moviendo algunas cajas dentro y fuera del edificio de la iglesia. <<¿Podrías echarme una mano?>>|気が狂いそうになっていたあなたは、#両親の古い友人である八杉神父を#訪ねることに決めた。##<<おい、君。>># 神父が教会の周りで忙しなく箱を運んでいる。#<<ちょっと手を貸してくれないか？>>
+levanta la caja más pesada|一番重い箱を持ち上げる
+no trabajes demasiado|無理せず適度に手伝う
+Al levantar la caja, sientes que te cruje la espalda, pero logras terminarlo con relativa rapidez. ##Después, el padre Yasugi te invita a entrar a tomar una taza de té caliente y galletas caseras hechas por uno de los feligreses.#Le explicas tu situación. El sacerdote escucha y te permite desahogar todas tus dudas y ansiedad.#(+3 RAZÓN / -1 RESISTENCIA)|箱を持ち上げた瞬間、腰がバキッと鳴る。#だが、わりあい早く運び終えられた。##その後、あなたは中に招かれ、温かい紅茶と教区の人が焼いた自家製クッキーをご馳走になる。#神父に、今の自分の状況を吐露する。#彼は少しでも心が軽くなるようにと、#あらゆる不安や疑問に耳を傾けてくれた。#(理性+3 / スタミナ-1)
+Solo recoges las cajas más pequeñas, pero todo lleva más tiempo del que esperabas.##Después, el padre Yasugi te invita a entrar para tomar una taza de té caliente y galletas caseras hechas por uno de los feligreses.#Le explicas tu situación para él. El sacerdote escucha y te permite desahogar todas tus dudas y ansiedad.#(+3 RAZÓN / +2% DOOM)|あなたは小さな箱だけ運んだが、#それでも予想以上に時間がかかってしまう。##その後、神父はあなたを中に招き、温かい紅茶と#教区の人が作ったというクッキーをご馳走してくれた。##神父に今の自分の状況を吐露する。#少しでもあなたの心が軽くなるようにと、#彼はあらゆる不安や疑問に耳を傾けてくれた。#(理性+3 / 破滅値+2%)
+FIGURAS ENMASCARADAS|覆面姿の者たち
+Al caminar por el pueblo, de repente te encuentras detrás de un edificio. Dos figuras enmascaradas de aspecto amenazador bloquean tu escape.##<<¿Sirves a los VIEJOS?>>|村の中を歩いていると、#突然、建物の陰に引きずり込まれる。#覆面をした二人組が、あなたの逃げ道を塞ぐ。#危険な匂いがする。##<<“旧きもの”にお仕えしているのでしょう？>>
+<<sí>>|<<仕えている>>
+<<servir ¿qué-qué?>>|<<な、何のこと…？>>
+<<¡Lo sabíamos! ¡Las profecías eran ciertas!>>#Las figuras enmascaradas se relajan un poco, quitándose las máscaras.##<<Pedimos disculpas por esto, maestro.>>#(+2 ALIADOS / +7% DOOM)|<<やはり！あの予言は本当だったのだ！>>#彼らは少しだけ肩の力を抜き、覆面を外す。##<<主よ、この度は大変失礼しました。>>#(仲間+2 / 破滅値+7%)
+Los hombres enmascarados están visiblemente desconcertados.#<<S-perdón por molestarte>>, dice uno y desaparecen por una esquina.##¿Qué fue eso?#(-2 RAZÓN)|彼らは目に見えて、困惑している。#<<し、失礼しました…>># そう言って、曲がり角の先へと姿を消した。##一体、何だったんだ？#(理性-2)
+MORDIDO|噛み跡
+Poner la mano en ese agujero fue una mala idea. Al ver escapar la gran araña, esperas que no sea venenosa...#(+ HERIDA)|あの穴に手を入れたのはまずかった。#のっそりと這い出してきた大蜘蛛を見ながら、#あなたはそれに毒がないことを祈った。#(+怪我)
+CAPULLO PEQUEÑO|小さな繭
+Te preguntas qué tipo de animal atrapó la araña en su red.#Ahuyentas al depredador molesto y abres el capullo para revelar...##un dedo humano.#(-2 RAZÓN / + ARTÍCULO)|この蜘蛛の巣に一体何が引っかかったのだろう。#腹を立てた蜘蛛を追い払い、繭を引き裂くと…##人の指が埋もれていた。#(理性-2 / +アイテム)
+TERAPIA ARTÍSTICA|芸術療法
+Como parte de la terapia, algunos pacientes participaron en clases de arte.##Algunos de sus trabajos te llenan de pavor.#(-2 RAZÓN)|治療の一環として、#絵画教室に参加する患者たちもいた。##その作品の中には、ゾッとするものもある。#(理性-2)
+SIN FONDOS|金欠
+>>Es un mal momento para quedarse sin dinero,<< dice el hombre de aspecto sombrío que se interpone en su camino.#>>Nuestra... empresa, afortunadamente, se especializa en casos como el suyo y estará encantado de ayudarle a recuperarse. pista. Después de todo...<<#Da un paso más y se podría jurar que hay un leve olor a óxido alrededor del hombre. ##>>...todo el mundo tiene algo que vender.<<|>>こんなときに金欠になってお困りでしょう…<<#目の前に陰気な男性が立っている。#>>幸い、我々の会社はあなたのような方を#助けすることを専門としているので、#喜んでお手伝い致しますよ。何しろ…<<##男が一歩近づくと、微かに錆の臭いがする。##>>…誰だって、売るものがあるんですから。<<
+'jarro de sangre'|血の入った瓶
+'mejor recuerdo'|かけがえのない思い出
+'tranquilidad de espíritu'|心の安らぎ
+Te despiertas sobresaltado en un banco del parque. ¿Te desmayaste? ##No hay señales del hombre sombrío por ningún lado, pero encuentras un sobre lleno de dinero en efectivo dentro de tu bolsillo.#(-3 RESISTENCIA / +2 FONDOS)|公園のベンチで、はっと目を覚ます。#気を失っていたのだろうか。##あの陰気な男の姿はどこにも見当たらない。#しかし、ポケットの中には#現金入りの封筒が入っていた。#(スタミナ-3 / 所持金+2)
+De repente todo se oscurece. Te sientes triste, pero... ni siquiera sabes por qué. En tu bolsillo, encuentras un sobre con dinero en efectivo dentro.#(-3 RAZÓN / +2 FONDOS)|突然、辺りが暗くなる。#理由は分からないが…何故か悲しい気持ちになった。#そして、あなたはポケットに#現金入りの封筒が入っていることに気づく。#(理性-3 / 所持金+2)
+El hombre sonríe y te entrega un sobre. Sientes que has cometido un gran error.#(+5% DOOM / +2 FONDOS)|男がにっこりと笑いながら、封筒を渡してくる。#あなたは何か大きな間違いを犯したような#気がした。#(破滅値+5% / 所持金+2)
+DESIERTO SANGRANTE|血に染まる砂漠
+Una estrella parásita se cierne sobre la civilización moribunda. ##¿Es este también el destino de nuestro planeta?|滅びゆく文明に迫りくる寄生星。##地球も同じ運命を辿るのだろうか？
+entrar al templo destruido|崩れた寺院に入る
+aventurarse más en el desierto|砂漠の奥へ進む
+cavar a través de la arena|砂を掘り起こす
+Dentro de una nave en ruinas, encuentras un recuerdo del mundo antiguo.##Hay un esqueleto humanoide con una armadura arruinada. Su arma parece extrañamente familiar...#(+ ITEM)|朽ち果てた教会堂。#あなたはその主祭壇へと向かう身廊で、#古の世界より遺された形見を見つけた。##壊れた鎧を着た人型の骸骨…#不思議なことに、どこかでその武器を#見たことがあるような気がする。#(+アイテム)
+Dentro de una nave en ruinas, encuentras un recuerdo del mundo antiguo.##Innumerables esqueletos y cadáveres se han marchitado en el aire árido.#(-3 RESISTENCIA)|朽ち果てた教会堂。#あなたはその主祭壇へと向かう身廊で、#古の世界より遺された形見を見つけた。##無数の骸骨や死体が、#乾燥した空気の中で萎びている。#(スタミナ-3)
+La caminata por el desierto es agotadora, pero finalmente llegas al oasis.#Te desnudas y te sumerges en el agua resplandeciente, sumergiéndote por completo.##Al salir de la piscina, te sientes... diferente.#(+1 CONOCIMIENTO)|疲れ果て、足を引きずりながらも#砂漠を横断するあなた。#そして、ようやくオアシスに辿り着く。#服を脱ぎ、光る水に足を浸して、深く身を沈める。##水から上がると、#自分の中で…何かが変わった感覚があった。#(賢さ+1)
+La caminata por el desierto es agotadora y finalmente te desplomas sobre rocas afiladas.#(+ HERIDA)|砂漠を歩くのに疲れ果てたあなたは、#ついに鋭い岩の上に倒れ込んでしまう。#(+怪我)
+Al cavar debajo de un pilar de piedra, se descubre un cofre.##¡Está lleno de monedas!#(+3 FONDOS)|石柱の下を掘ると、宝箱が出てくる。##コインがいっぱい出てきた！#(所持金+3)
+Cavando debajo de un pilar de piedra, descubres un cofre.##¡Dentro, encuentras una cabeza humana podrida!#(-3 RAZÓN)|石柱の下を掘っていると、宝箱を発見する。##中から出てきたのは…#腐敗した人間の頭蓋骨だった！#(理性-3)
+SOLUCIÓN DESESPERADA|血みどろの解決策
+¡Una mujer se topa contigo mientras huye de un salón de belleza! Antes de que puedas decir algo, notas su rostro... ¡se ha tallado sus propios ojos! ##<<S-si no lo puedo ver,>> llora, <<es-no me puede ver, ¿verdad?...>>##Te estremeces al ver una débil visión de GOIZO. reflejado en los espejos del salón de belleza.#(-2 RESISTENCIA)|美容院から飛び出してきた女性とぶつかる。#彼女はなんと…自分の目をくりぬいていた… #<<な、何も見えなければ…>>#血の涙が滴る。#<<ア、アレを見なくて済む…そうでしょ…？>>##美容院の鏡にうっすらとゴイゾの幻影が映り、#あなたは戦慄した。#(スタミナ-2)
+NIEBLA TÓXICA|煙霧
+Espera, ¿por qué de repente está tan oscuro afuera? Te paras junto a la ventana para echar un vistazo.##Un smog negro emerge del patio, cubriendo todo con un vapor aceitoso.|待て。どうして、急に外が暗くなったんだ？#あなたは窓際に立って、外の様子を見た。##中庭から黒い煙が立ち上り、#油っぽい蒸気があらゆるものを覆い尽くしている。
+observar el smog|煙をよく見る
+correr desde la ventana|窓から逃げ出す
+Los vapores fangosos ascienden lentamente formando una espiral perfecta. Te alejas de la ventana, sorprendido por este curioso fenómeno. #(+8 EXP)|ぬめり気のある蒸気がゆっくりと上昇し、#完璧なうずまき模様を作り出す。#あなたはこの奇妙な現象に驚いて、#窓から後ずさった。#(EXP+8)
+Cuando te das cuenta de que el vapor se está formando en una mano gigante, ya es demasiado tarde. ##Se estrella contra la ventana, lanzando fragmentos de vidrio por todas partes.#(-2 RESISTENCIA)|蒸気が巨大な手になっていく…#しかし、それに気づいた時にはもう手遅れだった。##その手が窓を突き破り、ガラスの破片が飛び散る。#(スタミナ-2)
+Corre desde la ventana antes de que pase algo.#(+5 EXP)|何か悪いことが起こる前に、#あなたは窓から逃げ出した。#(EXP+5)
+Corres desde la ventana. ##Susurros débiles provenientes del propio smog te perseguirán durante semanas.#(-2 RAZÓN)|あなたは部屋の窓から逃げ出した。##煙から聞こえてくるかすかな囁きが、#何週間もの間、あなたを苦しめることになる。#(理性-2)
+CLASE DE ANATOMÍA|解剖学の授業
+Escuchas un sonido débil mientras caminas fuera del aula de biología. Dentro hay un viejo modelo de anatomía, su corazón late.##La vista casi te enferma.#(-1 RESISTENCIA)|生物室のそばを歩いていると、#微かに何かの音が聞こえてくる。#中で、古い人体模型の心臓が脈打っている。##その光景を見て、あなたは気分が悪くなってしまう。#(スタミナ-1)
+HABÍA UN AGUJERO AQUÍ|かつてあった穴
+Al escuchar un sonido espeluznante proveniente de detrás de la puerta, decides comprobarlo. A primera vista, el aula abandonada parece vacía. Una vez que tus ojos se acostumbran a la oscuridad, descubres un sello inusual dibujado en el suelo. ##A juzgar por el humo, alguien apagó las velas en el momento en que entraste.|ドアの向こうから不気味な音が聞こえる…#あなたはその原因を探ることにした。#一見すると、何もなさそうな廃教室。#だが暗闇に目が慣れると、#床に奇妙な紋章が描かれているのに気づく。##辺りを漂う煙から察するに、教室に入った瞬間、#何者かが蝋燭の火を消したようだ。
+Prende las velas|蝋燭に火を灯す
+recoge el libro|本を拾う
+estudiar la escritura en la pizarra|黒板の文字を調べる
+En el momento en que enciendes la vela restante, el suelo bajo el sigilo se derrumba, revelando un agujero increíblemente profundo. Sus paredes están talladas en forma de espiral, dándole la ilusión de movimiento.##Porque es una ilusión, ¿verdad?#(-4 RAZÓN, +20 EXP)|燃え残った蝋燭に火を灯す。#すると突然、紋章の描かれた地面が崩れ落ち、#底知れぬ深い穴が現れる。##暗い壁に刻まれたうずまき状の模様を見ていると、#まるで穴が蠢いているように思える。##ただの錯覚だと信じたいが…#(理性-4 / EXP+20)
+Reconoces la pegatina del libro. Provino de la biblioteca local.#(+ ARTÍCULO)|表紙に貼られたシールに見覚えがある。#これは地元の図書館の本だ。#(+アイテム)
+Descifras las instrucciones ocultas y dejas que el conocimiento prohibido llene tu cerebro.#(-2 RAZÓN / -2 RESISTENCIA)#(+ HECHIZO)|魔術的な教えを解読する。#頭の中に流れ込む禁断の知識を、#あなたはそのまま受け入れた。#(理性-2 / スタミナ-2)#(+呪文)
+MÁQUINA EXPENDEDORA|自販機
+Al caminar por un pasillo vacío, encuentras una vieja máquina expendedora. No reconoces las marcas de refrescos que hay dentro, pero realmente te vendría bien una bebida.|何もない通路をぶらついていると、#古びた自販機が目に入る。##中にあるソーダの銘柄は分からない。#だが、何でもいいから飲み物が欲しい気分だった。
+consigue el más caro|一番高いものを買う
+consigue el mas barato|一番安いものを買う
+El sabor parece un poco extraño, pero de todos modos disfrutas la bebida.#(-1 FONDOS)|味は少し変だが、それほど悪くはなかった。#(所持金-1)
+Cuando te das cuenta de que no tienes suficiente dinero para una bebida, una lata negra cae del dispensador.##Tomas un sorbo... ¡¿es sangre?!#(-2 RAZÓN)|お金が足りないことに気付いた瞬間、#その自販機から黒い缶が出てきた。#一口飲んでみる…##まさか、これは…血！？#(理性-2)
+Compras una lata de refresco de otra marca y tomas un sorbo. Tiene un sabor un poco extraño, pero de todos modos disfrutas la bebida.#(-1 FONDOS / +5 EXP)|ラベルのないソーダを買い、一口飲んでみる。#少し変な味がするが、それでも喉は潤った。#(所持金-1 / EXP+5)
+Compras una lata de refresco de otra marca y cuando la alcanzas, algo dentro de la máquina te atrapa la mano. ¡Tienes que sacar la mano de un tirón y lastimarte!#(+ LESIÓN)|ラベルのないソーダを買って手を伸ばすと、#自販機の中から何かに手を掴まれる。#無理に手を引き抜いたせいで、#あなたは怪我をしてしまう！#(+怪我)
+ESCULTURAS|彫刻
+Entras al taller de arte.##La habitación está repleta de esculturas a medio terminar y máscaras extrañas colgadas en la pared. Una escultura te parece inquietantemente realista.|美術室に足を踏み入れる。##部屋の中は、未完成の彫刻や#壁に並ぶ奇妙な仮面で雑然としている。#その一つに不気味なほどリアルな彫刻があり、#あなたの目を引いてしまう。
+mira la escultura|彫刻を調べる
+mira las mascaras|仮面を調べる
+La cabeza de una escultura parece tan realista que te acercas y levantas la mano nerviosamente para tocarla.##Se cae.|ある彫刻の頭が本物そっくりに見える。#緊張しながらも、手を伸ばして触ろうとすると…##その頭が落ちた。
+Una máscara se parece al diseño que viste una vez en un libro de ocultismo. Tú decides llevártelo contigo.#(+ ARTÍCULO)|ある仮面が、かつてオカルト本で見たものと#驚くほど似ていた。#(+アイテム)
+INVITADO DEL PARQUE|招かれざる客
+ESTATUETA ELDRITCH|怪魔の彫像
+Algo te empuja hacia la playa. Una estatuilla, medio enterrada en la arena, te llama.##Sintiendo que te tiemblan las manos, das un paso más cerca...|何かに引き寄せられるように浜辺へと向かう。#砂浜に半ば埋もれた彫像が、あなたを呼んでいる。##手が震えるのを感じながら、彫像に一歩近づく…
+llévalo a casa|像を持ち帰る
+ignoralo|放っておく
+La estatuilla es sorprendentemente más pesada de lo que parece.##Fascinado, te la llevas a casa y te preguntas dónde la exhibirás.#(ES UNA MALA IDEA)|その彫像は見た目以上に重かった。##自宅に持ち帰るも、どこに飾ろうかと悩んでしまう。#(失敗した…)
+A pesar de tu repentino deseo, te recuperas. Al alejarte de él, rápidamente olvidas todo el encuentro.#(+5 EXP)|突然、彫像に触れたい衝動に駆られるも、#何とか自分を抑える。#その場を離れると、#すぐに彫像があったことさえ忘れていた。#(EXP+5)
+Una repentina ola de pavor te paraliza mientras miras fijamente la amenazadora estatuilla.##Logras escapar, pero su mirada queda grabada para siempre en tu cerebro.#(+ MALDICIÓN)|その像に目をやると、#突然、恐怖に襲われて動けなくなってしまう。##何とかその場から逃げ出したものの、#いつまで経っても“あの視線”が#脳裏に焼き付いて離れない。#(+呪い)
+BIENVENIDOS AL ARROZAL|水田の広がる風景
+Mientras caminas por el pueblo, los cultivos se mecen con la brisa, siguiendo cada uno de tus movimientos.#(-2 RAZÓN)|村の中を歩いていると、#こちらの動きに合わせるように#作物が風に揺らいだ。#(理性-2)
+ONDAS|打ち寄せる波
+Las olas bañan perezosamente la orilla. Respiras profundamente: el aire fresco del mar te aclara la cabeza.#(+1 RAZÓN)|岸辺に打ち寄せる、ゆったりとした波。#深呼吸をすると、#新鮮な海の空気が頭をすっきりさせてくれる。#(理性+1)
+LUGAR DE DESCANSO|死者の眠る場所
+Se dice que en esta roca murió un sacerdote famoso. ¿Quizás su misticismo se ha filtrado en él?|とある高名な僧侶が、この岩の上で#亡くなったと言われている。##その神秘的な力が、この岩に#染みついているかもしれない。
+aprovechar su poder|聖職者の力を感じ取る
+es demasiado arriesgado|そんな危険は冒せない
+deja que ERMITAÑO traduzca la inscripción|隠者に碑文を解読させる
+[NECESITA UN ALIADO 'ERMITAÑO']|解放条件: 「隠者」が#仲間にいること
+Al tocarlo con la mano, sientes que un nuevo conocimiento se forma en tu mente.#(+ HECHIZO)|石碑に触れてみると、#頭の中に新たな智慧が生まれるのを感じた。#(+呪文)
+Sientes que has atraído la atención de algo terrible.#(+2% DOOM)|何か恐ろしいものに、#目をつけられてしまった気がする。#(破滅値+2%)
+Molesto por lo que te rodea, das un paso atrás y tropiezas con una rama.#(-1 RESISTENCIA)|何だか恐ろしくなり、#後ずさったところで枝に躓いてしまう。#(スタミナ-1)
+ERMITAÑO se arrodilla ante la roca y murmura algo. Después de un minuto, se levantan y te instan a continuar tu viaje.#(-5% DOOM)|隠者が岩の前に跪き、ぶつぶつと何かを呟く。##少し経ってから立ち上がり、#このまま調査を続けるよう促された。#(破滅値-5%)
+SACERDOTE AFICIONADO|素人の浅知恵
+Un anciano te detiene y te invita a su casa. Lo sigues de mala gana, solo para sorprenderte por la cantidad de viejos y polvorientos libros de hechicería que hay dentro.##<<Puedo enseñarte un par de cosas sobre magia.>> dice. <<No te preocupes por el pago. Estoy seguro de que lo solucionaremos en el futuro.>>|ある老人に呼び止められ、家の中へ招かれるあなた。#渋々ついていくも、家の中には驚くべき数の#古い魔術書が埃を被っていた。##<<少しだけ魔術を教えてやろう。>>と老人が言う。#<<金の心配はいらん。#この貸しはそのうち返してもらえばいい。>>
+aceptar|教えてもらう
+rechazar|断る
+deja que PARK RANGER hable con el hombre|「自然保護官」に#説得してもらう
+[NECESITA UN ALIADO 'PARK RANGER']|解放条件: 「自然保護官」が#仲間にいること
+Entre las historias sin sentido que te contó el hombre, has captado una cosa que podría ser verdad.#(+ HECHIZO)|ベラベラと語られる意味不明な話の中で、#あなたは一つだけ真の魔術と思われるものを学んだ。#(+呪文)
+Fue una completa pérdida de tiempo. El anciano senil era aburrido y no tenía nada interesante que contarte.#(+2% DOOM)|完全に時間の無駄だった。#退屈な老人の話をいくら聞いても、#興味深い情報など出てこない。#(破滅値+2%)
+<<¡NO me rechaces, tonto!>>#Grita mientras huyes de la casa. El viejo te tira los libros y uno de ellos te golpea en la cabeza.#(-1 RESISTENCIA)|<<私を無下にするな、馬鹿者！>>#あなたが家から逃げ出すと、#老人が大声を上げながら本を投げつけてきた。#そのうちの一冊が頭に命中してしまう。#(スタミナ-1)
+<<Hisashi,>> dice el GUARDABOSQUES. <<¿Recuerdas tu problema con el 'oso' el verano pasado y quién te ayudó con él?#Considera ayudar a mi amigo y _tal vez_ lo resolveremos en paz.>>#(+ HECHIZO)|<<久志…>>自然保護官が口を開く。#<<去年の夏にクマ騒ぎで助けてやったよな？#私の仲間に手を貸してくれるなら、#それで貸しはチャラにしてやる。>>#(+呪文)
+RECEPCIONISTA TERCA|頑固な受付
+Obtener acceso a la base de datos de estudiantes sin duda aceleraría su investigación.#Pero la recepcionista nunca lo permitiría. Si tan solo hubiera una manera de hacerla desaparecer por un tiempo...|学生データベースにアクセスできれば、#間違いなくもっと早く調査が進む。#しかし、受付の女は頑として許可を出さない。#しばらくの間、彼女を遠ざける方法が#あればいいのだが…
+hablar con ella|彼女と話す
+deja que KAZUMI hable con la recepcionista|和美に話をさせる
+[NEEDS 'KAZUMI NAKAWA' ALLY]|解放条件: 「名川和美」が仲間にいること
+Resulta que Kazumi y la recepcionista son viejos amigos. ##Con el pretexto de ponerse al día, ambos van a una sala de descanso. Esto le permite copiar algunos nombres y direcciones de la base de datos.#(+20 EXP)|彼女と和美は旧知の仲だったらしい。##久しぶりに話に花を咲かせた二人は#休憩室に向かった。#これでデータベースから、名前と住所を#コピーできる。#(EXP+20)
+<<¿Inspección sin previo aviso?>> pregunta.#<<¡Gracias por decírmelo!>>##Mientras la recepcionista está ocupada actualizando algunos documentos aburridos, usted copia algunos nombres y direcciones de la base de datos.#(+10 EXP)|<<抜き打ち検査？>>と受付が尋ねてくる。#<<教えてくれてありがとね！>>##彼女が面倒な書類で手間取っているうちに、#データベースから名前と住所を#いくつかコピーした。#(EXP+10)
+No pudo convencer a la recepcionista para que le permitiera acceder a la base de datos. Esto ha sido una pérdida de tiempo.#(+2% DOOM)|必死に受付係を説得しようとするも、#アクセスの許可は下りない。#せっかくの時間を無駄にしてしまった。#(破滅値+2%)
+VENDEDOR AMBULANTE|露天商
+Empiezas a sudar frío cuando ves la mueca retorcida del vendedor ambulante. Retrocedes, deseando que fuera solo una máscara.#(-1 RAZÓN)|露天商の歪んだ顔を見て、#あなたは冷や汗をかく。#それがお面であることを願いながら、#後ずさりをした。#(理性-1)
+ARENAS BLANCAS|白砂
+Un organismo parásito se esconde debajo de la corteza, ondulando lentamente.|樹皮の下に寄生生物が潜り込み、#緩やかにうねっている。
+investigarlo|調べる
+córtalo para abrirlo|幹を切り開く
+[NECESITA EL ARTÍCULO 'CUCHILLO PARA CARNE']|アイテム「ステーキナイフ」が必要
+[NECESITA UN ALIADO 'PARK RANGER']|解放条件:｢自然保護官」が#仲間にいること
+Todos los árboles cercanos están conectados bajo tierra. El ramal principal conduce hacia el este. Tomas nota mental de evitar la región.#(+5 EXP)|そばにある木は全て地下でつながっていた。#主枝は東に伸びている。#その場所には行かないようにしようと#心に留めておく。#(EXP+5)
+La corteza es flácida y pegajosa. Te hace retroceder horrorizado.#(-2 RAZÓN)|たわみのある樹皮がネバネバと手にまとわりつく。#あなたはぞっとして、怯んでしまう。#(理性-2)
+Cortas el árbol y sacias tu sed con la savia roja oscura.#(+3 RESISTENCIA)|あなたは木を切って、#濃厚な赤い樹液で渇きを癒やした。#(スタミナ+3)
+RITUAL DEL ACANTILADO|断崖での儀式
+<<El océano tiene hambre.>>##Te detiene una persona con un cuchillo. Se ven increíblemente tristes.#<<Me quiere... pero me temo que soy demasiado cobarde para hacerlo yo mismo... ¿P-puedes ayudarme?>>|<<この海は飢えている。>>##あなたを呼び止めたその者の手には、#ナイフが握られていた…#悲壮に暮れた表情をしている。#<<海が呼んでいる…だけど、臆病者だから#自分じゃできなくて…て、手伝ってくれる？>>
+convencerlos de que no lo hagan|説得する
+que se maten|手伝う
+[NECESITA LA VENTAJA DE 'MANOS RÁPIDAS']|パーク「手先の器用さ」#が必要
+quitarles el arma de las manos|ナイフを叩き落とす
+Después de una larga conversación, te entregan el cuchillo y te agradecen.#(+ ARTÍCULO)|ひとしきり話をすると、#相手は持っていたナイフを渡し、#あなたに礼を言った。#(+アイテム)
+Incapaz de convencer a la persona, cierras los ojos mientras salta por el acantilado.#(-2 RAZÓN)|説得は失敗に終わる…#崖から身を投げるその姿を見て、#あなたは目を瞑った。#(理性-2)
+Cierras los ojos cuando saltan por el acantilado. Tal vez calme el océano...#(-2 REASON)#(-2% DOOM)|崖から身を投げるその姿を見て、#あなたは目を瞑った。#これで海が鎮まるかもしれない…#(理性-2)#(破滅値-2%)
+Los distraes y les quitas el cuchillo de la mano. Parece romper el hechizo y te lo agradecen.#(-5% DOOM)|相手の気を逸らし、手からナイフを叩き落とす。#すると、その者はまるで呪いが解けたかのように、#感謝の言葉を述べた。#(破滅値-5%)
+LLOVIENDO SANGRE|血の雨
+Una mujer salta de su apartamento cubierta de sangre. Entre sollozos, intenta explicar lo sucedido.##Estaba duchándose cuando de repente el cabezal de la ducha comenzó a rociar sangre.##Un rastro de sangre conduce al apartamento oscuro...|アパートから血まみれの女性が飛び出てくる。#嗚咽をあげながら、#彼女は何が起きたのかを説明しようとした。##その話によると、シャワーを浴びていたとき、#突然シャワーヘッドから血が噴き出したという。##血の跡が、その暗いアパートへと続いている…
+calmarla|彼女を落ち着かせる
+revisa el baño|浴室を調べる
+La mujer resopla y sonríe débilmente. Sientes que has evitado algo terrible.#(+4 RAZÓN)|女性は鼻をすすり、弱々しく微笑んだ。#恐ろしい結末を防げた気がする。#(理性+4)
+Cuando le tocas el hombro, se pone histérica.##Su reacción te sorprende. Te alejas a medida que más vecinos entran al pasillo.#(-2 RAZÓN)|あなたの手が肩に触れると、#彼女はヒステリーを起こした。##その反応に、思わず動揺してしまう。#通路に隣の部屋の住人たちが群がってきたため、#あなたはその場を離れた。#(理性-2)
+No entras al baño.##En lugar de eso, vas directamente a la sala de calderas del edificio. Un tubo, que viene del suelo, parece haber sido soldado recientemente al sistema central. ¿A dónde lleva?#(+5 EXP)|あなたは浴室には入らず、ボイラー室へと向かった。##地面から一本の配管が伸びている。#最近になって熱源装置に溶接されたようだが…#一体、どこに繋がっているのだろうか。#(EXP+5)
+No encuentras nada.##El olor a sangre te debilita.#(-1 RESISTENCIA)|あなたは何も見つけられなかった。##血の匂いで、力が抜けてしまう。#(スタミナ-1)
+RATERO|コソ泥
+Mientras caminas por el espacio lleno de gente, alguien choca contigo y rápidamente se disculpa.|混雑した場所を歩いていると、#誰かがあなたにぶつかり、#すぐさま謝ってきた。
+darse cuenta de lo que está pasando|事態に気づく
+¡Te robaron la billetera! Rápidamente agarras su brazo y lo sueltan antes de desaparecer entre la multitud.#(+5 EXP)|財布がない！#すかさず腕を掴むと、その者は財布を落とし、#人混みの中へと姿をくらました。#(EXP+5)
+Antes de que te des cuenta de que falta tu billetera, el ladrón ya se fue.#(-2 FONDOS)|財布がないことに気づいた頃には、#すでに犯人は姿をくらましていた。#(所持金-2)
+SOCIEDAD VENECIANA|秘密結社
+Ese par te ha estado siguiendo desde la mañana. Finalmente logras perderlos pero no puedes evitar la sensación de que solo empeorará.#(-2 RESISTENCIA)|朝からずっと、あの二人組に跡を付けられている。##やっとの思いで尾行を撒くことができたものの、#事態は悪化する一方なのではという#不安が拭いきれない。#(スタミナ-2)
+MAESTRO SUPLENTE|臨時教師
+Una mujer alta con una cara inquietante y un labio tembloroso te detiene.##<<Seré tu nueva profesora de biología b... ¿podrías ayudarme a trasladar algunas cosas a mi nueva oficina?>>|校内を歩いていると、不気味な長身の女性に#呼び止められる。#唇がぴくぴくと痙攣していて、明らかに様子が#おかしい。##<<私、今度かラ新しク、せ、生物ノ先生に#无るんダけど…以くツか準備室に物ヲ運びたいの。#手伝ってくれル？>>
+ayudarla|手を貸す
+rechazar|断る
+De repente te agarra la mano.#<<oOh, insisto......>>##(-2 RAZÓN)|突然、彼女に手を掴まれる。##<<ネェ…於ネ蛾ィ…>>#(理性-2)
+El espeluznante profesor sustituto te entrega algunos libros viejos para que los lleves. Entre los títulos mundanos, encuentras uno llamado 'EXTINCIÓN DE LA HUMANIDAD'.##Te estremeces al sentir la mirada del maestro en tu espalda.#(+5 EXP)|これを運ぶようにと、彼女から古びた本を#何冊か渡される。#何の変哲も無い、ありふれたタイトルの数々。#その中で、あなたは『人類絶滅』という本が#あるのを目にしてしまう。##教師の視線を背中に感じ、あなたは身震いした。#(EXP+5)
+El espeluznante profesor sustituto te entrega especímenes biológicos viejos y polvorientos.##El olor rancio del formol casi te hace dejar caer el frasco. ¿Los fetos deberían tener tantas piernas?...#(-2 RESISTENCIA)|埃まみれの古い生物標本を渡されたあなた。##ホルマリンの腐臭が鼻をつき、#つい瓶を落としそうになる。#こんなに足のある胎児がいるのだろうか…#(スタミナ-2)
+◯◯|◯◯
+ENFERMERA DORMIDA|居眠り中の看護婦
+Entras al hospital buscando información sobre un determinado paciente. El pasillo principal está oscuro y extrañamente vacío.##Ves a una enfermera en la cabina de registro. Está dormida por el cansancio.|ある患者についての情報を求めて、#病院に入ったあなた。#正面廊下は暗く、異様なほど人がいない。##受付の窓口で一人の看護婦を見つける。#仕事の疲れからか、#その場で寝てしまっているようだ。
+pasar a escondidas por ella|こっそり通り過ぎる
+dejala dormir|寝かせたままにする
+prender fuego al bote de basura|ゴミ箱に火をつける
+fingir una lesión|病気のフリをする
+[NECESITA EL BENEFICIO DE 'PRIMERO AUXILIO']|パーク「応急処置」が必要
+Has conseguido pasar junto a ella y hurgar en el armario. Finalmente localizas la información que buscabas.#(+10 EXP)|彼女の横をこっそり通り抜けて、#棚の中を物色することに成功する。#ようやく、欲しい情報を見つけることができた。#(EXP+10)
+Has logrado escabullirte de ella. Desafortunadamente, el viejo gabinete chirría fuerte y despierta a la enfermera.##Te echan del hospital.#(-1 RAZÓN)|彼女の前をこっそりと通り過ぎることに成功する。#だが不幸にも、古くなった棚が大きく軋んで、#彼女が目を覚ましてしまう。##あなたは病院から追い出された。#(理性-1)
+Abandonas la idea de robar el documento del paciente. Seguramente obstaculizará tu investigación, pero una enfermera bien descansada significa un hospital más seguro.##(+2% DOOM)#(NIVEL DE AMENAZA DEL HOSPITAL -1)|あなたは患者の書類を持ち去ることを断念した。#調査が捗らないのは間違いないが、#彼女が十分休んでくれれば、#結果的にそれが病院の安全確保にもつながる。#(破滅値+2%)#(病院の危険度-1)
+Prendiste fuego al cubo de basura. Provoca un pánico generalizado, pero te permite hurgar en el gabinete y encontrar la información que necesitas.#(+10 EXP)#(NIVEL DE AMENAZA DEL HOSPITAL +1)|ゴミ箱に火をつけると、#院内はパニック状態になる。#あなたはどさくさに紛れて棚の中を物色し、#さらに求めていた情報を見つけることができた。#(EXP+10)#(病院の危険度+1)
+Al fingir una enfermedad, logras convencer a la enfermera de que necesitas ayuda inmediata.##Mientras ella corre hacia un médico, hurgas en el gabinete.#(+10 EXP)|あなたは病気のフリをして、#看護婦に急患だと思い込ませた。##そして彼女が医者を呼びに走っている間に、#あなたは棚の中を物色するのであった。#(EXP+10)
+YATSUHAKA-MURA|八つ墓村
+Está oscureciendo cuando llegas al cementerio y las sombras se mueven de maneras fantásticas e inexplicables entre las lápidas.##Encontrar la tumba adecuada puede resultar un desafío, especialmente cuando sientes la mirada de alguien en tu espalda.|辺りが暗くなる中、あなたは墓地に足を踏み入れた。#墓石の間から、不可解な動きをする影がちらつく。##それに加え、背中に何者かの視線を感じる。#このまま目的の墓を探すのは難しいかもしれない。
+sigue buscando|そのまま探す
+confrontar al extraño|謎の人物に立ち向かう
+correr aterrorizado|恐怖に駆られて逃げ出す
+desenterrar el paquete|小包を掘り出す
+[NECESITA ARTÍCULO 'PALA']|アイテム｢シャベル｣が必要
+Rápidamente encuentras la lápida marcada con un hilo rojo.##Debajo de una piedra, encuentras una nota que alguien te dejó.#(+5 EXP)|早速、赤い糸で印をつけられた墓石を見つけた。##石の下に、誰かがあなたに残したメモがある。#(EXP+5)
+Parece que no puedes encontrar la lápida adecuada y pierdes mucho tiempo antes de finalmente admitir la derrota.#(+2% DOOM)|なかなか墓石が見つからず、#時間を無駄にしてしまう。#結局は途中で諦めるしかなかった。#(破滅値+2%)
+Te das la vuelta y ves quién está detrás de ti. Afortunadamente, la otra persona es una amable anciana que te indica la lápida que estabas buscando.##Debajo de una piedra, encuentras una nota que alguien te dejó. #(+5 EXP)|後ろを振り向くと、#そこに誰がいたのか分かった。#幸運にも、あなたはその親切なおばあさんに#目的の墓石を教えてもらうのであった。##墓石の下に、誰かがあなたに残したメモを見つける。#(EXP+5)
+Un sacerdote del templo cercano te pregunta qué estabas haciendo. Cuando no puedes inventar una mentira, te echan.#(-1 RESISTENCIA)|近くの寺の住職に、#ここで何をしていたのかと聞かれる。#あなたはうまく誤魔化すことができず、#追い出されてしまう。#(スタミナ-1)
+¡Es demasiado para ti! ¡Huyes despavorido dejando atrás el cementerio!#(-1 RAZÓN)|もう耐えられない！#あなたは恐怖のあまり、その墓地から逃げ出した。#(理性-1)
+Usando una pala, sacas un paquete que estaba escondido debajo de la lápida marcada.##Recuperas la carta y un sobre sucio con dinero en efectivo.#(+5 EXP)#(+2 FONDOS)|印の付いた墓石。#あなたはシャベルを使って、#その下にある土を掘り出した。##そこから、#手紙と現金入りの汚れた小包封筒が出てくる。#(EXP+5)#(所持金+2)
+FLOTADOR DEL HOMBRE MUERTO|浮かぶ水死体
+Entras en el ala deportiva que huele a humedad.##Ves una mochila flotando sobre una tabla de natación en medio de la piscina. ¿Podría ser lo que estabas buscando?|あなたは体育棟の中に入った。#湿っぽい臭いが鼻をつく。##プールの真ん中にビートバンが浮かんでおり、#その上にリュックが置かれている。#あれが探していたものかもしれない。
+entrar al agua|プールに入る
+Entras en la piscina y empiezas a nadar hacia la mochila.##De repente, el agua se vuelve turbia y te das cuenta de que no estás solo en la piscina...|プールに入り、ビート板の方に向かって泳ぎ出す。##すると突然、水が黒く濁り始める。#そこにいたのは、#あなただけではなかったのだ…
+AULA A LA DERIVA|漂流教室
+Algo anda mal...##En lugar de un cielo azul claro, ves el cadáver hinchado de una deidad olvidada hace mucho tiempo que se cierne sobre el techo de la escuela.##La barrera entre los mundos se está desmoronando. Debes darte prisa o correr el riesgo de que te detecten otros horrores sobrenaturales que todavía acechan aquí.|どこか不穏な感じがする…#本来であれば、澄み切った青空が見えるはずの屋上。#空を見上げると、そこには驚愕の光景が#広がっていた。#長きにわたり、忘れ去られていた巨大な神。#その死体が、学校の屋上を覆い尽くしていたのだ。#向こうの世界との境界線が崩れつつある。#急がなければ…#この世界に潜む、他の怪異にも気付かれてしまう。
+intenta escabullirte|こっそりと逃げる
+correr|走り抜ける
+Logras agarrar la mochila y regresar a la escalera que conduce a nuestro mundo.#(+10 EXP)|何とかバックパックを手に入れ、#元の世界へと繋がる階段に戻った。#(EXP+10)
+Levantas la cabeza a tiempo para ver el único ojo de ATH-YOLAZSTH mirándote.#Gritas mientras tu mente se inunda de conocimiento prohibido y tu piel está grabada con antiguas runas y maldiciones.#(+20 EXP / + MALDICIÓN)|空を仰ぐと、アトゥ＝ヨラズスの単眼が#こちらを見下ろしていた。#あなたが悲鳴を上げると、#禁断の知識が濁流のように頭へ流れ込む。#そして、古のルーン文字と呪印が、#肌に刻み込まれてしまう。#(EXP+20 / +呪い)
+Logras agarrar la mochila y regresar a la escalera que conduce a nuestro mundo.#(+10 EXP)|何とかバックパックを手に入れ、#元の世界へと繋がる階段に戻った。#(EXP+10)
+Levantas la cabeza a tiempo para ver el único ojo de ATH-YOLAZSTH mirándote.#Gritas mientras tu mente se inunda de conocimiento prohibido y tu piel está grabada con antiguas runas y maldiciones.#(+20 EXP / + MALDICIÓN)|空を仰ぐと、アトゥ＝ヨラズスの単眼が#こちらを見下ろしていた。#あなたが悲鳴を上げると、#禁断の知識が濁流のように頭へ流れ込む。#そして、古のルーン文字と呪印が、#肌に刻み込まれてしまう。#(EXP+20 / +呪い)
+MUÑECA DE GIMNASIO|体育館の人形
+Al entrar al gimnasio de la escuela, notas una extraña muñeca negra apoyada contra la pared.|学校の体育館に入るあなた。#すると、壁に奇妙な黒い人形が#立てかけられていることに気付く。
+Acércate|もっと近づく
+darse cuenta de lo que es|その正体に気付く
+[NECESITA LA VENTAJA 'CLASE DE ANATOMÍA']|パーク｢解剖学の授業｣が必要
+En contra de tu buen juicio, te acercas a la muñeca. Lo que ves te hace jadear de horror.##La muñeca no es una muñeca. Tu movimiento repentino hace que pequeñas arañas negras huyan, revelando un cadáver blanco a medio comer#(-2 RAZÓN)|嫌な予感を抱えながらも、人形に近づくあなた。#その光景が目に入った瞬間、#あまりの恐怖に息を呑む。##それは、人形ではなかったのだ。#急に近づいたせいか、#小さな黒い蜘蛛たちが逃げ出す。#すると、白い食べかけの死体が現れた。#(理性-2)
+No tienes que acercarte para darte cuenta de qué es la extraña muñeca negra, lo que te permite evitar la desagradable sorpresa.##Escapas del gimnasio y recuerdas alertar a alguien sobre el cadáver.#(+2 RAZÓN)|この黒い人形が何なのか、#これ以上近づかなくても解る。#触らぬ神に祟りなしだ。##あなたはこのことを記憶に留めつつ、忘れずに#誰かに伝えようと思いながら体育館を抜け出した。#(理性+2)
+FIESTA DEL CANGREJO|カニのご馳走
+Los cangrejos se dan un festín con un cadáver hinchado, arrastrado a la playa por las olas.|波によって浜辺へと運ばれてきた水死体に、#カニたちが群がっている。
+buscar el cuerpo|死体を調べる
+escapar|逃げる
+Dentro del bolsillo del hombre se encuentran documentos. Están todos extrañamente secos.##¿El hombre realmente se ahogó o lo trajeron aquí?...#(+10 EXP)|男のポケットから紙きれを見つけた。#奇妙なことに、そのどれもが乾いている。##本当に溺れたのか、#あるいはここに連れてこられたのか…#(EXP+10)
+Al alcanzar el cuerpo, eres atacado por varios cangrejos que no quieren compartir su comida.#(-2 RESISTENCIA)|死体に手を伸ばすと、#食事を横取りされたくないカニたちに#襲われてしまう。#(スタミナ-2)
+Escapas de la playa, seguro de que los cangrejos no dejarán más que huesos...#(-1 RAZÓN)|浜辺から逃げる。#あの死体は骨以外何も残らないだろう。#(理性-1)
+CABEZAS DE PESCADO|魚頭
+Un hedor nauseabundo te detiene. Alguien ha esparcido tripas de pescado podridas por todas partes y ha colgado innumerables cabezas de pescado.##Te cubres la boca mientras te retiras lentamente. Una gran bandada de gaviotas afuera ataca brutalmente las ventanas.#(-1 RESISTENCIA / -1 RAZÓN)|吐き気を催すような悪臭に、#思わず足が止まってしまう。#何者かが腐った魚の内臓を至る所にばらまき、#無数の魚の頭を吊るしていったのだ。##あなたは口を塞ぎ、おそるおそる退散した。#外ではカモメの大群が、#窓ガラスに激しくぶつかって割ろうとしている。#(スタミナ-1 / 理性-1)
+VIAJE EN METRO|誰もいない地下鉄
+La única línea de metro de tu ciudad conecta la universidad y el complejo científico.##Podrías tomar un viaje para ganar algo de tiempo, pero tienes la sensación de que algo anda mal.##¿Dónde está toda la gente?|大学と科学施設を結ぶ#この町、唯一の地下鉄。##時間短縮のために乗ってみてもいいだろう。#…だが、どこか違和感がある。##乗客は全員、どこへ…？
+dar un paseo|乗車する
+decidir caminar|歩いて行く
+Aunque el vagón del metro esté completamente vacío, llegas a tu estación sin problemas, ahorrando un tiempo valioso.#(-2% DOOM)|車内には誰一人としていなかったが、#特に何事もなく目的の駅に到着する。#時間を節約することができた。#(破滅値-2%)
+Es evidente que algo anda mal. No hay luces dentro del vagón del metro, y todo lo que puedes ver son innumerables huellas de manos presionadas en las ventanas...#(-2 RAZÓN)|明らかに何かがおかしい。#車内に明かりはない。#あなたがそこで目にしたのは、#窓に押し付けられた無数の手形だった…#(理性-2)
+Caminar hasta tu destino requiere un tiempo precioso.#(+1% DOOM)|徒歩での移動で、#貴重な時間をムダにしてしまう。#(破滅値+1%)
+DESCANSO DEL ATARDECER|夕暮れ時の休憩
+Te encuentras con tu amiga, que recientemente comenzó su práctica de enfermería. Charlas perezosamente en el techo del hospital, contemplando la puesta de sol.##Ahora sería la oportunidad perfecta para preguntar sobre los recientes acontecimientos sobrenaturales.|あなたは友人と会った。#最近、看護婦の仕事を始めたばかりだという。#病院の屋上で夕日を見ながら、#のんびりとお喋りをする。##近頃起きている不可解な出来事…#これらについて聞いてみるなら、#今こそ絶好の機会だろう。
+pregunta sobre ellos|話題に出す
+no arruines el momento de calma|話題に出さない
+Sus historias sobre pacientes desaparecidos, cirugías misteriosas y una infección extraña son útiles, pero matan el estado de ánimo.##Debes abandonar este lugar.#(+10 EXP / -2 RAZÓN)|行方不明の患者、謎の手術、奇妙な感染症など…#参考になる話を聞けたが、#その場の雰囲気は台無しになってしまった。##もう帰らなくては。#(EXP+10 / 理性-2)
+A veces es mejor no saberlo. Charlas hasta que termina el descanso de tu amigo.#(+1 RAZÓN)|世の中には知らない方がいいこともある。#休憩時間が終わるまで、#友人とお喋りをした。##(理性+1)
+PRÓXIMO MOVIMIENTO|次の予定
+Mientras preparas un baño, piensas en todas las posibles pistas hasta el momento. ##Estás muy cansado, así que quizás el agua helada sea una buena idea.|風呂の準備をしながら、これまでに掴んだ#手がかりについて考えてみる。##疲れが溜まっているから、#冷たい風呂の方がいいかもしれない。
+baño de agua fría|冷たい風呂に入る
+baño caliente|熱い風呂に入る
+El agua helada te revitaliza y estás listo para la investigación.#(+10 EXP)|冷たい水でリフレッシュする。#調査を進める準備が整った。#(EXP+10)
+Claramente tu cuerpo no estaba preparado para un baño frío y puedes sentir que se avecina un resfriado.#(-2 RESISTENCIA)|冷たい水に体が慣れていなかった。#風邪を引きそうな気がする。#(スタミナ-2)
+El baño caliente es tan acogedor que has pasado una hora extra en él.#(+1% DOOM)|あまりに気持ちよくて、#ついつい1時間以上も長風呂してしまう。#(破滅値+1%)
+BOSQUE PETRIFICADO|石化林
+Las ramas caídas de los árboles cuelgan sobre el camino, enmarcándolo de una manera casi macabra.##Es... ¿casi inspirador?|長く垂れ下がった木の枝が、#道の両脇で不気味なまでに揺らいでいた。##何だか…吸い込まれそうな気がする。
+perderse en pensamientos|思案に暮れる
+conseguir un control|気を引き締める
+Te pierdes completamente en tus pensamientos. Deambulas por el bosque durante mucho tiempo, pero estás seguro de que tienes nuevas pistas en tu investigación.#(+10 EXP)|すっかり考え事にふけるあなた。#この森の中を長らく彷徨っていたが、#ここで新たに調査の手がかりを得られた。#(EXP+10)
+Te pierdes completamente en tus pensamientos y caes en un agujero que estaba torpemente cubierto con ramas y hojas.##¿Quién preparó esta trampa y para quién?#(-2 RESISTENCIA)|我を忘れて考え事をしていたところ、#あなたは枝葉に覆われた穴へと落ちてしまう。##誰が、何のために、こんな罠を仕掛けたのだろう…#(スタミナ-2)
+Aceleras el paso y abandonas el camino amenazador.#(-1 RAZÓN)|あなたは足早に、その恐ろしい道から離れた。#(理性-1)
+AGENTES DE GOIZO|ゴイゾの眷属
+Intentas evitar los espejos, temeroso de lo que podría estar esperándote al otro lado.#(-1 RAZÓN)|鏡の向こう側に、何が待ち構えているのだろうか…#怖くて、鏡を見られない。#(理性-1)
+PILAR DE LLAMA|炎の柱
+Una repentina ráfaga de calor llama tu atención. Un hombre mayor parado a tu lado grita de dolor mientras es envuelto en fuego aparentemente de la nada. Mientras otras personas comienzan a entrar en pánico y ayudan a la víctima de la quemadura, ves a una mujer encapuchada parada en la distancia. ¡Cuando te ve, comienza a correr!##No puedes deshacerte de la sensación de que _tú_ fuiste el objetivo de este ataque sobrenatural.|突然の熱風に目が眩む。隣にいた年配の男性が#突如現れた炎に包まれ、悲鳴を上げる。#周りの人たちが慌てて彼を助ける中、#あなたは遠くにフードを被った女を見かけた。#こちらに気付くなり、すぐさま女が逃げ出す。#普通に考えれば、ありえない現象だ…#もしかして、狙いは自分だったのか？#そんな疑念が頭から離れない…
+perseguir a la mujer encapuchada|フードの女を追う
+La mujer encapuchada desaparece detrás de una esquina y cuando llegas allí ya no está, ya mezclada con la multitud.#En un contenedor de basura cercano, encuentras la sudadera con capucha que apesta a azufre y un sobre que contiene tu foto, además de un curioso encantamiento...# (+ HECHIZO)|フードの女は曲がり角の奥へと消えてしまう。#あなたがそこに着いた時には、#彼女はすでに人混みの中に消えていた。#そばにあったゴミ箱から、#硫黄臭いパーカーとあなたの写真が入った封筒、#そして奇妙な呪文を発見する。#(+呪文)
+La encapuchada desaparece tras una esquina y cuando llegas ya no está, ya mezclada con la multitud.#Hoy no han podido detenerte, pero seguro que lo intentarán una y otra vez...#(+2% CONDENAR)|フードの女は曲がり角の奥へと消えてしまう。#あなたがそこに着いた時には、#彼女はすでに人混みの中に消えていた。#今日は失敗したようだが、#また何度でも襲ってくるはずだ…#(破滅値+2%)
+MAL SENTIMIENTO|胸騒ぎ
+A pesar de sus mejores esfuerzos, siente que el vecindario está comenzando a cambiar...#(EL NIVEL DE AMENAZA DE LA UBICACIÓN AUMENTA)|あなたの健闘もむなしく、#この一帯はおかしくなり始めていた…#(調査ポイントの“危険度”が上昇)
+PISTA VITAL|重要な手がかり
+La investigación le está pasando factura. Empiezas a perder las pistas más obvias.#(+4% DOOM)|調査が進むにつれ、体力も精神も#限界に近づいてくる。#その結果、決定的な手がかりさえ#見逃すようになってしまう。#(破滅値+4%)
+RIFA DE ABRIGO NEGRO|黒い法被のテキ屋
+>>¡Ahí, ahí! ¿Te gustaría probar tu suerte en este excelente juego?<<|>>寄ってらッしゃイ、見テらっしゃい！#このイケてるゲームで#アんチャンも運試しシてミなイ？<<
+consigue un boleto|くじを1枚引く
+consigue dos boletos|くじを2枚引く
+alejarse|通り過ぎる
+>>¡Tenemos un ganador!<<#El vendedor espeluznante te entrega tu premio.##>>s-Hasta pronto-<<#(+2 FONDOS)|>>大当たりガ出たア！<<#怪しいテキ屋から景品を受け取る。##>>嘛マた來な！<<#(所持金+2)
+>>n-no es tu día de suerte, ¡lo siento!<<#El vendedor espeluznante sonríe.##>>s-Hasta pronto-<<#(-1 FONDOS)|>>ざんネン！今日はツイて柰かッたナ！<<#怪しいテキ屋が笑う。##>>嘛マたキな！<<#(所持金-1)
+>>¡Lo-lo siento! ¡No puedes permitirte un boleto para la rifa!<<#(-1 RAZÓN)|>>ざんネン！くじヲ引ク余裕ワねェ繪ようダな！<<#(理性-1)
+>>Un premio especial para ti...<<##El vendedor espeluznante te entrega un mapa del pueblo. Un edificio está marcado con un círculo rojo.|>>トク別无な景品ダ兊ゼ昰…<<##不気味な男から村の地図をもらった。#ある建物に赤い丸印が付けられている。
+Te marchas sin querer desprenderte de tu dinero.|お金を使いたくないので、その場を立ち去った。
+PRUEBA DE SANGRE (CUCHILLOS)|血の試練 (刃の恐怖)
+Siguiendo la escalera de caracol, encontrarás una puerta metálica que bloquea tu camino. #Está cerrado, pero notas un cable eléctrico. Parece conectar la puerta a un agujero dentro del pilar central.##Si hay un interruptor en el interior, tendrás que correr el riesgo de que te corten los numerosos fragmentos de vidrio y cuchillos.|螺旋階段を進むと、金属製の扉に行く手を阻まれる。#鍵がかかっているが、#そばに電気ケーブルがあるのが見えた。#これが中央の柱にある穴と扉を繋いでいるようだ。##もし、この中に何かの仕掛けがあるとしたら、#無数のガラス片や刃物に#切り刻まれる覚悟でやらなければ。
+encontrar un interruptor|ボタンを探す
+(no hay suficiente destreza)#Puedes sentir el vidrio afilado rasgando tu carne mientras buscas el interruptor. Finalmente, agarras un cable y lo sigues con tus dedos sangrantes hasta encontrar el botón...##Con un zumbido, la puerta se abre.#(-3 RESISTENCIA)|(敏捷性が足りない)#スイッチを探す間も、鋭いガラスが#肉を切り裂いていく。#あなたはようやくケーブルを掴み、血だらけの指で#その先にあるボタンを探り当てた。##ブザー音とともに扉が開く。#(スタミナ-3)
+Has logrado localizar el interruptor de la puerta evitando los cuchillos y los fragmentos de vidrio.##Con un zumbido, la puerta se abre.#(+10 EXP)|何とかナイフやガラスの破片を避けながら、#スイッチを見つけることができた。##ブザー音とともに扉が開く。#(EXP+10)
+PRUEBA DE SANGRE (ÁCIDO)|血の試練 (酸の恐怖)
+Siguiendo la escalera de caracol, encontrarás una puerta metálica que bloquea tu camino. #Un cable que debería alimentarlo está actualmente desconectado. La caja de energía en sí está cubierta de una extraña sustancia viscosa y húmeda.##El solo hecho de inhalar los vapores hace que te piquen los ojos y te lagrimeen, pero para alimentar la puerta necesitarás desconectar un enchufe defectuoso.|螺旋階段を進むと、金属製の扉に行く手を阻まれる。#ゲートを動かすケーブルは断線しており、電源装置も変に湿った粘液で塗れていた。##そのガスを吸い込むだけで目がかゆくなり、#涙が出てくる。だが、扉を動かすためには、#故障したプラグを取り外さなければならない。
+desconecte el enchufe defectuoso|故障したプラグを引き抜く
+(no hay suficiente fuerza)#Te sorprende el esfuerzo que se necesita para desconectar el enchufe defectuoso. Mientras lo fuerzas, la sustancia extraña te quema los dedos...##Finalmente, logras separar el enchufe defectuoso y conectar el cable adecuado.#Con un zumbido, la puerta se abre.#(-3 RESISTENCIA)|(筋力が足りなかった)#プラグを外すのに、意外と手間取ってしまった。#力を入れて引き抜くと、あの奇妙な粘液に#指を焼かれてしまう…#やっとの思いで故障中のプラグを取り外し、#正しいケーブルを繋ぐことができた。#ブザー音とともに扉が開く。#(スタミナ-3)
+Una sustancia extraña te quema los dedos, pero rápidamente logras separar el enchufe defectuoso y conectar el cable adecuado.#Con un zumbido, la puerta se abre.#(+10 EXP)|奇妙な粘液に指を焼かれるも、#あなたは素早く故障したプラグを取り外し、#正しいケーブルを繋げることに成功した。#ブザー音とともに扉が開く。#(EXP+10)
+EL PROFETA DEL OJO IMPRESIONANTE|邪眼の代弁者
+La gente señala y habla de un hombre al otro lado de la calle.##Parece confundido, murmura para sí mismo mientras ocasionalmente se toca una herida supurante en la mejilla.##Te detienes en seco y escuchas el encantamiento maldito del hombre. ..#(-2 RAZÓN)|通りの反対側にいる男を指差して、#人々が話し込んでいる。#男は頭がこんがらがっているようで、#時折、頬の化膿した傷に触れながら#独り言を呟いていた。##彼が口ずさむ呪文に#足を止めて聞き入ってしまう…#(理性-2)
+HISTORIA DE LA COSTURERA|お針子さん
+Hay una leyenda local sobre una costurera desconsolada. Una noche de tormenta, irrumpió en una posada local y unió a los desprevenidos huéspedes. Su obra de arte final y espantosa...##Pero eso es sólo una leyenda, ¿verdad?|地元に、悲しいお針子にまつわる言い伝えがあった。#ある嵐の夜、地元の宿に忍び込んだ彼女は、#無防備に眠っている客たちの手を縫い合わせ、#おぞましい作品を残して逝ったらしい。##だがそれも、ただの言い伝えだろう。
+hurgando en el armario|食器棚を漁る
+echa un vistazo a la máquina de coser|ミシンを調べる
+Dentro del armario, encuentras un kit de costura y decides salir de la habitación antes de que surjan leyendas.#(+ ARTÍCULO)|戸棚の中から裁縫道具が見つかる。#あなたはあの言い伝えが甦るまえに、#部屋を出ることにした。#(+アイテム)
+En la máquina de coser ves un extraño grabado. Cuando te acercas para investigar, tu mente se inunda de conocimientos prohibidos. Sales rápidamente de la habitación.#(+HECHIZO)|ミシンを見ると、#奇妙な刻印があることに気づく。#近づいて調べてみると、#禁断の知識が頭の中に溢れ出す。#あなたはすぐさま、その部屋から出て行った。#(+呪文)
+POR FIN TE HE ENCONTRADO...|見ーツけタァ…
+Por fin te he encontrado...|見ーツケたァ…
+POR FIN TE HE ENCONTRADO...|ミーつケたぁ…
+PILAR DE LA DOOM|呪われし石柱
+Todo el edificio comienza a temblar cuando entras en la habitación.##¡De repente, un pilar de piedra atraviesa el suelo donde estabas hace unos segundos!##Al notar los símbolos arcanos pintados en la piedra, das un paso más cerca...|その部屋に入った途端、建物全体が揺れ始めた。##そこに突然、ついさっきまで立っていた床を#突き破り、石柱が現れる！##表面に不可解な印が描かれているのを目にした#あなたは、一歩近づいて…
+toca la piedra|その石を触る
+retirarse de la habitación|部屋から出る
+estudiar los símbolos|その印を調べる
+Cuando tus dedos tocan la piedra, los símbolos desaparecen.##Eso es algo bueno, ¿verdad?...#(+10 EXP)|石に指が触れた瞬間、その印は消えてしまった。##これで良かったんだろうか…？#(EXP+10)
+Cuando extiendes la mano para tocar la piedra, te sorprende lo caliente que está la superficie. ¡Te quema los dedos!#(-2 RESISTENCIA)|石に手が触れた瞬間、予想外の熱さに驚く。#指を火傷してしまった！#(スタミナ-2)
+Sales de la extraña habitación mientras la piedra desaparece lentamente bajo tierra...#(-1 RAZÓN)|その奇妙な部屋を出るあなたの後ろで、#石柱がゆっくりと地中に消えていった…#(理性-1)
+Reconoces algunos de los símbolos de una tablilla de piedra que viste en el museo.##¿Cuál es la conexión?#(+10 EXP)|以前、美術館で見た石板のものと#似ている気がする。##何か繋がりがあるのだろうか？#(EXP+10)
+¡Intentas reconocer los símbolos, pero se mueven y cambian ante tus ojos!##Mareado, escapas de la habitación mientras la sangre brota de tu nariz.#(-2 RAZÓN)|何とかその印を解読しようとするも、#目の前で模様が変わっていってしまう！##眩暈がする…#鼻から血が滲ませながら、#あなたはその部屋から抜け出した。#(理性-1)
+POSADA ROJA|鮮血に染まる宿
+Preocupado y furioso por el agujero en la pared, entras a la posada por la parte trasera, intentando encontrar la habitación que conecta con la tuya. Pensando que finalmente lo has encontrado, entras y...##¡Todas las paredes están cubiertas de sangre y sangre! Alguien ha garabateado símbolos extraños por todas partes. Ves algo en la mesa de noche, pero hay demasiada carne y sangre para saber qué es desde aquí...|壁の穴が気になって仕方がない。#あなたは裏から宿に入り、#自室とつながっている部屋を探そうとした。#そうして、やっと見つけた部屋の中に入ると…##壁一面が血と肉で覆われていた。#加えて、至る所に奇妙な印が描き散らされている。#脇机の上に何かが見えるも、部屋中が血と肉で#溢れかえり、ここからではよく分からない…
+recoger la cosa|それを手に取る
+Por un segundo, te preocupaste que fuera una calavera lo que tenías en tus manos, pero a medida que limpias más sangre, queda claro que has cogido una máscara de aspecto extraño.#(+ ARTÍCULO)|一瞬、頭蓋骨を取ってしまったのかと心配したが、#血を拭き取ると、それが異様な形をした#仮面であることに気付く。#(+アイテム)
+¡La sangre es demasiado para tu estómago! Cuando finalmente te recompones, agarras la cosa.##Por un segundo, te preocupaba que fuera una calavera lo que tenías en tus manos, pero a medida que limpias más sangre, queda claro que has cogido una máscara de aspecto extraño. #(+ ARTÍCULO / -2 RESISTENCIA)|その凄惨な光景に、胃の中のものを#吐き出しそうになる！#ようやく落ち着き、その物を掴み取るあなた。##一瞬、頭蓋骨を取ってしまったのかと心配したが、#血を拭き取ると、それが異様な形をした#仮面であることに気が付く。#(+アイテム / スタミナ-2)
+CONSPIRANTE (NIÑA DELINCUENTE)|共謀 (スケバン少女)
+Te detiene una chica que vestía un sucio uniforme escolar negro.##<<Lo siento, pero no puedo dejarte ir más lejos.>> dice, alcanzando su bolso. <<De todos modos es demasiado tarde.>>##Instintivamente das un paso atrás cuando notas un cuchillo en su mano. ¡Tienes que pensar rápido!|黒く汚れた制服を着た少女に呼び止められる。#<<悪いけど、こっから先は行かせないから。>>#そう言って彼女は、カバンに手を伸ばした。#<<どのみち、もう手遅れなんだよ。>>##その手にナイフが握られていることに気づき、#本能的に身を引く。#どうする…すぐに考えなければ！
+intenta razonar con ella|説得する
+Intentas convencerla para que te permita pasar.##<<De todos modos ya es demasiado tarde...>> susurra de nuevo, dejándote continuar. La chica delincuente asiente con tristeza cuando pasas junto a ella.#(+10 EXP)|何とか説得して、先に進もうとする。#<<もう手遅れなのよ…>>#彼女は先ほどと同じことを呟きつつ、#あなたを奥に通した。#通り過ぎる際、悲しげに頷く姿が目に入る。#(EXP+10)
+(no hay suficiente carisma)#¡Intentas convencerla para que te permita pasar, pero de repente, ella levanta el cuchillo y se corta la garganta, casi decapitándose!##Pasas con cuidado sobre su cuerpo...#(-2 RAZÓN)|(カリスマが足りなかった)#何とか彼女を説得して通ろうとする。#だが突然、彼女は持っていたナイフを振り上げて、#首を切り落とす勢いでその喉を切り裂いた…##あなたは慎重にその体を跨いで、先へと進んだ…#(理性-2)
+VELO DE OSCURIDAD|夜の帳
+Siguiendo la escalera de caracol, te detiene... la oscuridad.##Una espesa nube negra está oscureciendo tu visión y puedes jurar que _algo_ te está esperando dentro de ella.|曲がりくねった階段の先で足を止める。#そこには…闇が広がっていた。##視界を遮るほどの濃い黒煙。#この中で“何か”が自分を待ち構えている…#そんな予感がした。
+seguir subiendo|そのまま上る
+ilumina tu camino|暗闇を照らす
+[NECESITA UNA FUENTE DE LUZ]|[光源]が必要
+La fuente de luz parece repeler de alguna manera la oscuridad y continúas subiendo las escaleras, a salvo.#(+10 EXP)|明かりを使って、どうにか闇を退ける。#そしてそのまま、何事もなく階段を上り続けた。#(EXP+10)
+Decides desafiar el velo. Finalmente emerges un rato después, a salvo. Sin embargo, no puedes explicar los susurros blasfemos que escuchaste.#(-3 RAZÓN)|意を決して、あの闇の中をくぐり抜けることにする。#時間はかかったものの、無事にその試みは成功した。#だが、そこで耳にした冒涜的な囁きを#理解することはできない。#(理性-3)
+PRUEBA DE SANGRE (ELECTRICIDAD)|血の試練 (電気の恐怖)
+Siguiendo la escalera de caracol, te detendrá una puerta de metal.##La pequeña página clavada en la puerta explica que para abrir la puerta será necesario agarrar dos varillas de metal. Usando tu propio cuerpo como conductor natural, activarás la puerta.|螺旋階段を進むと、金属製の扉に行く手を阻まれる。#そこに釘打ちされた説明書きを読むと、#扉を開けるには二本の金属棒を掴まなければならないと記されていた。#自らの体を導体として、あの扉に電気を通すのだ。
+agarra las varillas de metal|金属棒を掴む
+(no hay suficiente conocimiento)#¡Agarras las varillas, la electricidad fluye a través de tu cuerpo y quema las terminaciones nerviosas! El dolor es casi insoportable pero...#con un zumbido, la puerta se abre.#(-3 RESISTENCIA)|(賢さが足りない)#棒を掴んだ瞬間、体中に電気が駆け巡った！#神経の先まで焼き尽くされるような、#耐えがたい痛みが広がる。#そして、ブザー音とともに扉が開いた。#(スタミナ-3)
+(verificación de conocimientos: aprobada)#Estás a punto de agarrar las varillas cuando notas los diales y los botones. Juegas con ellos un rato antes de ajustar tanto el voltaje como la corriente para que sea seguro agarrarlos.#Con un zumbido, la puerta se abre.#(+10 EXP)|(賢さチェック: 成功)#棒を掴もうとしたその瞬間、#近くにダイヤルとボタンがあることに気付く。#少しいじってから電圧と電流を調整し、#安全に掴めるようにする。#すると、ブザーとともに扉が開いた。#(EXP+10)
+Recuerdos confusos|ぼんやりとした記憶
+Siguiendo la escalera de caracol, te detendrás-esperarás un minuto...##¡Alguien irrumpió en tu apartamento, robó todas las pistas y recortes de periódicos y los clavó aquí! Cuanto más los estudias, descubres que no puedes recordar ninguno de ellos... excepto uno.##[SELECCIONA EL TÍTULO DEL SEGUNDO MISTERIO QUE INVESTIGÓ]|曲がりくねった階段の先で、#足を止めるあなた。ま、待て…#そこには見覚えのあるものが貼り付けられていた。#何者かがあなたのアパートに侵入し、手がかりから#新聞の切り抜きに至るまで全て持ち去ったのだろう。#じっくり見てみるが、どれもはっきり思い出せない…ただ一つを除いて。##[あなたが調査をした2つ目の謎を選択してください]
+(respuesta correcta)#Rasgas el recorte de periódico de un caso que pareces recordar. Debajo hay un pequeño botón. Lo presionas y...#Con un zumbido, la puerta se abre.#(+10 EXP)|(正解)#うろ覚えながら、その事件に関する切り抜きを破く。#すると、その下から小さなボタンが見つかる。#それを押すと…ブザーとともに扉が開いた。#(EXP+10)
+(respuesta incorrecta)#Te empieza a doler la cabeza, ¿es todo algo que has imaginado?##Los recortes de periódico desaparecen repentinamente, al igual que la puerta, lo que te permite continuar.#(+5% DOOM)|(不正解)#頭が痛くなってくる。#あれは全て、自分の妄想だったとでも…？#すると突然、その切り抜きとともに扉が消えて、#先に進めるようになった。#(破滅値+5%)
+PRÓXIMA EXPOSICIÓN|来たる展示会
+El museo empezó a colgar carteles promocionando la exposición de arte griego, sin darse cuenta del peligro. La noche de apertura puede llegar a ser la última noche para todos nosotros.##ITHOTU se acerca y ahora ya sabes la fecha.#(+3% DOOM / +10 EXP)|ギリシャ美術展の宣伝ポスターが貼られ始める。#それがどれほど危険なことなのかも知らずに…#展示会の初日、その夜が私たちにとって#最期の夜となるかもしれない…##イトツのやってくる日が判明した。#(破滅値+3% / EXP+10)
+FIESTA DE CAZA|猟師の一団
+Al escuchar un crujido detrás de un arbusto, decides esconderte detrás de un árbol. Allí ves a tres hombres, cada uno armado con un rifle. Obviamente están buscando algo... o alguien.|茂みの向こうから物音が聞こえ、#あなたはすぐさま木の後ろに身を隠した。#3人の男が猟銃を持っている。##明らかに何か…#あるいは、“誰か”を探しているようだ。
+muestrate|姿を現す
+correr|走り抜ける
+<<¡Hola!>> dice el cazador.#<<Este bosque no es seguro a esta hora. ¿Qué estás haciendo aquí? >>##Intentas preguntar sobre el peligro pero simplemente te dan una linterna y te señalan la carretera más cercana. Algo te dice que debes irte y no molestarlos.#(+ ITEM)|<<おい！>>猟師が話しかけてくる。#<<この森は危険だ。こんな時間に何してる？>>#あなたは何が危ないのか尋ねようとした。#だが、彼らはただ懐中電灯を渡し、#一番近い道を指差すだけで何も言わない。#ここは彼らの神経を逆なでしないよう、#素直に立ち去るべきだと何かが告げている。#(+アイテム)
+Caminas desde detrás de un árbol y saludas. De repente, escuchas un golpe y sientes un impacto en tu hombro, que rápidamente se convierte en un dolor intenso.#<<¡Maldita sea! ¡Ese no es él!>> Escuchas el grito de uno de los hombres antes de que todo oscurezca.##Cuando abres los ojos, te encuentras al lado de un camino que conduce al bosque. Tu herida está vendada pero temes que no sea suficiente.#(-2 RESISTENCIA / + ESTADO)|木陰から出て、猟師に手を振る。#すると突然、バンという音がして肩に衝撃が走った。#たちまち、鋭い痛みとなって広がる感覚。#<<くそっ！奴じゃない！>>#その叫び声を聞いた直後に、辺りが真っ暗になる。#目を覚ますと、あなたは森へと続く道のそばにいた。#傷に包帯が巻かれているが、これだけでは心配だ。#(スタミナ-2 / +｢応急手当｣)
+Corres, dejando rápidamente al cazador detrás de ti. Te detienes cuando llegas al borde del bosque.#(+10 EXP)|素早く走り出し、#猟師たちを置き去りにする。#そして、森の端まで来たところで足を止めた。#(EXP+10)
+Decides huir de los hombres sospechosos. De repente, escuchas un golpe y sientes un impacto en tu hombro, que rápidamente se convierte en un dolor intenso.##<<¡Rápido! ¡Síguelos! >> escuchas a los hombres pero a pesar de tu lesión, logras perderlos detrás de ti.#(+ HERIDA)|不審な男たちから逃げ出そうとする。#突然、バーンという音がして、肩に衝撃が走る。#衝撃はたちまち激痛へと変わっていく。#<<急げ！追え！>>という男たちの声が聞こえる。#手負いの状態ではあったが、#何とか彼らを撒くことができた。#(+怪我)
+ESCENA DEL CRIMEN|犯行現場
+<<¡Para! ¡Ésta es la escena de un crimen!>>#Un policía sudoroso te detiene.##Detrás de él, otros dos policías están metiendo algo en bolsas negras.|<<止まれ！ここは犯行現場だぞ！>>#汗だくの警察官に呼び止められる。##その後ろで、二人の警官が黒い袋に#何かを詰めていた。
+trata de saber qué pasó|何が起こったのか探る
+centrarse en los oficiales|警官たちをよく見る
+Consigues vislumbrar a un oficial. Sostiene una piedra brillante en su mano antes de guardarla dentro de una bolsa. ## ¿Podría ser un meteorito del que habló el reportero de televisión? Tienes que regresar aquí más tarde, cuando la policía se haya ido.#(+10 EXP)|ふと、一人の警官の姿が見えた。#彼は手に輝く岩を握り、それを袋に詰め込んでいた。##もしかして、テレビで報道されていた隕石だろうか？後で警察がいなくなったら、#ここに戻ってこなければ。#(EXP+10)
+Logras vislumbrar un cadáver con la cabeza aplastada. La sangre y la sangre se derraman por todas partes sobre la arena.#(-2 RAZÓN)|あなたの目に一瞬、#頭を潰された死体がちらっと見えた。#砂の上には血と内臓が散らばっている。#(理性-2)
+Notas algo raro. Cada 'oficial' tiene un pequeño tatuaje en el cuello. ¿Quiénes son y qué están haciendo realmente aquí? #(+10 EXP)|奇妙なものが、あなたの目に留まる。#どの警官の首にも、# “小さな刺青”が入っているのだ。#彼らは何者なのか…#そして、ここにいる本当の目的は何なのだろうか？#(EXP+10)
+<<¿Qué estás mirando? Lárgate o te encerraremos por una noche.>>#(-1 RESISTENCIA)|<<何を見てるんだ？さっさと行け。#でないと、留置所に一晩ぶち込むぞ。>>#(スタミナ-1)
+DONACIÓN DE SANGRE|献血運動
+Una mujer pálida vestida de enfermera te detiene. <<Hoy estamos organizando una campaña de donación de sangre para ayudar a los necesitados.##Te ves... saludable, ¿serías tan amable de ayudar a la comunidad?>>|ナース服を着た、色白の女性に呼び止められる。#<<本日、血を必要とする方々のために、#私どもで献血活動を行っております。##あなたは…健康そうですね。#地域社会のためにも、協力いただけませんか？>>
+dona tu sangre|献血をする
+poner una excusa|言い訳をする
+Sientes que te sacaron más sangre de la que deberían. Te sientes débil pero satisfecho, sabiendo que estás ayudando.#(-2 RESISTENCIA / -3% DOOM)|必要以上に血を抜き取られた気がする。#多少ふらふらするが、誰かの役に立ったことで#心は満たされた。#(スタミナ-2 / 破滅値-3%)
+La extraña enfermera te conecta a una máquina en una habitación vacía y se va.##Te sientes cada vez más débil, pero sólo cuando la bolsa de sangre se abre de golpe, rociando tu sangre por todas partes, ¡las alarmadas enfermeras te liberan del artilugio!#(-3 AGUANTE)|何もない部屋で、不気味な看護師は#あなたを装置に繋いで去っていってしまった。##だんだん意識が遠のいていくのを感じる。#すると血液バッグが破裂し、#部屋中に血が飛び散ってしまう！#慌てた看護婦たちが、すぐに装置を外してくれた…#(スタミナ-3)
+Inventas una excusa y dejas atrás a la enfermera decepcionada.#(-1 RAZÓN)|あなたは言い訳をした。#がっかりした看護婦を置いて、その場を去る。#(理性-1)
+RINCÓN ENAMORADO|恋わずらいの辻道
+Dicen que el fantasma de un niño con el corazón roto aparece en esta calle por la noche. ¿Es solo una leyenda urbana o hay algo de verdad en esta historia?|この通りには、#夜な夜な失恋した少年の霊が現れるという。##それはただの都市伝説なのか、それとも…？
+pasar la noche aquí|ここで一晩過ごす
+enciende el VELO SANTO|「聖なる蝋燭」に#火を灯す
+[necesita el elemento 'VELA SANTA']|アイテム「聖なる蝋燭」が必要
+Esperas toda la noche, observando el lugar donde aparecería el supuesto fantasma, pero no pasa nada.##Te sientes aliviado de que sea solo un rumor.#(+1 RAZÓN)|あなたは一晩中、幽霊が現れるとされる場所を#観察しながら待ってみた。#しかし、何も起こらない。##所詮、噂は噂に過ぎないのだと安心する。#(理性+1)
+Planeas esperar toda la noche, observando el lugar donde aparecería el supuesto fantasma, pero te quedas dormido.##Te despiertas en un banco frío, con todo tu cuerpo doliendo mucho.#(-1 RESISTENCIA)|あなたは一晩中、幽霊が現れるとされる場所を#観察しながら待つことにした。#しかし、そのうちに寝てしまう。##目が覚めると、#冷たいベンチの上で、全身がひどく痛んでいる。#(スタミナ-1)
+No queriendo perder más tiempo, decides encender una VELA SANTA, con la esperanza de que el fantasma descanse.#(-3% DOOM)|時間を無駄にしたくない。#あなたは幽霊を安らかに眠らせるため、#「聖なる蝋燭」を灯すことにした。#(破滅値-3%)
+REINO SUPERIOR|聳え立つ王国
+Los templos desiertos dominan los cadáveres gigantes de las bestias olvidadas.##Sin sacerdotes que los recolecten, su sangre está inundando lentamente el valle.|忘れ去られし巨獣の死骸を見下ろすように、#寂れた寺院が建っている。##血を集める僧侶がいないため、#その巨体から流れ出た血が#じんわりと谷間に広がっていた。
+empieza a subir al templo|寺に向かって登り始める
+Sumérgete en la sangre sagrada.|聖なる血に身を沈める
+[NECESITA UN CONTENEDOR VACÍO]|アイテム「空の瓶」が必要
+llenar la copa con sangre|杯を血で満たす
+llenar una botella vacía con sangre|「空の瓶」に血を入れる
+Pasas lo que parecen días escalando bloques de piedra. Al llegar a la cima, serás recompensado con una vista imposible de innumerables pirámides y... seres demasiado grandes para comprender. #Algo en ti se rompe...#(-3 RAZÓN / +3 RESISTENCIA)|あなたは石のブロックをひたすら登り続けた…#もう、何日も経ったような気がする。##頂上に辿り着くと、あなたは無数のピラミッドと…#名状しがたき巨大な存在を目にする。##その瞬間、あなたの中で何かが壊れた…#(理性-3 / スタミナ+3)
+Das un paso hacia el charco de sangre. El líquido carmesí quema tu piel a través de tu ropa. Además de la sangre hirviendo, algo más se precipita en tus canales auditivos... las voces de innumerables eruditos, que revelan secretos prohibidos.#(-3 RESISTENCIA / +3 RAZÓN)|血の池に足を踏み入れる。すると、紅い液体が#服の上からあなたの肌を焼き尽くした。##熱く煮えたぎる血の感覚とともに、耳の中に#何かが流れ込んでくる…#禁忌の秘密を囁く、無数の知識人たちの声だ。#(スタミナ-3 / 理性+3)
+Llenas un recipiente con la sangre sagrada. Traerlo de vuelta a tu realidad es seguramente una corrupción de todos los derechos y no te servirá de nada...#(+3% DOOM)|聖なる血で器を満たす。##それを現実世界に持ち帰ることは、#あらゆる正義を穢す行為であり、#あなたに何か利益をもたらすこともないだろう…#(破滅値+3%)
+SUÉTER SANGRIENTO|血まみれのセーター
+Caminando por el bosque, descubres un suéter. Está destrozado y cubierto de sangre, pero ¿dónde está el dueño?|森を歩いていると、一枚のセーターを見つける。#何かに引き裂かれ、血まみれになっている…#一体、持ち主はどこへ…？
+asumir lo peor|最悪の事態を想定する
+espera un minuto...|待て…これは…
+[necesita el beneficio 'EXTERIOR']|パーク「アウトドア」が必要
+Una fiera debe haber matado a este pobre hombre. Dices una oración rápida antes de continuar.#(-2 RAZÓN)|きっと、野生の獣に襲われたに違いない…#可哀想に…#あなたは軽く祈りを捧げ、調査を進めた。#(理性-2)
+Reconoces ese suéter, ¡pertenece a esa chica que desapareció! Mientras te agachas para inspeccionarlo, escuchas el leve susurro de las hojas.##Detrás de ti está Moriko, la niña desaparecida, con una vieja escopeta apuntándote. Levantas la mano y explicas quién eres. Ella asiente y te ayuda a levantarte. Parece que no eres el único que intenta salvar esta ciudad.#(+10 EXP)|見覚えがある…失踪したあの女の子のものだ！#しゃがんでセーターを調べると、#さらさらと葉っぱが揺れる音がした。#すると背後に、行方不明の少女、守子が立っていた。#古いショットガンの銃口がこちらを向いている。#両手を上げ、自分が何者なのかを説明する。彼女は#その言葉に頷くと、起き上がるのを手伝ってくれた。この町を救おうとしているのは、#あなただけではないようだ。#(EXP+10)
+CAZADO|追跡者
+Los miembros del culto están tras tu pista. ¡Debes darte prisa!#(+2% DOOM)|カルト教団の者たちに、後をつけられている。#急がなければ！#(破滅値+2%)
+HOMBRE SOÑADO|夢幻の男
+Por la mañana, normalmente sólo recuerdas destellos de tus sueños. Sabes dos cosas. Primero, siempre son aterradores e ineludibles. #Segundo, el hombre de tus pesadillas está parado al otro lado de la calle, buscándote.|朝になれば、普通は断片的にしか#夢を覚えていないものだ。#だが、あなたは二つのことを知っている。#第一に、夢は常に恐怖を伴い、#逃れられないものであること。##第二に、悪夢に現れる男が通りの反対側に立ち、#あなたを探しているということ…
+confrontar al hombre|男と対峙する
+esconderse en la multitud|人混みに紛れる
+Al acercarte, decides que el hombre en realidad no te recuerda a la persona de tus pesadillas. Te sientes bien al enfrentar tus miedos. #(+1 RAZÓN)|近づいてみると、その人は悪夢の中の人物とは#似ても似つかぬ者であることに気付く。#恐怖に立ち向かったことで、気分が良くなる。#(理性+1)
+Al acercarte, comienzas a entrar en pánico cuando la situación comienza a parecerse a tus pesadillas. #¡Finalmente, llegas al punto de ruptura y corres con miedo!#(-2 RAZÓN)|男に近づくにつれて、この状況が#悪夢と同じような気がしてパニックに陥る。##あなたは遂に耐えきれなくなり、#恐怖に怯えて逃げ出した！#(理性-2)
+Rápidamente te escondes detrás de un par de trabajadores que hablan. Cuando echas un vistazo unos momentos después, el hombre ya no está.#(+5 EXP)|あなたは会話中の作業員たちの後ろに、#素早く身を潜めた。#しばらくして覗き込むと、#あの男はいなくなっていた。#(EXP+5)
+Miras a tu alrededor buscando a una persona detrás de la cual esconderte, pero ya es demasiado tarde. El hombre comienza a caminar hacia ti y comienzas a sentirte débil. De repente, te encuentras en el suelo y hay un grupo de personas de pie junto a ti. Dijeron que perdiste el conocimiento. Te disculpas y les agradeces. #El hombre se ha ido y tú te marchas antes de que llegue la ambulancia. #(-2 RESISTENCIA)|身を隠せそうな人を探し回るも、時すでに遅し…#男がこちらに向かって歩き出すと、#段々と力が弱まってくる感じがする。#地面に倒れたあなたを何名かの人が囲む。#彼らから気絶していたことを知らされ、#あなたは謝罪とお礼の言葉を述べた。#男はすでにおらず、あなたは救急車が来る前に#その場を離れた。(スタミナ-2)
+BASE FINAL|最期のベース
+Estás parado en medio de un campo de béisbol, construido cuando la escuela tenía un equipo. Poco a poco ha ido creciendo y los estudiantes sólo vienen aquí para estudiar o relajarse. #De repente, algo se siente muy mal en este lugar, pero aún no puedes identificarlo.|あなたは、すでに廃部となった#野球部のグラウンドで立ち止まった。#次第に草に覆われ、今では生徒が勉強したり、#のんびり過ごす場所となっている。##すると急に不穏な感じがして、胸がざわつく。#だが、その原因までは分からない。
+¿qué ocurre?|どうしたんだ？
+Alguien ha dibujado un extraño símbolo oculto en la zona de arena. Lo borras rápidamente con una rama y al instante sientes una ola de alivio que te inunda.#(-2% DOOM)|砂の上に、何者かが描き残した不気味な紋章がある。あなたはすぐに枝でその紋章を消した。#すると、瞬時に#安堵の波が押し寄せてくるのを感じる。#(破滅値-2%)
+Empiezas a sudar frío. Un campo de béisbol no debería tener tantas bases. #¿Esas son... tumbas?...#(-2 RAZÓN)|一気に冷や汗が出る。#こんなにたくさんベースがあるはずがない。##あれは…墓…？#(理性-2)
+ubica la mochila|リュックを見つける
+[necesita el beneficio 'SAQUEO']|パーク「ぶんどり」が必要
+Observas una vieja mochila escondida debajo de un árbol. Dentro, encuentras algo de dinero en efectivo.#(+2 FONDOS)|あなたは木の下に、#古いリュックが隠してあることに気づく。#中には、現金が入っていた。#(所持金+2)
+FUNDIDO|ギプス
+Caminando por el pasillo del hospital, te detiene un hombre mayor con una pierna enyesada.##<<¿Podrías ayudarme a bajar estas escaleras?>>|病院の廊下を歩いていると、#足にギプスをした年配の男性に呼び止められる。##<<この階段を下りたいんだが、#手伝ってくれんか？>>
+ayudar al hombre|手伝う
+Te lleva algo de tiempo, pero logras ayudar al hombre y llevarle una silla de ruedas. Él te agradece y sonríe.#(+10 EXP)|時間はかかったが、何とか車いすに乗せて#助けることができた。#彼はあなたに感謝の言葉を述べ、#笑顔を向けた。#(EXP+10)
+Luchas por ayudar al hombre, pero ambos caen por las escaleras. ¡El yeso del hombre se rompe y gritas! Debajo del yeso, hay una llaga hirviente que espuma con burbujas verdes. El hombre sonríe, su sonrisa es demasiado amplia para su rostro.#(-2 RESISTENCIA)|下りるのを手伝おうとしたところ、#彼と一緒に階段から転落してしまう。#そのギプスが砕け散ると、あなたは悲鳴を上げた！#見るもおぞましい傷口から、#緑色の泡が噴き出していたのだ。#男がにっこりと笑う…#顔に不釣り合いなほど、大きすぎる笑みで。#(スタミナ-2)
+no es una buena idea|階段は危ない
+[necesita el beneficio 'CLASE DE ANATOMÍA']|パーク「解剖学の授業」が必要
+Usted asiente cortésmente y le dice que no debería trabajar demasiado su pierna. Le indicas un ascensor y el hombre te lo agradece.#(-2% DOOM)|あなたは大きく頷き、#足に負担をかけずに降りられるよう、#彼をエレベーターまで案内した。#男性から感謝の言葉を受ける。#(破滅値-2%)
+CAPTURAS DIARIAS|今日の獲物
+Caminas por la playa cuando notas a un grupo de hombres desembarcando de un barco. #Los pescadores tienen la piel quemada por el sol y secada por el viento, pareciéndose más a las momias que hayas visto en un museo que a los humanos. ##<<¡Oye tú!>> Uno de ellos grita, saludándote. #<<Echanos una mano, ¿quieres?>>#Señalan el gigantesco saco de arpillera mojado en la parte trasera del barco.|浜辺を歩いていると、#船から降りる男達の姿を目にした。 #その日焼けして風で干からびた肌は、#博物館で見たミイラに似ていて、#とても人間とは思えない。#<<おーい、あんた！>>#その中の一人が手を振って叫ぶ。#<<手を貸してくれねぇか？>> #彼はそう言って船の後ろにある#濡れた大きな麻袋を指差した。
+ayudar a los pescadores|漁師たちを手伝う
+Asientes y te acercas. El saco de arpillera huele fatal y te provoca náuseas. Le preguntas al hombre qué hay dentro.#<<Pescado.>>#(+10 EXP)|あなたは頷いて船に近づいた。#しかし、あまりの臭いに吐き気を催してしまう。#麻袋の中に何が入っているのかと男に尋ねる。#<<魚さ。>>#(EXP+10)
+Asientes y te acercas. El saco de arpillera huele fatal y te provoca náuseas. Te resbalas sobre la roca mojada y el pescado podrido se derrama sobre ti.#(-1 RESISTENCIA / -1 RAZÓN)|あなたは頷いて船に近づいた。#しかし、あまりの臭いに吐き気を催してしまう。#加えて、濡れた岩の上で足を滑らせ、#袋からこぼれた腐った魚にまみれてしまう。#(スタミナ-1 / 理性-1)
+rechazar|断る
+Definitivamente algo anda mal con los hombres. Sus perpetuos bizcos y sus manos callosas te asustan. #Gritas disculpándote mientras huyes del barco y su extraña tripulación.#(-2 RESISTENCIA)|男たちは明らかに何かがおかしい…#半開きの目とタコだらけの手が#何やら恐ろしく思えた。#あなたは大声で謝り、#不気味な船と乗組員たちから逃げ出した。#(スタミナ-2)
+levanta el saco tú mismo|一人で袋を運ぶ
+[necesita el beneficio 'FUERZA CORE']|パーク「体幹の強さ」が必要
+El saco de arpillera es sorprendentemente ligero y lo levantas tú solo. Los pescadores te agradecen y te entregan una taza de té caliente, directamente de su termo.#(+2 RESISTENCIA)|麻袋は驚くほど軽く、#あなたは一人でそれを持ち上げた。#漁師たちからお礼を言われたあなたは、#魔法びんから注がれた熱いお茶を受け取った。#(スタミナ+2)
+PERDIDO (BOSQUE)|迷いの森
+Explorar el bosque es agotador. Está oscureciendo, así que decides regresar a la carretera principal pero… ¿dónde está?##¿Estás perdido?|森の探索は疲れる。#暗くなってきたので、大きな道に戻ろうと思った…#が、ここはどこだろう。##迷ってしまったのだろうか…？
+encuentra tu salida|森の出口を探す
+Por suerte, no pasa mucho tiempo antes de que te topes con una señal que te indica la dirección correcta. Realmente deberías tener más cuidado en el futuro.#(+10 EXP)|幸いなことに、#出口を指し示す標識を見つけるまで、#そう時間はかからなかった。#次からはもっと注意して動かなければ。#(EXP+10)
+Pareces caminar en círculos, incapaz de abandonar el bosque maldito. Horas más tarde, un par de excursionistas te encuentran y te ayudan. ##Estás realmente avergonzado pero a salvo. #(+2% CONDENACIÓN)|あなたは呪われた森から抜け出すことができず、#ぐるぐると迷路のように歩き回ってしまう。#そんな中、偶然通りかかった#ハイカーの助けを借りることができた。##恥ずかしくて顔が熱くなるが、救われた。#(破滅値+2%)
+usa tu brújula|「コンパス」を使う
+[necesita el elemento 'BRÚJULA']|アイテム「コンパス」が必要
+Usando tu brújula, determinas la dirección y comienzas a caminar en línea recta. No hace falta mucho tiempo para finalmente detectar los edificios. ##Te sientes más seguro, pensando en lo preparado que estabas.#(+2 RAZÓN)|コンパスを頼りに方角を判断し、#一直線に歩き始める。#あっという間に建物を発見することができた。##備えあれば憂いなしとは、まさにこのことだ。#(理性+2)
+PERDIDO (MANSIÓN)|恐怖の迷宮
+¡La distribución de las habitaciones de este lugar no tiene ningún sentido! Has estado intentando salir de esta mansión, pero cada puerta conduce al mismo pasillo mohoso.##Empiezas a entrar en pánico, tratando de encontrar una solución.|この屋敷の部屋の配置は意味不明だ！#何とか抜け出そうとするが、#どの扉を開いてもカビ臭い廊下に戻されてしまう。##解決策が見つからず、パニックに陥る。
+buscar una salida|出口を探す
+Decides seguir la pared de tu izquierda. Cuando lo tocas con la mano, escuchas un clic y aparece una puerta oculta frente a ti. ##¡Una salida!#(+1 RAZÓN)|左側の壁に沿って進むことにしたあなた。#壁に手が触れた瞬間、カチッという音が聞こえ、#目の前に隠し扉が現れる。##脱出口だ！#(理性+1)
+Entras en pánico y comienzas a correr a través de las puertas, terminando cada vez en el mismo pasillo mohoso. #Eventualmente, colapsas, exhausto y aterrorizado. Cuando te levantas una hora más tarde, ves una pequeña puerta que pasaste por alto. Te lleva al salón principal. ##¡Una salida!#(-2 RESISTENCIA)|あなたは焦って闇雲に扉を開けて進んだが、#どうしてもカビ臭い廊下に戻されてしまう。#疲れと恐怖で身も心もにボロボロになり、崩れ落ちる。#一時間後に目が覚めると、#見落としていた小さな扉に気付く。##脱出口だ！#(スタミナ-2)
+Tomar una respiración profunda|深呼吸をする
+[necesita el beneficio de 'AUTOTERAPIA']|パーク「自己療法」が必要
+Respiras profundamente y cierras los ojos. Te calmas, permitiendo que tu ritmo cardíaco se normalice. Cuando abres los ojos, notas una puerta que antes no estaba allí. Al entrar, te encuentras en el salón principal. ##¡Una salida! #(+10 EXP)|深呼吸をして目を閉じる。#心拍数を正常に戻し、自分を落ち着かせる。#目を開けると、#以前はなかった扉があることに気づく。#その扉を開けると、そこは大広間だった。##ここから出られる！#(EXP+10)
+DETRÁS DE TI|背後からの視線
+Al hablar con una mujer mayor, no puedes evitar notar su cara preocupada y sus miradas rápidas apuntando hacia algo detrás de ti. ¿Es el viento que puedes sentir en tu cuello o…?|老女と話していると、ふと違和感を覚える。#彼女は不安そうな顔で、#しきりにあなたの背後を気にしているようだ。#首筋に感じたのはただの風か、それとも…？
+trata de ignorar el sentimiento|気にしない
+Giro de vuelta|振り返る
+Te tranquilizas recordando que sopla una brisa procedente de la zona costera. Sonríes y continúas tu conversación.#(+2 RAZÓN)|海の方から風が吹いていることを思い出し、#心を落ち着かせる。#あなたは笑顔で会話を続けた。#(理性+2)
+¿Hay alguien detrás de ti, respirándote en la nuca? Se necesita toda tu fuerza de voluntad para no darte la vuelta.#(-2 RAZÓN)|誰かが…首筋に息を吹きかけている…？#振り向きたい衝動を必死に抑える。#(理性-2)
+De repente te das la vuelta y descubres a un hombre que intenta esconderse detrás de una esquina. Te están siguiendo.#(+2% DOOM)|あなたはばっと振り返り、#角の後ろに隠れようとする男を捕まえた。#つけられているのだ。#(破滅値+2%)
+BAÑERA EXTRAÑA|不気味な浴槽
+Regresas a casa para refrescarte. Sin embargo, cuando entras al baño, descubres que falta la ducha. En su lugar hay una vieja bañera con patas. Todo parece surrealista, pero das un paso hacia ella y te preguntas cómo es posible.|家に帰ってさっぱりしよう。#そう思って浴室に入ると、#シャワーがないことに気づく。#その代わりになぜか#西洋風の古い浴槽が置いてあった。#異様な雰囲気を漂っている。#一体、こんなことがあり得るのだろうか。#そう不思議に思いながらも、あなたは一歩近づいた…
+tómate un baño|風呂に入る
+retirarse|入るのを止める
+La bañera es ciertamente extraña, pero te sientes más renovado. #(+1 RESISTENCIA)|不気味な風呂だが、#なぜかすごくすっきりした気分になる。#(スタミナ+1)
+El agua de la bañera de repente se vuelve turbia y oscura... ¡¿Te estás bañando en sangre?!#(-2 RAZÓN)|浴槽のお湯が急に濁り、黒ずんでいく…#これはまさか、血！？#(理性-2)
+Puede que estés un poco sudado, pero no hay posibilidad de que te arriesgues a entrar en esta extraña bañera.#(-1 RESISTENCIA)|少々汗ばんでいるとはいえ、#こんな不気味な風呂に入る気にはなれない。#(スタミナ-1)
+MURO ​​DE FOTOS (TÚ)|壁の写真
+Siguiendo la escalera de caracol, te detienes, esperas un minuto...##Alguien ha estado tomando fotos enfocadas en ti. Las fotos incluyen los enemigos con los que has luchado. Algo anda mal, pero no puedes decir con precisión qué...##[SELECCIONA EL SEGUNDO ENEMIGO CON EL QUE LUCHASTE EN ESTA CARRERA]|曲がりくねった階段を進んだところで、足が止まる。#な、なんだこれは…#自分だけを狙って、何者かが写真を撮っている。#そこには、今まで戦った敵の姿も写っていた。#何がどうなってる。#この得体の知れない違和感は何だ…？##[今回のプレイで、#2番目に戦った敵を選んでください]
+(respuesta correcta)#Rasgas la foto. Debajo hay un pequeño botón. Lo presionas y...#Con un zumbido, la puerta se abre.#(+10 EXP)|(正解)#写真を破くと、裏から小さなボタンが現れる。#それを押すと…##ブザー音とともに扉が開いた。#(EXP+10)
+(respuesta incorrecta)#Te empieza a doler la cabeza, ¿es todo algo que has imaginado?##Las fotos desaparecen repentinamente, al igual que la puerta, lo que te permite continuar.#(+5% DOOM)|(不正解)#頭が痛くなってきた…#あれは全て自分の妄想だった…ということなのか？#すると突然、写真と扉が消えて#先に進めるようになった。#(破滅値+5%)
+NUBES IRRESISTIBLES|幻惑する雲
+Una extraña formación de nubes se ha formado sobre SHIOKAWA. Todos tus conocidos piensan que es realmente extraño, pero no pueden evitar observarlo. Sabes que hay una verdad oculta e inquietante detrás del clima últimamente.#(+2% DOOM)|塩川上空に、奇妙な形の雲が浮かんでいる。#誰もが気味悪がりつつ、#だが、それを見つめずにはいられなかった。#あなたはその雲の向こうに、#不穏な真実が隠されていることを知っていた…#(破滅値+2%)
+GENTE BAJO LAS OLAS|波の中の者たち
+Piensas en el extraño caso de tres personas que desaparecieron junto al mar. Los rumores dicen que simplemente caminaron hacia el mar y desaparecieron bajo las olas. Es horrible pero… ##tú también quieres seguirlos.#(-2% DOOM / -2 RAZÓN)|海辺で起きた奇妙な失踪事件について考えてみる。#噂によれば、その3人はただ海に向かって歩き続け、#そのまま波の中へと消えてしまったらしい。#恐ろしい出来事だが…##どこか、自分もついていきたい衝動に駆られる。#(破滅値-2% / 理性-2)
+ROMPER LA MIRADA|黒い目
+Ni siquiera cerrar los ojos deja de ver la mirada irresistible de YGOTHAEG. Una voz dentro de tu cabeza te sugiere deshacerte de tus ojos por completo y, cada día que pasa, estás más de acuerdo con ello.#(-2% DOOM / -2 STAMINA)|目を閉じていても、ユゴテグの抗いがたい視線から#逃れることはできない。#頭の中で、目など捨て去ってしまえばいい#という声が響く。日が経つにつれ、あなたはそれが#正しいとさえ感じるようになっていた。#(破滅値-2% / スタミナ-2)
+AYUDA FANTASMA|霊的な手助け
+Al doblar la esquina hacia el pasillo, ¡te encuentras con la espantosa visión del fantasma de un estudiante!##La chica está parada allí, apuntando con un dedo ensangrentado a uno de los casilleros. Ella debe estar intentando mostrarte una pista, ¿verdad?|廊下の角を曲がると、惨たらしい姿の幽霊が#目に飛び込んできた。##ただその場に立ち尽くし、血まみれの指で#ロッカーの一つを指差している。#きっと、何か手がかりを#見せようとしてくれてるんじゃ…？
+confía en el espíritu|彼女を信じる
+no escuches|無視する
+¡Buscas en el casillero y encuentras algunas notas ocultas! Con una sonrisa ansiosa, te giras para agradecer al espíritu, pero ella ya se ha ido. Ah, bueno.#(+ ARTÍCULO)|ロッカーを調べてみると、#奇怪な内容の資料が出てくる！##お礼を言おうと振り返るも、#すでに彼女はいなくなっていた。#まぁ、しょうがない…#(+アイテム)
+Cuando abres el casillero, el espíritu te empuja hacia adentro. ¡Está lleno de cuchillos! Para cuando te liberas de las espadas, ella ya no está.##A medida que te recuperas, te sientas y te preguntas por qué estos fantasmas serían tan crueles. Todo lo que quieres hacer es ayudar... Esperas que ese fantasma pueda encontrar algo de paz.#(-2 RESISTENCIA)|ロッカーを開けると、霊が私を押し込んでくる…#何とその中はナイフで溢れかえっていた！#無数のナイフから身を引き剥がすと、#彼女はすでにいなくなっていた。#何でこんな酷いことを…座り込んで考えてしまう。#私はただ、助けたいだけなのに…#祈ろう、彼女が少しでも安らかに眠れるように…#(スタミナ-2)
+<<¡Lo siento!>> dices, girándote y corriendo por el pasillo. ¡Te sientes mal simplemente dejándola así, pero debes seguir adelante si quieres salvar el mundo!##(después de todo, si *tú* no lo haces... n-no, ¡Realmente no quiero pensar en eso! Solo sigue moviéndote...)#(-2% DOOM)|<<ごめんね！>> #そう言って、私は急いで廊下を歩き去った。#こんな風に彼女を残していくのは辛いけど、#世界を救うためにも急がなきゃだから。#(だって、私がやらなきゃ…#い、いや、そんなこと考えたくない…#とにかく進むしかないんだ…)#(破滅値-2%)
+PASANDO SU PEAJE|すり減る心
+Estabas planeando tus próximos pasos. Te hizo pensar en todo lo que hay que hacer, y luego en todo lo que podría pasar, y en cada cosa horrible que ya pasó, y...##y ahora lo único en lo que puedes pensar es en lo aterradoras y horribles que son las cosas.|私は次に何をするかを考えていた。#やらなければならないこと、#これから起こりそうなこと、#そしてすでに起きてしまった恐ろしいこと…##考えれば考えるだけ、#ぞっとするような怖いことばかり#思い浮かんでしまう。
+llorar|泣き出す
+empujar a través de él|自分を励ます
+Te arrastras a algún lugar donde no te noten y dejas que las lágrimas broten.##Finalmente, te pones de pie temblorosamente. Todavía no te sientes muy bien, pero por ahora, al menos ya está fuera de tu sistema.#(+3 RAZÓN)|人目につかないところでしゃがみこんで、涙を流す。##やがて、かろうじて立ち上がることができた。#まだ気持ちは不安定なままだけど、#とりあえず今は落ち着いた。#(理性+3)
+Apenas puedes perderte de vista antes de romper en sollozos. ¿Por qué? ¿Por qué tú? Ya no quieres hacer esto. ¡Pero si no lo haces, todos morirán...!##Lloras, lloras y lloras...#(+3% DOOM)|嗚咽を漏らす前に辛うじて、#物陰に隠れることができた。#どうして？なんで私が？もうやりたくないのに。#でも、そうしないとみんなが死んじゃう…！##私は泣いて、泣いて、泣き続けた…#(破滅値+3%)
+[realmente eres patético]#Te limpias los ojos y tratas de seguir adelante. Pero no importa lo mucho que lo intentes, no puedes sacar esos pensamientos de tu cabeza...#(-1 RAZÓN)|[本当に情けない]#流れ出た涙を拭く。#ただ前に進むしかないんだ…##なのにどんなに頑張っても、#頭からそんな思いが消えてくれない…#(理性-1)
+EN RECUERDO|偲ぶ思い
+No hay ninguna razón para que este monumento esté aquí. Ninguno de tus padres era de SHIOKAWA.##Entonces, ¿por qué...? ¿Quién haría esto? ¿Es solo para burlarse de ti por lo que pasó?##... Pero, aun así, todos los materiales están aquí para realizar una sesión espiritista...|何でここに位牌があるんだろう。#お父さんもお母さんも塩川の生まれじゃない。#じゃあ、どうして…？#こんなことをするのは誰？#あの時のことで私を責めようとしてるだけ？##…けど、おかしいな。#一通り、降霊術で使う道具が揃ってる…
+toma los materiales|道具を手に取る
+intenta una vez más|もう一度試してみる
+Caminas delicadamente alrededor de las líneas de sal y tiza que rodean el monumento, manteniendo tu mente en el presente mientras recoges los materiales rituales dispersos. Te das una palmadita en la espalda al salir.#(+ ARTÍCULO)|私は“今”に心を集中させた。#位牌を囲む塩と白墨の線を踏まないように#気を付けつつ、散らばった儀式の道具を拾っていく。#上手くできたと自分を褒めて、#その場を離れた。#(+アイテム)
+Vas a recoger una vela, pero parece que no fue una buena idea perturbar el monumento: ¡un dolor horrible recorre tu mano y llega al resto de tu cuerpo! ## Agarrándote la muñeca y gimiendo, te retiras. ..#(+ LESIÓN)|私は蝋燭を取りに行った。#けど、追悼の場を乱すのが良くなかったみたいで…#手から走った酷い痛みが全身に広がる。#私は手首をぎゅっと握りしめて、#涙を流しながら引き下がった…#(+怪我)
+[nunca iba a funcionar]#Solo querías conocerlos. Para saber si estaban orgullosos de su hija. Pero esta vez fue una idea tan horrible como lo fue la última vez. Docenas de espíritus enojados fluyen a través de ti, mientras colapsas en el suelo, retorciéndose en agonía mientras te castigan por tu necedad.##Al menos tú eres el único que sale lastimado esta vez.#(-2 RESISTENCIA / -2 RAZÓN) (+ MALDICIÓN)|[初めからうまくいく望みはなかった]#二人に会いたい、ただそれだけだった…娘のことを#誇りに思ってくれてたのか知りたかったんだ。#だけど、結果は前と同じ。#恐ろしい選択をした代償は高くつく。#何十もの怒れる霊たちが私の体に流れ込む。#愚かな行為に対する罰…痛みに身をよじらせ、地面に倒れ込む。少なくとも今回は、私以外に#傷つく人はいなくて済みそうだ…#(スタミナ-2 / 理性-2 / +呪い)
+LA FORMA PERFECTA (A)|完全体 (A)
+Te despiertas con una membrana semitranslúcida que cubre ambos ojos. Con un terror creciente, te das cuenta de que ya no necesitas tus ojos para ver...#(+3 PERCEPCIÓN / -2 RAZÓN)|目を覚ますと、両目が半透明の膜で覆われていた。##恐怖が募る中、あなたは目を使わずとも#物が見えることに気付く…#(知覚+4 / 理性-2)
+LA FORMA PERFECTA (B)|完全体 (B)
+Cuando te cortas accidentalmente, descubres que tu sangre se ha vuelto incolora y vidriosa. Te sientes bien pero esto no puede ser bueno...#(+3 FUERZA / - 1 RAZÓN)|うっかり怪我をしてしまった時、#あなたは自分の血が色を失い、#無色透明のガラスのようになっていることに気付く。##体調は問題ないが、放っていいわけがない…#(筋力+4 / 理性-1)
+LA FORMA PERFECTA (C)|完全体 (C)
+El dolor agudo en múltiples articulaciones por sí solo es un motivo para buscar ayuda médica. Hoy te has dado cuenta de que puedes doblar el dedo en ambos sentidos...#(+3 DESTREZA / -2 RESISTENCIA)|数か所の関節に鋭い痛みが走る。#それだけでも、受診する理由としては#充分だったが…#この日、あなたは気付いてしまう。#自分の指が、どちらにも曲げられるように#なっていたことを…#(敏捷性+4 / スタミナ-2)
+LA FORMA PERFECTA (D)|完全体 (D)
+No eres el único afectado por los misteriosos efectos de ZHECTAST. La gente ha comenzado a arrear juntos como ganado, abandonando sus inhibiciones anteriores.##Están todos juntos en esto.#(+3 CARISMA / -1 RESISTENCIA)|ゼクタストの不可解な力は、あなただけではなく#他の者たちにも及んでいた。##自制心など捨て去り、家畜のように群れを成す彼ら。##あなたたちは…もはや運命共同体なのだ。#(カリスマ+4 / スタミナ-1)
+Prepárate|身構える
+JUICIO MÉDICO|医学的実験
+Te mezclas con el personal del hospital y te diriges a una sala sin marcar, donde un paciente en particular te llama la atención. Parecen estar catatónicos, ojos vidriosos, respiración superficial, pero lo más interesante son los crecimientos irregulares a lo largo del abdomen.##No serías una gran enfermera si los ignoraras, ¿verdad? Ellos necesitan ayuda.|病院の職員に紛れて何の表示もない病棟に入ると、#ある患者さんが目に留まった。#緊張病みたいだ…目が虚ろで呼吸も浅い。#けど、それより私が気になったのは、#腹部にある異常な腫瘤だった。##看護婦である以上、このまま放っておくわけには#いかない…患者さんを助けないと。
+inspeccionar al paciente|病状を診る
+eliminar el crecimiento|腫瘤を切除する
+Te pones con entusiasmo tu par de guantes quirúrgicos de repuesto y examinas los crecimientos, tomando notas mentales sobre la textura y la forma.##Cuando regresas a casa con tus libros de texto, te das cuenta de que no coincide con ningún diagnóstico conocido. ¿No es asombroso? Necesitas investigar un poco más más tarde.#(+3 EXP)|私は嬉々として予備の手術用手袋をはめ、#探針で腫れた部分を調べた。#その質感や形状をしっかり覚えておく。#家に帰って教科書を見てみたけど、#過去のどんな症例とも合致しなかった…#すごい発見しちゃったかも！#後でもっと詳しく調べなきゃ。(EXP+3)
+Pones tu bisturí a trabajar y cortas con cuidado el tumor... ¡sólo para que se regenere inmediatamente! Esto necesita ser estudiado más a fondo. Te guardas en el bolsillo una muestra del tejido con alegría sin aliento. Esta investigación podría hacer un bien increíble a la comunidad médica.##Y Dios, ¿no es tan _fascinante_?#(-2 RAZÓN / + ARTÍCULO)|メスを使い、慎重に取り除く。けど、切った途端に#腫瘤が再生してきちゃう…これはもっと調べなきゃ。#私は興奮しながら、組織の一部を試料として#ポケットに入れた。もしかすると、この研究って#医学界に革命を起こしちゃうやつかな！#はぁ…それにしても、これってホント#オモシロイ ト オモワナイ？#(理性-2 / +アイテム)
+Mientras luchas por decidir qué método usar, notas que el paciente te mira con expresión agonizante: ¡Maldita sea, niña, lo estás haciendo de nuevo! Te golpeas en la cabeza varias veces y sales avergonzado de la sala.##Realmente deberías contratar a un psicólogo. No puedes cuidar a nadie así.#(+2 RAZÓN)|どうやるか悩んでるうちに、患者さんが#辛そうな表情でこっちを見てるのに気付く。#あっ、またやっちゃった！私は自分の頭をポカポカ叩き、恥ずかしくなってこっそり病棟を抜け出した。#そろそろ本気で心理系のセンセに診てもらった方が#いいかも…これじゃ、誰のお世話もできないよ。#(理性+2)
+VIDA O MIEMBRO|命か腕か
+¡Después de los gritos de agonía, descubres a un hombre con un brazo horriblemente desfigurado! Algo turbio y cristalino parece explotar desde el hueso y subir a través de su piel, sus músculos sufren espasmos de dolor.##Te ruega que le ayudes... ¡Seguro que es bueno que lo hayas encontrado!|苦しそうな声がした方に行ってみたら、#すごく変わった腕を持つ人がいた。#骨から濁った結晶みたいなのが飛び出してて、#それが皮膚を突き破って出てた。#男の人の筋肉がすごく痛そうに痙攣してる…##そしたら、彼が助けてって言ってきたの…ホント、私が見つけれて良かったぁ！
+realizar una cirugía|手術をする
+amputar la extremidad|腕を切断する
+consultar el grimorio|魔導書を参照する
+[requiere el objeto 'GRIMORIO POLVO']|アイテム#｢埃まみれの魔導書｣が必要
+Trabajando rápida pero cuidadosamente, logras extirpar las protuberancias antes de que puedan continuar extendiéndose. Coses los últimos cortes y escoltas al hombre al hospital.#(+2 RAZÓN / +10 EXP)|これ以上広がる前に、急ぎながらも慎重にやって、#何とかその突起を取り除くことができた。#最後の傷口を縫い上げる。#そして私は、彼を病院まで連れて行った。#(理性+2 / EXP+10)
+Las protuberancias se regeneran más rápido de lo que puedes eliminarlas. Observas impotente cómo se extienden por su brazo y luego, de repente, brotan de su corazón, lanzando un géiser negro mientras el hombre convulsiona, antes de finalmente caer muerto.##Bueno, eso no funcionó.#(-2 RAZÓN)|どれだけ結晶を取り除いても、#それより早く再生してきちゃう。#腕中にそれが広がるのを見てたら、#いきなり心臓からぶしゅーって黒いものが#噴き出して、痙攣しながら死んじゃった。#んー、あれじゃダメかぁ。(理性-2)
+Mientras le explica lo que se debe hacer, el rostro del hombre palidece, pero acepta. Tomas su corbata y la usas como torniquete, y le das un rollo de vendas para que las muerda. Luego, finalmente, procedes con la amputación.#Hay muchos gritos.##Pasas algún tiempo con el hombre para asegurarte de que no entre en shock. A pesar de su inmenso dolor, está agradecido por tu ayuda.#(+5% DOOM / +2 RAZÓN)|彼になにをしなきゃいけないか説明したら、#顔を真っ青にしながらも了承してくれた。#ネクタイを止血帯として使って、痛みを#ガマンするために包帯を噛むように頼んだ。#そして、とうとう腕の切断作業…あんまりにも叫ぶ#から、ショック状態にならないよう少し一緒にいて#あげる。すごく痛がってたけど、助かったって私にお礼を言ってくれた。#(破滅値+5% / 理性+2)
+Al darte cuenta de que la aflicción te resulta familiar, sacas el tomo y hojeas las páginas. ¡Es una especie de maldición! Localizas la contramaldición más abajo en la página y, mientras la pronuncias, las espinas retroceden hacia la piel del hombre.##Mientras vendas las pocas heridas restantes, él te agradece repetidamente. Simplemente dale una sonrisa alegre. Este es un trabajo bien hecho.#(+5 RAZÓN)|どっかで見たことあるような病状だなぁ…#すぐに本を取り出して、ページをめくる。#そっか、これは呪いの仕業なんだ！#ページの下の方に解呪の方法が載ってる。#その言葉を唱えたら、結晶がまた中に引っ込んだ。#残った傷を包帯で巻いてると、#何度もお礼を言われる。私はただ、彼に向かって#明るく微笑んだ。うん、上手くいった。#(理性+5)
+HORA DE VERANO|真夏の陽射し
+Caminando por los muelles, sintiendo el sol en la cara y la brisa salada del mar en el cabello, tienes que apreciar lo hermosa que puede ser esta ciudad a veces.##Tendrías que estar loco para desperdiciar una hermosa día así!|陽射しを顔に浴びながら海岸を歩いてると、#吹き抜ける潮風が私の髪を撫でた。##改めて、この町が持つ美しさに気付かされる。##こんな素敵な日をムダにするだなんて、#狂ってるとしか思えないよ！
+¡NAVEGAR!|サーフィンしよう！
+[vamos a relajarnos] # Mataste con éxito la tarde golpeando las olas y paseando por el paseo marítimo. Sin embargo, cuando se pone el sol, regresas a casa renovado... ¿Te estás olvidando de algo?##¡Oh! Claro, claro. Todo el asunto del fin del mundo. ¿No es gracioso con qué facilidad a veces se te olvida eso? Pero bueno, fue muy agradable conseguir algo en tu tiempo.#(+2 RAZÓN / +4% DOOM)|[のんびりしよう]#午後はサーフィンをしたり、#遊歩道をブラついたりと楽しく過ごせた。#夕陽が沈む中、気分良く家路につく…#けど、なーんか忘れてるような…#あっ！そうそう、世界が滅びるんだった。#時々、すっぽり頭から抜け落ちてて面白い。#けど、自分の時間が持てて、いい気分転換になった！#(理性+2 / 破滅値+4%)
+(linea en blanco)|(blank line)
+DISTANCIA|隔たる心
+Te encuentras con uno de tus compañeros de equipo en el gimnasio. <<Oye, Takahashi>>, dice, mirándote con el ceño fruncido, <<¿Estás bien? Has estado actuando muy raro últimamente y te ves súper cansada...>>##No deberías agobiarla con todo lo que está pasando. Pero...|体育館にいると、部員の一人とばったり出会う。#<<ねえ、愛子…>>#彼女が眉をひそめながら、口を開く。#<<大丈夫？最近の愛子、何かほんとヘンだよ…#すっごく疲れて見えるけど…>>##こんな厄介ごとに巻き込みたくなんてない。#だけど…
+mentir|嘘をつく
+Explicate tú mismo|今の状況を話す
+Le dices que simplemente estás estresado por los exámenes finales. Ella expresa cierta simpatía y se ofrece a ayudarte a estudiar. Dices <<seguro>>, pero es una promesa que romperás.##Es mejor que ella no lo sepa, por su propio bien. Puedes manejar esto por tu cuenta, como siempre lo haces.|私は期末試験のせいで、ストレスが溜まってるだけだと伝えた。彼女は気を遣って、勉強を手伝おうかと#言ってくれる。その場では<<うん>>と返す。#だけど、結局その約束は破ることになってしまう。#彼女のことを考えれば、言わない方がいい。#私一人でも何とかなる、今までと同じように…
+Dudas, pero después de respirar profundamente, le cuentas lo que realmente está pasando. Sorprendentemente, ella te cree y quiere ayudarte. Intentas convencerla de que estás bien por tu cuenta, pero ella claramente ya ha tomado una decisión. ##Te sientes culpable por dejarla involucrarse, pero sabes que será de gran ayuda.#(+ ALIADO)|一瞬の躊躇い。私は深呼吸をしてから、#今、実際に起きていることを伝えた。#意外にも彼女はその話を信じ、協力したいと言って#くれた。私一人で大丈夫って説得しようとする…#でも、その決意は固かった。#こんなことに巻き込むなんて、悪い気がするけど#彼女は本当に頼りになる。(+仲間)
+Te arrepientes tan pronto como abres la boca. Ella te mira como si estuvieras loco. Finges que fue una broma y te vas rápidamente.|口を開いた途端、私は後悔した。#まるで、狂った人を見るような目だ。#冗談だよとウソをつき、#慌ててその場を後にする。
+RUTINA DE EJERCICIOS|日課の運動
+<<¡Takahashi!>> se escucha gritar una voz alegre mientras trota por el área. Giras la cabeza para ver a otro de tus compañeros con ropa casual, sonriendo. Felizmente inconsciente de todo lo que sucede.##<<¿Qué pasa, Capitán?>>|辺りをジョギングしてると、#<<高橋さん！>>と大きな明るい声が聞こえてくる。#後ろを向くと、私服姿の水泳部員がいた。#笑ってる…#今、起こってることなんて#何も知らないんだ…幸せだな。##<<部長、何してるんですか？>>
+<<¡ven a correr conmigo!>>|<<一緒に走ろ！>>
+<<¿Notas algo raro recientemente?>>|<<最近、何か変わったこととかない？>>
+Después de un poco de persuasión juguetona, la convences para que te acompañe una o dos vueltas más. La competencia adicional te motiva a esforzarte más. Terminas tu entrenamiento cansado, pero satisfecho contigo mismo. (-1 RESISTENCIA / +2 RAZÓN)|ちょっとした遊び心で彼女を誘い、#もう1周、2周と一緒に走った。#競争相手がいると、もっと頑張ろうって#やる気が出てくる。#ヘトヘトになるまで走っちゃったけど、#私としては大満足だ。#(スタミナ-1 / 理性+2)
+Inclina la cabeza y se lleva un dedo a la barbilla, pensando mucho. Luego con un pequeño <<oh!>>, comienza a contarte una historia extraña del otro día. (+10 EXP)|彼女が顎に指を当てながら、#小首をかしげて考え込む。#すると、<<あっ！>>と小さな声を上げ、#先日起きた奇妙な出来事について語り出した。#(EXP+10)
+Ella niega con la cabeza y levanta las manos encogiéndose de hombros.#<<¿Qué te hace preguntar? ¿Algo anda mal? >>##Dile que no se preocupe demasiado por eso. Se separan poco después de eso.|首を横に振り、肩をすくめて両手を上げる彼女。##<<どうしてそんなこと聞くんですか？#何かありました？>>##私はあまり気にしないでと言って、すぐに別れた。
+CONDUCTOR DE MEDIANOCHE|真夜中のドライバー
+Después de una larga noche sin dormir mucho, decides dar un paseo por la costa para despejarte. Pero es difícil no pensar en la noche que empezó todo. Detrás de este mismo volante, conduciendo como un demonio después de ver cómo masacraban a tus hermanos de armas y sin hacer nada para salvarlos.##Fuiste un cobarde.#(+5 EXP / -1 RAZÓN)|眠れぬ長い夜を過ごす。俺は頭を整理するため、#海岸沿いをドライブしようと思い立つ。#とはいえ、全てのきっかけとなった#あの夜のことを思い出さずにはいられない。#あの時も、今と同じハンドルを握っていた…#弟分達が虐殺されるのをただ見るだけで何もせず、#死に物狂いで走り去った。#俺は、ビビりだったんだ。#(EXP+5 / 理性-1)
+pero ya no más|今はもう違う
+ALCANZANDO|回ってきたツケ
+Te detienes en seco por la sensación del metal frío contra tu espalda. Miras por encima del hombro. <<¿Me reconoces?>> El rostro del yakuza se burla.|背中から冷たい金属の感触が伝わり、#俺はその場で動けなくなった。#肩越しに後ろを見る。##<<俺のこと、覚えてるよな？>>##ヤクザが嘲笑うような表情を浮かべる。
+golpearlo|男を殴る
+ve por su arma|武器を奪う
+[¿Qué diablos?]#Dejaste escapar un grito estruendoso, te giraste y lanzaste tu puño al... aire vacío. No hay nadie ahí. El se fue. Tu swing salvaje te hace tropezar y confundirte.##Toda esta mierda realmente está empezando a afectarte... pero incluso si te encontraras con uno de los tipos reales, probablemente te odiarían tanto.#( -1 RAZÓN)|[一体何なんだ?]#怒りに震えた声を上げながら、振り向きざまに#殴りかかる…だが、拳は空を切っただけで#そこには誰もいなかった。乱暴に腕を振り回したせいで体がよろめき、気が動転してしまう。#このイカれた状況のせいで、#俺自身もおかしくなってきてるんだ…#だがホンモノの連中も、あの幻と同じくらい#俺を憎んでるんだろう。(理性-1)
+Te giras y agarras el arma del hombre. Los dos caen al suelo mientras luchan por él, hasta que finalmente logran arrebatárselo de los dedos.##Te encuentras con una pistola en la mano y el matón no está a la vista.#(+ ARTÍCULO)|振り向きざまに男の武器を掴む。#地面に倒れ込みながら、二人で武器を奪い合う。#そしてついに相手の指から、武器を引き剥がした。##気が付くと、俺の手には拳銃が握られていた…#だが、肝心のヤツがどこにもいない。#(+アイテム)
+Eres muy lento. Antes de que puedas darte la vuelta, tu costado explota de dolor. Gritas y te agarras a la herida, colapsando. Hay risas en tu oído mientras los pasos del hombre se desvanecen.#(-3 RESISTENCIA)|一瞬、遅れを取ってしまう。#振り向く間もなく、俺の脇腹で激痛が炸裂した。#叫び声を上げながら傷を押さえ、その場に倒れ込む。##足音が遠ざかる中、男の笑い声が耳の中に響いた。#(スタミナ-3)
+DEJA VU|デジャヴ
+Al otro lado del pasillo oscuro, te das cuenta de que esta no es la misma mansión en la que estabas. Es una mansión familiar, con tu auto afuera, sangre goteando por las paredes y _algo_ precipitándose hacia ti.##Esto tiene que ¡Sería una especie de broma de mal gusto volver a ponerte aquí...!|暗い廊下を抜けると、さっきの屋敷とは#違う場所にいることに気付く。#見覚えがある…#外には俺の車があり、壁には血が流れ、#“何か”がこっちに向かって#猛烈な勢いで迫ってきてる。##イカれた悪ふざけだ、#またあの場所に戻されるなんてな…！
+afrontarlo|立ち向かう
+huye corriendo|死にもの狂いで逃げる
+[ya no serás débil]#No volverás a huir. _No_ vas a permitirte escapar de nuevo. Ya no. No otra vez. Nunca, nunca más. ¡¡Por el bien de todos los que dejaste morir...##¡¡Vas a pararte y luchar, como siempre debiste haberlo hecho...!!|[弱気な自分にはもう屈しない]#もう逃げねぇ。#また逃げようとする自分を許すな！#もうあの時とは違う。#二度と繰り返さない、絶対…絶対にだ！#俺のせいで死んじまったヤツらのためにも…##もっと早くこうすべきだったんだ、#立て…立って戦え！！
+[siempre fuiste débil]#Te dijiste que habías cambiado, pero aquí, frente a la presión y el miedo de nuevo, te doblas igual que la primera vez.##Te das vueltas y Corre por el pasillo con toda la fuerza que tienes, como el cobarde que siempre has sido. (-2 RESISTENCIA / -2 RAZÓN)|[臆病者は変わらない]#もう俺は変わったと信じ込んでいたが、#また同じ恐怖と重圧に晒されると、#あの時と同じようにヘタってしまう。##後ろを振り返り、全力で廊下を駆け抜ける…#“臆病者”は何も変わってなどいなかった。#(スタミナ-2 / 理性-2)
+PESANDO LA EVIDENCIA|証拠の吟味
+Caminas de un lado a otro junto a tu escritorio, repleto de fotografías, notas y documentos relevantes para tu investigación.##Estás muy cerca de resolver esto de par en par. ¡Puedes saborearlo! Pero las piezas no encajan del todo. Todavía te debe faltar algo, pero ¿qué podría ser...?|調査に関わる写真、メモ、#そして書類が山積みになった机…#その横を僕は行ったり来たりしていた。##もう少しで、この謎が解けそうなんだ。#答えは目前だというのに、#最後のピースがはまらない。#何かを見落としてるんだろうけど、それは一体…？
+piénsalo de nuevo|もう一度考え直す
+inspecciona las fotos más de cerca|写真をよく見る
+habla con tu informante|情報提供者と話す
+Es posible que estés viendo todo esto mal. Trabaja al revés. Suponga que tiene razón y que todo está conectado. Piense en lo que _debe_ haber sucedido como resultado y encuentre evidencia de ello. Eso es lo que necesitas.##Decidido, tomas tu cámara y te pones en camino.#(+7 EXP)|まるっきり視点が間違ってたのかもしれない。#発想を逆転させよう。この考えは正しく、#全て繋がっていると仮定するんだ。#結果として起きたことを考慮し、その証拠を#見つけ出す…それこそ僕の求めるものだ。#意志を固めた僕はカメラを手に取り、#目的地へと向かった。#(EXP+7)
+Pasas una hora pensando mucho, considerando las cosas desde todas las perspectivas que puedas.##La verdad parece muy cercana, pero lo único que obtienes a cambio de tus problemas es una migraña.#(-1 RESISTENCIA)|頭を悩ませること1時間、#考え得る全ての角度から状況を分析してみた。##真実はすぐそこだというのに、#苦労して得られたのは偏頭痛だけだった。#(スタミナ-1)
+¡Ahí!#Te das cuenta de un punto en común que se te había escapado hasta ahora, estableciendo una conexión que tu teoría necesitaba. Ahora que tu teoría tiene su eje, es hora de actuar.#(+15 EXP)|これだ！#今まで見過ごしていた共通点に気付き、#これまで欠けていた仮説に繋がりが生まれる。#考えはまとまった。#あとはこれを行動に移すだけだ。#(EXP+15)
+Vuelves a mirar tus fotos, pero esperas. Te falta uno. ¿A dónde fue? ¿La extraviaste de nuevo?##Vuelvas a examinar minuciosamente la evidencia y, para tu horror, te das cuenta de que falta mucho más que solo esa foto. Alguien te está siguiendo.#(+3% DOOM)|もう一度、写真を見返す…あれ？1枚足りない。#どこにいったんだろう。またなくしたとかかな？#証拠をもう一度見直す中で、#ぞっとするようなことに気付いてしまう…#他の写真もなくなっている。#僕のやってることは、誰かにバレてるんだ…#(破滅値+3%)
+Te encuentra el paradero de un sospechoso. Los acorralas y los interrogas. Bajo presión, dejaron escapar un detalle que prácticamente confirma su teoría. Sonríes.##¡Bingo!#(+25 EXP)|彼が容疑者の居所を突き止めてくれた。#その人物を追い詰め、質問攻めにする。#その圧に負けた容疑者が、#仮説を裏付けるような情報を漏らした。#ふふっ、ビンゴ！#(EXP+25)
+Se le señala a un hombre que podría tener respuestas. Lo llamas con falsos pretextos y aceptas reunirte con él mañana por la noche.##A la mañana siguiente, las noticias informan de su muerte.##...Debe ser más profundo de lo que pensabas. Tiene que ser así.#(+ MALDICIÓN)|僕は答えを知ってそうな男に当たりを付け、#ウソの理由で連絡を取った。#そして、明日の夜に会う約束を交わす。#翌朝、ニュースで彼の死が報じられた。#…この件には、僕の想像を超えた深い闇が#絡んでる。そうに違いない…#(+呪い)
+UNAS CUANTAS PREGUNTAS|いくつかの質問
+Llegas al lugar donde tú y el entrevistado acordaron encontrarse y, efectivamente, ella te está esperando allí.##Parece nerviosa... por algo más que estar a solas contigo. Estás seguro de que ella sabe algo sobre lo que pasó en el reciente incidente de personas desaparecidas.|待ち合わせの場所に着くと、#約束通りに取材相手の女性が待っていた。##彼女は緊張してるようだ…#僕と二人でいること以上の“何か”で。#最近の失踪事件について、#彼女が何か知ってるのは間違いない。
+actuar intimidante|脅しをかける
+actuar amigablemente|親切に接する
+La presionas mucho para obtener respuestas, pero a pesar de su miedo, ella no renuncia a nada. Pero cuando se apresura a irse, no se da cuenta de que un objeto peculiar cae de su bolso.##... Bueno, no está defendiendo bien su inocencia.#(+ ARTÍCULO)|僕はしつこく問い詰めた。#それに対し彼女は怯えつつも、#何一つ明かしてくれない。#急いで彼女が立ち去ろうとした時、#変わったものがバッグから落ちた。#だが、当の本人はそれに気付いていない。#…無実と言うには、説得力に欠ける代物だ。#(+アイテム)
+Sacas el pecho y haces lo mejor que puedes para parecer duro, pero ella claramente no está impresionada. No te da buenas respuestas y la entrevista es una pérdida de tiempo. Por alguna razón, estas tácticas de miedo rara vez te funcionan.#(+2% DOOM)|胸を張って強そうに見せてみたけど、#肝心の彼女は明らかに興味がなさそうだった。#まともな答えが得られないまま、#取材は徒労に終わる。#なぜかは分からないけど、#僕のこういう脅しが効くことはあんまりない。#(破滅値+2%)
+Actúas con calma, dulzura y como si fueras un poco estúpido, incitándola a bajar la guardia. En poco tiempo, ella cree que estás de su lado y te cuenta la última vez que vio a la persona desaparecida.#(+5 EXP)|冷静に、優しく、少し間抜けに見えるように#振る舞い、相手の警戒心を解こうとする。#やがて、彼女は僕を信頼してくれたのか、#最後に行方不明者を見た時のことを#打ち明けてくれた。#(EXP+5)
+A pesar de tus esfuerzos, no logras calmar su ansiedad. Ella actúa tensa durante el resto de la entrevista y no te dice nada que no sea obvio.|どれだけ頑張っても、#彼女の心の不安を和らげることはできなかった。##取材中は終始、緊張した面持ちで、#判明している情報以外は何も教えてくれなかった。
+CALLEJÓN SIN SALIDA|我慢の限界
+Dios, odias el trabajo.#(+7% DOOM)##Seguro que no estarías aquí si no necesitaras el dinero. Sonreir y fingir que te importa una mierda te dan ganas de golpearte la cabeza contra la pared. #Tu turno ha terminado y _realmente_ tienes ganas de romper algo.|がぁぁ！仕事なんて大っ嫌い！#(破滅値+7%)##金が要らなきゃ、死んでもこんなとこ来ないのに！#ニコニコ笑顔を作って、いかにもやる気あります！#みたいに振る舞うとか、ホント無理！#壁に頭をぶつけたくなるくらいイラつく。##もう仕事は終わったし、#今はマジで何かぶっ壊したい気分だ。
+romper algo|何かぶっ壊す
+bolsillo algo de dinero en efectivo|いくらか現金を盗む
+volver a la investigación|調査に戻る
+En tus primeros pasos por la puerta, ya te has quitado el delantal. En el siguiente, irrumpiste en el callejón y, en algunos más, te acercaste a una de las máquinas expendedoras. Le das una patada al vaso y sonríes mientras los fragmentos explotan en el aire.##No puedes recordar si es propiedad de la ciudad o del restaurante, pero de cualquier manera, te hace feliz.#(+3 RAZÓN )|ドアを出た最初の一歩目で、アタシは#ビリビリにエプロンを引き裂いていた。#そのまま路地に飛び込み、#そばの自販機に向かって蹴りをぶち込む。#ガラスの破片が飛び散るのを見て、にやりと笑う。##それが町のなのか、あの店のなのかは覚えてない。#どっちにしろ、ハッピーな気分になったからいいや！#(理性+3)
+Al salir, su mano se desliza en la caja registradora y saca algunas monedas de bolsillo. Tú eres quien hace todo el trabajo aquí y seguro que lo necesitas más que tu maldito jefe.#(+4 FONDOS)|帰り際にレジに手を伸ばし、#小銭をこっそり抜き取る。#この辺の仕事は全部こっちがやってるんだ。#あのゴミ店長なんかより、#アタシの方がよっぽどもらうに相応しい。#(所持金+4)
+No es la primera vez que haces esto y parece que el viejo bastardo se ha dado cuenta. Él te está mirando todo el tiempo, por lo que no tienes la oportunidad de robar nada.##Te conformas con robar una billetera en el camino a casa.#(+1 FONDOS)|金を盗むのはこれが初めてじゃない。#あのジジイも、ちっとは賢くなったみたいだ。#ずっとこっちを見てるせいで盗むスキがない。#しょうがないので、アタシは帰り道に#財布をスることにした。#(所持金+1)
+Bueno, no es que tengas tiempo que perder. Todo esto es una mierda con la que tienes que lidiar para llegar al final del día, y el apocalipsis entrante no será menos hábil que tu jefe. ##Dicho esto, entre los dos, honestamente, te cabrean más o menos en la misma cantidad.#(-3% DOOM)|ったく、アタシもそんなヒマなわけじゃないのに。#最期の日が来るまで、アホなくらい#働かなきゃなんないだけ。#来たる終末ってやつも、#あのウザい店長よりはマシな気がする。#とはいえ、どっちもおんなじくらいイラつくけど。#(破滅値-3%)
+MÍRALO|どこ見てんだよ！
+Un tipo te golpea el hombro al pasar y casi te tira al suelo. Te giras y sueltas un furioso <<¡HEY!>>, llamando la atención del hombre y de algunos otros transeúntes. Él te devuelve la mirada, con los ojos apagados detrás de sus gruesas gafas y la mandíbula floja y babeante.|通りすがりの男の肩が勢いよくぶつかり、#危うく転びそうになる。#カチンときたアタシは、ブンと振り向いて叫んだ。#<<おい！>>#コイツと他の通行人が気付いて、こっちを見てくる。#分厚いメガネ越しに見える目はぼんやりしていて、#半開きの口からよだれが垂れていた。
+aterrorizarlo|男を脅す
+¿Qué pasa con este chico?|何だコイツ？
+Lo amenazas con lo más cercano que puedas encontrar, gritando a todo pulmón. Parece finalmente despertarse, con los ojos muy abiertos. Los transeúntes gritan y huyen, y el hombre pronto sigue su ejemplo.#Te quedas en la calle, mirando el arma en tu mano con un suspiro.#(+5% DOOM / + ITEM)|手近にあったものを手に取り、肺が裂けるくらいの#大声で脅す。我に返ったのか、男が大きく目を#見開く。よーやくお目覚めみたいだ。周りの野次馬達がギャーギャー言って逃げ出し、その後を追うように男も逃げる。その場に残ったアタシは手に持った武器を見て、はぁ…とため息をついた。#(破滅値+5% / +アイテム)
+Agarras una botella rota y le gritas al hombre, pero él simplemente *se queda* allí. Es entonces cuando escuchas gritos detrás de ti: policías. Maldiciendo, huyes y corres en círculos hasta que puedes quitártelos de encima.#(+3% DOOM)|アタシは割れた瓶を掴んで、男に向かって怒鳴った。#けど、コイツはじーっと立ってるだけで#うんともすんともしない。#その時、後ろから誰かの大声が聞こえた…#ちっ、ポリ公か。#アタシはポリを振り切るためにぐるぐる走り回った。#(破滅値+3%)
+Tu expresión de enojo flaquea cuando te das cuenta de que algo pasa seriamente con este tipo. De repente se tambalea hacia adelante, desplomándose como una marioneta con los hilos cortados. ¡Un símbolo extraño brilla en su frente y escuchas los gritos de los espectadores mientras comienza a derretirse en sangre!#Dios mío, te vas a enfermar...#(-2 RESISTENCIA)|ムカついた顔が崩れる…コイツ、なんかおかしい。#まるで糸が切れた人形みたいに、いきなり男が前に#倒れ込む。デコにあったヘンテコなしるしが光って、ぐちゃぐちゃの血の塊になるまで溶け出した。#野次馬たちがぎゃーぎゃー騒ぎ出す。#くそ、気持ち悪すぎてゲボが出そう…#(スタミナ-2)
+PRECIO DE LA FAMA|有名税
+Al pasar por un callejón, ves un viejo cartel en una pared. Al principio no reconoces a la persona presentada. Entonces te das cuenta.#Al fondo, hay una mansión. La mansión exacta donde...#comenzaste tu carrera. ##Alguien ha escrito CULPABLE con pintura roja (¿sangre?) y, lamentablemente, sabes lo que quiso decir.|路地を通り過ぎると、#壁に貼られた古いポスターが目に入る。#最初はそれが誰なのか分からなかった。#その瞬間、ぱっと全てが繋がる。#背景に映り込んだお家は…#私が初めて仕事をした場所だった。#血のような赤い文字で“有罪”と書かれている。#悲しいことに、その意味することが分かってしまう。
+derribar el cartel|ポスターを破く
+intenta olvidar|忘れようとする
+Con un movimiento rápido, derribas el vergonzoso cartel. Con amigos de tu lado, escaparás de tu pasado.#Incluso si no puedes arreglarlo.#(+10 EXP / +1 RAZÓN)|私はその恥ずかしいポスターを一気に破り捨てた。#友達がそばにいれば、きっと過去も乗り越えられる。##起きちゃったことは、もうどうしようもないんだ。#(EXP+10 / 理性+1)
+Alguien ha pegado innumerables hojas de afeitar detrás del cartel y te rompen los dedos, manchando de sangre el vergonzoso cartel.##Angustiado, huyes.#(-1 RESISTENCIA / -1 RAZÓN)|ポスターの裏に、誰かが剃刀の刃を#大量に仕込んでいた。#指が切り裂かれ、その血で恥ずかしいポスターが#赤く染まっていく。#動揺した私はその場から逃げ出した。#(スタミナ-1 / 理性-1)
+Te tocas el costado, instintivamente.#Aunque está descolorida y es casi invisible, todavía puedes sentir la cicatriz bajo tus dedos.#Has estado contándole a todo el mundo sobre un accidente por caída de un árbol cuando eras pequeño, pero la verdad es...#no No quiero saberlo.#(-10 EXP / +1 RAZÓN)|無意識のうちに脇腹を触る。#ほとんど消えかけていたとはいえ、#まだ指先で傷跡を感じ取ることができた。#みんなには小さい頃に木が倒れる事故があったと#言ってたけど、真相は…#私も知りたくない。#(EXP-10 / 理性+1)
+LETRA PEQUEÑA|細字の契約事項
+El señor YOKOYAMA, tu nuevo manager, te acorrala. El anterior desapareció misteriosamente hace unos meses.#<<Mi querida Mizuki, ¡mucho tiempo sin verte!>> Su aliento apesta a carne podrida.#<<Nuestra empresa matriz en Tokio necesita desesperadamente material nuevo. Algo emocionante y apasionante...>> sonríe.#<<...sangre nueva.>>|新しいマネージャーの横山さんが近寄ってくる。#マネージャーさん自体は前にもいたけど、#数か月前に行方をくらましたまま、#未だに帰ってこない。#<<瑞希ちゃ～ん、久しぶりだねぇ！>>#口から、腐った肉のような臭いがする…#<<東京の親会社がね、どーしても新しいネタが#欲しいって言うんだ。こうゾクゾクするというか、#刺激的な…>>ニヤリと彼が笑う。#<<…若い人がね。>>
+tatuaje impactante|派手な刺青を入れる
+larga sesión de fotos|長時間の写真撮影
+recomienda a uno de tus aliados|「仲間」の1人を紹介する
+[NECESITA AL MENOS UN ALIADO]|最低1人の「仲間」が必要
+<<¿Tatuaje? ¡Espléndido! >>#Sr. YOKOYAMA aplaude fuerte.##<<Incluso conozco a un artista dispuesto a hacer un determinado diseño... Puede que sea un poco doloroso, pero estoy seguro de que a todos les encantará.>>#(+ ESTADO / -2 RESISTENCIA )|<<刺青？最高だね！ >>#横川さんが大きく手を叩いた。##<<知り合いにね、#あるデザインを彫ってくれる奴がいるんだ…#ちょっと痛いかもしれないけど、#きっとみんな気に入ってくれるさ。>>#(+パーク / スタミナ-2)
+<<Sí, sí. Podría arreglar eso.>>#Mr. YOKOYAMA sonríe.##<<Estoy seguro de que el jefe lo encontrará satisfactorio...>>#(+5% DOOM)|<<そうか、いいね。それなら手配できる。>>#横川さんが笑う。##<<上も、きっとそれで納得してくれるよ…>>#(破滅値+5%)
+El Sr. YOKOYAMA mira de arriba abajo a la persona que presentaste.#<<Sí... creo que podemos trabajar con eso....>>##Evitas la mirada de tu amigo cuando se sube a un auto con tu manager, claro. nunca los volverás a ver.#(- ALIADO)|私が連れてきた人を、#彼が上から下まで舐め回すように見る。#<<ああ…これなら何とかなるな…>>##友達がマネージャーと一緒に車へ乗り込む。#けど、私は目を合わせなかった。#もう二度と会うことはないと分かっていたから…#(-仲間)
+CRISIS DE FE|信仰の危機
+Al permitirte un pequeño descanso, tu mente comienza a divagar.#¿Puede Dios realmente explicar todo lo que estás experimentando?##Una parte oscura de ti se pregunta si el ocultismo contra el que has estado luchando puede darte la respuesta que estás buscando. ..|一息入れていると、心の中で迷いが生じ始める。#今、僕が経験してること全部、#神様は説明できるのかって…##これまで戦ってきた怪異が、#果たして僕の求める答えをくれるのだろうか…#そう、心の暗い部分が問いかけてくる。
+mantenerte fuerte|気を確かに持つ
+¿Qué hay de malo en dudar?|疑って何が悪い
+Tu firme determinación de salvar esta ciudad puede provenir de una sola fuente.#Suspiras y te preparas para lo desconocido que te espera. #(+4 FE)|この町を救いたいという固い決意は、#この心の中からしか生まれない。#これから待ち受ける未知の恐怖に備え、#僕は心を落ち着かせた。#(信仰値+4)
+¿Y si... tu Dios no es el único que podría influir en los humanos? ¿Qué pasa si... hay poderes más grandes en juego aquí?#(-4 FE)|もし…僕の信じる神以外に、#人々に影響を与える存在がいたとしたら？#もし…もっと大きな力が#ここに存在しているとしたら？#(信仰値-4)
+MIS RECUERDOS|忘れ形見
+Al revisar tus cosas viejas guardadas en tu habitación, descubres un recuerdo inesperado. Un viejo rosario que compraste cuando encontraste tu fe y una foto tuya y de tu hermana en la playa.##No tienes mucho tiempo para revisar otras cajas. ¿Qué recuerdo te llevarás?|部屋の中にある古い物を詰め込んだ箱。#偶然、その中から思い出の品が見つかる。#神様を信仰し始めた頃に買った古いロザリオと、#浜辺で姉ちゃんと撮った写真だ。##他の箱を見ている時間はない…#どっちを持っていこう？
+un viejo rosario|古いロザリオ
+un fotografo|写真
+Coges el rosario. Necesitarás toda la ayuda que puedas conseguir si quieres sobrevivir en Shiokawa.#(+ ARTÍCULO)|僕はロザリオを手に取った。##塩川で生き残るには、できる限りの助けが要る。#(+アイテム)
+Tomas la foto y la colocas en tu billetera. Salvarás esta ciudad. Para ella.#(+10 EXP)|僕は写真を手に取り、財布の中に入れた。#この町を救う。姉ちゃんのために。#(EXP+10)
+CUERNO DE LA ABUNDANCIA|コルヌコピア
+De repente, el MEDALLÓN DE ÓNIX comienza a temblar violentamente. Intentas detenerlo presionándolo con fuerza contra tu pecho y te quema la piel. #Gritas de dolor, llamando la atención de un hombre que está cerca. Da un paso hacia ti y te agarra la mano, claramente tratando de ayudar. Ayuda, tal como lo intentaron tus amigos...##Antes de que puedas decir algo, el hombre explota en una cornucopia de sangre y sangre. El medallón se ha cobrado otra víctima.|いきなり、オニキスの首飾りが激しく揺れ始める。#胸に強く押し当てて止めようとするも、肌が焼けるような痛みがした。大声で叫ぶと、近くにいた男の人が気付いてくれた。こちらに近寄り、私の手を掴む彼。#助けようとしてくれてるんだ。#助ける…友達もそうしようとして…#けど、私が何か言う前に彼の体は吹き飛び、#血と肉片の塊になってしまう。#また一人、首飾りが犠牲者を出した。
+buscar los restos|遺体を調べる
+huir|逃げる
+Guiado por los extraños poderes del medallón, introduces la mano en el montón de carne humeante. La carne se fusiona con tu piel y se absorbe lentamente.#(+2 RESISTENCIA / +5 EXP)#(+ MALDICIÓN)|首飾りの奇妙な力に導かれ、#熱く蒸れた肉の山に手を突っ込む。##肉は私の肌と融合して、#ゆっくりと体内に吸収されていった。#(スタミナ+2 / EXP+5 / +呪い)
+¡¡Esto no puede seguir pasando!!#Gritas, intentando arrancar el medallón, pero es inútil. ¡Tendrás que encontrar una manera de deshacerte de él!#(+10 EXP)#(+1 ELIMINACIÓN DE MALDICIÓN AÑADIDA)|このままでいいわけがない！#私は悲鳴を上げながら、#首飾りを引き剥がそうとした…#けど、びくともしない。#どうにかしてこれを取り除かないと…！#(EXP+10 / 呪い: 除去可能数+1)
+MALA SANGRE|血塗られし確執
+Al sentir venir la oleada de náuseas, caes de rodillas. El líquido que vomitas es de color rojo oscuro y huele a metal. Cuando finalmente te levantas, notas que la sangre en el suelo se acumula en un patrón determinado. ¡El mismo sello mágico que dibujaste durante el ritual en el que murieron tus amigos!##El medallón vibra un poco, como si estuviera contento con la angustia que te causó.#(-1 RESISTENCIA, -5% DOOM)#(+ ESTADO ?)|吐き気が込み上げてきて、床に膝をついてしまう。#吐き出した赤黒い液体から、金属の匂いがする。#ようやく立ち上がると、床に広がる血が#何かの模様を描いていることに気づく。#あの儀式で使ったのと同じ、私が描いた魔法陣だ！#あれのせいで、みんな死んじゃったんだ。#わずかに首飾りが揺れ動く…#まるで、その苦しむ姿を喜ぶかのように。#(スタミナ-1 / 破滅値-5% / +怪我？)
+LA COLECCIÓN PROHIBIDA|禁忌の収集品
+Aquella fatídica noche, sólo conseguiste robar el NECRONOMICON. Si bien son extremadamente peligrosos por sí solos, otros títulos también amenazan la seguridad de esta ciudad.##¿Qué otro libro te arrepientes más de no haber llevado contigo?|運命の夜、ついに俺はあのネクロノミコンを#盗み出すことに成功した。かなり危険な代物だが、#これ以外もまた、この町の脅威となり得る。##あの中で持ち出せずに一番後悔しているのは…？
+un cuaderno lleno de información de contacto|連絡先がたくさん#書かれたノート
+tomo de hechizos peligrosos|危険な呪文が#書かれた書物
+una carpeta de anillas con detalles sobre tu vida|俺の人生について#詳しく書かれたファイル
+Sí, tener ese cuaderno te ayudaría a identificar posibles amenazas ubicadas en varias partes de SHIOKAWA.#(+6 EXP)#(EL NIVEL DE AMENAZA DE LA UBICACIÓN AUMENTA)|そう、あのノートがあれば、#塩川の色んな場所に潜む脅威を特定できる。#(EXP+6)#(調査ポイントの“危険度”が上昇)
+Sí, NECRONOMICON sólo puede protegerle contra amenazas que usted conoce. ¿El dolor que sientes es el resultado de sus hechizos?#(+8 EXP)#(-2 RESISTENCIA)|そう、ネクロノミコンは#既知の脅威からしか身を守れない。##俺が感じてる痛みは、あの呪文のせいなのか？#(EXP+8)#(スタミナ-2)
+Sí, esa carpeta de anillas definitivamente contenía demasiada información sobre ti. Tienes miedo de que la secta lo use para atormentarte a ti y a tu familia.#(+8 EXPERIENCIA)#(-2 RAZÓN)|そう、確かにあのリングファイルには#俺の情報が載りすぎている。##カルト教団の手に渡れば、#自分だけじゃなく#家族にも累が及ぶかもしれない。#(EXP+8)#(理性-2)
+RAMEN FUNKY|風変わりなラーメン
+Sentado en un restaurante, eres interrumpido por un joven camarero.#<<Disculpe, ¿es usted el Sr. WAKAMATSU?>> comienza.#<<Hay alguien al teléfono preguntando por usted. Parece urgente.>>##Sintiendo un sudor frío, la sigues detrás de un mostrador y levantas el teléfono. La voz familiar del líder del club te saluda y...|食堂で座っていると、#突然若い店員が声をかけてきた。#<<すみません、若松さんですよね？>>#彼女が続ける。#<<お電話が来てます。どうも、お急ぎのようで…>>#冷や汗をかきつつ、彼女を追って#カウンターの裏に入り、受話器を取った。#聞き慣れた部長の声だ。軽く挨拶をすると、彼は…
+te advierte sobre el ramen que estás comiendo|そのラーメンについて警告した
+te exige que le devuelvas el NECRONOMICON|ネクロノミコンを返せと迫った
+...espera, no fuiste tú quien compró ramen. Echas un vistazo rápido a una mesa cercana y huyes rápidamente del restaurante mientras el hombre que lo ordenó cae al suelo, echando espuma por la boca.#(+5 EXP)|…ラーメンなんて、俺は頼んでない。#確か、近くに座ってた客が頼んでたような…#そう思い、その席をさっと覗いた。#すると、男が口から泡を吹きながら#倒れるのを見てしまう。#俺は慌てて電話を切り、食堂から逃げ出した。#(EXP+5)
+¿El ramen? Francamente, pensaste que sabía raro pero...###De repente te sientes mal, como si algo estuviera a punto de explotar en tu estómago. #La sensación pasa al cabo de unos minutos y has causado bastante revuelo. Te disculpas y sales del restaurante, hambriento y débil.#(-2 RESISTENCIA)|ラーメン？正直、ヘンな味だとは思ったが…#すると突然、胃の中で何かが爆発するような、#激しい吐き気に襲われる。#数分間ずっと苦しみもがいて、やっと胃の調子は#落ち着いたものの店内は騒然としていた。#空腹と脱力感に襲われながら、俺は店を後にした。#(スタミナ-2)
+Deben estar siguiendo cada uno de tus pasos, acercándose cada vez más. Te disculpas con el camarero y huyes del restaurante.#(+2% DOOM)|きっと奴らは後をつけてきてるんだ、#一歩一歩確実に…#俺は一言、店員に謝って、#急いで店から飛び出した。#(破滅値+2%)
+BORDE DEL ACANTILADO|崖の縁
+La investigación te lleva al borde de un acantilado. El mismo acantilado donde... no importa, debes concentrarte en el caso y salvar la ciudad.#Involuntariamente, miras hacia abajo, esperando encontrar el cadáver medio podrido de una chica popular adorada por todos. En cambio, lo único que puedes ver son las olas rompiendo violentamente contra el acantilado.##Dios, ¿qué te está pasando?#(+5 EXP / -2 RAZÓN)|調査中、私はまるで誘われるかのように崖の縁まで#来ていた。ここは…いや、思い出すのはよそう。#今はこの事件と、町を救うことに集中しないと。#無意識のうちに目が下を向く。そこには腐りかけの#死体がある…はずだった。荒々しい波が岩肌に打ち#つける。皆から慕われていた彼女の姿はどこにも#見当たらない。あぁ…私、どうしちゃったんだろう？#(EXP+5 / 理性-2)
+la encontrarán algún día|いずれ彼女は見つかる
+MI CORTE DE PELO|ヘアカット
+Sentado en una bañera, ves algo y lo recoges. Es un par de tijeras. Lo has usado para cortarte el pelo. No fue un trabajo perfecto de ninguna manera, pero los engañaste. Después de todo, tenían un asunto más serio en el que concentrarse.#(+5 EXP / -2 RESISTENCIA)|お風呂に浸かってると、ある物が目に入る…#ハサミだ。#自分で髪を切るときによく使ってた。#完璧な仕上がりとは言えないけど、#追っ手の目を欺くにはこれで十分だった。#だって、彼らにはもっと大事なことが#あったんだから。#(EXP+5 / スタミナ-2)
+ECOS DEL PASADO|過去の残響
+Al caminar por los caminos de tierra del pueblo, te encuentras en un lugar familiar. Te das cuenta de que aquí es donde vivías cuando eras pequeña. A medida que tu mente divaga, sigues avanzando en el camino. ##Te encuentras en el cementerio donde está enterrada mamá.|村の泥道を彷徨ってると、#どこか懐かしい場所に辿り着く。#ここって…小さい頃に住んでた場所？#ぼんやりしてるうちに、#そのまま道の奥まで進んでしまう。#ふと気がつくと、私はママのお墓がある#墓地まで来ていた。
+volver a la investigación|調査に戻る
+dejar una ofrenda|お供えをする
+excavar|墓を掘り返す
+[necesita el elemento 'PALA']|アイテム｢シャベル｣が必要
+Pasas un poco más de tiempo mirando el cementerio antes de irte. ##Ha pasado mucho tiempo desde que pensaste en mamá. Pero habrá mucho tiempo para ello cuando todo esto termine.#(+5 EXP)|少しだけ見て回った後、私はその場を後にした。##ママのことを考えるなんて、久しぶりだ。#これが全部終われば、考える時間はたくさんある。#(EXP+5)
+En el templo cercano se compra incienso y flores. Después de limpiar la tumba y colocar tus ofrendas, dedicas unos minutos a orar. ##No la recuerdas y eras demasiado joven. Pero por la forma en que papá habla de ella, todavía la extrañas.#(-1 FONDOS / +2 RAZÓN)|近くのお寺でお香と花を買う。#お墓の掃除を済ませてからお供えをして、#しばらく手を合わせた。#ママのことはあんまり覚えてない…#私もまだまだ小さかったから。#それでもパパの話を聞くと、#やっぱりどこか寂しくなってしまう。#(所持金-1 / 理性+2)
+Te das cuenta de que no tienes el dinero para hacerle una oferta. Sales del cementerio, pero la culpa aún nubla tu mente. Terminas perdiéndote debido a la distracción.#(+2% DOOM)|お供え物を買うお金がないことに気づき、#墓地を後にする。#けど、心に浮かぶ罪悪感はどうしても消えなかった。#気が散っていたせいで、つい道に迷ってしまう。#(破滅値+2%)
+... Algo te supera. Tu cuerpo se mueve antes de que puedas pensar mejor y hundes tu pala en el pie de su tumba. El sudor corre por tu cara. Cavas.##No hay nada. Ni urna, ni cenizas, ni huesos. Nada. Miras fijamente al suelo, temblando.##¿Qué diablos es esto?#(+40 EXP / -4 RAZÓN)|考えるより先に体が動き、私はシャベルを土に突き#刺していた…まるで何かに取り憑かれたみたいに。#顔中、汗だくになりながら、ただただ掘り続ける。#だけど、何も見つからない。骨壺も遺灰も骨も…#全部なくなってる。土を見つめてると、震えが止まらなくなってしまう。一体どういうことなの？#(EXP+40 / 理性-4)
+THE TRUMPETS OF SHIOKAWA|凶兆を告げるラッパ音
+Seguramente no puedes ser el único que pueda escuchar la inquietante melodía. Se puede sentir resonando en todo lo que tocas. Se acerca el baile de la cancha y aún no estás listo.|その不気味な旋律を耳にしたのは、#あなただけではないだろう。#何に触れても、その響きを感じ取ってしまう。##もう間もなく…舞踏会が開かれるのだ。#だが、まだ心の準備が整っていない…
+Prepárate|覚悟を決める
+luchar contra este sentimiento|何とか抗う
+Serás una excelente incorporación a la Corte.#(+3% DOOM)|あなたが来れば、宮廷はより盛り上がるだろう。#(破滅値+3%)
+Resistir sólo hará que el HERALD trabaje más duro.#(-1% DOOM / + LESIONES)|抵抗すればするほど、ヘラルドの動きが#活発になるだけだ。#(破滅値-1% / +怪我)
+RUTINA DE ANIMADORAS|完璧なチアダンス
+Un grupo de estudiantes está practicando una rutina de porristas. Qué raro, no reconoces al entrenador. ¿Es nuevo? Sin pensar más en ello, continúas tu camino hasta que escuchas algo perturbador.##>>¡Sigue prR-actiNg! La rutina debe ser perfecta para los anfitriones de nuestra pelota.<<#(-1 RAZÓN / -1 RESISTENCIA)|チアリーディングの練習をしている生徒たち。#変だ、見慣れないコーチがいる…新任の人だろうか？#特に気に留めることもなく通り過ぎるも、#そこで不気味なかけ声を耳にしてしまう。#>>この埜まマ,練習ヲ続ケ繧ろ！#舞踏会をオ乎開かレ繧る.主の為にモ,#完璧ナn演技をしŠ柰けレrば！<<#(理性-1 / スタミナ-1)
+fortaleza|筋力
+destreza|敏捷性
+percepción|知覚
+conocimiento|賢さ
+carisma|カリスマ
+suerte|幸運
+aguante|スタミナ
+razón|理性
+(control de fuerza: éxito)|<筋力チェック: 成功>
+(control de fuerza: fracaso)|<筋力チェック: 失敗>
+(prueba de destreza: éxito)|<敏捷性チェック: 成功>
+(control de destreza: fracaso)|<敏捷性チェック: 失敗>
+(verificación de percepción: éxito)|<知覚チェック: 成功>
+(verificación de percepción: fracaso)|<知覚チェック: 失敗>
+(verificación de conocimientos: éxito)|<賢さチェック: 成功>
+(verificación de conocimientos: fracaso)|<賢さチェック: 失敗>
+(verificación de carisma: éxito)|<カリスマチェック: 成功>
+(verificación de carisma: fracaso)|<カリスマチェック: 失敗>
+(prueba de suerte: éxito)|<幸運チェック: 成功>
+(prueba de suerte: fracaso)|<幸運チェック: 失敗>
+resolver este evento|イベント終了
+ganar un hechizo|呪文習得
+resolver este evento#(cancela el efecto)|イベント終了#(効果消失)
+prepararse para el combate|身構える
+¿dónde estás?|どこに行ったのだろう？
+el evento continúa|イベント続行
+Prepárate|身構える
+seguir subiendo|そのまま上る
+[haga clic en cualquier lugar para continuar]|（画面をクリックしてください）
+ACCEDE A TU ALMACENAMIENTO|カバンを開ける

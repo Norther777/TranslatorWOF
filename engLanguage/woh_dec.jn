@@ -1,0 +1,129 @@
+---KTU-RUFU, EL SUEÑO---|---夢見の神 クトゥ＝ルフ---
+El gigantesco cuerpo de KTU-RUFU yace sumergido dentro de una ciudad hundida, donde sus ensueños ilimitados siembran confusión y locura. Cuando las estrellas estén bien, KTU-RUFU despertará una vez más y comenzará la pesadilla...|クトゥ＝ルフはその巨体を水没都市へと沈め、無限の混乱と狂気を撒き散らしている。#星辰が揃う時、クトゥ＝ルフは再び目覚め、悪夢が始まるのだ…
+PESADILLAS: Perder la RAZÓN aumenta la DOOM.|悪夢: 理性を失うと破滅値が上昇する
+DREAMING OF SHIOKAWA|夢魘に苛む塩川
+El gigantesco cuerpo de KTU-RUFU yace sumergido dentro de una ciudad hundida, donde sus ensueños ilimitados siembran confusión y locura. Cuando las estrellas estén bien, KTU-RUFU despertará una vez más y comenzará la pesadilla...|クトゥ＝ルフはその巨体を水没都市へと沈め、#無限の混乱と狂気を撒き散らしている。##星辰が揃う時、クトゥ＝ルフは再び目覚め、#悪夢が始まるのだ…
+[perder la RAZÓN aumenta la DOOM]|理性を失うと破滅値が上昇する
+KTU-RUFU|クトゥ＝ルフ
+La profecía era correcta y no había nada que pudieras hacer para detenerla. El sueño de KTU-RUFU con SHIOKAWA ha terminado.|予言は正しかった…だが、あなたにそれを止める力はなかった。#クトゥ＝ルフの塩川への夢は、終わりを迎えたのだ。
+Al ser parte de este sueño, tú y todos tus conocidos han dejado de existir...|この夢の一部として、あなたを含む全ての人が存在ごと消えてなくなった…
+¿Solo un sueño?...|ただの夢…？
+¿SOLO UN SUEÑO?|ただの夢？
+reducir DOOM en un 2% al final del misterio|謎を解決すると#破滅値が2％低下
+<<¿fue todo sólo un sueño?>>|<<全部…ただの夢？>>
+ALUCINACIONES|幻覚
+-1 PERCEPCIÓN|知覚-1
+<<...él no es real...>>|<<奴は本物じゃない…>>
+RECUERDOS|フラッシュバック
+-2 DESTREZA#(descartar): +4% DOOM|｢敏捷性｣-2#捨てる:破滅値+4%
+<<no encuentran el cuerpo>>|<<あの死体を見つけられる訳がない>>
+VIOLÍN CONTAMINADO|血染めのバイオリン
+(equipar): acciones de combate más rápidas|装備: 戦闘アクションが#速くなる
+Su madera se ha empapado de un curioso líquido de color rojo oscuro.|赤黒い液体が木に染み込んでいる。
+No puedes quitar las manchas.|染みは落とせない。
+SANTOS GLIFO|聖なる秘符
+reduce DOOM en un 1% por cada artículo en tu inventario#[descartar al usarlo]#[COSTO: 2 RAZONES]|所持品へアイテムが増える度に#破滅値1%低下#[使用後に消失]#コスト:｢理性｣-2
+EL NORUEGO|ノルウェー風
+SUEÑOS MALOS|悪夢
+Mantenerse despierto es cada vez más difícil para ti, pero las horribles pesadillas que has tenido últimamente te preocupan.##¿Qué pasaría si no pudieras despertar de una?|だんだん夜遅くまで起きているのが辛くなってきた。#ここ最近、繰り返し恐ろしい悪夢を見るように#なって、心が安まらない。##もし、あの悪夢から#目を覚ますことができなかったら…
+ceder; tu cuerpo lo necesita|諦めて眠る#体を休めなくては…
+no puedes irte a dormir ahora|いま寝れるわけがない
+Tus pesadillas se vuelven más realistas cada vez que cierras los ojos, pero tu cuerpo se siente descansado y estás listo para la acción.#(+1 RESISTENCIA / -3 RAZÓN)|目を閉じる度、じりじりと悪夢が#現実の世界に迫り寄ってくる。#だが、疲れはしっかり取れたようで#動く準備はできていた。#(スタミナ+1 / 理性-3)
+Bebes otra taza de café, rezando para que tu cuerpo se acostumbre.#(+ESTADO)|コーヒーをもう一杯飲む。#寝なくてもいいように#体も慣れてくれればいいが…#(+ステータス)
+FESTIVAL DE MÁSCARAS|仮面の奇祭
+Cuando miras a tu alrededor, notas que cada vez más personas usan máscaras extrañas, diferentes a todo lo que hayas visto antes. Mientras recurres a tus amigos en busca de consuelo, notas que algunos también usan estas espeluznantes máscaras. Sus voces suenan apagadas y distorsionadas, y no puedes quitarte de encima la sensación de que no son ellos mismos.#Se te erizan los pelos de la nuca y te das cuenta de que algo anda terriblemente mal.|ふと気付くと、不気味な仮面を着けた人が、周りに#どんどん増えていた…こんなの、見たことがない。#助けを求めて友達の方を向くと、#そのうち何人かも同じ仮面をつけていた。##くぐもった声が、さらにひずんで聞こえる。#まるで別人のようだ。#ゾクリと首筋の毛が逆立つ…#直感的に、何か恐ろしいことが#起きているような気がした。
+<<Se están preparando para algo...>>|<<何かの準備を…？>>
+<<¡Esto no puede ser saludable!>>|<<こんなのどうかしてる！>>
+<<¿Están ocultando algo?>>|<<何か隠してるのか？>>
+Una sensación de pavor se apodera de ti mientras las personas enmascaradas pululan por la tienda, llenando sus carritos con comida y equipo de supervivencia.#Te das cuenta de que los precios de los productos ya se han disparado.##Te das cuenta de que debes actuar rápido si Quiero tener alguna posibilidad de sobrevivir.#(-2 FONDOS)|店に押し寄せた仮面を着けた人々が、#食料やサバイバル用品をカートに詰め込んでいる。#その様子を見て、あなたは恐怖を覚えた。#どの商品も価格が跳ね上がっている。##生き残るためには、すぐに行動を起こさなければ。#(所持金-2)
+¿Contra qué se protegen? Respiras profundamente y el aire a tu alrededor se siente pesado, como si estuviera cargado de un veneno invisible. Toses y tus ojos comienzan a lagrimear.##El mundo que te rodea no es tan seguro como alguna vez pensabas. .#(-2 RESISTENCIA)|一体、この人達は何から#身を守ろうとしてるのだろう？#深呼吸をすると、やけに空気が重く感じる。#まるで辺りに見えない毒が満ちているかのようだ。#ゴホゴホと咳き込むと、じわりと涙が滲んでくる。##かつてあなたが思っていたほど、#もうこの世界は安全ではないのだ。#(スタミナ-2)
+No puedes evitar preguntarte qué hay detrás de las máscaras que ocultan los rostros de las personas que te rodean.##¿Son estas las personas que dicen ser? ¿O simplemente se hacen pasar por algo que no son, ocultando sus verdaderas identidades detrás de las máscaras que usan?#(-2 RAZÓN)|あの仮面の奥に何を隠しているのだろう？#思わず考えてしまう。##その人物が名乗ったとしても、#顔が覆われていては本人なのかさえ分からない。#あるいは仮面を着けて別人になりすまし、#その正体を隠しているのだろうか？#(理性-2)
+REALIDAD QUE SE DESMORONA|崩れゆく現実
+La línea entre tus sueños y la realidad se ha desdibujado hasta quedar irreconocible y ya no puedes distinguir qué es real. Mientras luchas por mantener la cordura, te invade una sensación de pánico. El mundo que te rodea comienza a deformarse y distorsionarse, y puedes sentir que te alejas cada vez más de la realidad.##DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR DESPERTAR|夢と現実の境界線が曖昧になり、#何が現実なのか分からなくなってきた。#理性と狂気の瀬戸際で恐慌状態に陥ってしまう。#世界がぐにゃりと歪み始め、現実から自分が#遠ざかっていくのを感じる。#目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ、目を覚ませ
+¡I A! IÄ!#KTU-RUFU FHTAGN!|イア！イア！#クトゥ＝ルフ・フタグン！
+deja que el VOYEUR DIMENSIONAL te devore|｢次元を覗くもの｣に#身を委ねて喰われる
+luchar contra este sentimiento|狂気に抗う
+¡¡KTU-RUFU se levantará una vez más y el mundo tal como lo conoces está a punto de ser consumido por la oscuridad!!#(+10 EXPERIENCIA / +2% DOOM)|再び目覚めたクトゥ＝ルフにより、#世界は闇に呑み込まれていく！#(EXP+10 / 破滅値+2%)
+Intentas luchar contra ello, negar el hambre que nunca podrá ser saciada, pero en el fondo sabes que es inútil.##Cierras los ojos lentamente...#(+3 EXPERIENCIA)|決して満たされることない飢えに抗おうとする。#内心、そんなことをしても無駄なのは分かっていた。##そうして、あなたはゆっくりと目を閉じ…#(EXP+3)
+Esto no puede estar sucediendo#esto no puede estar sucediendo#esto no puede ser suceder-##Abres los ojos, medio esperando encontrarte en las garras de una pesadilla. Pero todo parece normal. Demasiado normal.#(+4 RAZÓN)|現実じゃない#現実じゃない#現実じゃ…#もう悪夢に囚われてしまったのだと、#半ば諦めて目を開ける。#だが、辺りにはいつもの光景が広がっていた。#“ 全てが普通”すぎる。不自然なほどに…#(理性+4)
+El mundo que te rodea se deforma y se retuerce en un vertiginoso despliegue de locura, empujándote al borde de la locura. Intentas aguantar, pero es demasiado y te desplomas en el suelo...###De repente, un oficial de policía te devuelve a la realidad y te mira con confusión y sospecha...# (-2 RESISTENCIA)|歪んでねじれ、めまぐるしく変わっていく世界で#狂気の淵に立たされる。#何とか正気を保とうとするも、#ついに限界を超えて地面に倒れ込んでしまう…##すると突然、あなたは現実に引き戻された。#困惑した警察官が訝しげにこちらを見下ろしている…#(スタミナ-2)
+CORTADOR DE CAJAS (ROTO)|刃の折れたカッター
+¡La cuchilla de tu BOX CUTTER se rompió!|｢カッターの刃｣が折れた！
+EL PEQUEÑO PROYECTO DE MIMI|美々の小さな計画
+<<esto se ocupará de estos molestos flotadores...>>|<<これで、うっとうしいモヤモヤもなくなる…>>
+[REEMPLAZA EL LÍQUIDO EN TU GLOBO OCULAR CON UNA SOLUCIÓN SALINA]#---#-1 PERCEPCIÓN#-10% de probabilidad de todas las acciones de combate|眼球の中の液体を#生理食塩水と替える#---##｢知覚｣-１#全戦闘アクションの#成功確率-
+Debes comprometerte con uno de tus proyectos antes de continuar con tu investigación.|調査を続ける前に、自身の体を使った研究を一つ#行わなければならない。
+Una vez completado el próximo proyecto, debe continuar su investigación.|次の調査が終わったら、また新たな研究が待っている。
+[PINCHA HIELO A TRAVÉS DE LA NARIZ PARA DESACTIVAR LOS RECEPTORES DEL DOLOR EN TU CEREBRO]|鼻にアイスピックを#突き刺し、脳内の痛覚#受容器を不能にする
+-2 CONOCIMIENTO#-1 DAÑO ENTRANTE|｢賢さ｣-2##被ダメージ-1
+[REEMPLAZA EL LÍQUIDO DE TU GLOBO OCULAR CON UNA SOLUCIÓN SALINA]|眼球の中の液体を#生理食塩水と替える
+-1 PERCEPCIÓN# -10% de probabilidad de todas las acciones de combate|｢知覚｣-1##全戦闘アクションの#成功確率-10%
+[RECABLEBE FORZADAMENTE SU SISTEMA VESTIBULAR]|前庭系を無理やり#組み替える
+-1 SUERTE#falla todas las comprobaciones de eventos|｢幸運｣-1##全イベントで#スキルチェックに失敗する
+[IMPLANTE UN SEGUNDO CORAZÓN HUMANO]|第二の心臓を移植する
+-1 CARISMA#+5% DOOM|｢カリスマ｣-1##破滅値+5%
+[ROMPE TU BRAZO PARA FORMAR UNA NUEVA ARTICULACIÓN]|腕を折り、新たな関節を#形成する
+-1 FUERZA#acciones de combate más lentas|｢筋力｣-1##戦闘アクションが遅くなる
+[VENDE TU RIÑÓN PARA FINANCIAR TU PROYECTO]|腎臓を売り、研究用の#資金を調達する
+-3 RESISTENCIA MÁXIMA#+1 FONDOS|スタミナ上限-3##所持金+1
+[CORTA TU RODILLERA]|膝頭を切除する
+-2 DESTREZA; -1 espacio para ARTÍCULO|｢敏捷性｣-2##アイテムスロット-1
+<<Es hora de poner en práctica mis conocimientos...>>|<<今まで勉強してきたことが、#やっと活かせる…>>
+Antes de cada investigación, tendrás que elegir un experimento para realizar.|調査を始める前に、実験を一つ行わなければならない。
+<<Aquí no.>>|<<ここじゃない…>>
+CONTRATA UN ALIADO#(+5% DOOM)|仲間に加える#(破滅値+5%)
+DOOMER MORIKO|Doomer
+BHP|BHP
+[LEY]|[法律]
+Tu ONYX MEDALLION tiembla un poco.|｢オニキスの首飾り｣がわずかに揺れ動く。
+PESADILLA REAL|真の悪夢
+encuentra tres enemigos SUEÑOS en una sola partida|1回のプレイで#｢夢魔｣の敵に3回遭遇する
+CORTADOR DE KICK-BOX|鋭い蹴り
+inflige 10 daños con una sola patada|1回の｢キック｣で#10ダメージ与える
+BIENVENIDO A LA FAMILIA|家族の一員
+deja entrar al verdadero JURI|樹里が本当の自分を#受け入れる
+CAJA DE ACERO|鋼鉄の箱
+romper la hoja|刃を折る
+¿PUEDES CONFIAR EN ELLOS?|頼れる仲間？
+contrata a dos aliados en una partida y gana|1回のプレイで｢仲間｣を#2人加えてクリアする
+(H)TERAPIA EXPERIMENTAL|常識外れの人体実験
+Completa el desafío [EL PEQUEÑO PROYECTO DE MIMI]|チャレンジ｢美々の小さな計画｣を#クリアする
+ATRÁPAME SI PUEDES|捕まえてみな
+esposar al último oportunista|｢究極のご都合主義者｣に#手錠をかける
+LLUVIA DE ARAÑAS|蜘蛛の雨
+Como YASHIRO, completa una partida de VERDADERO CREYENTE con CTHAC-ATORASU como el DIOS VIEJO.|八代: 旧き神｢クタク＝アトラス｣#を召喚し、難易度#｢真の信奉者｣をクリア
+SALIR AL MENÚ|メニューに戻る
+SALIR (confirmar)|戻る (確定)
+SE MUESTRAN MATEMÁTICAS ADICIONALES: ENCENDIDO/APAGADO|詳細な計算式表示#ON / OFF
+INFORMACIÓN ADICIONAL MOSTRADA: ENCENDIDO/APAGADO|追加情報の表示: ON / OFF
+al investigar|調査を続ける…
+daño de combate infligido|与ダメージ
+daño de combate recibido|被ダメージ
+[FORTALECE TU RESOLUCIÓN]: +3 FE|決意を固める: 信仰+3
+[COMENZAR A DUDAR]:-3 FE|疑念を抱く: 信仰-3
+NO PERTENECES AQUÍ (los personajes modificados no pueden guardar el progreso)|(MODの探索者は進行状況をセーブできません)
+te has encontrado|エンカウント:
+tu estas investigando|調査:
+has descubierto|発見:
+te has topado con|イベント発生:
+Continúa tu investigación...|調査を続ける…
+MÁSCARA DIVERTIDA|おかしな仮面
+(equipar): +1 RESISTENCIA o RAZÓN al comienzo de un encuentro de combate|装備: 戦闘開始時｢スタミナ｣#もしくは｢理性｣+1
+<<Esta máscara es todo menos divertida...>>|<<ちっとも面白くない…>>
+<<No me gusta.>>|<<好きにはなれない。>>
+RITUALES ACTIVOS|発動中の儀式効果
+STA|STA
+REA|REA
+entrar al hospital|病院に入る
+comprar artículos|アイテムショップ
+descansar|休む
+cada encuentro de combate|戦闘突入時
+MONOGRAFÍA MISTERIOSA|怪異研究論文
+ENDINGS ENCYCLOPEDIA te permite volver a visitar todas las pantallas finales desbloqueadas.|アンロック済みの#エンディング画面を#改めて見ることができます。
+MYSTERY MONOGRAPH recopila todos los finales misteriosos que has visto.|これまで見てきた謎の#エンディングが全て#まとめられています。
+ACCESO A LA AZOTEA|屋上に行く
+<<Escuché a mis padres hablar de un horrible accidente. Dijeron que el padre de la niña se volvió loco de pena...>>|<<親からの盗み聞きだけどさ、その女の子、酷い事故に遭って、#悲しんだお父さんが正気を失っちゃったらしいよ…>>
+<<¿Qué es eso?>>|<<あれは…？>>
+la chica susurra|少女がささやく…
+[INJERTO GARRAS DE OSO EN LOS DEDOS DE LOS PIES]|熊の爪をつま先に#移植する
+nueva LESIÓN aleatoria cada misterio#+2 PATADA daño|#毎回、謎を解く前に#ランダムな「怪我」を負う##「キック」のダメージ＋２

@@ -1,0 +1,719 @@
+[MONSTER]|[怪物]
+[FEMALE]|[女]
+[MALE]|[男]
+[??]|[？]
+[HUMAN]|[人間]
+weak against:|弱点:
+[BLUNT]|[鈍器]
+[SHARP]|[鋭器]
+[VAMPIRE]|[吸血鬼]
+[FIRE]|[炎]
+[MAGIC]|[魔法]
+[UNDEAD]|[亡者]
+No special skill.|特殊スキル: なし
+[ELDRITCH]|[怪魔]
+??|？
+you can't run from this encounter|逃げられない
+[PLANT]|[植物]
+[GHOST]|[悪霊]
+[FOUND YOU]|[ミーツケタ]
+this enemy can regain health with successful strikes|攻撃が当たると、体力が回復する
+[Tutorial will continue during combat]|[初戦闘時にチュートリアルが始まります]
+You get bashed in the head!|頭を殴られた！
+An old wound reopened!|古傷が開いてしまった！
+You dodged the attack!|攻撃をかわした！
+You get a feeling you are getting closer.|段々と近づいている気がする。
+You kill|こちらをはめようとした
+for plotting against you!|を殺した！
+helps you double your FUNDS!|は所持金を2倍に増やした！
+What went wrong?!... (+3% DOOM)|どうしてこんなことに…！？(破滅値+3%)
+You don't have enough experience!|EXPが足りない！
+[story action]|[ストーリーアクション]
+time needed|所要時間
+(Ritual was too short to have an effect!)|(儀式が短すぎて効果が出なかった！)
+(Ritual was too long to have an effect!)|(儀式が長すぎて効果が出なかった！)
+Nothing happens! You think you got|何も起きない…:
+ritual move(s) right!|回、作法通りに儀式を行ったはずだが…
+You've successfully banished the ghost! (+5 EXP)|悪霊を追い払うことに成功した！(EXP+5)
+Nothing happens! This ritual will only work on GHOST enemies!|何も起きなかった…この儀式は[悪霊]の敵にしか効かない！
+RIBCAGE WOMAN|あばら骨の女
+Following the ghastly music, you find yourself in a forest.#The sound is getting closer...|その不気味な旋律の後を追うと、あなたは自分が森の中にいることに気付く。##その音がどんどんと近づいてきている…
+RIBS MELODY|あばら骨の旋律
+A monster obsessed with her twisted sense of beauty.#She takes the rib bones from beautiful women and uses them to hide and protect her own hideous face.|歪んだ美意識に取り憑かれた怪物。#美しい女性のあばら骨を奪い、#その醜悪な顔を覆い隠している。
+The ribs expand, revealing a disfigured face!|あばら骨が広がり、目の前に醜い顔が現れる！
+Wires and ribs brush against each other.|顔面をつなぐワイヤーと肋骨が擦れ合う。
+RIBCAGE WOMAN scratches you with her nails!|“あばら骨の女”に爪で引っかかれる！
+RIBCAGE WOMAN stabs you with a rib bone!|あばら骨を使って、敵に引っかかれる！
+RIBCAGE WOMAN attacks you!|“あばら骨の女”の攻撃！
+RIBCAGE WOMAN closes her ribs on your flesh!|あなたの体にあばら骨が食い込む！
+She tears your flesh apart as she takes a step back!|後ろへ下がった女に肉を引き裂かれた！
+RIOTER|暴徒
+Suddenly, an empty bottle smashes on the wall behind you.#You cover yourself from the glass fragments and notice a masked assailant holding a baseball bat...|突然、背後の壁に空き瓶が当たり、砕け散る音がした。##飛び散るガラスの破片から身を守る。#そこには、野球のバットを構えたマスクの女が立っていた…
+RIOT|暴徒
+her POWER and damage increase with DOOM|破滅値に応じてパワーと与ダメージが上昇
+One of the many disturbed people. They see the increasing chaos as a way of venting their anger.|不穏な空気を纏った狂気じみた者たちの一人。#この町に混沌を広げることを、#怒りのはけ口にしている。
+RIOTER grabs a bottle filled with fuel|“暴徒”が燃料の入った瓶を手に取った。
+<<Show me what you've got, loser!>>|<<さあ、かかってきな！ザコが！>>
+RIOTER hits you with a baseball bat!|“暴徒”にバットで殴られる！
+RIOTER kicks you!|“暴徒”の蹴りを食らう！
+RIOTER assaults you!|“暴徒”が襲いかかってくる！
+RIOTER throws a Molotov cocktail at you!|“暴徒”が火炎瓶を投げつけてくる！
+You are engulfed in flames!|あなたは炎に包まれた！
+BLOODSUCKER|血をすする女
+Walking through the hospital corridor, you hear disgusting slurping sounds coming from a closet...|病院の廊下を歩いていると、#クローゼットの方からジュルジュルと嫌な音がした…
+VAMPIRE|吸血鬼
+These monsters will do anything to satisfy their unquenchable thirst... even if it means going through years of nursing school so they can inhabit hospitals undetected.|その満たされぬ渇きを満たすためなら、#怪物たちはどんな手段もいとわない。#病院に気付かれずに潜む…#たとえ何年、看護学校に通うことになろうと。
+BLOODSUCKER takes a step back, preparing to jump...|“血をすする女”が勢いをつけて、飛びかかろうとしている…
+BLOODSUCKER hisses|“血をすする女”がしゅーっと声を上げている。
+BLOODSUCKER tears into you!|“血をすする女”に体を切り刻まれた！
+BLOODSUCKER bites you!|“血をすする女”に噛まれる！
+BLOODSUCKER grabs you!|“血をすする女”に体を掴まれた！
+BLOODSUCKER jumps at you, trying to bite your neck!|“血をすする女”が、首をめがけて飛びかかってくる！
+You are bleeding all over!|全身からの出血が止まらない！
+Enemy regains health!|敵の体力が回復する！
+OBSESSED MAN|偏執狂の男
+<<STOP RIGHT THERE!>> you hear a voice coming from behind you!##<<YOU WON'T DESTROY MY LIFE'S WORK!!>>|<<止まれ！！>> ##背後から声がした！##<<私の最高傑作を壊すな！！！>>
+CORNERED ANIMAL|手負いの獣
+when injured, they deal double damage|｢怪我｣を負っている時は、与ダメージが2倍になる
+A violent man obsessed to the point of madness.|狂気に取り憑かれた凶暴な男。
+OBSESSED MAN punches you!|“偏執狂の男”に殴られる！
+OBSESSED MAN kicks you!|“偏執狂の男”の蹴りを食らう！
+OBSESSED MAN attacks you!|“偏執狂の男”の攻撃！
+The enemy roars in rage!|怒り狂った敵が唸り声を上げる！
+HEADLESS MANNEQUIN|首のないマネキン
+A headless person stumbles out of the sculpting classroom...#and it's reaching for your head!|彫刻室から、首のない者がよろよろと出てくる…##そして、その手をあなたの頭めがけて伸ばしてきた！
+NECK GRAB|首絞め
+their attacks may cause additional damage|攻撃されると、追加ダメージを受ける#ことがある
+An animated statue longing for a human head of its own.|人間の頭を欲する、生きた石膏像。
+HEADLESS MANNEQUIN cuts you with a knife!|“首なしマネキン”にナイフで切りつけられる！
+HEADLESS MANNEQUIN grabs you by the neck!|“首なしマネキン”に首を掴まれる！
+HEADLESS MANNEQUIN stabs you!|“首なしマネキン”に刺される！
+The enemy grabs your head and starts pulling! (-1ALL)|敵があなたの頭を掴んで、引き裂こうとした！(ALL-1)
+CANUS, THE LUNAR CAT|月の猫 カーヌス
+Cool air suddenly fills your mouth; it tastes metallic.##Before you can react, you hear a low growling sound coming from behind you...|突然、口の中にひやりとした空気が流れ込む…#金属のような味がする。##あなたが反応する間もなく、背後から低い唸り声が聞こえてきた…
+LUNAR NIGHTMARE|月の悪夢
+their damage equals to 1 plus the number of your allies|<与ダメージ>｢仲間｣の人数+1
+Hailing from the lush jungles of Tindalos, the lunar cats prey on struggling artists, sending them nightmares.|緑豊かなティンダロスのジャングルから#やってきた月の猫。#苦しむ芸術家たちに悪夢をもたらす。
+CANUS whispers horrible things to you!|“カーヌス”が恐ろしい囁きを発する！
+CANUS scratches you!|“カーヌス”に引っかかれる！
+CANUS tears into you!|“カーヌス”に体を切り裂かれる！
+HOLE-RIDDEN THING|穴だらけのもの
+Suddenly, a wall before you withers and falls apart, revealing a hole-ridden monstrosity...|突然、前方の壁が腐食して崩れ落ち、全身穴だらけの異形の怪物が現れた…
+LOST DETECTIVE|消えた探偵
+Once a detective investigating a missing person case, now he's slowly turning into a monster seeking those who have also found the cursed jade statuette.|呪われし翡翠の彫像…#男はかつて、失踪事件を追う探偵だった。#だが今や、その翡翠を見つけた者を狙う怪物へと成り果ててつつある。
+HOLE-RIDDEN THING suddenly stops...|“穴だらけの男”が突然、動きを止める…
+HOLE-RIDDEN THING smirks a little... you think.|“穴だらけの男”がニヤッと笑ったように見えた…
+Just by standing nearby, you feel sick!|近くにいるだけで気分が悪くなってしまう！
+Its presence makes you weaker!|そこにいるだけで力が抜けてしまう！
+HOLE-RIDDEN THING attacks you!|“穴だらけの男”が襲いかかってくる！
+Just by standing nearby, you feel weaker!|近くにいるだけで力が入らない！
+HOLE-RIDDEN THING reaches its hand and...|“穴だらけの男”が手を伸ばすと…
+Your exposed skin bursts into holes!|あなたの皮膚も穴だらけになってしまう！
+LEECH GIRL|ヒル女
+A shape shimmers beneath the surface. With a splashy sound, something emerges from the murky depths...|水面下で、何かがぼんやりと揺らめいている。##ばしゃっという音とともに、濁った水底から“それ”が姿を現した…
+MORBID FUMES|死の瘴気
+a random chance of losing additional health|一定の確率でさらに体力を奪われる
+Strangled by her jealous girlfriend, she became food for leeches. Now, they are looking for a new host.|嫉妬深い恋人に絞め殺された後に、#ヒルの餌食となった女。#今や“彼女たち”は新しい宿主を探す#怪物となってしまった。
+Leeches start crawling towards you!|ヒルが這い寄ってくる！
+LEECH GIRL smiles.|“ヒル女”が笑っている。
+LEECH GIRL attack you!|“ヒル女”の攻撃！
+LEECH GIRL hits you!|“ヒル女”が襲いかかってくる！
+LEECH GIRL punches you!|“ヒル女”に殴りつけられる！
+Taking a step back, you slip and fall!|後ずさったあなたは、足を滑らせて転んでしまう！
+Slimy leeches get stuck to your skin!|ぬるぬるのヒルが、肌にべったりと張り付く…
+You start coughing badly... (-1 STAMINA)|酷い咳が出始める…(スタミナ-1)
+SCISSOR WOMAN|ハサミ女
+Twisting and twitching, the demon woman enters the classroom, cackling menacingly...#<<Am I beautiful?>>|悪魔のような女が、その身をねじりながら教室に入ってきた。#ケタケタと笑う声が辺りに響き渡る…##<<<わタシ、きれイ？>>
+DEMON|悪魔
+A morbid urban legend. OLD GOD's corrupting influence has made it real.|ぞっとするような都市伝説。#旧き神の狂気により、#それは現実のものとなってしまった。
+SCISSOR WOMAN raises her scissors!|敵がハサミを振り上げた！
+SCISSOR WOMAN cackles menacingly|“ハサミ女”はケタケタと笑っている…
+SCISSOR WOMAN stabs you, covering the wall in blood!|“ハサミ女”に刺され、壁一面が血だらけになった…
+SCISSOR WOMAN stabs you!|敵にハサミを突き刺される！
+SCISSOR WOMAN slashes you with her scissors!|敵にハサミで切りつけられる！
+SCISSOR WOMAN cuts your face!|“ハサミ女”に顔を切りつけられる！
+You feel your cheeks split in half!|あなたの頬は真っ二つに切り裂かれた…
+TATORU|タトル
+You follow the faint sound to a telephone line pole.#The moment you notice giant hairy balls underneath it, they start to twitch and rise...|かすかに聞こえる音を辿っていくと、一本の電柱が目に入る。##その下に巨大な毛玉があることに気付いた途端、#それはぴくぴくと動き出し、浮き上がった…
+TATTLE|おしゃべり
+Parasitic monsters who connect to random people through telephone lines, using tales of idle gossip to lure these victims to a remote spot to be ambushed and eaten.|電話線を介して、不特定多数の人間に接触する#寄生怪物。他愛もない噂を流し、離れた場所に#人間をおびき寄せ、待ち伏せしたところで捕食する。
+TATORU flies closer...|“タトル”が近くまで飛んでくる…
+<<Did you see what that woman was wearing?...>>|<<アノ女ノ服、見タカ…？>>
+TATORU tries to kiss you with its giant lips!|“タトル”がその巨大な唇でキスを迫ってくる！
+TATORU attacks you!|“タトル”の攻撃！
+TATORU hits you!|“タトル”が襲いかかってくる！
+TATORU gives you a huge smooch and giggles.|“タトル”があなたの口に吸い付き、けらけらと笑う。
+Your skin burns!|肌が焼けてしまう！
+MAYIMA|間島
+Suddenly, a familiar person climbs out of the manhole...|突然、マンホールから見覚えのある人物が現れた…
+GHASTLY GUEST|ギラついた乱入者
+What are you doing here?|こんなとこで何してんやぁ？
+MAYIMA punches you!|“間宮”に殴られる！
+MAYIMA kicks you!|“間宮”の蹴りを食らう！
+MAYIMA attacks you!|“間宮”の攻撃！
+BLOATED SWIMMER|膨れ腹の水泳部員
+Something was in the water. Hands grab you by the legs and begin dragging you downward...##The tragic accident at the pool was all but forgotten...#until now.|水の中に何かがいた…#足下に手が伸びてきて、あなたを下に引きずり込もうとする。##かつて、痛ましい事故がこのプールで起きた。#これまでほぼ記憶の彼方にあったその悪夢が…今、蘇る。
+BLOATED BELLY|膨れ上がった腹
+may explode when attacked|攻撃を受けると爆発する可能性がある
+The tragic accident at the pool was all but forgotten... until now.|人々は忘れていた。#昔、このプールで悲惨な事故が起きたことを…#しかし今、その悪夢が蘇る。
+BLOATED SWIMMER smacks you with a tentacle!|“膨れ腹の水泳部員”による触手攻撃！
+BLOATED SWIMMER attacks you!|“膨れ腹の水泳部員”による攻撃！
+BLOATED SWIMMER hits you!|“膨れ腹の水泳部員”が襲いかかってくる！
+APARTMENT STALKER|仮面のストーカー
+You hear rustling on the other side of your apartment door.#Someone is trying to get in...|ドアの向こう側から、ガサゴソと物音がした。##何者かが中に入ろうとしている…
+CONCUSSION|脳震とう
+his attacks can randomly cause CONCUSSION status|この攻撃を受けると、#｢脳震とう｣状態になる場合がある。
+There's a rumor of a masked assailant going door to door beating tenants with a baseball bat. But that's just a story, right?...|仮面を被った暴漢が野球のバットを手に、#一軒ずつ中の住人を殴り回っているらしい。#それは、ただの噂だと思っていたのだが…
+APARTAMENT STALKER bashes you in the head with his baseball bat!|“仮面のストーカー”が野球のバットで頭を殴りつける！
+APARTAMENT STALKER lunges at you with his bat!|“仮面のストーカー”がバットを持って突進してくる！
+APARTAMENT STALKER attacks you!|“仮面のストーカー”による攻撃！
+TOILET GHOST|トイレの幽霊
+You back off from the toilet as the door slowly opens. A girl in a tattered uniform is standing there. Her head twists unnaturally as she makes a roaring, rattling noise.#A door behind you slams shut.|トイレのドアがゆっくりと開くのを見て、あなたは後ずさりをした。##中に、ボロボロの制服を着た少女が立っていたのだ。##彼女の頭がぐにゃりと不自然な角度に捻れる。#そして、がたがたと地を這うような唸り声を上げた。##その瞬間、背後のドアがバタンと閉まった。
+Rumors tell of a female ghost occupying the last stall in the toilet on the third floor.|3階のトイレ…その一番奥の個室に、#女性の幽霊が出るという噂があった。
+TOILET GHOST starts twitching.|“トイレの幽霊”がピクピクと痙攣し始める。
+TOILET GHOST circles you slowly...|“トイレの幽霊”が、あなたを囲むように回り始める…
+TOILET GHOST's hand flies through your chest!|“トイレの幽霊”の手が、あなたの胸を貫く！
+TOILET GHOST freaks you out!|“トイレの幽霊”に脅かされる！
+TOILET GHOST sucks REASON out of you!|“トイレの幽霊”に｢理性｣を吸い取られる！
+TOILET GHOST flies through your body!|“トイレの幽霊”が、あなたの体をすり抜ける！
+You can feel your sanity leaving with her!|彼女と共に自身の正気も失われたような感覚を覚える。
+ANIMATED HEAD|うごめく生首
+You were startled when you discovered that headless body.##You were horrified when you saw its head, hanging in the middle of the room and laughing!...|その首のない体を見つけた時、あなたはぎょっとした…##部屋の真ん中にぶら下がった頭が笑っていたのだ…#その光景に凍り付くような恐怖を覚える。
+A grieving husband tried to reanimate his tragically lost wife. His spell worked partially, reviving just the corpse's hair.#The detached head ripped out his throat mere seconds later.|悲しみに暮れる夫が、悲惨な死を迎えた妻を#生き返らせようとした。だが、呪文は不完全な#状態で発動し、死体の髪だけが蘇ってしまう。#その体と離れた頭は、そのほんの数秒後に#夫の喉笛をかき切った。
+ANIMATED HEAD wraps its hair around you!|“うごめく生首”の髪が体に巻き付く！
+ANIMATED HEAD attacks you!|“うごめく生首”の攻撃！
+ANIMATED HEAD bites you!|“うごめく生首”が噛みついてくる！
+MAD JANITOR|狂った用務員
+Not giving up after the previous failure, the obsessed janitor has found another body to experiment on - you!|前回の失敗をものともせず、執念深い用務員は次なる実験体を探し、#そしてついに見つけた…##そう、あなたを！
+RELENTLESS|冷酷無比
+A man obsessed with mermaids. One day he decided to make his own.|人魚に魅せられた男。#ある日、男は自ら人魚を作り出すことに決めた。
+MAD JANITOR raises his axe|“狂った用務員”が斧を振り上げる。
+He swings his axe menacingly.|男が斧を振り回して、威嚇している。
+MAD JANITOR swings his axe!|“狂った用務員”が斧を振るう！
+MAD JANITOR strikes you!|“狂った用務員”が襲いかかってくる！
+MAD JANITOR attacks you with his axe!|“狂った用務員”が斧を持って襲いかかってくる！
+MAD JANITOR swings down his axe!|“狂った用務員”が斧を振り下ろす！
+It hits you, dealing massive damage!|斧が直撃し、大ダメージを受けた！
+CULT DELINQUENT|不良信者
+You try to lose the masked man who has been following you the whole morning. You eventually find yourself in a dead end.#Looking for a way out, you hear a branch snapping behind you...|朝からずっと、仮面の男に尾行されている。#あなたは何とか振り切ろうとしたが、最終的に自分が行き止まりまで#追い詰められていることに気付く。##逃げ道を探していると、背後でパキッと枝の折れる音がした…
+MAYHEM|無法者
+each successful attack raises DOOM by 1%|攻撃が成功するごとに#破滅値が1%上昇
+A member of a local cult serving their eldritch masters.|怪魔の主に仕えるカルト教団の一員。
+CULT DELINQUENT stabs you with a dagger!|“不良信者”にドスで刺される！
+CULT DELINQUENT attacks you!|“不良信者”の攻撃！
+CULT DELINQUENT kicks you!|“不良信者”の蹴りを食らう！
+MAGICIAN|魔術師
+<<Our master is coming and we all can bask in its glory!>>|<<来たる日は近い！主の威光にその身を委ねるのだ！>>
+RELENTLESS|冷酷無比
+One of the many people granted maddening powers by the OLD GOD.|旧き神より、狂気の力を授けられた#多くの者たち。その中の一人。
+MAGICIAN saps strength from you!|“魔術師”に力を奪われた！
+MAGICIAN sends you flying!|“魔術師”に吹き飛ばされる！
+MAGICIAN attacks you!|“魔術師”の攻撃！
+DREAM DEVOURER|夢を喰らうもの
+The creature causing the contagious coma plaguing your town has taken notice of you! You must defend yourself or perish!|今もなお、この町を苦しめている集団的な昏睡現象…#その原因であった怪物が、こちらの存在に気付いた！##今ここで身を守らなければ、死は避けられない…！
+A cosmic parasite feeding off the dreams and memories of ordinary people.|宇宙より訪れし寄生生物。#一般人の夢や記憶を餌としている。
+DREAM DEVOURER tries to swallow you whole!|“夢を喰らうもの”が、あなたを丸呑みしようとする！
+Your mind is on fire!|あなたの頭の中は炎で燃え盛っている！
+DREAM DEVOURER melts your memories!|“夢を喰らうもの”に記憶を溶かされる！
+DREAM DEVOURER tears at your flesh!|“夢を喰らうもの”に体を引き裂かれる！
+DREAM DEVOURER feeds on your nightmares!|“夢を喰らうもの”が、あなたの悪夢を貪る！
+DREAM DEVOURER... smiles?|“夢を喰らうもの”は…笑っている…？
+DREAM DEVOURER grabs you!|夢を喰らうものに捕まった！
+STALKER GIRL|ストーカーの少女
+She said she would do everything to be with you, even if it meant to cheat death itself...|彼女はこう言っていた。##あなたと一緒にいられるなら、何でもする。#たとえ、死の運命をねじ曲げてでもと…
+A girl so in love with you, she killed herself in a ritual to bond you together.|あなたを愛するがあまり、少女は二人を結ぶ儀式の中で、自ら命を絶ってしまう。
+STALKER GIRL scratches you!|“ストーカー少女”に引っかかれる！
+STALKER GIRL bites you!|“ストーカー少女”に噛まれる！
+STALKER GIRL jumps at you with sinister laughter!|不気味に笑う“ストーカー少女”が飛びかかってくる！
+YOUNG WITCH|若き魔女
+Hearing footsteps behind you, you realize you aren't the only student here. A girl wearing a demon's mask starts giggling as she gets closer...|背後から足音が聞こえる…#自分以外にも誰か校内にいたのだ。##般若の仮面を被った少女が、くすくすと笑いながら近づいてくる…
+LOVE SPELL|愛の呪文
+male characters suffer additional REASON damage|男の探索者は、通常よりも#多くの｢理性｣を失う
+Amateur magician for whom simple love spells proved to be insufficient. Why stop at just one boy, she said one day, when you can have them all?|単なる恋のおまじないでは物足りなくなった#素人魔術師。ある日、彼女はこう言った。#何で男一人で満足しちゃうの？#みーんな、侍らせることだってできるのに…
+YOUNG WITCH takes a step back, preparing to strike.|“若き魔女”が一歩下がり、攻撃態勢を取る。
+YOUNG WITCH giggles.|“若き魔女”がクスクスと笑っている
+YOUNG WITCH slashes you with a boxcutter!|“若き魔女”にカッターで切りつけられる！
+YOUNG WITCH attacks you!|“若き魔女”の攻撃！
+YOUNG WITCH takes a swing with her boxcutter...|“若き魔女”がカッターを振り回している…
+YOUNG WITCH slashes you across the neck!|“若き魔女”に首元を切りつけられた！
+A minor artery is opened, spraying her with blood!|小動脈が切り裂かれ、血しぶきが上がった！
+There is something strangely charming about her...|彼女にはどこか不思議な魅力がある…
+GHOUL|食屍鬼
+A sudden growl, coming from behind a corner, makes you stop...|突然、曲がり角の向こうから唸り声がして、あなたは思わず足を止めた…
+CORPSE EATER|屍肉喰らい
+The creatures hiding themselves in our society by day, and eating corpses by night.|昼はこの社会のどこかに身を潜め、#夜になると屍肉を喰らうものたち。
+(placeholder)|(placeholder)
+(placeholder)|(placeholder)
+GHOUL bites you!|“食屍鬼”に噛まれる！
+GHOUL scratches you!|“食屍鬼”に引っかかれる！
+GHOUL attacks you!|“食屍鬼”の攻撃！
+RUMU GHOST|瑠夢の亡霊
+Countless spoons fly out of a cupboard when a ghastly figure materializes in the middle of the room...|戸棚が開き、無数のスプーンたちが飛び出す。##その瞬間、部屋の中央に不気味な姿が浮かび上がった…
+CHEEP|安っぽい
+An actor who died in a tragic spoon accident.|あるスプーンによる不幸な事故で亡くなった#女優。
+|
+|
+RUMU GHOST freezes you!|“瑠夢の亡霊”があなたを凍えつかせる！
+RUMU GHOST sucks your life force away!|“瑠夢の亡霊”があなたの生命力を吸い取る！
+RUMU GHOST attacks you!|“瑠夢の亡霊”の攻撃！
+ASPIRING MODEL|野心的なモデル
+Hearing footsteps, you turn around. Behind you stands a pretty woman in a sweater.#<<natural beauty... yes, this is exactly what I need>>##You shudder seeing the weird woman reaching into her pocket and producing a nasty-looking knife.###<<pretty face... mind if I borrow it?>>|足音に気付いて振り向くと、そこにはセーターを着た綺麗な女性が立っていた。##<<自然な美しさ…そう、まさに私はそれが欲しいのよ…>>##不気味な女がポケットから物騒なナイフを取り出すのを見て、あなたは震え上がる。###<<可愛らしい顔ね…それ、貸してもらえる？>>
+A desperate woman who will do -anything- to get noticed.|人々の目を引くためなら、“手段はいとわない”と#死に物狂いになっている女。
+ASPIRING MODEL cuts you with her knife!|“野心的なモデル”にナイフで切りつけられる！
+ASPIRING MODEL scratches you!|“野心的なモデル”に引っかかれる！
+ASPIRING MODEL attacks you!|“野心的なモデル”の攻撃！
+<<WHAT HAVE YOU DONE?! MY FACE... IT'S RUINED!>>|<<ナニシテクレテンノヨ！？ワタシノカオガ…ダイナシジャナイ！>>
+AKA MANTO|赤マント
+You hear a click coming from the door's direction.##You're locked in here with this crazy man!|ドアの方から、カチャッという音がした。#狂気じみた男を目の前にして、あなたは何をされたのか気付く。##同じ空間に閉じ込められたのだ！
+The man wearing a red coat, preying on helpless students.|赤いコートを着て、いたいけな学生を#食い物にしている男。
+AKA MANTO starts swinging his knife.|“赤マント”がナイフを振り回す！
+You can't see any way out!|逃げ場がない！
+AKA MANTO is choking you!|“赤マント”に首を絞められる！
+AKA MANTO stabs you!|“赤マント”に刃物で刺される！
+AKA MANTO attacks you!|“赤マント”の攻撃！
+AKA MANTO steps closer and lifts you up...|近寄ってきた“赤マント”に持ち上げられる…
+He stabs you multiple times!|“赤マント”にナイフでめった刺しにされる！
+KINOKO GATHERER|きのこ採り
+What you thought was just a discarded pile of clothes suddenly moves. As it stands up, a cloud of white powder is released into the air...|単なる捨てられた服の山だと思っていたものが、不意に動き出す。##それが立ち上がると、空中に“白い粉”が舞った…
+Infected with a rare mold, this man has turned into a fungal colony.|珍種のカビが入り込み、真菌の宿主と化した男。
+KINOKO GATHERER's fungal spores make you cough!|“きのこ採り”の放った菌の胞子のせいで咳が止まらない！
+KINOKO GATHERER stabs you with a knife!|“きのこ採り”にナイフで刺される！
+KINOKO GATHERER attacks you!|“きのこ採り”の攻撃！
+FORGOTTEN SPECIMEN|忘れ去られた標本
+You carefully enter the biology classroom.#The room seems empty at first, until you switch the lights on. You gasp in horror. Lying in a pool of blood is one of the teachers, with a fruit knife in their hand. There's a jar of formaldehyde on the nearest table. Mesmerized by the spiral pattern on the sea creature's skin, you step over the dead body and come closer...##And then the voices start...|そっと生物室に入る。#最初は何もないように見えた…#だが電気をつけた瞬間、あなたは恐怖に息を呑んだ。##果物用のナイフを握った教師が、血溜まりの中で倒れていたのだ。##そのすぐそばの机にホルマリン入りの瓶が置かれている。#海洋生物の皮膚。そのうずまき模様に魅せられたあなたは、死体を踏み越えてその瓶に近付いた…##すると、奇妙な声が耳に聞こえ始め…
+A body of an unknown sea creature floating gently in a jar of formaldehyde.|ホルマリン入りの瓶にゆったりと漂う、#得体の知れない海洋生物の死骸。
+Everything in the classroom starts to waver.|教室中の物がぐらぐらと揺れ始める。
+You can't break the FORGOTTEN SPECIMEN's gaze.|“忘れ去られた標本”の視線から逃れられない。
+You involuntarily attack yourself!|無意識にあなたは自分を攻撃してしまう！
+You are forced to attack yourself!|自分で自分を無理やり攻撃させられてしまう！
+You involuntarily attack yourself!|無意識に、あなたは自分自身を攻撃してしまう！
+Your headache gets worse and worse...|次第に頭の痛みが強くなってきた…
+A blood vessel pops in your brain!|脳の中の血管が破裂した！
+AKA MANTO (TRUE FORM)|赤マント (真の姿)
+The tall man in the red coat slowly takes their mask off as stall walls wither and rot, and reality starts to crumble...|周りの壁が朽ち果て、目の前の現実世界が崩れ始める。#そして、長身の男がゆっくりとその仮面を外した…
+The ageless horror, awakening once again to sate its hunger.|飢えを満たすため、再びこの世に目覚めた#不滅の怪異。
+Something doesn't feel right...|何か変だ…
+W-where are you?|ど…どこにいった…？
+AKA MANTO is choking you!|“赤マント”に首を絞められる！
+AKA MANTO stabs you!|“赤マント”に刃物で刺される！
+AKA MANTO attacks you!|“赤マント”の攻撃！
+AKA MANTO steps closer and lifts you up...|近寄ってきた“赤マント”に持ち上げられる…
+In his face you see all your worst fears!|あなたが最も恐怖を抱くもの…その全てが男の顔に映し出される！
+BLOATED TEACHER|教師の水死体
+A bloated figure emerges from the murky water blocking your only way out of the pool...|濁った水の中から浮腫んだ体の男が現れ、#プールから出る唯一の逃げ道を塞がれてしまう…
+BLOATED LEGION|溺死した悪霊
+The remains of a long-forgotten teacher.|長い間、忘れ去られていた教師の遺体。
+BLOATED TEACHER disappears underwater!|“教師の水死体”が水中に消えた！
+BLOATED TEACHER gurgles and murmurs.|“教師の水死体”がぐるぐると低い声で呻いている…
+BLOATED TEACHER hits you!|“教師の水死体”が襲いかかってくる！
+BLOATED TEACHER attacks you!|“教師の水死体”の攻撃！
+BLOATED TEACHER attacks you!|“教師の水死体”の攻撃！
+BLOATED TEACHER emerges from the water!|“教師の水死体”が水中から姿を現した！
+He forces pieces of his rancid flesh into your mouth!|腐った死肉を無理やり口に押し込んでくる！
+SCISSOR WOMAN (HORROR)|恐怖のハサミ女
+INFESTED GIRL|虫つきの女生徒
+A wet splash behind you makes you stop. You slowly turn around to see a young girl sluggishly walking in your direction.#In her eyeball, there's a swarm of disgusting worms. One of them falls to the floor with a wet splash....|背後で聞こえた水飛沫の音に、思わず足を止める。#ゆっくりと振り向くと、少女がふらふらとこちらに歩いてくるのが見えた。##その眼窩には、気味の悪い虫が大量に蠢いている。##そして、そのうちの一匹が地面にぬるっと音を立てて落ちた…
+INFESTED|虫つき
+This girl must've eaten too many worm eggs that supposedly keep people slim.#It seems like they've hatched in the wrong place...|必ずやせるという話を聞いて、ミミズの卵を#食べ過ぎた少女。どうやら、ミミズたちは#間違った場所でふ化したようだ…
+INFESTED GIRL reaches into her eye socket.|“虫つきの女生徒”が目の奥へと手を伸ばす。
+INFESTED GIRL coughs up a handful of worms.|女生徒が咳き込み、ボトボトと虫を吐き出す。
+INFESTED GIRL hits you!|“虫つきの女生徒”が襲い掛かる！
+INFESTED GIRL scratches your face!|“虫つきの女生徒”があなたの顔を引っかく！
+INFESTED GIRL attacks you!|“虫つきの女生徒”の攻撃！
+INFESTED GIRL grabs a handful of worms...|女生徒は虫を手で掴み…
+She shoves them in your mouth!|あなたの口の中へと押し込んだ！
+MAGICIAN (GLITCHED)|魔術師 (グリッチ状態)
+<<Ou-rrr mAste-er is-s-co ming and-d we all can bb-baSk in its glORy!>>|<<主がガg臥が、やっテ來 ル！>>##<<ワ謌代ｉレらワ、そのエ栄誉に浴するル仔と縺でキル埜ダ！>>
+On-n-ne of the m-ma__ pEOple gr-r-r-ranted maDdEniNg powers by ATH-Y___ZSTH.|アトゥ＝ヨ__ズスか倮ラ、#狂気の力を授け祁らレれ咫__者の一人。
+JANE DOE|身元不明の女
+The horror of countless autopsies stands before you...|おびただしいほどの傷…##眼前に現れたのは、幾度となくその体を切り裂かれた女だった…
+An entity composed of the countless bodies examined in this hospital.|この病院で解剖された#無数の遺体からなる存在。
+JANE DOE attacks you!|“身元不明の女”の攻撃！
+JANE DOE scares you!|“身元不明の女”に恐怖心をあおられる！
+JANE DOE attacks you!|“身元不明の女”の攻撃！
+DIMENSIONAL HOUND|次元の猟犬
+Suddenly, everything around starts twisting and collapsing, revealing an otherwordly landscape...##The hunt is on!|突然、周囲のあらゆるものが歪み、崩れ始める。##眼前に広がるのは、異世界の景色…##“狩り”が始まったのだ！
+OVERWHELM|蹂躙
+defeating this enemy will rouse the attention of its master|この敵を倒すと、主人に目をつけられてしまう
+The great hunt has begun and soon, the hound's owners will catch you.|大規模な狩りがはじまった。あなたが猟犬の主人に#捕らえられるのも時間の問題だ。
+DIMENSIONAL HOUND bites you!|“次元の猟犬”に噛みつかれる！
+DIMENSIONAL HOUND charges into you!|“次元の猟犬”が突撃してくる！
+DIMENSIONAL HOUND mauls you!|“次元の猟犬”が襲い掛かってくる！
+DOPPELGAENGER|ドッペルゲンガー
+VAMPIRE MOTHER|母なる吸血鬼
+TWISTED CORPSE|ねじれた死体
+Not wanting to wait for an elevator, you decide to take the rarely used stairs.##You suddenly trip but grab the railing at the last second.#When you get up to inspect what caused you to trip, you freeze in terror...#It is slowly standing up...|エレベーターを待つ気になれず、滅多に使わない階段を上ることにしたあなた。##不意に足を取られてしまい、咄嗟に手すりを掴む。#起き上がって、何が起きたのか確かめようとした瞬間、#あなたは恐怖で動けなくなる。##それは、目の前でゆっくりと立ち上がり…
+Two years ago, a drunk salaryman fell down the stairs and broke his neck.#Now, his restless spirit is doomed to continually repeat the accident, breaking even more bones.|2年前、酔っ払ったサラリーマンが階段から#転げ落ち、首の骨を折って死んでしまう。#彼の魂は休まることなく、その事故を永遠に#繰り返し、さらに多くの骨を折る呪縛に#囚われていた。
+TWISTED CORPSE takes a step back...|“ねじれた死体”が一歩下がる…
+TWISTED CORPSE twists his head in an unnatural way.|“ねじれた死体”の首が不自然な方向にねじれる…
+TWISTED CORPSE grabs you!|“ねじれた死体”に掴まれる！
+TWISTED CORPSE bites you!|“ねじれた死体”に噛みつかれる！
+TWISTED CORPSE attacks you!|“ねじれた死体”の攻撃！
+TWISTED CORPSE coils around you, suffocating you!|“ねじれた死体”に体を締め上げられ、息ができない！
+You manage to shake him off, gasping for air.|何とか彼を振り払い、息を切らして呼吸をする。
+DROWNER SPONGE|水禍のカイメン
+Walking on the beach you spot a weirdly colored rock.#It seems to be covered in some kind of black algae.##Getting closer, you realize it's not a rock...|浜辺を歩いていると、変わった色合いの岩が目に留まった。#何か、黒い藻のようなものに覆われている。##近づいてみると、それがただの岩ではないことに気付く…
+This species of algae only grows on the flesh of dead animals.|この藻は、死んだ動物の肉にのみ生える。
+DROWNER SPONGE jumps at you!|“水禍のカイメン”が飛びかかってくる！
+DROWNER SPONGE claws at you!|“水禍のカイメン”に引っかかれる！
+DROWNER SPONGE attacks you!|“水禍のカイメン”の攻撃！
+MAD DOCTOR|狂った医師
+CLASS OF 1971|71年組
+In the summer of 1971, an entire class trip fell into the sea when a rock they were standing on collapsed.##Their bodies were never found... until now.|1971年の夏、足下の岩場が崩れ、修学旅行中の生徒全員が#海に転落するという事故が起きた。##だが、生徒たちの遺体は全く見つからなかった…#今、あなたの目の前に現れるまで。
+An amalgamation of broken limbs and crushed bodies. It can only feel fear and pain.|折れた手足と潰れた体の結合体。#恐怖と苦痛の感覚だけが残っている。
+CLASS OF 1971 mauls you!|“71年組”が襲いかかる！
+CLASS OF 1971 hits you with one of its many arms!|“71年組”の無数の手に襲われる！
+CLASS OF 1971 attacks you!|“71年組”の攻撃！
+LUMPY OFFICER|異形の警官
+Following a weird gargling sound, you enter an alley.#Standing in the shadows, you notice someone wearing a policeman's uniform.##<<'m-moVe al-along-g-g, cci-iti-zen, nnoOthiNgg tt-to see-e hErRrre..>>##You've made a horrible mistake...|ゴロゴロという不気味な唸り声を辿って、路地に入るあなた。#すると、暗がりの中に警察の格好をした者を見つける。##<<立靈チ去レ…こ爐コこŤにハ何Ň輦もなイ…>>##どうやら、恐ろしい過ちを犯してしまったようだ…
+SERVE AND PROTECT|市民の安全のために
+defeating this enemy will lower DOOM by 3%|この敵を倒すと、#破滅値が3％低下する
+It is said that if you try to call an emergency number at 4:44, it will instead connect you with hell.|4時44分に110番をかけると、#地獄に繋がるとの噂があった。
+LUMPY OFFICER reaches for his gun!|“異形の警官”が拳銃に手を伸ばす！
+<<hhh-aNds uP, cci-iti-zen!>>|<<手をヲ上ゲろ繪ォ！>>
+LUMPY OFFICER punches you!|“異形の警官”に殴られる！
+LUMPY OFFICER tries to grab you!|“異形の警官”が体を掴もうとしてくる！
+LUMPY OFFICER attacks you!|“異形の警官”の攻撃！
+LUMPY OFFICER raises his service revolver and aims...|“異形の警官”が拳銃を構える…
+You are shot!|弾丸が当たる！
+DOLL NURSE|人形看護婦
+You stumble upon a nurse trying to open the door to the intensive care unit, constantly mumbling something...##When she turns around, her face makes you scream in horror!|看護婦がしきりに何かを呟きながら、#集中治療室のドアを開けようとしている…##彼女が振り返ると、あなたはあまりの恐怖に悲鳴を上げてしまう！
+BLIND|失明
+won't attack unless provoked|こちら側から刺激しない限り、#攻撃されることはない
+A keen astronomy fan. Staring at it for too long, she discovered the horrible truth about our sun.#The Solar Worms have marked her.|熱狂的な天体マニア。#じっと太陽を観察しているうちに、#彼女はある恐るべき真実に気付いてしまう…#自分が太陽蟲に目を付けられたことに。
+DOLL NURSE suddenly gets quiet...|“人形看護婦”は急に黙り込んだ…
+DOLL NURSE starts laughing maniacally!|“人形看護婦”が狂気に満ちた笑い声を上げる！
+DOLL NURSE grabs you while screaming!|“人形看護婦”は叫びながら、あなたの体を掴んだ！
+DOLL NURSE screams blasphemies!|“人形看護婦”が冒涜的な言葉を叫ぶ！
+DOLL NURSE attacks you!|“人形看護婦”の攻撃！
+DOLL NURSE starts speaking in a weird language...|“人形看護婦”が不気味な言葉を口にし始めた…
+You feel sick hearing this forbidden knowledge!|禁断の知識を耳にし、気持ち悪くなってしまう…
+The enemy doesn't do anything this turn...|敵は何もしてこない…
+BURNING MAN|燃えさかる男
+Walking on the beach, you discover a giant charred pit.#As you wonder what was burned here and why, you hear a crackling sound getting louder, as everything around you becomes scorching hot...|砂浜を歩いていると、あなたは巨大な焼け焦げた穴を発見する。##ここで何が燃やされたのか、なぜ“燃やす”という方法に至ったのか…#そんなことを考えていると、次第にパチパチという音が大きくなるのが聞こえた。#そして、辺りは焦げ付くような熱さに包まれる…
+The memory of a man, burned alive during an immortality ritual gone wrong. Now a burning horror, condemned to eternal pain.|不老不死の儀式に失敗し、生きたまま焼かれた#男の記憶。今も灼熱の炎に焼かれ続け、#終わることなき苦痛に苛まれている。
+BURNING MAN suddenly stands still...|突然、“燃えさかる男”の動きが止まる…
+BURNING MAN thrashes around!|“燃えさかる男”が、のたうち回っている！
+BURNING MAN releases a stream of fire that hits you!|“燃えさかる男”の放った炎が降りかかる！
+BURNING MAN spews fire, burning you!|“燃えさかる男”が吹いた火に焼かれる！
+BURNING MAN grabs you!!|“燃えさかる男”に体を掴まれる！！
+BURNING MAN leaps onto you, tripping you over and setting you on fire!|飛びかかってきた敵に倒され、あなたは炎に包まれた！
+You are badly burned!|あなたは大火傷を負った！
+CULT MEMBER|教団の一員
+In the middle of a room, you see a man tied to a chair. You rush in to help. When you remove his gag, though, the man starts shouting curses and ancient prophecies!#You fall onto the floor, your mind flooded with unspeakable images as the man slowly stands up, completely ignoring the chair he was seemingly tied to.|部屋の中央を見ると、一人の男が椅子に縛り付けられていた。##彼を助けるため、そばに駆け寄るあなた。##そして、猿ぐつわを外した瞬間…#男は大声で、呪詛や太古の預言を叫び出した！##すると、名状しがたい映像が頭の中に溢れかえり、#あなたは床に倒れ込んでしまう。##その間に、男は縛り付けられていたはずの椅子から悠然と立ち上がった。
+POSSESSED|悪霊憑き
+After an evil spirit possessed this man, his fellow cultists left him here to rethink the situation.|悪霊に取り憑かれた男。#事態を再考するため、同じ教団の者たちから#ここに取り残された。
+CULT MEMBER yells loudly!|“教団の一員”が大声で叫ぶ！
+CULT MEMBER shouts ancient curses!!|“教団の一員”が古の呪文を唱える！！
+Your mind is flooded with unspeakable images!|頭の中が、名状しがたい映像で溢れかえる！
+SCISSOR WOMAN (BURNED)|すすばむハサミ女
+SNIFFLING GARDENER|鼻息荒い庭師
+In an otherwise bleak village, the look of the most beautiful flower patch surprises you. As you get closer to compliment the gardener, you stop, hearing weird sniffling sounds...|殺風景な村の中で、一際美しく咲いている花畑があり、#思わず目を奪われてしまう。##賞賛の言葉をかけようと、庭師に近寄るあなた。#だが、不気味な鼻をすする音が聞こえ、足が止まってしまう…
+NOSE|はな
+When AKARI-SAN bought the seeds of an unknown exotic plant, she had no idea its pollen would soon change and mutate her.|見知らぬ外来植物の種を買った明梨。#まさかその花粉のせいで、#自分が異形の存在になるとは#思ってもみなかった。
+SNIFFLING GARDENER stabs you with her shears!|“鼻息荒い庭師”に植木ばさみで体を刺される！
+SNIFFLING GARDENER hits you with a spade!|“すき”を持った庭師に襲われる！
+SNIFFLING GARDENER attacks you!|“鼻息荒い庭師”の攻撃！
+MARU|真瑠
+On the roof, you find the girl your friend was talking about. In one hand, she holds a bag. In the other, a pair of bloody scissors...|屋上で、友達の言っていた女子生徒を見かける。##一方の手にはバッグ、そしてもう一方の手には…#血まみれのハサミが握られていた。
+MARU was the bullied girl who tried to summon the Scissor Lady. The entity scarred and marked her to serve it until it became strong enough.|いじめられっ子の少女、真瑠。#彼女はハサミ女を召喚しようとして、#逆に深い傷痕と印をつけられてしまう。#そして、十分な力をつけるまでハサミ女に#仕え続けることとなった。
+MARKED BY THE SCISSOR LADY|ハサミ女の印を受けし者
+MARU stabs you with her scissors!|“真瑠”のハサミが突き刺さる！
+MARU bashes you with a bag!|“真瑠”にバッグで叩きつけられる！
+MARU howls and slashes you with her scissors!|唸り声を上げた“真瑠”に、ハサミで切りつけられる！
+SWEATY ASSAILANT|汗だくの襲撃者
+As the old bus drives away, you see the village in the distance.#Hoping it won't rain too much, you stop to look at the clouds. Suddenly, you hear splashing sounds behind you...##That's strange, you thought, you were the only passenger on that bus...|古びたバスが走り去る中、あなたは遠くに村の姿を見た。##あまり雨が降らないように願いつつ、立ち止まって雲を眺める。#すると突然、背後から水しぶきの音がした…##おかしい、あのバスには自分しか乗っていなかったはずだ…
+KPP CLUB|KPPクラブ
+The masked man knew you were going to take this route. Is he a local?|マスクをした男。#彼はこちらがこの道を通ることを分かっていた。#地元の人間だろうか？
+SWEATY ASSAILANT prepares to tackle you!|敵がタックルしようとしている！
+SWEATY ASSAILANT grunts loudly!|“汗だくの襲撃者”が大きく唸る！
+SWEATY ASSAILANT stabs you with his knife!|“汗だくの襲撃者”にナイフで刺される！
+SWEATY ASSAILANT attacks you!|“汗だくの襲撃者”の攻撃！
+SWEATY ASSAILANT kicks you!|“汗だくの襲撃者”の蹴りを食らう！
+SWEATY ASSAILANT jumps on you, tripping you over!|“汗だくの襲撃者”が飛びかかってくる！
+You land in a puddle of water, getting all wet!|水たまりに倒れて、全身がずぶ濡れになった！
+CULTIST HUNTER A|教団の追っ手A
+Barely dodging a knife swing, you fall to the ground.#The short-haired woman giggles and takes a step back.##<<You can run from us, but you can't hide... friend!>>|すれすれでナイフをかわし、地面に倒れるあなた。#短髪の女はクスクスと笑い、後ろに一歩下がった。##<<私たちから逃げたとしても、隠れることはできないわ…！>>
+Member of a cult that's been following you. More hunters will surely follow...|あなたを追っているカルト教団の一人。#同じような追っ手は、また間違いなく#現れるだろう…
+CULTIST HUNTER A stabs you with her knife!|“教団の追っ手A”にナイフで刺される！
+CULTIST HUNTER A attacks you!|“教団の追っ手A”の攻撃！
+CULTIST HUNTER A kicks you!|“教団の追っ手A”の蹴りを食らう！
+CULTIST HUNTER B|教団の追っ手B
+Suddenly, a window behind you breaks with a bang!#Startled, you notice a masked man, hunting rifle in his hands.##Silent and calm, the man loads another bullet in...|突然、背後の窓がバンと音を立てて割れた！##驚きの中、眼前に猟銃を持った仮面の男が現れる。##男は静かに、そして冷静に、次の弾を込めた…
+CULTIST HUNTER B hits you with the butt of his rifle!|敵に猟銃の柄で殴りつけられる！
+CULTIST HUNTER B shoots you!|“教団の追っ手B”が銃を放つ！
+CULTIST HUNTER B kicks you!|“教団の追っ手B”の蹴りを食らう！
+OETARU|オエタル
+The cursed chants amplified by the cave system make you dizzy. To your horror, you notice the sound has awakened something else...|洞窟内に大きくこだまする呪いの詠唱に、眩暈を覚える。##そして恐ろしいことに、その音が“何か別のもの”を呼び覚ましたことに気付く…
+THE INNER COIL|内なるうずまき
+Attracted by the chants amplified by the cave system, OETARU has awakened and is awaiting its sacrifice.|洞窟群の中にこだまする詠唱。#それにより、オエタルは目を覚ました。#そして今、オエタルは生贄の到来を#待ちわびている。
+Just looking at the creature drains your sanity!|その姿を見るだけで、理性を奪われる！
+You scream, trying to silence the chants!|あなたは声を張り上げ、詠唱を止めようとした！
+The barrier between worlds is cracking!|世界の垣根が崩れつつある！
+TIME WARPER|時空を歪めし者
+Suddenly, everything slows to a crawl...|突然、世界の動きがスローモーションになっていく…
+June 1992|1992年6月
+<<Y-you shouldn't be here. Not y-yet...>>|<<こ、ここにいてはいけない。い、今はまだ…>>
+TIME WARPER steals some of your lifespan!|“時空を歪めし者”に寿命を奪われる！
+You feel older... and weaker!|体が老い…弱っていくように感じる…
+TIME WARPER attacks you!|“時空を歪めし者”の攻撃！
+PUPPET MATRON|人喰いパペット
+Hearing a shuffling sound coming from behind a wardrobe, you decide to push it out of the way. You discover a niche in the wall. Someone has put three dusty dolls in there.##When you try to reach and grab one, however, they jump off and scatter around the room, giggling!|タンスの裏側から足を引きずるような音がしたので、#あなたはそれをどかしてみることにした。##壁にはくぼみがあり、そこに三体の埃を被った人形が置かれている。##手を伸ばし、そのうちの一つを掴もうとすると、#人形たちは飛び跳ねて部屋中に散らばってしまう。##キキキという奇怪な笑い声が響く…
+TOY|おもちゃ
+The souls of a lynched family of cannibals live in these dolls.|私刑に処された、食人家族の魂が宿る人形。
+PUPPET MATRON stabs you in the shin!|“人喰いパペット”にスネを刺される！
+PUPPET MATRON starts climbing you!|“人喰いパペット”が体をよじ登ってくる！
+PUPPET MATRON slashes your arm!|“人喰いパペット”に腕を切りつけられる！
+AKANE|茜
+Following a weak, wavering cry, you enter a dark room.#Inside, you spot a figure hunched in the corner. You recognize the expensive clothes but this... thing can't possibly be a human!##<<D-O--N--'T -LO-o-K a-AT m-Ee!!!!>>|弱々しく震える泣き声が聞こえ、暗い部屋へと入るあなた。##中を覗くと、部屋の隅でうずくまる人影が目に留まる。##見覚えのある高そうな服だ。#しかし、その姿は…とても人間のものとは思えなかった。##<<ワ タ シ ヲォ 見 ル な ア アァ！！！！>>
+FAILED RITUAL|儀式の失敗
+transformed by her greed|欲望に駆られた異形の女
+The family member corrupted by the mansion's eldritch influence.|屋敷に潜む怪異。#その狂気に侵され、堕ちてしまった一族の一人。
+In a blind rage, AKANE smashes you with her fist!|怒りに任せて、“茜”があなたを殴りつけた！
+AKANE bites your arm, tearing off some flesh!|“茜”が腕を噛みつき、その肉を引き裂く！
+AKANE leaps at you, punching and kicking!|飛びかかってきた“茜”から、拳と蹴りを食らう！
+HAWADO AND MIYAKO|葉和堂と都
+Entering a dark room, you spot Hawado and his wife, hugging each other. When they turn around, you scream in terror.##Their bodies are slowly becoming one and their fused faces express the same thing:##Rage.|暗い部屋に入ると、葉和堂と妻が抱き合っているのを目にしてしまう。##二人が振り向いた瞬間、あなたは恐怖に駆られ、悲鳴を上げた。##二人の体は徐々に…一つになっていたのだ。#その融合した顔からは、同じ感情が伝わってくる…##激しい怒りだ。
+finally fused together|ようやく一つに
+Their screaming is horrifying!|二人がぞっとするほど、恐ろしい叫び声を上げる！
+The pair thrashes around the room!|二人が部屋の中を暴れ回る！
+The sight of the writhing pair drives you mad!|ぐねぐねと身をよじらすその姿を見て、狂気に駆られてしまう！
+SOTOMURA|外村
+You stumble upon Sotomura, furiously scratching his scar.#With each motion, he gets a little deeper.#With each motion, more blood appears.##With each motion, he takes a step towards you...|偶然、あなたは外村と出くわす。その傷跡を激しく掻きむしっている彼。#爪を立てる度に、その傷は深くなっていく。##そして、そこからさらに血が滲み出す。##そして掻きむしるたびに、一歩ずつこちらに寄ってきて…
+the itching won't stop|止まらないかゆみ
+SOTOMURA attacks you!|“外村”の攻撃！
+SOTOMURA scratches you!|“外村”に引っかかれる！
+SOTOMURA attacks you!|“外村”の攻撃！
+PERVERTED INNKEEPER|変態宿屋
+Worried and furious about the hole in the wall, you enter the inn from the back, trying to find the room that connects with yours. Thinking you've finally found it, you enter...##...and scream!|壁に開いていた穴に不安と怒りを覚え、#宿の裏から、自室と隣接する部屋を探そうとした。##ようやく見つけたと思い、中に入ったところで…#あなたは悲鳴を上げた。
+he must've seen too much|多くを目にしすぎた末路
+WATANABE-SAN inherited the inn a few years ago and has been spying on guests until the fateful day when he saw _IT_.|数年前にこの宿を継いだ、渡辺という名の男。#密かに宿泊客の部屋を覗いていた彼は、#ある日、偶然にも“それ”を目撃してしまい…
+PERVERTED INNKEEPER attacks you!|“変態宿屋”の攻撃！
+PERVERTED INNKEEPER scratches you!|“変態宿屋”に引っかかれる！
+PERVERTED INNKEEPER attacks you!|“変態宿屋”の攻撃！
+TAKASHI-SAN|隆司さん
+Climbing up the winding staircase, you are stopped by a masked man wearing an expensive suit.#<<The rules have changed, kiddo...>> he says, taking the jacket and the mask off.##<<Nothing personal, really...>>|曲がりくねった階段を上っていると、#高価なスーツを着た仮面の男に呼び止められる。#<<ルールが変わったのさ、坊や…>>#そう言って男はジャケットを脱ぎ、その仮面を取り外した。##<<ほんと、恨むなよ…>>
+One of the conspirators trying to awaken the OLD GODS.|旧き神を目覚めさせようとする#陰謀者たちの一人。
+THE ULTIMATE OPPORTUNIST|究極のご都合主義者
+TAKASHI-SAN prevents you from taking another step!|“隆司さん”に行く手を阻まれた！
+<<Just give up, kiddo.>>|<<こんのガキが、諦めろ！>>
+TAKASHI-SAN forces you to take a step back!|敵に無理やり、後ろへ追い込まれた！
+HORRIBLE OLD MAN|醜悪なる老翁
+The bloated corpse of your 'uncle' slowly floats into the room as the remaining walls collapse.##<<thE cOntRacT... iS noT oVeR yET....>>|残った壁が崩れ去る中、“大叔父”の浮腫んだ死体が#部屋の中に浮かび上がる。##<<契約ワ…マだ終ワッ弖イナヰ…>>
+The old man claiming to be your uncle. Died in 1838 and 1943.|“大叔父”を名乗る老人。#1838年､1943年に死去｡
+CHEATED DEATH TWICE|死を二度免れた男
+HORRIBLE OLD MAN smiles.|“醜悪なる老翁”が笑っている。
+HORRIBLE OLD MAN doesn't do anything.|“醜悪なる老翁”は何もしてこない。
+HORRIBLE OLD MAN floats around you.|“醜悪なる老翁”があなたの周りを漂っている。
+SOMETHING TRULY EVIL|真なる邪悪
+In the distance, the bell tolls and everything gets dark...##[YOUR#DEMISE#IS HERE]|遠くで鐘の音が鳴り響き、辺り一帯が暗闇に包まれた…##[ココデ#オマエハ#オワリダ]
+FOUND YOU|ミーツケタ
+[FOUND YOU]|[ミーツケタ]
+[FOUND YOU]|[ミーツケタ]
+[SOMETHING TRULY EVIL WILL END YOU]|[真なる邪悪が終焉をもたらす！]
+[YOU CAN'T RUN FROM SOMETHING TRULY EVIL]|[真なる邪悪から逃れることはできない！]
+[SOMETHING TRULY EVIL HAS FOUND YOU]|[真なる邪悪に見つかった！]
+MAN-EATING PLANT|人喰い植物
+Walking through the forest, you spot a pair of legs sticking out of a bush.#Before you can do anything, however, they twitch and move...|森の中を歩いていると、茂みの中から足が2本、突き出ているのが見えた。##そして動揺する間もなく、その足がぴくりと動き…
+A Tokyo gardening company sent multiple seed packets to SHIOKAWA. MAN-EATING PLANT is one of their experiments.|東京の園芸会社から塩川宛に、#いくつもの種袋が届けられた。#人喰い植物は彼らの実験結果の一つである。
+MAN-EATING PLANT slaps you with a vine!|“人喰い植物”につるで叩かれる！
+MAN-EATING PLANT spits acid at you!|“人喰い植物”が酸を吐き出す！
+MAN-EATING PLANT attacks you!|“人喰い植物”の攻撃！
+BARK WOMAN|樹皮女
+Walking through a tree nursery, you suddenly stop. Something feels... off.##Isn't it too early for the leaves to change their color?##Before you can continue your investigation, someone grabs your leg!|木の苗床を歩いている途中で、ふと立ち止まる。##…何かがおかしい。##葉っぱの色が変わるには、早すぎるような気が…##調査を続けようとしたその時、あなたは何者かに足を掴まれた！
+BARK|樹皮
+all incoming damage is lowered by 1|あらゆる被ダメージが1減少
+His third victim.#She was chopped to pieces and buried in a tree nursery, causing the nearby leaves to change their color to a sickly yellow.|ある男が手にかけた、3番目の犠牲者。#切り刻まれた彼女の体は育苗園に埋められ、#その結果、周りの植物は異様な黄色の葉に#変色した。
+BARK WOMAN impales you with a branch!|“樹皮女”に枝で突き刺される！
+BARK WOMAN hits you with a root!|“樹皮女”の根に襲われる！
+BARK WOMAN attacks you!|“樹皮女”の攻撃！
+SHIRO-SAN|四郎さん
+Falling through the hole in the floor, you find yourself in an overgrown basement. In the corner lies a man you recognize. It's Shiro-san, the missing gardener!##You must help him escape this cursed place!|床に開いた穴から転げ落ちていく。##気付くと、あなたは草木で覆われた地下室にいた。##その隅に見覚えのある男が倒れている。#行方不明の庭師、四郎さんだ。##この呪いの地から、彼を逃がさなければ！
+THE GARDENER|庭師
+THE GARDEN|庭
+The fungus has completely taken control of the husk that once was SHIRO-SAN.|かつては四郎という名の庭師だったが、#抜け殻と化した彼の体は、#今や謎の真菌によって完全に乗っ取られている。
+FUNGUS-CONTROLLED SHIRO-SAN attacks you!|“真菌の宿主 四郎”の攻撃！
+FUNGUS-CONTROLLED SHIRO-SAN attacks you!|“真菌の宿主 四郎”の攻撃！
+FUNGUS-CONTROLLED SHIRO-SAN attacks you!|“真菌の宿主 四郎”の攻撃！
+Plants attack the gardener! (-3 HEALTH)|植物が庭師を襲う！(体力-3)
+You protect the gardener and plants attack you! (-3 ALL)|四郎さんをかばって、攻撃を受ける！(スタミナ-3 / 理性-3)
+TOGETHER|TOGETHER
+You listen to the staticky signal on the other end. It's harsh to your ear.##But then, the noise beigns to slowly change into something beautiful...##You want to join it.|向こう側から、ノイズのような呼び出し音が響く。#耳障りな音だ。##しかし、徐々にそのノイズは美しい音色へと変わり始め…##そこに身を委ねたいという気持ちが湧き上がる。
+Malicious force of an unknown origin.|何処からともなく現れた、有害なる力。
+Why should you resist?...|なぜ抗うのですか？
+Join the voices...|この音に身を委ねなさい…
+It will be all over soon...|すぐに終わります…
+STALK-CHAN|ツタちゃん
+Walking through the park, you spot a girl standing in the bush. Getting closer you suddenly realize… she isn’t standing in the bush.##She’s a part of it!|公園を歩いていると、茂みの中で佇む少女の姿が目に入る。##近寄ってみると、あなたはある事実に気が付く。#彼女は茂みの中に立っているわけではない…##茂みの一部と化していたのだ！
+Following a weird love ritual, she was turned into a bush.|奇怪な愛の儀式を行ったことで、#茂みに変貌してしまった少女。
+STALK-CHAN whips you with a vine!|敵がツタを使って、あなたを鞭打つ！
+STALK-CHAN stabs you with a branch!|“ツタちゃん”に枝を刺される！
+STALK-CHAN attacks you!|“ツタちゃん”の攻撃！
+VENGEFUL ATHLETE|怨讐の競技選手
+RITSUKO-CHAN was the most promising athlete in her school. When she suddenly disappeared, the case was quickly closed without any suspects.##Today, she has finally dug herself out…|かつて律子は、校内で最も将来有望な選手だった。##そんな彼女が、突如として行方不明になる。#だが、容疑者不在のまま、捜査はすぐに打ち切られてしまう。##そして今日、ついに彼女は自ら地表へと出てきた…
+RITSUKO-CHAN was killed by a boyfriend of her jealous rival.|嫉妬深いライバルの彼氏に命を奪われた。#生前は律子という名だった。
+VENGEFUL ATHLETE attacks you!|“怨讐の競技選手”による攻撃！
+VENGEFUL ATHLETE kicks you!|“怨讐の競技選手”の蹴りを食らう！
+VENGEFUL ATHLETE punches you!|“怨讐の競技選手”に殴られる！
+ANATOMY HORROR|恐怖の人体模型
+They performed countless dissections to find the answer.#Instead, they found… it.|答えを求めて、彼らは数え切れないほどの解剖を行った。しかし、そこで彼らが目にしたのは…
+Spirits of countless patients killed in the name of science.|科学の名の下に犠牲になった、無数の患者の霊。
+ANATOMY HORROR drains you!|“恐怖の人体模型”に力を奪われる！
+ANATOMY HORROR attacks you!|“恐怖の人体模型”の攻撃！
+ANATOMY HORROR attacks you!|“恐怖の人体模型”の攻撃！
+KOI WOMAN|鯉女
+You spot a woman on the beach and decide to get closer and ask what is she doing alone at this late hour. When the woman turns around, you stop. Her mouth is opening and shutting, gulping in air as if it was unnatural to her. ##In her large eyes there’s only rage.|深夜、海辺で一人の女性を見かける。##こんな時間に何をしているのだろうと気になり、声をかけようとするあなた。##だが、彼女が振り返った瞬間、足がすくんでしまう。##口をパクパクさせ、空気を吸い込む彼女…#その様子はどこか、不慣れな印象すら受ける。##その大きな瞳にはただ一つ、怒りの感情だけが滲んでいた。
+The vengeful woman cursed by a sea deity to live her life as an abomination.|海神の呪いを受け、異形の者として生きることを運命づけられた、復讐に燃える女。
+KOI WOMAN slaps you!|“鯉女”に引っ叩かれる！
+KOI WOMAN attacks you!|“鯉女”の攻撃！
+KOI WOMAN attacks you!|“鯉女”の攻撃！
+DREAM EATER|夢喰い
+You discover a giant plush toy half-buried in a ditch. Feeling uneasy, you take a step back but it’s already too late…|側溝に半分ほど埋もれた、巨大なぬいぐるみ。##不審に思ったあなたは後ろに下がるも、一足気付くのが遅かった…
+An imaginary friend luring unsuspecting children into the forest to devour them.|無邪気な子供たちと空想上の友達になり、#誘い込んだ森で彼らを捕食する。
+Why should you resist?...|なぜ抵抗する…？
+Join the voices...|<この声に従え…>
+It will be all over soon...|<すぐに終わる…>
+GIGOLO|ジゴロ
+Suddenly, it got really cold in the corridor. As you turn to leave, you’re stopped by a man with unnaturally pale skin and giant lips. He kisses the air and takes a step closer…|突然、急速に廊下が冷え込む。#その場を去ろうとすると、異様に青白い肌と巨大な唇を持つ男に呼び止められる。##空中に向かってキスをしながら、男はそろりとあなたの方へ歩き出し…
+An incubus preying on weak-willed people in order to drain their life force.|意志の弱い人間を狙って、#その生命力を吸い尽くすインキュバス。
+GIGOLO slaps you!|“ジゴロ”に引っ叩かれる！
+GIGOLO kisses the air!|“ジゴロ”が空中に向かってキスをする！
+GIGOLO grabs you!|“ジゴロ”に体を掴まれる！
+VENT CRAWLER|通気孔を這う者
+You cautiously crawl inside the vent, determined to solve this macabre mystery.#Nothing could prepare you for the source of the skittering sound getting louder... and closer.|あなたはこの奇怪な謎の答えを得るため、慎重に通気孔の中へ這い入ることにした。##どこからか、キチキチという音が聞こえてくる…##次第に大きくなる音に対し、あなたは何の準備もできぬまま、#近づいてくる音の主と対峙するのであった…
+The perverted thoughts of the neighbor materialized under the corrupting influence of the OLD GODS.|隣の部屋に住んでいた性的倒錯者。#その歪んだ思念は、旧き神が持つ狂気の力に#侵され、実体化した。
+A centipede crawls on your face!|あなたの顔の上をムカデが這う…！
+VENT CRAWLER bites you!|“通気孔を這う者”が噛みつく！
+VENT CRAWLER stabs you with its leg!|“通気孔を這う者”に足を刺される！
+THE SEEPING APOSTLE|侵蝕する使徒
+Whatever the sailors caught in the sea is here.#Tonight is your only chance to stop it!|船乗りたちが海から掬い上げたもの…その全てが此処に集っている。##怪異を食い止めろ。今宵がその最後の機会だ。
+The wreck of a sunken submarine caused an underwater explosion. The shockwave ruptured the primordial egg, hidden deep within the ocean's floor by the Ancients...|沈没した潜水艦の残骸が、水中爆発を起こす。#その衝撃波により、古代人が海底深くへと#隠した“原初の卵”が破裂し…
+Black goo starts climbing up your legs!|黒い粘液が足を通じて這い上がってくる！
+THE SEEPING APOSTLE attacks you!|“侵蝕する使徒”の攻撃！
+THE SEEPING APOSTLE attacks you!|“侵蝕する使徒”の攻撃！
+NAMELESS HORROR|名もなき恐怖
+This summoning ritual must be stopped at all costs!|何としても、儀式を阻止しなければ！
+AWAKE AND HUNGRY|血に飢えし覚醒者
+The terrifying AM-HEMET summoned by the cult may cause the death of millions.|カルト教団が召喚した恐怖の存在、#アム＝へメト。#このままでは、何百万人もの命が#奪われる可能性が…
+MASKED CULTIST stabs you with a knife!|“仮面のカルト信者”にナイフで刺される！
+MASTER CULTIST chants the forbidden spells!|“邪教の祭司”が禁断の呪文を唱える！
+NAMELESS HORROR stares at you!|“名もなき恐怖”がこちらを見つめている…
+MR. PACHINKO|パチンコ男
+You are stopped by two men, asking you to borrow some money...|二人の男が前に立ちはだかり、金を貸せと迫ってきた…
+...everyone has something to sell|…売るものなら、誰でも持っている
+They lost their fortune at the gambling place. Luckily, a rusty-smelling man decided to help them...|ギャンブルで財産を失った二人。#しかし運良く、さびの臭いが漂う男から#手を差し伸べられ…
+MR. COIN|コイン男
+MR. PACHINKO attacks you!|“パチンコ男”の攻撃！
+MR. PACHINKO attacks you!|“パチンコ男”の攻撃！
+MR. COIN punches you!|“コイン男”に殴られた！
+ANOMALY ATTENDANT|狂える看護婦
+You are stopped by two nurses. Ready to apologize and explain yourself, you notice their weird smiles... dead stares... sharp knives...|二人の看護婦に呼び止められるあなた。##説明をして、謝罪するつもりでいたが、ふと二人の様子がおかしいことに気付く。##不気味な笑顔、死人のような瞳…#そして、その手には鋭いナイフが握られていた…
+midnight shift|夜勤
+The university-funded hospital was too big for SHIOKAWA. Afraid of losing their jobs, they started supplying their own patients.|大学から資金提供を受けていたその病院は、#塩川にとって規模が大きすぎた。#職を失うことを恐れた彼女たちは、#自ら患者を“調達”するようになった。
+CORPSE CAREGIVER|遺体の介護者
+ANOMALY ATTENDANT slashes you with a knife!|“狂える看護婦”にナイフで切りつけられる！
+CORPSE CAREGIVER gives you a chilling stare!|“遺体の介護者”に冷ややかな視線を向けられている…
+The nurse attacks you!|看護婦の攻撃！
+YOU?|あなた？
+<<Do you like what I did with my face? I've always admired you, you know, even when you acted like you didn't know me at all.>>##<<I think, the result is _perfect_... too perfect, in fact, for two people to share the same face!>>|<<どう？この顔。気に入ってもらえたかな？ずっと、あこがれてたんだよ。#貴方が知らないフリをしていた時もね。>>##<<“完璧な仕上がり”だと思う…完璧すぎるくらいだよ。#ってことは同じ顔が2人もいたら、おかしいよね！>>
+Ignored by everyone, this kid decided to replace the person they envied the most - you!|皆から無視されていたその子は、#ある決意をした。#周りが一番うらやんでいた人物…#つまり、“あなた”に取って代わることを。
+Your friend raises the butcher knife you involuntarily brought...|あなたが知らずに持ち込んだ肉切り包丁を、友達が振り上げた…
+Your friend attacks you!|“友達”の攻撃！
+Your friend punches you!|“友達”に殴られる！
+Your friend kicks you!|“友達”の蹴りを食らう！
+WHITE DEATH|白き死
+The nauseating smell of a disemboweled corpse hits your nose. The thing that slaughtered your friends is here...|臓物を引きずり出された死体…#吐き気を催す臭いが鼻を突く。##あなたの友人たちを惨殺したその主犯が、目の前に立っている…
+An ancient, bloodthirsty being, awakened by a group of thugs, ransacking the mansion it slept in.|｢白き死｣の眠る屋敷。#そこに入った不良グループが中を荒らし回り、#血に飢えた古代の存在が目覚めてしまう。
+why'd you come back?|なぜ戻ってきた？
+WHITE DEATH comes closer...|“白き死”が近付いてくる…
+WHITE DEATH is silent...|“白き死”は黙っている…
+WHITE DEATH slashes you!|“白き死”があなたを切りつける！
+WHITE DEATH kicks you!|“白き死”の蹴りを食らう！
+WHITE DEATH attacks you!|“白き死”の攻撃！
+WHITE DEATH slashes you across the chest!|“白き死”に胸を切り裂かれる！
+You start bleeding!|血しぶきが舞う！
+PILLAR VAMPIRE|柱の吸血鬼
+You enter a room full of wooden statues. You are amazed by how realistic some of them look. So realistic, in fact, that you could've sworn one of them blinked...|部屋に入ると、そこには木彫りの彫像が所狭しと並んでいた。#まるで本物のような造形に驚く。##あまりのリアルさに、その中の一つが瞬きをしたかのように見え…
+Once a great sculptor, he sacrificed everything to be able to continue his work.|かつては偉大な彫刻家として名を馳せていた男。#だが、制作を続けるためにその全てを捧げてしまう。
+living in the walls|壁の中に住むもの
+PILLAR VAMPIRE bites you in the arm!|“柱の吸血鬼”に腕を噛まれる！
+PILLAR VAMPIRE hisses at you!|“柱の吸血鬼”が牙をむいて唸る！
+PILLAR VAMPIRE slashes you with his claws!|“柱の吸血鬼”の爪があなたを切り裂く！
+TWISTED DOG|狂乱犬
+You can see a dog chewing on something in the distance.##Is that... a human bone!?|遠くで、何かを噛んでいる犬が見えた。##まさか、あれは…人の骨！？
+A domestic animal corrupted by the slowly awakening OLD GOD.|徐々に目覚めつつある旧き神。#その狂気に侵された家畜犬。
+TWISTED DOG jumps at you!|“狂乱犬”が飛びかかってくる！
+TWISTED DOG sinks its teeth in your leg!|“狂乱犬”が歯を立てて、脚に噛みついてくる！
+TWISTED DOG bites you in the arm!|“狂乱犬”が腕に噛みついてくる！
+TSUTA-CHAN|ツタちゃん
+Your path is blocked by a rotting corpse covered in poison ivy.|毒のツタに覆われた腐乱死体が、進路を塞いでいる…
+When the plant's roots reached her brain, she came back to life.|その植物の根が脳に達した瞬間、彼女は再び#息を吹き返した。
+TSUTA-CHAN whips you with a vine!|つるで叩きつけられる！
+TSUTA-CHAN attacks you!|“ツタちゃん”の攻撃！
+TSUTA-CHAN bites you in the arm!|“ツタちゃん”に腕を噛まれる！
+ICHIRO-SAN|一郎
+The mad painter slowly takes off his dark glasses...|狂気の画家が、ゆっくりとそのサングラスを外した…
+ICHIRO-SAN has found a way to connect us with other dimensions using his canvases and portals.|“一郎”はキャンバスや異界の扉を通じて、#異次元へ我々を導く方法を見つけていた。
+ICHIRO-SAN stabs you with a knife!|“一郎”にナイフで刺された！
+He stabs you! <<You will become my next masterpiece!>>|ナイフで刺される！<<お前は俺の次なる傑作になるんだ！>>
+He slashes you! <<I'm the greatest painter to live!>>|ナイフで切りつけられた！<<俺こそ、この世で最も偉大な画家だ！>>
+THE PAINTING|絵画の怪物
+The painted monster reaches out from the canvas and grabs a surprised ICHIRO-san by his neck.##<<N-no! T-this is n-not what was s-supposed to happen!>>|キャンバスから絵画に描かれた怪物が手を伸ばし、#驚く一郎の首を掴んだ。##<<ク、クソッ！こんなことに…なるはずじゃ…！>>
+his ultimate creation|彼の渾身の作品
+THE PAINTING sucks out your life energy!|“絵画の怪物”に生命力を吸い取られる！
+THE PAINTING makes you go mad!|“絵画の怪物”の呪いを受け、発狂してしまう！
+THE PAINTING chills you to the bone!|骨の随まで凍りつくような恐怖に襲われる…
+GOSSIP JUNKIE|ゴシップ狂
+The telephone sounds and multiple voices are too loud for you to ignore. When you enter the apartment, everything turns silent...|電話の鳴る音、そして何人もの声が響き渡る。#無視できるほどの大きさではない。##だが、アパートに入ると一転して辺りは静寂と化し…
+She spent her life on a phone, gossiping. It's only natural to continue doing it in death.|生前、電話片手にゴシップ話に明け暮れていた#彼女。死しても、それを続けるのは当然のこと#だった。
+GOSSIP JUNKIE spreads a nasty rumor about you!|“ゴシップ狂”にありもしない噂を流される！
+GOSSIP JUNKIE shares forbidden knowledge!|“ゴシップ狂”が禁断の知識を囁く！
+GOSSIP JUNKIE stares at you!|“ゴシップ狂”に睨まれる…！
+GLUED CORPSE|接着屍体
+You can hear a faint sobbing sound coming from an alley nearby.#There, you approach a man on his knees.#When you take a step closer, he suddenly stops and perks up.##You can hear the nauseating sound of tearing skin...|すぐそばの路地から、微かな嗚咽が聞こえてくる。##そこにいたのは、地面に跪く一人の男性。##あなたが近づくと、男は急に泣き止み、顔を上げた。##すると、吐き気を催す音と共にその皮膚が裂け…
+When he finally died, his wife glued his face shut. He won't hurt her ever again.|<<ようやく死んだ…>>#夫の死後、妻はその顔を接着剤でくっつけた。#二度と暴力を振るわれないように…
+GLUED CORPSE bites your hand!|“接着屍体”に手を噛まれる！
+GLUED CORPSE headbutts you!|“接着屍体”の頭突き！
+GLUED CORPSE attacks you!|“接着屍体”の攻撃！
+TAPEWORM SALARYMAN|サナダムシ社員
+Someone taps you on your back.#<<Sh-shorry, ish the bush shtill running? I'm sho late for a meeting, the boshsh ish going to kill me.>>##Startled, you quickly turn around, shocked by what you see there...|何者かに背中を叩かれる。##<<しゅ…しゅみません。バスはマだ来まシュか？会議に遅れショうなんです。#このままじゃ、ジョ、ジョ、上司に殺サれちゃう。>>##驚いて、すぐに後ろを振り返ると、あなたは目の前にいるものにぎょっとした…
+Attaching itself to a company, it will continue to slowly drain it.|一度、それに取りつかれた会社は、じわじわと#内側から吸い尽くされる。
+TAPEWORM SALARYMAN tries to attach itself to you!|“サナダムシ社員”があなたに取りつこうとする！
+TAPEWORM SALARYMAN slaps you!|“サナダムシ社員”の平手打ち！
+TAPEWORM SALARYMAN tries to bite you!|“サナダムシ社員”が噛みつこうとする！
+DRAIN SWIMMER|排水管の女
+A weird, bubbling sound lures you to the dark shower room. On the floor, you find a swimsuit thrown over a grotesque leathery coil. Wait, that's not a coil!...|ごぼごぼという奇妙な音が、あなたを薄暗いシャワー室に引き寄せる。##床を見ると、異様な革巻物の上に水着が放り出されている。##いや、違う…巻物じゃない…！
+After Futaba drowned in a bathtub, her body slowly moved through the drain pipes to continue her swimming training.|浴槽で溺死した生徒、双葉。#その死体はゆっくりと排水管を進んで、#今も泳ぎの練習を続けていた。
+DRAIN SWIMMER wraps herself around you!|“排水管の女”が体に巻きつく！
+DRAIN SWIMMER chokes you!|“排水管の女”に首を絞められる！
+DRAIN SWIMMER throws herself at you!|“排水管の女”が飛びかかってくる！
+FORGOTTEN PATIENT|忘れ去られた患者
+<<I'm sorry, have you seen the doctor?...>>##<He suddenly disappeared and I'm not sure whether the surgery is over...>>|<<すみません、先生を見ませんでしたか…？>>##<<急にいなくなったから、手術が終わったのか分かんなくて…>>
+Doctors going missing resulted in the deaths of many patients awaiting their surgery.|突如として、行方不明になった医者たち。#その結果、手術を待つ多くの患者が#亡くなってしまう。
+FORGOTTEN PATIENT starts crying!|“忘れ去られた患者”が泣き出す！
+FORGOTTEN PATIENT sprays you with blood!|“忘れ去られた患者”が血しぶきを浴びせる！
+FORGOTTEN PATIENT stabs you with her rib bone!|“忘れ去られた患者”が飛び出した肋骨で刺してきた！
+GOBLIN SEAL|ゴブリンアザラシ
+Following a barking sound, you find yourself on a beach, surrounded by rocks...|グアアッという鳴き声を耳にし、その音の聞こえた方へと向かうあなた。##しかし、そこは岩に囲まれた浜辺で…
+The corrupting influence of the OLD GOD affects all animals.|“旧き神”の狂気の力は、あらゆる動物に#影響を及ぼす。
+GOBLIN SEAL bites you in the leg!|“ゴブリンアザラシ”に足を噛みつかれる！
+GOBLIN SEAL slaps you!|“ゴブリンアザラシ”に叩かれる！
+GOBLIN SEAL grabs you with its teeth!|“ゴブリンアザラシ”の歯が、あなたを捉える！
+DREAM SALESMAN|悪夢のセールスマン
+You are surprised to find a well-dressed man sitting on a rock in the middle of a forest. When you get closer, however, you discover that he's wearing a realistic mask that falls on the ground.##>>Do you have a moment to s-spp-e-ak-k a-b-b-o-u-t-t t-th--iii-isii pr-r-o-d-c-t?? . ?.?. <<|森の中心…#岩の上に身なりのいい男が座っているのに気付き、#あなたはすくみ上がってしまう。##近づいてみると、“仮面”が地面に落ちていた。#男がつけていた、本物そっくりの仮面だ。###>>少し、コの商品につイて縺薙お話シ いいでsすjか縺?>縺ｧ縺吶°？？ . ？.？.<<
+He spent his life selling lies to unsuspecting people. Now, these lies are everything he knows.|生涯、疑うことの知らない者たちに、#嘘を売り続けてきた男。#彼の知る全ては、今やその嘘しかない。
+DREAM SALESMAN grabs you!|“悪夢のセールスマン”に体を掴まれる！
+DREAM SALESMAN attacks you!|“悪夢のセールスマン”の攻撃！
+DREAM SALESMAN tells you his sweet lies!|“悪夢のセールスマン”が甘い嘘をささやく！
+HUMAN LANTERN|人間提灯
+Following a weird light, you enter an abandoned village building. The whole room is illuminated by countless paper lanterns in many colors. One lantern, however, begins to get closer...|妖しげな光に引き寄せられ、村の廃墟へと入っていくあなた。##色とりどりの提灯が、部屋全体を明るく照らし出している。###しかし、無数にある提灯の一つが、ゆっくりとこちらに近づいてきて…
+All ancient buildings hide their morbid secrets.|古代の建造物。#そのどれもが、おぞましい秘密を秘めている。
+HUMAN LANTERN freezes you!|“人間提灯”があなたを凍らせる！
+HUMAN LANTERN scares you!|“人間提灯”が脅かしてくる！
+HUMAN LANTERN attacks you!|“人間提灯”の攻撃！
+CYCLOPS NEIGHBOR|一つ目の隣人
+Passing by a faulty elevator, its doors suddenly open. You take a step back noticing a weird tall woman, standing in the darkness.##<<Do you live here? I've never s-e-e-n you...>>|故障中のエレベーターの前を通りかかった途端、唐突にそのドアが開きだす。#思わず、後ろに下がるあなた。##暗がりの中に佇む、不気味な長身の女。##<<ここに住んでる人？ハ ジ メ テ ミ ル ナ ァ…>>
+She's already devoured one of your neighbors. Will you be next?|彼女は既に、隣人の一人を喰らっていた。#自分がその次の獲物になるのだろうか？
+CYCLOPS NEIGHBOR attacks you!|“一つ目の隣人”の攻撃！
+CYCLOPS NEIGHBOR kicks you!|“一つ目の隣人”が蹴りを放つ！
+CYCLOPS NEIGHBOR punches you in the face!|“一つ目の隣人”の拳が顔に当たる！

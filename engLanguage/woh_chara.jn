@@ -1,0 +1,196 @@
+eng|jp
+MUNDO DE TERROR|恐怖の世界
+<<Al principio, nadie tenía idea de a qué nos enfrentábamos.>>|「自分たちが何と対峙していたのか、#初めは誰も知らなかった。」
+[SIN EFECTO]|調査中に発動する効果: なし
+HISTORIAL MÉDICO|病歴
+<<En tu familia hay huesos frágiles y has pasado cada verano enyesado.>>|「家系的に骨がもろく、夏は毎年#ギブスをはめて過ごしていた。」
+[comienzas con EXP y VENDAJES adicionales, pero puede ocurrir una LESIÓN cada vez que el jugador sufre daño en combate]|追加EXPと｢包帯｣を持った状態で#スタート。ただし、戦闘ダメージを#受けると怪我を負うことがある。
+CAZADO POR EL CULTO|教団の追っ手
+<<Has logrado huir de ellos una vez, pero el culto es incansable...>>|「一度は逃げ切ったものの、狂信者たちは休む間もなく追ってきた…」
+[resolver misterios reduce más DOOM pero obtienes más encuentros de combate únicos]|謎を解くと通常より破滅値が#下がるが、一部の敵との戦闘#エンカウントが増える。
+LA SÉPTIMA MALDICIÓN|セブンス･カース
+<<Tu familia fue maldecida. Todos los que te rodean morirán...>>|「お前の家族は呪われてんだよ。#周りがみんな、死んじまう…」
+[empiezas el juego con más FONDOS pero no puedes tener aliados HUMANOS]|通常より所持金が多い状態で#スタートするが、[人間]の#仲間ができなくなる。
+MAL DESTINADO|不幸体質
+<<Naciste bajo una mala luna...>>|「不吉な月の下、お前は#生まれたんだ…」
+[todas las pruebas de habilidades del evento fallan automáticamente]|全イベントのスキルチェックに#失敗する。
+CABALLERO ERRANTE|夢想家
+<<Solo yo puedo salvar nuestro pueblo...>>|「この町を救えるのは俺だけだ…」
+[recibes una penalización importante cada vez que completas un misterio con un final sub-A]|Aエンディング以外の#エンディングを迎えると、#大きなペナルティを受ける。
+CICATRICES|傷痕
+<<He superado el infierno y he regresado, no me romperás ahora.>>|「私は地獄を乗り越えてきたんだ。#今さらお前に屈するわけがない。」
+[reduce el daño recibido en 1, reduce drásticamente la RESISTENCIA MÁXIMA y la RAZÓN]|被ダメージ-1##｢スタミナ｣｢理性｣の上限が#大幅に低下
+CURIOSA MARCA DE NACIMIENTO|奇妙なあざ
+<<Doctor, si se ve 'bien', explíqueme, ¿por qué está cambiando de forma?>>|「これのどこが大丈夫なの、先生！#何で形が変わってるのよ！」
+[cualquier daño recibido en combate puede causar una MALDICIÓN]|戦闘中にダメージを受けると、#一定の確率で「呪い」が#付与される。
+PARÁSITO ELDRITCH|怪魔の寄生蟲
+<<Algo está... creciendo dentro de mí.>>|「何かが…この中で育ってる…」
+[empiezas con RESISTENCIA y RAZÓN adicionales pero no puedes recuperarlas]|｢スタミナ｣｢理性｣が高い状態で#スタート。ただし、それらを回復#することができなくなる。
+FATALISTA|運命論者
+<<Es... inútil, no puedo cambiar mi destino...>>|「そりゃ…ムダだね。#運命には抗えないのさ…」
+[debes resolver los misterios en el orden en que aparecen en el tablero]|ボードに表示された順番で、#謎を解いていかなければならない。
+ESTUDIANTE DE INTERCAMBIO|転校生
+Nombre: KIRIE MINAMI#20 / MUJER# #¿Podrían los fantasmas que la siguen estar relacionados de alguna manera con todos los eventos extraños que suceden en esta ciudad?|南 桐江#20歳 / 女##幽霊たちが彼女につきまとう理由。#それは、この町で起きている怪異と#何か関連しているのかもしれない…
++ CONOCIMIENTO#- FUERZA#comienza con un HECHIZO aleatorio|賢さ＋#筋力－#ランダムに｢呪文｣を#1つ習得した状態でスタート
+KIRIE|桐江
+CAPITÁN DEL EQUIPO DE NATACIÓN|水泳部部長
+Nombre: AIKO TAKAHASHI#20 / MUJER# #Apenas sobreviviendo después de que el fantasma de un hombre ahogado la mantuviera bajo el agua, está decidida a resolver este misterio.|高橋 愛子#20歳 / 女##溺死した男の霊に襲われ、#水中へ引きずり込まれた彼女。#何とか一命をとりとめた彼女は、#この謎を解き明かすことを決心する。
++ DESTREZA#- CONOCIMIENTO#comienza con bonificación de velocidad de combate|敏捷性＋#賢さ－#全戦闘アクションに#速度上昇ボーナスを付与
+Aiko|愛子
+YAKUZA DRIVER|逃走するヤクザ
+Nombre: HARU#24 / MASCULINO# #Robar esa vieja mansión abandonada fue un error. Con sus amigos muertos y mutilados, y un horror vengativo persiguiéndolo, ninguna velocidad es demasiado rápida.|春#24歳 / 男#あの古びた廃屋敷に#盗みに入ったのは失敗だった。#無残にも切り刻まれ、殺された弟分達。#報復せんと迫り来る怪物に対し、#彼はただ、車で逃げ去ることしか#できなかった…
++ FUERZA#- CONOCIMIENTO#comienza con CIGARRILLOS|筋力＋#賢さ－#｢タバコ｣を持った状態でスタート
+haru|春
+ÍDOLO ADOLESCENTE|ティーンアイドル
+MIZUKI HAMASAKI#20 / MUJER# #En qué mundo tan extraño vivimos, donde detener un antiguo mal es la forma más fácil de impulsar tu carrera.|濱崎 瑞希#20歳 / 女##なんとも奇妙な世界だ。#自身のキャリアを上げる#一番手っ取り早い方法…#それがまさか、古の怪異を#止めることだとは。
++ CARISMA#- FORTALEZA#comienza con un ALIADO aleatorio|カリスマ＋#筋力－#ランダムな｢仲間｣が#1人いる状態でスタート
+MIZUKI|瑞希
+FOTÓGRAFO|カメラマン
+Nombre: KOUJI TAGAWA#20 / HOMBRE# #Dicen que una imagen vale más que mil palabras.#El gobierno no esconderá esto debajo de la alfombra.|田川 浩二#20歳 / 男##百聞は一見にしかず。#これがあれば、政府も#うやむやにはできないだろう。
++ PERCEPCIÓN#- DESTREZA#comienza con una CÁMARA|知覚＋#敏捷性－#｢カメラ｣を持った状態でスタート
+KOUJI|浩二
+ESTUDIANTE DE MEDICINA|医学生
+Nombre: MIMI#22 / MUJER# #Por fin una manera de poner en práctica todo lo que ha aprendido hasta ahora.|美々#22歳 / 女##…ついに来た。#これまで学んできた、#その全てを試す時が…
++ CONOCIMIENTO#- DESTREZA#comienza con un BISTUR|賢さ＋#敏捷性－#｢メス｣を持った状態でスタート
+MIMI|美々
+MANIFESTANTE|暴徒
+Nombre: MIKU#20 / MUJER# #Adolescente rebelde interesada en sembrar el caos. Ella protegerá su ciudad natal, aunque sólo sea por sus propias razones egoístas.|未久#20歳 / 女##混沌を広めることに熱中している#反抗的な少女。身勝手な理由とはいえ#彼女は彼女なりに自分の故郷を#守ろうとしていた。
++ FUERZA#- PERCEPCIÓN#aumentar DOOM otorga varias bonificaciones|筋力＋#知覚－#破滅値が上がると、様々なボーナスが#付与される
+MIKU|未久
+LA HIJA DEL CAZADOR|猟師の娘
+Nombre: MORIKO ISHII#20 / MUJER# #Ignorando las advertencias de su padre, decidió cazar al monstruo matando a los animales para proteger este bosque... y, sin saberlo, salvar el mundo.|石井 守子#20歳 / 女#父の警告を振り切り、狩りに出た守子。#全ては動物たちの命を奪う怪物を狩り、#この森を守るために…#そして、知らず知らずのうちに#彼女はこの世界を救うこととなる。
++ PERCEPCIÓN#- DESTREZA#comienza con la escopeta de su padre|知覚＋#敏捷性－#父の猟銃を持った状態でスタート
+MORIKO|守子
+BRUJA|魔女
+Nombre: AYAKA KUROI#20 / MUJER# #No quisieron participar en el ritual de Ayaka. Ahora están todos muertos y sus almas seguirán atormentándola.|黒井 彩伽#20歳 / 女#彩伽の儀式には関わりたくない。#そう言って彼らは参加を拒んだ。#だが、最終的にその全員が#亡き者となってしまう。#そして、彼らの魂は今も彼女を#苦しめ続けており…
++ CONOCIMIENTO#- SUERTE#comienza con ONYX MEDALLION|賢さ＋ / 幸運－#｢オニキスの首飾り｣を持った状態で#スタート
+AYAKA|彩伽
+EX-CULTISTA|元カルト信者
+Nombre: TOSHIAKI WAKAMATSU#20 / MASCULINO# #Cuando Toshiaki descubrió la siniestra intención del club, entró en acción y robó su posesión más preciada. Este libro maldito salvará o condenará a todo nuestro mundo...|若松 俊明#20歳 / 男#歴史部の邪悪な企みを知った俊明は、#部員たちが最も大切にしている物を#盗み取った。#その呪われし本が世界に#もたらすのは救いか、滅びか…
++ PERCEPCIÓN#- FUERZA#comienza con NECRONOMICON|知覚＋#筋力－#｢ネクロノミコン｣を#持った状態でスタート
+TOSHIAKI|俊明
+SACERDOTE|聖職者
+Nombre: YASHIRO KAWAJ#24 / HOMBRE# #Aunque técnicamente no completó sus estudios en el seminario, una carta preocupante de su hermana obligó a Yashiro a tomar el primer tren a Shiokawa. Después de todo, ella murió hace unos años...|川地 八代#26歳 / 男#厳密に言えば、彼は神学校を卒業#していない。ある時、姉から心配の#手紙が届く。それがきっかけで、彼は#塩川行きの始発電車に飛び乗ることと#なった。なぜなら、姉は数年前に#亡くなっていたのだから…
++ CONOCIMIENTO#- CARISMA#comienza con CRUCIFIJO DE BRONCE|賢さ＋#カリスマ－#｢銅の十字架｣を持った状態でスタート
+YASHIRO|八代
+Tienes que dejar esta ciudad maloliente pronto.|早くこの怪しい町から出ないと。
+Las cartas predijeron esto...|カードが次の行動を予言した…
+Qué hermoso día hoy.|今日はとても良い天気だ。
+El orden no importará de todos modos...|順番など、どうでもいい…
+SACERDOTE|聖職者
+SUÉTER CHUPACABRAS|チュパカブラのセーター
+SABOR EXQUISITO|美食家
+<<Sólo unos pocos lugares son lo suficientemente buenos para mí.>>|「この肥えた舌を唸らせてくれる#店なんて、そうそうないよ。」
+[solo hay una acción adicional disponible por ubicación]|各調査ポイントで、追加でアクションを1回行える。
+¡Los miembros de la secta te siguen la pista!|カルト集団の信者達に追われている…！
+La maldición te sigue persiguiendo...|あなたは今もその呪いに苦しみ続けていた…
+Algo está creciendo dentro de ti...|何かが…体の中で育っている…
+Naciste bajo una mala luna...|あなたは不吉な月の下で生まれた…
+Has estado esperando esto toda tu vida...|この時をずっと待ちわびていた…
+El parásito se agita.|体内の寄生蟲がうごめいている…
+Has pasado por cosas peores...|これよりもっとひどい目に遭ってきた…
+INCÓGNITO|お忍び姿
+<<LO SIENTO NO LO CELEBRO>>|<<悪いが、祝うつもりはない。>>
+LIMÓN MÁS FELIZ|ハッピーレモン
+PLEBEYO|一般人
+<<Se suponía que iba a morir.>>|<<私が死ぬはずだった。>>
+[no puedes ganar EXPERIENCIA]|EXPを獲得できなくなる。
+RATÓN DE BIBLIOTECA|本の虫
+CHAQUETA DEPORTIVA|スポーツジャケット
+BRUJA ADOLESCENTE II|ティーンウィッチ II
+PARAVIENTO|防風ジャケット
+SU SUÉTER|彼のセーター
+CHAQUETA FUGA|逃亡者のジャケット
+CULTO AL MAÍZ|トウモロコシ畑の信者
+SUÉTER DE CAZADOR|猟師のセーター
+UNA CHAQUETA ABRIGADA|暖かいジャケット
+EST.65|EST.65
+MORI KEI|森ガール
+VIVA EL REY|血まみれのはらわた
+ASPIRANTE A ÍDOLO|アイドルの卵
+ESTUDIANTE INOCENTE|無垢なる学生
+LA COLECCIÓN|コレクション
+TRAJE REBELDE|叛逆者
+ESCUELA PRIVADA|私立学校
+<ESTRELLA>|<STAR>
+ESQUELETO|スケルトン
+REPORTERO|記者
+SUÉTER SANGRIENTO|血染めのセーター
+SALARIO JUNIOR|平社員
+HAWAI|アロハシャツ
+REBELDE DEL CUERO|レザレボー
+CHAD|モテ男
+DORAKYURA|ドラキュラ
+CHAQUETA DE MATÓN|チンピラスタイル
+Pelea de bar|バーファイト
+MAFIA|マフィア
+SAMURAI|サムライ
+CUERO|レザー
+CAMISETA|Tシャツ
+FESTIVAL DEL DIOS PERRO|犬神祭
+CHAQUETA ANTIDIVERTIDO|狂暴な襲撃者
+CAMISETA BANDA|バンドT
+ESTUDIANTE GENIAL|クールな生徒
+TOKIO|トーキョー
+CAMISETA OCULTA|オカルト・タンクトップ
+ALTERNATIVA|奇矯な少女
+PEQUEÑO DIABLO|小悪魔
+ENFERMERO|看護婦
+CAMISETA SIN MANGAS|タンクトップ
+P.CULTURA|ポップカルチャー
+BUENA NIÑA|いい子
+CHANDAL|ジャージ
+¡NAVEGAR!|SURF!
+(REAL) ENFERMERA|(正真正銘の)看護婦
+CHICA DE TRANSFERENCIA|転校生の制服
+CAMISA CASUAL|カジュアルなシャツ
+BRUJA ADOLESCENTE|ティーンウィッチ
+HIRIÉ|ヒリエ
+60S|60年代
+WZ.86|WZ.86
+HOJA FANTASMA|シーツの幽霊
+CAPITÁN|部長
+ROPA DE GIMNASIO|体育着
+SAJALIN|サハリン
+MASCOTA DE LA MAESTRA|優等生
+CHAQUETA VANITY|スタジャン
+MOMIA|ミイラ
+EQUIPO DE DEPORTE|スポーツチーム
+LINDA CAMISA|キュートなシャツ
+SIEMPRE CORRIENDO|ランニングウェア
+paquetes de beneficios elegidos|選択したパークパック
+Se agregó una nueva página al NECRONOMICON.|｢ネクロノミコン｣に新たなページが追加された。
+Les he fallado... (+6% DOOM)|皆の期待を裏切ってしまった…(破滅値+6%)
+Has perdido a los cultistas cazadores... por ahora. (-1% CONDENACIÓN)|カルト信者の姿は見えなくなった。今のところは…(破滅値-1%)
+FE|信仰値
+(efecto pasivo):#-2 RESISTENCIA MÁXIMA/RAZÓN#+1 DAÑO#+1 FUERZA#(efecto por misterio):#-10 EXPERIENCIA|<パッシブ効果>#スタミナ上限-2 / 理性上限-2#与ダメージ+1#｢筋力｣+1#<謎の調査開始時>EXP-10
+(efecto pasivo):#-1 RESISTENCIA MÁXIMA/RAZÓN#(efecto por misterio):#-5 EXPERIENCIA|<パッシブ効果>#スタミナ上限-1 / 理性上限-1#<謎の調査開始時>#EXP-5
+(efecto pasivo):#+2 RESISTENCIA MÁXIMA/RAZÓN#+1 DESTREZA#(efecto por misterio):#recuperar 1 RESISTENCIA/RAZÓN#+20 EXPERIENCIA|<パッシブ効果>#スタミナ上限+2 / 理性上限+2#｢敏捷性｣+1#<謎の調査開始時>#｢スタミナ｣｢理性｣を1回復#EXP+20
+(efecto pasivo):#+1 MAX STAMINA/REASON#(efecto por misterio):#+10 EXPERIENCIA|<パッシブ効果>#スタミナ上限+1 / 理性上限+1#<謎の調査開始時>#EXP+10
+VALOR ACTUAL|現在の信仰値
+#aumentar la FE al derrotar enemigos y resolver misterios#disminuir la FE al recibir daño en combate#-----#|#｢信仰値｣は敵を倒したり、謎を解いたり#することで高まるが、戦闘時にダメージを受けると低下する。#-----#
+CARÁCTER ALEATORIO|探索者 (ランダム)
+¡Selecciona aleatoriamente uno de los personajes desbloqueados!|ランダムな探索者が選ばれる。#(アンロックされた探索者のみ)
+[artículos de FARMACIA más baratos]|｢薬局｣のアイテムが安くなる。
++1 RAZÓN / RESISTENCIA|｢理性｣+1 / ｢スタミナ｣+1
+CORAJUDO|勇気
+COBARDE|臆病者
+AKITO|昭人
+CHIHARU|千晴
+DOI|土井
+HACHI|ハチ
+HARUE|春江
+HIKARU|光
+KAEDE|楓
+KAIRI|海里
+TARU|多留
+REIKO|麗子
+MICHI|ミッチー
+KOHAKU|琥珀
+CARISMA|カリスマ
+CONOCIMIENTO|賢さ
+DESTREZA|敏捷性
+PERCEPCIÓN|知覚
+FORTALEZA|筋力
+SUERTE|幸運
+ALUMNO|生徒

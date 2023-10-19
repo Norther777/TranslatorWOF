@@ -1,0 +1,273 @@
+[ATTACK THE MASTER CULTIST]|邪教の祭司を攻撃
+damage|ダメージ
+Attack the chanting cultist in an attempt to stop the ritual, dealing|儀式を止めるため、詠唱中のカルト信者を#攻撃する。##与ダメージ: 
+[SUFFER FOR ME]|「我が為に苦しめ」
+Lose 2 STAMINA|スタミナ-2
+KICK|キック
+[attack without a weapon]|[武器を使わない攻撃]
+base chance to hit|基本命中率
+The music is getting louder, you must hurry!|音がどんどん大きくなっている…もう時間が無い！
+A lower multiplier means that actions will take less time.|#この倍率が低いほど、アクションにかかる#時間も短くなる。
+Combat sequence saved!|戦闘シーケンスをセーブした！
+[CRY FOR ME]|「我が為に狂い泣け」
+currently, your chance to hit is lowered by|命中率低下: 
+Lose 2 REASON|理性-2
+[BLEED FOR ME]|「我が為に血を流せ」
+Set remaining STAMINA to 3|スタミナが3になる。
+[GIVE UP FOR ME]|「我に屈しろ」
+Set remaining REASON to 3|理性が3になる。
+[DIE FOR ME]|「我が為に死ね」
+Kills you instantly.|即座に死ぬ。
+[SOMETHING EVIL IS SATED]|[真なる邪悪は満ち足りた様子だ]
+...for now.|…今のところは、だが。
+INCORPOREAL ENEMY|実体のない敵
+[this attack can't hurt a ghost enemy]|「悪霊」の敵に対して、この攻撃は#効かない
+GHASTLY PRESENCE|｢身の毛のよだつ気配｣
+GHASTLY PRESENCE prevents you from attacking this enemy.|｢身の毛のよだつ気配｣が邪魔をして、攻撃できない。
+LEAVE AN OFFERING|供物を捧げる
+Burn a material offering in an attempt to appease the ghost, dealing|悪霊を鎮めるために供物を燃やし、#以下のダメージを付与: 
+[COST: 1 FUNDS]|[コスト: 所持金-1]
+[this action requires FUNDS]|このアクションを行うには所持金が必要
+SEVER THEIR TIES TO OUR WORLD|現世との繋がりを断ち切る
+Deals|与ダメージ: 
+(no weapon)|(武器無し)
+[the invisible web prevents you from running from this encounter]|[見えない糸に捕らわれて逃げられない]
+[this enemy is so massive, that this attack won't cause any damage]|[敵が大きすぎるため、ダメージを#与えられない]
+SACRIFICE THE OTHER GUEST|他の参列者を生贄に捧げる
+kill the other guest; it will deal 15 damage to the HORRIBLE OLD MAN|他の参列者を殺し、「醜悪なる老翁」に#15ダメージ与える
+UNPLUG LIFE SUPPORT|生命維持装置を外す
+The monster seems to gain its strength from the sleeping patients. Unplugging life support from one of them will weaken the monster but kill that patient.#(deals 15 damage)#COST: 3 REASON|この怪物は昏睡した患者たちから、#力を得ているようだ。#装置を外せば弱体化するが、患者の命は#失われる…#与ダメージ: 15#コスト: 理性-3
+SACRIFICE YOUR ALLY|仲間を生贄に捧げる
+kill your follower on an altar in an attempt to appease the enemy|敵を鎮めるため、祭壇で仲間を殺す
+[this action requires an ally]|[このアクションを行うには仲間が必要]
+[one-time use only]#[needs STAMINA or REASON to be lower than 3]|[1回のみ実行可]#[条件: スタミナか理性が3以下]
+DESPERATE STRUGGLE|背水の陣
+[one-time use]##doubles all damage dealt during this turn|[1回のみ実行可]##このターン中に与える全ダメージが#2倍になる。
+PRAY|祈る
+regain 1 STAMINA#COST: 2 REASON|スタミナが1回復する。#コスト: 理性-2
+MEDITATE|瞑想
+regain 1 REASON#COST: 2 STAMINA|理性が1回復する。#コスト: スタミナ-2
+LISTEN TO THE RAMBLING|長話を聞く
+[PERCEPTION-based]|[知覚ベース]
+learn a new spell or gain experience#COST: 1% DOOM|新たな呪文を習得するか、EXPを#獲得する#コスト: 破滅値+1%
+FIRE WEAPON|射撃
+ASK YOUR ALLY TO DISTRACT THE ENEMY|仲間に敵を引きつけてもらう
+If successful: faster combat action for the duration of this encounter#If failed: lose a random ally. Base chance: 70%|[成功した場合]#この戦闘中はアクションが速くなる##[失敗した場合]#ランダムに仲間を1人失う#(基本確率: 70%)
+CAMERA FLASH|カメラのフラッシュ
+Use your camera's flash to temporarily blind the enemy.#(-10 POWER)|カメラのフラッシュで、一時的に#敵の視界を奪う#パワー: -10
+[needs a firearm to perform this action]|(このアクションを行うには[銃器]が必要)
+BREAK INTO MINIVAN|ミニバンに乗り込む
+Maybe there's something useful in the gardener's minivan?|庭師のミニバンに何か使える物があるかもしれない
+PROTECT THE GARDENER|庭師を守る
+This turn, the plants will attack you instead of SHIRO-SAN.|このターン中、四郎さんの代わりに#植物の攻撃を受ける
+The doorway|出入り口
+The doorway is blocked by thick branches.#You need to find another way out!|出入り口が太い枝で塞がれている！#別の逃げ道を探さなくては！
+CHOP YOUR WAY OUT|切り進む
+Using the FIRE AXE, you can quickly chop down the branches blocking the quick way out of this mansion!|「消防斧」を使えば、出口を塞ぐ枝を#一気に切り落とせる！
+LEAD THE GARDENER|庭師を連れ出す
+Continue leading the injured man outside. You'll need to perform this action multiple times to leave the mansion.|怪我人を外へと誘導する#屋敷を出るには、何度かこのアクションを#行わなければならない
+W-WHAT'S THAT?|あ、あれは何だ…？
+Stop and take a closer look at SHIRO-SAN's injuries.|立ち止まって、四郎さんの怪我を近くで#見てみる
+Plants are attacking you! You must protect the injured SHIRO-SAN and lead him to safety. He will continue to lose HEALTH each turn.|植物が襲ってきた！#負傷した四郎さんを守りつつ、#安全な場所に避難させなければ…#(毎ターン、庭師の体力は減っていく)
+[DEXTERITY-based]|[敏捷性ベース]
+[KNOWLEDGE-based]|[賢さベース]
+DODGE|回避
+drastically lowers the hit chance for the enemy|敵の攻撃命中率が大幅に低下する
+COMBAT SKILL|戦闘スキル
+reduces your EXPERIENCE by 5 and raises your chance to hit by 10% for the rest of this encounter|EXPを5失う代わりに、攻撃命中率が#10%上昇する
+[STRENGTH-based]|[筋力ベース]
+BRACE FOR IMPACT|攻撃に耐える
+lowers the incoming damage by half and ignores any special attack|被ダメージが半減し、#特殊攻撃が無効になる
+[CHARISMA-based]|[カリスマベース]
+[LUCK-based]|[幸運ベース]
+LAUNCH SEQUENCE|シーケンス開始
+CLEAR|クリア
+TURN|ターン
+BEGINS!|開始！
+OFFENSIVE ACTIONS|攻撃アクション
+SUPPORT ACTIONS|支援アクション
+DEFENSIVE ACTIONS|防御アクション
+SPIRITUAL ACTIONS|祈祷アクション
+current time multiplier|現在の倍率
+HEALTH - defines the enemy's stamina.#You win the encounter by getting this to zero.|「体力」#敵のスタミナ量。#これを0にすることで戦闘勝利となる。
+DAMAGE - after each sequence, enemies perform an attack draining your stamina (-STA), reason (-REA) or both (-ALL).|「ダメージ」#シーケンス終了時、敵はスタミナ(STA)#や理性(REA)、あるいはその両方(ALL)を奪う攻撃を仕掛けてくる。
+POWER - this stat defines your chance to attack the enemy successfully. The higher its POWER, the harder it will be.|「パワー」#敵に対する攻撃成功率。#この値が高ければ高いほど、攻撃が#外れやすくなる。#
+ATTACK WITH YOUR WEAPON|武器攻撃
+[needs an equipped weapon to perform this action]|[武器を装備すると選択可能]
+KICK|キック
+[attack without a weapon]|[武器を使わない攻撃]
+STRONG ATTACK|強攻撃
+LOOK FOR AN IMPROVISED WEAPON|即席武器を探す
+pick up a random improvised weapon|ランダムに間に合わせの武器を拾う。
+You missed the attack!|攻撃が外れた！
+You prepare to strike...|敵に向かって、狙いを定める…
+[Fill the COMBAT SEQUENCE (white bar) with combat moves and click the 'LAUNCH SEQUENCE' to attack your enemy.]##(right click) - delete the last combat move|攻撃を仕掛けるにはアクションを選択して#戦闘シーケンス（白いバー）を組み、#「シーケンス開始」をクリックする。##右クリック: 最後に選択したアクションを#キャンセルする。
+[you can't run from this encounter]|[この戦闘からは逃げられない]
+RUN AWAY|逃げる
+PREPARE YOUR ATTACK|攻撃準備
+next attack is guaranteed to hit.|次の攻撃が確実に命中する。
+ATTACK BOOST|攻撃ブースト
+your next attack has an additional 10% chance to hit; this effect stacks|次に仕掛ける攻撃の命中率が10%上昇。#重ねがけが可能。
+BITE|噛みつく
+You bite|敵に噛みついた: 
+Target|他
+Target the other enemy.|他の敵を狙う。
+ASSESS THE SITUATION|分析
+learn about your enemy|敵を分析する。
+BOW|お辞儀
+a part of a ritual (Most combat rituals are a combination of five BOWS and CLAPS.#Even if you don't get it right, you'll be provided with a hint.)|儀式における一つの作法。#戦闘での儀式は、主に「お辞儀」「拍手」を計5回組み合わせて行われる。#仮に失敗しても、ヒントが表示される。
+CLAP|拍手
+NO HOPE!|もう無理だ…
+run from the horrible beast like a coward|恐ろしき怪物を目の前にして、#臆病者のように逃げ出す。
+THIS IS TOO MUCH!|もう限界だ！
+You close your eyes, fighting the increasing dizziness...|次第に酷くなる眩暈に耐えつつ、#目を閉じる…
+ends the encounter for a DOOM penalty#[+0% DOOM]|戦闘が終了し、破滅値が上昇する。#[破滅値+0%]
+(RUNNING SHOES)|(ランニングシューズ)
+% DOOM|% (破滅値)
+ends the encounter for a DOOM penalty|戦闘終了すると破滅値が上昇
+FORCE MANHOLE OPEN (WITHOUT TOOL)|マンホールの蓋をこじ開ける (工具なし)
+try to open the manhole cover present in the janitor's office|用務員室にあった#マンホールの蓋を開けてみる
+FORCE MANHOLE OPEN (WITH TOOL)|マンホールの蓋をこじ開ける (工具使用)
+TOPPLE A LAMP|ランプを倒す
+a spark from the broken bulb should set the highly flammable cleaning fluids on fire...|割れた電球の火花で、#可燃性の高い洗浄液に引火するはず…
+PICK IT UP|拾う
+RESOLVE COMBAT|戦闘終了
+You've defeated|<撃破>
+You punch|を殴りつけた。
+You kick|にキックした。
+You stab|に刃を突き刺した。
+You slash|を切りつけた。
+You shoot|を撃った。
+You bash|を武器で叩いた。
+You saw through|を切り倒した。
+You've successfully run from|から逃げ切った。
+ESCAPE|逃げる
+You burn|を燃やした。
+You've found an item|アイテムを発見した
+Wait, what's that?|ん？あれは…？
+You don't have time to change the equipment.|装備を変えている場合ではない。
+You've already defeated the enemy.|もうその敵は倒した。
+This action needs a target enemy.|対象となる敵がいない。
+KAORI YUTO|由藤かおり
+THE LINGUIST#[+1 COMBAT DAMAGE]|言語学者#[戦闘ダメージ+1]
+SAKINA OKADA|岡田咲菜
+THE GEOLOGIST#[+1 COMBAT DAMAGE]|地質学者#[戦闘ダメージ+1]
+HIROKI SHINOHE|篠瀬博己
+THE THEOLOGIST#[-1 INCOMING DAMAGE]|神学者#[被ダメージ-1]
+Inside the minivan, you find a can of flammable gas...|ミニバンの中から可燃性ガスの缶を見つけた…
+You can't find anything useful anymore...|使えそうものはもうない…
+You prepare to protect the gardener...|四郎さんを守ろうとする…
+You help SHIRO-SAN walk towards the exit.|四郎さんを支えて出口に向かう。
+You've escaped the basement but SHIRO-SAN follows you!|地下室から脱出するも、彼が追いかけてくる！
+The top of SHIRO-SAN's head flies off, revealing his brain! Out of it bursts the fruiting body of a fungus!|四郎さんの頭頂部が弾け飛び、脳みそが露わとなった！#そこからキノコのようなものが飛び出す！
+You try to sever their ties to this world!|敵と現世を結ぶ繋がりを断ち切ろうとする！
+You burn the money! (-1 FUNDS)|あなたはお金を燃やした。(所持金-1)
+[SOMETHING TRULY EVIL REQUIRES MORE]|[真なる邪悪はまだ欲している]
+[YOU'VE BLED ENOUGH]|[もう十分、血は流した]
+[YOU'LL RETURN...]|[あなたはまた戻ってくる…]
+[YOU'VE GIVEN UP ALREADY]|[あなたはすでに諦めていた]
+has managed to distract|が敵を引きつけた: 
+has tried to distract|は敵を引きつけようとした: 
+but died!|しかし、殺されてしまった！
+You don't have any allies left!|もう仲間は誰もいない！
+You throw|あなたは祭壇の上に向かって
+on the altar and stab them in the chest! (-3 REASON)|を投げ飛ばし、胸に目がけて刃を突き立てた！(理性-3)
+The ritual makes you stronger! (+1 STAT)|儀式によって、力が強化された！(能力値+1)
+Dodging an attack, you unplug the life support machine of one of the patients.|攻撃をかわしながら、生命維持装置を外す。
+The patient dies and one of the tendrils disappears... (-15 HEALTH)|患者が息絶え、触手の一つが消え去った…(体力-15)
+Reality shifts, your action was canceled.|現実が揺らぎ、そのアクションは無効になった。
+Time freezes, your action was canceled.|時間が止まり、そのアクションは無効になった。
+You grab a knife and stab one of the family members!|あなたはナイフを手に取り、一家の一人に刃を突き刺した！
+HORRIBLE OLD MAN recoils in pain! (-15 damage)|痛みに耐えかねた敵が、体を仰け反らせる！(-15ダメージ)
+HORRIBLE OLD MAN... smiles.|“醜悪なる老翁”は…笑っている。
+You brace yourself for an incoming attack!|迫り来る攻撃に備え、あなたは身構えた！
+You prepare yourself to dodge the incoming attack!|迫り来る攻撃をかわすために、あなたは身構えた！
+It's your final chance! Don't waste it!|最後のチャンスだ！この機を逃すな！
+You meditate! (+1 REASON, -2 STAMINA)|あなたは瞑想をした…(理性+1 / スタミナ-2)
+You attack the chanting cultist, dealing|詠唱中のカルト信者を攻撃し、
+damage!|ダメージを与えた！
+The enemy is repeating a magical incantation!...|敵は魔法を繰り返し唱えている…
+The enemy is repeating meaningless facts!...|敵は意味不明な言葉を繰り返している…
+The enemy suddenly gets silent and starts staring at you....|敵は急に黙り込み、こちらをじっと見つめている…
+You pray! (+1 STAMINA, -2 REASON)|あなたは祈りを捧げた！(スタミナ+1 / 理性-2)
+The gunshot is deafening!|銃声が耳をつんざく！
+You study the movement of the enemy, finding an opening!|敵の動きを分析して隙を見つける。
+Not enough EXPERIENCE for that action!|そのアクションを実行するにはEXPが足りない！
+You try to open the manhole...|あなたはマンホールの蓋を開けようとした…
+It would be easier with a proper tool, though.|ちゃんとした工具があれば、もっと容易に開けられるだろう。
+Using a crowbar, you try to open the manhole...|バールを使ってマンホールを開けてみる…
+health|体力
+You bow|あなたはお辞儀をした。
+You clap|あなたは拍手をした。
+You duck down and grab an item lying on the ground.|屈んで地面に転がっているアイテムを拾う。
+COMBAT TUTORIAL|戦闘チュートリアル
+During each turn, you'll build a sequence of attacks and moves from the action ring (B).#Once you've filled the sequence bar (C), press the LAUNCH SEQUENCE button to finish your turn.|戦闘が始まると毎ターン、攻撃や行動の#順序をアクションリング(B)から#組み立てていくことになります。#シーケンスバー(C)を埋めたら、#｢シーケンス開始｣を押してみましょう。
+With time, you will discover new combat moves, available through the ACTION FILTER (A).#But first, you need a weapon. Find and choose an action called 'LOOK FOR AN IMPROVISED WEAPON'|ゲームが進むと、新たな戦闘アクションがアクションフィルター(A)から#行えるようになります。#｢即席武器を探す｣というボタンを#押してみましょう。
+Look, a new ITEM has appeared in your INVENTORY in the upper right corner. Select the ITEM with your cursor and open this ITEM's sub-menu, then select the EQUIP button (highlighted).|右上の所持品に、新たなアイテムが#表示されました。#アイテムを選択し、ハイライト表示された#｢装備｣ボタンを押してみましょう。
+USE|使用
+EQUIP - places item in its equipment SLOT|装備: このアイテムを装備スロットにセットする
+INSPECT - additional information about the item|調べる: 詳細情報の確認
+STORAGE - places item in the storage|収納する: このアイテムをカバンにしまう
+THROW AT ENEMY - throws the item at the enemy|投げる: このアイテムを敵に投げつける
+DISCARD - removes the tem from the game|捨てる: アイテムを処分する
+TRADE IN - sell this item|売却: このアイテムを売る
+YOU WOULDN'T KNOW WHERE TO FIND A BUYER FOR IT|どこに買い手がいるのか、見当もつかない…
+TALK|話す
+LET GO|仲間と別れる
+KILL|殺す
+SEND AGAINST ENEMY|敵に向かって仲間を出す
+CAST THIS SPELL|この呪文を唱える
+FORGET THIS SPELL (+1 REASON)|この呪文を忘れる (理性+1)
+AURA: FREE CAST|狂える霊気: コストなし
+ATH-YOLAZSTH'S GAZE: CASTING THIS DOESN'T COST REASON|アトゥ＝ヨラズスの視線: これを唱えても「理性」は失われない
+TREATMENT - 1 FUNDS|治療: 所持金-1
+SURGERY - 2 FUNDS|手術: 所持金-2
+MODERN MEDICINE CAN'T HELP HERE|今の医学ではどうにもできない
+BANDAGE THIS WOUND|傷に包帯を巻く
+PRICK IT WITH A NEEDLE|針で刺す
+TREAT THIS WOUND|傷を治療する
+REMOVE CURSE|呪いを解く
+^ AVAILABLE ACTIONS|実行可能なアクション
+Item added to the storage!|カバンにアイテムを収納した！
+You can't store items you are wearing.|装備中のアイテムは、カバンに収納できない。
+The thrown item damages the enemy!|投げたアイテムが当たり、敵にダメージを与えた！
+You prick it with a needle. A geyser of foul-smelling whitish-yellow pus bursts out and you scream in pain! S-shouldn't a doctor see this?...#(-2 STAMINA, -1 MAX STAMINA)|針を刺すと、中から酷い臭いの白黄色の膿が噴き出す。#そのあまりの痛みに、あなたは悲鳴を上げてしまう。#こ、これは、医者に診てもらうべきなのか…？#(スタミナ-2 / スタミナ上限-1)
+The treatment was successful!|治療がうまくいった！
+You can't afford that!|そんなお金はない！
+The surgery was successful!|手術は成功した！
+Your ally|あなたを守るために
+attacked|が
+to protect you!|を攻撃した！
+That attack dealt|その攻撃によって
+damage|以下のダメージを与えた: 
+You kill|あなたをはめようとした
+for plotting against you!|を殺した！
+You forgot this spell! (+ REASON)|この呪文を忘れた！(+理性)
+No Weapon|装備中の武器: なし
+Nothing|なし
+current backstory:|現在のバックストーリー: 
+CHANGE BACKSTORY|バックストーリーを変更
+START THE GAME|ゲームを始める
+STAMINA|スタミナ
+REASON|理性
+DOOM|破滅値
+NO RITUAL ACTIVE|実行中の儀式: なし
+Welcome and thank you for trying WORLD OF HORROR.#Inspired by adventure games from the 80s, the visual overload may initially be a little disorienting. In this short tutorial, I'll do my best to explain various elements and prepare you to fight the horrible OLD GODS.#- Pawel, creator of the game|ようこそ、恐怖の世界へ！遊びに来てくれてありがとう！#これは、私が80年代のアドベンチャーゲームから影響を受けて作ったゲームなの。#画面上に色んな表示が出てて初めはちょっと戸惑うかもだけど、慣れれば大丈夫！#この短いチュートリアルの中で、私が頑張って説明するね。#そしたら、あのコワ～い「旧き神」にも立ち向かえるようになるはずだよ！#Pawel (本作の開発者)
+That's the -MAIN GAME SCREEN-. Here, you will interact with your surroundings, solve mysteries and fight enemies.|「メイン画面」: ここで気になるものをクリックして調べてみたり、#謎を解いたり、色んな敵と戦ったりするの。
+That's the -USER INTERFACE- part of the screen. ##Here, you'll manage your inventory, cast spells and access the game options.|「ユーザーインター#フェース」##ここから所持品の管理や#呪文の詠唱、設定の変更#などができるよ。
+All performed actions will be added to the -LOG- here.|「ログ」: あなたの行動は、全てここにログとして記録されていくよ。
+That's you on the right. WORLD OF HORROR has RPG elements and your attributes are described by six basic stats.##Move your cursor over them to learn more.|右下にいるのが、あなたね。#このゲームにはRPGっぽい要素が#あって、あなたのステータスは#6つの「能力値」で示されるの。#詳しく知りたければ、各値の上に#カーソルを合わせてみて！
+Your ability to continue your investigation is determined by STAMINA and REASON. If either of them reaches zero, the game ends.|調査を続けるには、「スタミナ」と「理性」が重要になってくるの。#どちらかがゼロになると、ゲームオーバーになっちゃうから気を付けて！
+That's your INVENTORY. You can keep up to four items.#To inspect, use, or equip anything you pick up, select the item in question from this area.|右上に表示されてるのが、あなたの「所持品」。#アイテムは最大4つまで持てて、#「調べる」「使用」「装備」といったアクションは、#ここでそのアイテムを選べばできるよ。
+There are three EQUIPMENT SLOTS. Equipped items do not count towards the four items limit.#A - weapon used in combat#B and C - trinkets and armor|「装備品スロット」は全部で3つあって、ABCに種類が#分かれてるの。ちなみに、アイテムは4つまでしか#持てないんだけど、装備中のアイテムはそこに#カウントされないからね。#A: 戦闘で使用する武器#B / C: 小物や防具
+Additional TABS will take you to your SPELLS, current STATUS and OPTIONS.|他のタブで習得した呪文やステータス、設定などが確認できるよ。
+That's your (STA) stamina. It represents your physical health. Once it reaches zero, your character dies.|スタミナ(STA) いわゆる「体力」のこと。##あなたの体の健康状態を示す数値で、#これがゼロになると、パタッと死んじゃう#から気を付けてね！
+That's your (REA) reason. It represents your stability and will to confront the horrors. Once it reaches zero, your character collapses and the game ends.|理性(RE‏‏A) 恐怖に立ち向かう意志の強さ#とか、精神的な安定感を示す数値だよ。#これがゼロになった時点で、心が壊れて#ゲームオーバーになっちゃうわ。
+That's (STR) Strength. Stats are used to determine the outcome of events and the speed of certain combat actions.|筋力(STR) 主に力強さが問われるような#スキルチェックで参照される数値だよ。##特定の武器を扱うときにも関わってくるわ。
+That's (DEX) Dexterity. Stats are used to determine the outcome of events and the speed of certain combat actions.|敏捷性(DEX) 主に隠密行動と関連した#スキルチェックで参照される数値だよ。##敵に対する「戦闘アクション」の速度とも#関係してくるの。
+That's (PER) Perception. Stats are used to determine the outcome of events and the speed of certain combat actions.|知覚(PER) 主に人や物を見つけたり、#探したりするときに参照される数値だよ。##銃器の扱いとも関係してくるわ。
+That's (KNW) Knowledge. Stats are used to determine the outcome of events and the speed of certain combat actions.|賢さ(KNW) 対象物に対して、どの程度#知識があるのかを示す数値だよ。##知識が問われるようなスキルチェックで#参照されるわ。
+That's (CHA) Charisma. Stats are used to determine the outcome of events and the speed of certain combat actions.|カリスマ(CHA) 主に人と話したり、#校庭で新しい「仲間」を集めたりするときに#参照される数値ね。
+That's (FND) Funds, representing the amount of money you can spend.|所持金(FND) 今、あなたが使える#お金のことね。
+As you progress with your playthrough, more helpful tips will appear. Would you like to turn the combat tutorial on? (It will start during your first enemy encounter)|ゲームを進めていくうちに、役立つヒントがもっと出てくるよ！#戦闘チュートリアルは見たい？#（「はい」を選ぶと、最初の敵と遭遇した時にチュートリアルが始まります）
+The enemy seems to be weak against this type of weapon! (+ DAMAGE)|敵はこの手の武器に弱いようだ！(+ダメージ)

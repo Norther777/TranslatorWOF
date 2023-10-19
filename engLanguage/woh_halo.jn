@@ -1,0 +1,118 @@
+PREPARACIÓN PARA LA INVESTIGACIÓN|調査準備
+<<¿Queda algo útil?>>|何か使えそうな物は#残ってないだろうか？
+PREPARAR|調査準備
+Si miras con atención, podrás encontrar elementos únicos de cada personaje que te ayudarán.|よく探すと、探索者の#専用アイテムが#見つかることがある。
+[cuesta DOOM entrar]#[artículos únicos]|破滅値上昇#(専用アイテム入手)
+EL BOLSO DE KIRIE|桐江の鞄
+(mientras está en el inventario): olvidar HECHIZOS reduce la RAZÓN en 1-2 y aumenta la DOOM en un 1%, obtiene un HECHIZO aleatorio|(所持品にある間)#｢呪文｣を忘れることで#｢理性｣が1～2減少#破滅値+1%#ランダムな｢呪文｣を習得
+<<He estado recopilando estas notas desde hace bastante tiempo.>>|<<だいぶ前から、こういう資料を集めてるの。>>
+Una fuerza invisible guía tu mano hacia la bolsa...|見えない力に操られ、鞄に手をかける…
+lleno de conocimiento|知識がぎっしり詰まっている
+PELUCHE DE AIKO|愛子のぬいぐるみ
+-1 daño de combate entrante#-2 PERCEPCIÓN; -2 SUERTE|戦闘時の被ダメージ-1#｢知覚｣-2#｢幸運｣-2
+<<no son reales no son reales no son reales>>|<<本物じゃない 本物じゃない 本物じゃない>>
+única amiga|たった一人の友達
+CAJA DE CIGARRILLOS|タバコケース
+(mientras está en el inventario): 15% de recuperar un CIGARRILLO después de investigar una ubicación|(所持品にある間)#各調査ポイントを調べた後､#15%の確率で#｢タバコ｣を1本入手する
+<<Esto quedará en mi familia para siempre.>>|<<こいつはこれからも、代々うちで受け継がれてく。>>
+Fumas un cigarrillo viejo de tu CIGARRERO...|古いたばこを｢タバコケース｣から一本取り出して吸った…
+del abuelo|じいさんのもの
+ESPEJO DE VANIDAD|化粧鏡
+revela información adicional sobre las opciones de eventos|イベントの選択肢に#追加情報が表示される
+Puedes vislumbrar el futuro en este pequeño espejo...|この小さな鏡を覗き込むと、ほんの少しだけ未来が見える…
+El VANITY MIRROR comenzará a funcionar el próximo evento.|次回のイベントから｢化粧鏡｣の効果が発動する。
+<<Soy tan bonita-->>|<<すっごくカワイイわ…瑞希>>
+ROLLO DE PELÍCULA|カメラ用フィルム
+(uso): -1 FONDOS; +10 EXPERIENCIA|使用: 所持金-1#EXP+10
+<<Sólo puedo desarrollar esto en un lugar de confianza>>|<<こいつは信頼できるところでしか現像できない…>>
+¡Tú desarrollas el ROLLO DE PELÍCULA que contiene evidencia crucial!|あなたは重要な証拠を写したフィルムを現像した。
+¡No puedes permitirte eso!|そんなお金はない！
+<<contiene evidencia...creo>>|<<ここに証拠が入ってる…はず>>
+LIBRO DE ANATOMÍA|解剖学書
+(uso): -2 RESISTENCIA; +8 EXP|使用: ｢スタミナ｣-2#EXP+8
+<<Puedo aprender mucho estudiando mi propio cuerpo...>>|<<自分の体を研究すると、すっごく勉強になる…>>
+Al abrir tu cuerpo, aprendes cosas nuevas sobre anatomía...|自分の体を切り開くことで、人体について新たな発見をした…
+<<¿Estoy enfermo?>>|<<私、病んでるのかな？>>
+GUITARRA|ギター
+(mientras está en el inventario): descansar recupera más RAZÓN, aumenta DOOM|所持品にある間、自宅で休むと#理性が追加回復し、#破滅値が上昇する
+<<Trabajé todo el verano para comprar esta guitarra.>>|<<これを買うために、夏休み中ずっと働いていたんだ。>>
+Tu práctica de guitarra en voz alta se puede escuchar en todo el edificio.|建物中に響き渡るほどの大音量でギターの練習をした。
+DEMONIOS SI|イエーイ！！
+CONCHA BENDITA|聖なる実包
+(uso en combate): (+1 MUNICIÓN / +5% DOOM); +10 DAÑO DE DISPARO mientras dure este combate|戦闘時に使用:｢弾薬｣+1#破滅値+5%##その戦闘での射撃ダメージ+10
+<<Lo he cargado con las joyas de plata de mamá...>>|<<ママの銀製のアクセサリーを詰めた…>>
+<<...lo siento mamá.>>|<<…ごめん、ママ。>>
+No puedes usar esto fuera del combate.|戦闘以外では使用できない。
+<<¿Debería?...>>|<<使ってもいいよね…？>>
+BIBLIA MARCADA|汚れた聖書
+(mientras está en el inventario): descansar recupera RAZÓN/RESISTENCIA adicional, dependiendo del nivel de FE del personaje|(所持品にある間)#自宅で休んだとき､#その時の｢信仰値｣に応じて#｢理性｣｢スタミナ｣が#追加回復する
+<<No recuerdo ciertas partes, ¿es esto real?>>|<<記憶にない一節が…これは本物なのか？>>
+Al leer la BIBLIA MARCADA, encuentras tu paz interior. (+1 RAZÓN)|｢汚れた聖書｣を読むと、心が落ち着く。(理性+1)
+LA BIBLIA MARCADA te llena de determinación. (+1 RESISTENCIA)|｢汚れた聖書｣があなたを奮い立たせる。(スタミナ+1)
+Día de Juzgador|Dies irae
+TIZA DE AYAKA|彩伽のチョーク
++2 DAÑO contra enemigos FANTASMAS|[悪霊]の敵に対して#ダメージ+2
+<<Murieron por mi culpa...>>|<<みんな、私のせいで死んだんだ…>>
+utilizado en rituales|儀式で使ったもの
+CORREA PARA LIBROS|ブックバンド
+acciones de combate más rápidas para cada elemento de LIBRO en el inventario|所持品内に[本]が増えると、#その分、戦闘アクションが#速くなる
+<<Ese no es el único libro que me he llevado.>>|<<俺が持ち出した本は、あれだけじゃない。>>
+hecho de cuero|革製
+CONSULTAR LIBRO|小切手帳
+(uso): +3 FONDOS; +6% CONDENACIÓN|使用: 所持金+3#破滅値+6%
+<<Usar esto hará que sea más fácil localizarme...>>|<<これを使うと、居場所がバレやすくなっちゃう…>>
+Has utilizado tu CHEQUERA.|あなたは｢小切手帳｣を使った。
+la fortuna de la familia|うちの財産
+BÉISBOL|野球ボール
+(uso en combate): reduce el poder del ENEMIGO a 0|戦闘時に使用すると､#敵の｢パワー｣が0になる
+<<No soy el mejor lanzador pero debe ser suficiente.>>|<<一流の投手ってわけじゃないけど、これで何とかなるはず。>>
+¡Lanzas el BÉISBOL a tu enemigo!|敵に向かって野球ボールを投げつけた！
+solo tengo uno|あるのはこの一球だけ
+BOCADILLOS FAVORITOS|お気に入りのお菓子
+(uso): +3 RAZÓN y RESISTENCIA|使用: ｢理性｣+3#｢スタミナ｣+3
+<<¡Escuché que van a detener la producción de estos porque son muy sabrosos!-->>|<<あんまりにも美味しいから、生産中止になるんだって！>>
+Comes tus SNACKS FAVORITOS.|あなたは｢お気に入りのお菓子｣を食べた。
+Yum Yum|<<うまうま～>>
+Hurgas entre tus pertenencias tratando de encontrar algo que te ayude.|持ち物をかき集めて、#使えそうな物を探した。
+Finalmente recoges|入手アイテム#
+Con suerte, será suficiente.#(+5% DOOM)|役に立てばいいが…#(破滅値+5%)
+No encuentras nada excepto algunas monedas sueltas por ahí.#(+1 FONDOS / +2% DOOM)|小銭が転がってるだけで何も出てこない。##所持金+1#破滅値+2%
+¡Es peligroso aquí, tu penalización de RESISTENCIA aumentó!|ここは危険だ…スタミナペナルティが上昇した。
+¡Es peligroso aquí, tu penalización por RAZÓN aumentó!|ここは危険だ…理性ペナルティが上昇した。
+#[EFIGIE DE DOOM]: DOOM bajado|#[呪いの人形]: 破滅値が低下
+SALTAR PANTALLA DE MALETA: ON/OFF|スーツケース画面のスキップ#ON / OFF
+PANTALLA DE SALTAR PAQUETE DE TARJETAS: ENCENDIDO/APAGADO#(todos los paquetes habilitados)|カードパック画面のスキップ#(全パックが有効になる)
+VECINO ESPELUZNANTE: ENCENDIDO/APAGADO|不気味な隣人: ON / OFF
+VERIFICAR GAMEPADS CONECTADOS: ENCENDIDO/APAGADO|接続中のゲームパッドの確認#ON / OFF
+EFECTO ONDULADO: ENCENDIDO/APAGADO|ウェーブエフェクト#ON / OFF
+SALTAR LA INTRODUCCIÓN DEL JUEGO|あらすじのシーン: スキップ
+SALTAR TUTORIAL MISTERIOSO|チュートリアルのスキップ#ON / OFF
+RASTRO DEL RATÓN: ENCENDIDO/APAGADO|マウスストーカー: ON / OFF
+SALTAR PERSONALIZACIÓN DE PALETA|パレットのカスタマイズ画面#スキップ
+SE MUESTRAN MATEMÁTICAS ADICIONALES: ENCENDIDO/APAGADO|詳細な計算式表示#ON / OFF
+INFORMACIÓN ADICIONAL MOSTRADA: ENCENDIDO/APAGADO|追加情報の表示#ON / OFF
+HOGAR|自宅
+CENTRO|中心街
+ESCUELA|学校
+HOSPITAL|病院
+PLAYA|海辺
+BOSQUE|森
+MANSIÓN|屋敷
+ALDEA|村
+APARTAMENTOS|アパート
+EL TIEMPO PASO|経過時間
+SEMILLA|シード
+NIVEL|レベル
+MUERTE INMINENTE|破滅値
+seleccione DIOS VIEJO|旧き神の選択
+VENTAJAS DISPONIBLES|獲得可能なパーク
+Has avanzado al siguiente nivel de experiencia.#Elige un beneficio y una mejora de estadística.##[ELEGIDO:|EXPを獲得してレベルアップしました。#パークと強化したい能力値を1つずつ選択してください。#[選択:
+(seleccione beneficio y estadística)|(パークと能力値を選択)
+VENTAJAS DE REROLLO|パークのリロール
++4% CONDENACIÓN|破滅値+4%
+El grupo debe estar ahí en alguna parte...|どこかにあの集団がいるはずだ…
+[haga clic en un cuadrado para explorarlo]|四角いアイコンを#クリックして探索
+La clave del estudio debe estar en alguna parte...|どこかに書斎の鍵があるはずだ…
+[haga clic en la habitación de una mansión para explorarla]|屋敷内の部屋を#クリックして探索
+¿Dónde está ese jardinero?...|あの庭師はどこに…？
+[daño extra contra enemigos HUMANOS y MONSTRUO]|｢人間｣｢怪物｣の敵に追加ダメージ

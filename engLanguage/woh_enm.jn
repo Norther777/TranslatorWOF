@@ -1,0 +1,719 @@
+[MONSTRUO]|[怪物]
+[FEMENINO]|[女]
+[MASCULINO]|[男]
+[? ]|[？]
+[HUMANO]|[人間]
+debil contra:|弱点:
+[DESAFILADO]|[鈍器]
+[AFILADO]|[鋭器]
+[VAMPIRO]|[吸血鬼]
+[FUEGO]|[炎]
+[MAGIA]|[魔法]
+[NO MUERTOS]|[亡者]
+Ninguna habilidad especial.|特殊スキル: なし
+[MISTERIOSO]|[怪魔]
+?|？
+No puedes huir de este encuentro.|逃げられない
+[PLANTA]|[植物]
+[FANTASMA]|[悪霊]
+[TE ENCONTRÉ]|[ミーツケタ]
+este enemigo puede recuperar salud con ataques exitosos|攻撃が当たると、体力が回復する
+[El tutorial continuará durante el combate]|[初戦闘時にチュートリアルが始まります]
+¡Te golpean en la cabeza!|頭を殴られた！
+¡Se reabrió una vieja herida!|古傷が開いてしまった！
+¡Esquivaste el ataque!|攻撃をかわした！
+Tienes la sensación de que te estás acercando.|段々と近づいている気がする。
+Tu matas|こちらをはめようとした
+¡Por conspirar contra ti!|を殺した！
+¡te ayuda a duplicar tus FONDOS!|は所持金を2倍に増やした！
+¡¿Qué salió mal?!... (+3% DOOM)|どうしてこんなことに…！？(破滅値+3%)
+¡No tienes suficiente experiencia!|EXPが足りない！
+[acción de la historia]|[ストーリーアクション]
+Tiempo necesario|所要時間
+(¡El ritual fue demasiado corto para tener efecto!)|(儀式が短すぎて効果が出なかった！)
+(¡El ritual fue demasiado largo para tener efecto!)|(儀式が長すぎて効果が出なかった！)
+¡No pasa nada! crees que tienes|何も起きない…:
+¡Movimientos rituales correctos!|回、作法通りに儀式を行ったはずだが…
+¡Has desterrado con éxito al fantasma! (+5 EXP)|悪霊を追い払うことに成功した！(EXP+5)
+¡No pasa nada! ¡Este ritual solo funcionará con enemigos FANTASMAS!|何も起きなかった…この儀式は[悪霊]の敵にしか効かない！
+MUJER DE COJÍN|あばら骨の女
+Siguiendo la música espantosa, te encuentras en un bosque.#El sonido se acerca...|その不気味な旋律の後を追うと、あなたは自分が森の中にいることに気付く。##その音がどんどんと近づいてきている…
+MELODÍA DE COSTILLAS|あばら骨の旋律
+Un monstruo obsesionado con su retorcido sentido de la belleza. #Ella toma las costillas de mujeres hermosas y las usa para ocultar y proteger su horrible rostro.|歪んだ美意識に取り憑かれた怪物。#美しい女性のあばら骨を奪い、#その醜悪な顔を覆い隠している。
+¡Las costillas se expanden, revelando un rostro desfigurado!|あばら骨が広がり、目の前に醜い顔が現れる！
+Los alambres y las nervaduras se rozan entre sí.|顔面をつなぐワイヤーと肋骨が擦れ合う。
+¡La MUJER RIBCAGE te rasca con las uñas!|“あばら骨の女”に爪で引っかかれる！
+¡MUJER RIBCAGE te apuñala con una costilla!|あばら骨を使って、敵に引っかかれる！
+¡La MUJER RIBCAGE te ataca!|“あばら骨の女”の攻撃！
+¡MUJER RIBCAGE cierra sus costillas sobre tu carne!|あなたの体にあばら骨が食い込む！
+¡Ella te destroza la carne mientras da un paso atrás!|後ろへ下がった女に肉を引き裂かれた！
+MANIFESTANTE|暴徒
+De repente, una botella vacía se estrella contra la pared detrás de ti.#Te cubres de los fragmentos de vidrio y notas a un agresor enmascarado sosteniendo un bate de béisbol...|突然、背後の壁に空き瓶が当たり、砕け散る音がした。##飛び散るガラスの破片から身を守る。#そこには、野球のバットを構えたマスクの女が立っていた…
+DISTURBIO|暴徒
+su PODER y daño aumentan con DOOM|破滅値に応じてパワーと与ダメージが上昇
+Una de las muchas personas perturbadas. Ven el creciente caos como una forma de desahogar su ira.|不穏な空気を纏った狂気じみた者たちの一人。#この町に混沌を広げることを、#怒りのはけ口にしている。
+RIOTER agarra una botella llena de combustible|“暴徒”が燃料の入った瓶を手に取った。
+<<¡Muéstrame lo que tienes, perdedor!>>|<<さあ、かかってきな！ザコが！>>
+¡RIOTER te golpea con un bate de béisbol!|“暴徒”にバットで殴られる！
+¡RIOTER te patea!|“暴徒”の蹴りを食らう！
+¡RIOTER te ataca!|“暴徒”が襲いかかってくる！
+¡RIOTER te lanza un cóctel molotov!|“暴徒”が火炎瓶を投げつけてくる！
+¡Estás envuelto en llamas!|あなたは炎に包まれた！
+SANGUIJUELA|血をすする女
+Caminando por el pasillo del hospital, se oyen sonidos repugnantes de sorbos provenientes de un armario...|病院の廊下を歩いていると、#クローゼットの方からジュルジュルと嫌な音がした…
+VAMPIRO|吸血鬼
+Estos monstruos harán cualquier cosa para satisfacer su sed insaciable... incluso si eso significa pasar años en la escuela de enfermería para poder habitar hospitales sin ser detectados.|その満たされぬ渇きを満たすためなら、#怪物たちはどんな手段もいとわない。#病院に気付かれずに潜む…#たとえ何年、看護学校に通うことになろうと。
+SANGUINEA da un paso atrás, preparándose para saltar...|“血をすする女”が勢いをつけて、飛びかかろうとしている…
+silbido chupasangre|“血をすする女”がしゅーっと声を上げている。
+¡CHAPASANGRE te desgarra!|“血をすする女”に体を切り刻まれた！
+¡CHAPASANGRE te muerde!|“血をすする女”に噛まれる！
+¡CHAPASANGRE te atrapa!|“血をすする女”に体を掴まれた！
+¡BLOODSUCKER salta hacia ti, tratando de morderte el cuello!|“血をすする女”が、首をめがけて飛びかかってくる！
+¡Estás sangrando por todos lados!|全身からの出血が止まらない！
+¡El enemigo recupera la salud!|敵の体力が回復する！
+HOMBRE OBSESIONADO|偏執狂の男
+<<¡DETENTE AQUÍ!>> ¡¡Escuchas una voz que viene detrás de ti!##<<¡¡NO DESTRUIRÁS EL TRABAJO DE MI VIDA!!>>|<<止まれ！！>> ##背後から声がした！##<<私の最高傑作を壊すな！！！>>
+ANIMAL ARRINCHADO|手負いの獣
+Cuando están heridos, causan el doble de daño.|｢怪我｣を負っている時は、与ダメージが2倍になる
+Un hombre violento y obsesionado hasta la locura.|狂気に取り憑かれた凶暴な男。
+¡EL HOMBRE OBSESIONADO te golpea!|“偏執狂の男”に殴られる！
+¡EL HOMBRE OBSESIONADO te patea!|“偏執狂の男”の蹴りを食らう！
+¡EL HOMBRE OBSESIONADO te ataca!|“偏執狂の男”の攻撃！
+¡El enemigo ruge de rabia!|怒り狂った敵が唸り声を上げる！
+MANIQUI SIN CABEZA|首のないマネキン
+Una persona sin cabeza sale a trompicones del aula de escultura... ¡y está alcanzando tu cabeza!|彫刻室から、首のない者がよろよろと出てくる…##そして、その手をあなたの頭めがけて伸ばしてきた！
+AGARRE DEL CUELLO|首絞め
+sus ataques pueden causar daño adicional|攻撃されると、追加ダメージを受ける#ことがある
+Una estatua animada que anhela tener una cabeza humana propia.|人間の頭を欲する、生きた石膏像。
+¡MANIQUI SIN CABEZA te corta con un cuchillo!|“首なしマネキン”にナイフで切りつけられる！
+¡MANIQUI SIN CABEZA te agarra por el cuello!|“首なしマネキン”に首を掴まれる！
+¡MANIQUÍ SIN CABEZA te apuñala!|“首なしマネキン”に刺される！
+¡El enemigo te agarra la cabeza y comienza a tirar! (-1TODOS)|敵があなたの頭を掴んで、引き裂こうとした！(ALL-1)
+CANUS, EL GATO LUNAR|月の猫 カーヌス
+De repente, el aire fresco llena tu boca; tiene un sabor metálico.##Antes de que puedas reaccionar, escuchas un gruñido bajo que viene detrás de ti...|突然、口の中にひやりとした空気が流れ込む…#金属のような味がする。##あなたが反応する間もなく、背後から低い唸り声が聞こえてきた…
+PESADILLA LUNAR|月の悪夢
+su daño es igual a 1 más el número de tus aliados|<与ダメージ>｢仲間｣の人数+1
+Provenientes de las exuberantes selvas de Tindalos, los gatos lunares se aprovechan de los artistas en apuros y les envían pesadillas.|緑豊かなティンダロスのジャングルから#やってきた月の猫。#苦しむ芸術家たちに悪夢をもたらす。
+¡CANUS te susurra cosas horribles!|“カーヌス”が恐ろしい囁きを発する！
+¡CANUS te rasca!|“カーヌス”に引っかかれる！
+¡CANUS te desgarra!|“カーヌス”に体を切り裂かれる！
+COSA AGUJERO|穴だらけのもの
+De repente, una pared frente a ti se marchita y se desmorona, revelando una monstruosidad plagada de agujeros...|突然、前方の壁が腐食して崩れ落ち、全身穴だらけの異形の怪物が現れた…
+DETECTIVE PERDIDO|消えた探偵
+Alguna vez fue un detective que investigaba el caso de una persona desaparecida, ahora lentamente se está convirtiendo en un monstruo que busca a aquellos que también encontraron la estatuilla de jade maldita.|呪われし翡翠の彫像…#男はかつて、失踪事件を追う探偵だった。#だが今や、その翡翠を見つけた者を狙う怪物へと成り果ててつつある。
+LA COSA AGUJEROS se detiene de repente...|“穴だらけの男”が突然、動きを止める…
+COSA AGUJERO sonríe un poco... piensas.|“穴だらけの男”がニヤッと笑ったように見えた…
+¡Con sólo estar cerca te sientes mal!|近くにいるだけで気分が悪くなってしまう！
+¡Su presencia te debilita!|そこにいるだけで力が抜けてしまう！
+¡La COSA AGUJERO te ataca!|“穴だらけの男”が襲いかかってくる！
+¡Con sólo estar cerca te sientes más débil!|近くにいるだけで力が入らない！
+COSA AGUJERO llega a su mano y...|“穴だらけの男”が手を伸ばすと…
+¡Tu piel expuesta estalla en agujeros!|あなたの皮膚も穴だらけになってしまう！
+Chica sanguijuela|ヒル女
+Una forma brilla bajo la superficie. Con un sonido salpicado, algo emerge de las turbias profundidades...|水面下で、何かがぼんやりと揺らめいている。##ばしゃっという音とともに、濁った水底から“それ”が姿を現した…
+HUMOS MÓRBIDOS|死の瘴気
+una posibilidad aleatoria de perder salud adicional|一定の確率でさらに体力を奪われる
+Estrangulada por su novia celosa, se convirtió en alimento para sanguijuelas. Ahora están buscando un nuevo anfitrión.|嫉妬深い恋人に絞め殺された後に、#ヒルの餌食となった女。#今や“彼女たち”は新しい宿主を探す#怪物となってしまった。
+¡Las sanguijuelas empiezan a arrastrarse hacia ti!|ヒルが這い寄ってくる！
+LA CHICA SANGUIGUIN sonríe.|“ヒル女”が笑っている。
+¡LEECH GIRL te ataca!|“ヒル女”の攻撃！
+¡LEECH GIRL te golpea!|“ヒル女”が襲いかかってくる！
+¡LEECH GIRL te golpea!|“ヒル女”に殴りつけられる！
+¡Dando un paso atrás, te resbalas y caes!|後ずさったあなたは、足を滑らせて転んでしまう！
+¡Las sanguijuelas viscosas se pegan a tu piel!|ぬるぬるのヒルが、肌にべったりと張り付く…
+Empiezas a toser mucho... (-1 RESISTENCIA)|酷い咳が出始める…(スタミナ-1)
+MUJER TIJERA|ハサミ女
+Retorciéndose y retorciéndose, la mujer demonio entra al salón de clases, riéndose amenazadoramente...#<<¿Soy hermosa?>>|悪魔のような女が、その身をねじりながら教室に入ってきた。#ケタケタと笑う声が辺りに響き渡る…##<<<わタシ、きれイ？>>
+DEMONIO|悪魔
+Una morbosa leyenda urbana. La influencia corruptora del DIOS VIEJO lo ha hecho real.|ぞっとするような都市伝説。#旧き神の狂気により、#それは現実のものとなってしまった。
+¡MUJER TIJERA levanta sus tijeras!|敵がハサミを振り上げた！
+MUJER TIJERA se ríe amenazadoramente|“ハサミ女”はケタケタと笑っている…
+¡La MUJER TIJERA te apuñala, cubriendo la pared de sangre!|“ハサミ女”に刺され、壁一面が血だらけになった…
+¡MUJER TIJERA te apuñala!|敵にハサミを突き刺される！
+¡La MUJER TIJERA te corta con sus tijeras!|敵にハサミで切りつけられる！
+¡MUJER TIJERA te corta la cara!|“ハサミ女”に顔を切りつけられる！
+¡Sientes que tus mejillas se parten por la mitad!|あなたの頬は真っ二つに切り裂かれた…
+TATORU|タトル
+Sigues el débil sonido hasta un poste de una línea telefónica.#En el momento en que notas bolas peludas gigantes debajo, comienzan a moverse y elevarse...|かすかに聞こえる音を辿っていくと、一本の電柱が目に入る。##その下に巨大な毛玉があることに気付いた途端、#それはぴくぴくと動き出し、浮き上がった…
+CHISMES|おしゃべり
+Monstruos parásitos que se conectan con personas al azar a través de líneas telefónicas, utilizando historias de chismes para atraer a estas víctimas a un lugar remoto para ser emboscadas y devoradas.|電話線を介して、不特定多数の人間に接触する#寄生怪物。他愛もない噂を流し、離れた場所に#人間をおびき寄せ、待ち伏せしたところで捕食する。
+TATORU vuela más cerca...|“タトル”が近くまで飛んでくる…
+<<¿Viste lo que vestía esa mujer?...>>|<<アノ女ノ服、見タカ…？>>
+¡TATORU intenta besarte con sus labios gigantes!|“タトル”がその巨大な唇でキスを迫ってくる！
+¡TATORU te ataca!|“タトル”の攻撃！
+¡TATORU te golpea!|“タトル”が襲いかかってくる！
+TATORU te da un gran beso y se ríe.|“タトル”があなたの口に吸い付き、けらけらと笑う。
+¡Tu piel arde!|肌が焼けてしまう！
+MAYIMA|間島
+De repente, una persona conocida sale de la alcantarilla...|突然、マンホールから見覚えのある人物が現れた…
+INVITADO ESPANTOSO|ギラついた乱入者
+¿Qué estás haciendo aquí?|こんなとこで何してんやぁ？
+¡MAYIMA te golpea!|“間宮”に殴られる！
+¡MAYIMA te patea!|“間宮”の蹴りを食らう！
+¡MAYIMA te ataca!|“間宮”の攻撃！
+NADADOR HINCHADO|膨れ腹の水泳部員
+Había algo en el agua. Unas manos te agarran por las piernas y comienzan a arrastrarte hacia abajo...##El trágico accidente en la piscina estaba casi olvidado...#hasta ahora.|水の中に何かがいた…#足下に手が伸びてきて、あなたを下に引きずり込もうとする。##かつて、痛ましい事故がこのプールで起きた。#これまでほぼ記憶の彼方にあったその悪夢が…今、蘇る。
+VIENTRE HINCHADO|膨れ上がった腹
+puede explotar cuando es atacado|攻撃を受けると爆発する可能性がある
+El trágico accidente en la piscina quedó casi olvidado... hasta ahora.|人々は忘れていた。#昔、このプールで悲惨な事故が起きたことを…#しかし今、その悪夢が蘇る。
+¡NADADOR HINCHADO te golpea con un tentáculo!|“膨れ腹の水泳部員”による触手攻撃！
+¡EL NADADOR HINCHADO te ataca!|“膨れ腹の水泳部員”による攻撃！
+¡NADADOR HINCHADO te golpea!|“膨れ腹の水泳部員”が襲いかかってくる！
+ACOSADOR DE APARTAMENTO|仮面のストーカー
+Escuchas un crujido al otro lado de la puerta de tu apartamento.#Alguien está intentando entrar...|ドアの向こう側から、ガサゴソと物音がした。##何者かが中に入ろうとしている…
+CONCUSIÓN|脳震とう
+sus ataques pueden causar aleatoriamente el estado de CONCUSIÓN|この攻撃を受けると、#｢脳震とう｣状態になる場合がある。
+Hay un rumor de que un agresor enmascarado va de puerta en puerta golpeando a los inquilinos con un bate de béisbol. Pero eso es sólo una historia, ¿verdad?...|仮面を被った暴漢が野球のバットを手に、#一軒ずつ中の住人を殴り回っているらしい。#それは、ただの噂だと思っていたのだが…
+¡APARTAMENT STALKER te golpea en la cabeza con su bate de béisbol!|“仮面のストーカー”が野球のバットで頭を殴りつける！
+¡APARTAMENT STALKER se lanza hacia ti con su bate!|“仮面のストーカー”がバットを持って突進してくる！
+¡APARTAMENT STALKER te ataca!|“仮面のストーカー”による攻撃！
+FANTASMA DEL BAÑO|トイレの幽霊
+Te alejas del baño cuando la puerta se abre lentamente. Allí hay una chica con un uniforme hecho jirones. Su cabeza se gira de forma antinatural mientras emite un rugido y un traqueteo.#Una puerta detrás de ti se cierra de golpe.|トイレのドアがゆっくりと開くのを見て、あなたは後ずさりをした。##中に、ボロボロの制服を着た少女が立っていたのだ。##彼女の頭がぐにゃりと不自然な角度に捻れる。#そして、がたがたと地を這うような唸り声を上げた。##その瞬間、背後のドアがバタンと閉まった。
+Los rumores hablan de un fantasma femenino que ocupa el último cubículo del baño del tercer piso.|3階のトイレ…その一番奥の個室に、#女性の幽霊が出るという噂があった。
+EL FANTASMA DEL BAÑO comienza a temblar.|“トイレの幽霊”がピクピクと痙攣し始める。
+EL FANTASMA DEL TOILET te rodea lentamente...|“トイレの幽霊”が、あなたを囲むように回り始める…
+¡La mano de TOILET GHOST vuela a través de tu pecho!|“トイレの幽霊”の手が、あなたの胸を貫く！
+¡EL FANTASMA DEL INODORO te asusta!|“トイレの幽霊”に脅かされる！
+¡EL FANTASMA DEL INODORO te chupa la RAZÓN!|“トイレの幽霊”に｢理性｣を吸い取られる！
+¡EL FANTASMA DEL TOILET vuela por tu cuerpo!|“トイレの幽霊”が、あなたの体をすり抜ける！
+¡Puedes sentir que tu cordura se va con ella!|彼女と共に自身の正気も失われたような感覚を覚える。
+CABEZA ANIMADA|うごめく生首
+Te sorprendiste cuando descubriste ese cuerpo sin cabeza.##¡Te horrorizaste cuando viste su cabeza, colgando en medio de la habitación y riendo!...|その首のない体を見つけた時、あなたはぎょっとした…##部屋の真ん中にぶら下がった頭が笑っていたのだ…#その光景に凍り付くような恐怖を覚える。
+Un marido afligido intentó reanimar a su esposa trágicamente perdida. Su hechizo funcionó parcialmente, reviviendo solo el cabello del cadáver. La cabeza desprendida le arrancó la garganta apenas unos segundos después.|悲しみに暮れる夫が、悲惨な死を迎えた妻を#生き返らせようとした。だが、呪文は不完全な#状態で発動し、死体の髪だけが蘇ってしまう。#その体と離れた頭は、そのほんの数秒後に#夫の喉笛をかき切った。
+¡CABEZA ANIMADA te envuelve con su cabello!|“うごめく生首”の髪が体に巻き付く！
+¡CABEZA ANIMADA te ataca!|“うごめく生首”の攻撃！
+¡CABEZA ANIMADA te muerde!|“うごめく生首”が噛みついてくる！
+CONSERJERO ENOJADO|狂った用務員
+Sin darse por vencido tras el fracaso anterior, el conserje obsesionado ha encontrado otro cuerpo con el que experimentar: ¡tú!|前回の失敗をものともせず、執念深い用務員は次なる実験体を探し、#そしてついに見つけた…##そう、あなたを！
+IMPLACABLE|冷酷無比
+Un hombre obsesionado con las sirenas. Un día decidió hacer el suyo propio.|人魚に魅せられた男。#ある日、男は自ら人魚を作り出すことに決めた。
+MAD JANITOR levanta su hacha|“狂った用務員”が斧を振り上げる。
+Blande su hacha amenazadoramente.|男が斧を振り回して、威嚇している。
+¡EL CONSERVADOR MAD blande su hacha!|“狂った用務員”が斧を振るう！
+¡MAD JANITOR te ataca!|“狂った用務員”が襲いかかってくる！
+¡MAD JANITOR te ataca con su hacha!|“狂った用務員”が斧を持って襲いかかってくる！
+¡MAD JANITOR baja su hacha!|“狂った用務員”が斧を振り下ろす！
+¡Te golpea y te causa un daño enorme!|斧が直撃し、大ダメージを受けた！
+CULTO DELINCUENTE|不良信者
+Intentas perder al hombre enmascarado que te ha estado siguiendo toda la mañana. Finalmente te encuentras en un callejón sin salida.#Buscando una salida, escuchas una rama romperse detrás de ti...|朝からずっと、仮面の男に尾行されている。#あなたは何とか振り切ろうとしたが、最終的に自分が行き止まりまで#追い詰められていることに気付く。##逃げ道を探していると、背後でパキッと枝の折れる音がした…
+VIOLENCIA|無法者
+cada ataque exitoso aumenta DOOM en un 1%|攻撃が成功するごとに#破滅値が1%上昇
+Un miembro de una secta local al servicio de sus amos sobrenaturales.|怪魔の主に仕えるカルト教団の一員。
+¡CULT DELINQUENT te apuñala con una daga!|“不良信者”にドスで刺される！
+¡EL DELINCUENTE DE CULTO te ataca!|“不良信者”の攻撃！
+¡CULTO DELINCUENTE te patea!|“不良信者”の蹴りを食らう！
+MAGO|魔術師
+<<¡Nuestro maestro viene y todos podemos disfrutar de su gloria!>>|<<来たる日は近い！主の威光にその身を委ねるのだ！>>
+IMPLACABLE|冷酷無比
+Una de las muchas personas a las que el DIOS VIEJO le otorgó poderes enloquecedores.|旧き神より、狂気の力を授けられた#多くの者たち。その中の一人。
+¡El MAGO te quita las fuerzas!|“魔術師”に力を奪われた！
+¡EL MAGO te manda a volar!|“魔術師”に吹き飛ばされる！
+¡El MAGO te ataca!|“魔術師”の攻撃！
+DEVORADOR DE SUEÑOS|夢を喰らうもの
+¡La criatura que causa el coma contagioso que azota tu ciudad se ha fijado en ti! ¡Debes defenderte o morir!|今もなお、この町を苦しめている集団的な昏睡現象…#その原因であった怪物が、こちらの存在に気付いた！##今ここで身を守らなければ、死は避けられない…！
+Un parásito cósmico que se alimenta de los sueños y recuerdos de la gente corriente.|宇宙より訪れし寄生生物。#一般人の夢や記憶を餌としている。
+¡DREAM DEVOURER intenta tragarte entero!|“夢を喰らうもの”が、あなたを丸呑みしようとする！
+¡Tu mente está en llamas!|あなたの頭の中は炎で燃え盛っている！
+¡DREAM DEVOURER derrite tus recuerdos!|“夢を喰らうもの”に記憶を溶かされる！
+¡EL DEVORADOR DE SUEÑOS desgarra tu carne!|“夢を喰らうもの”に体を引き裂かれる！
+¡DREAM DEVOURER se alimenta de tus pesadillas!|“夢を喰らうもの”が、あなたの悪夢を貪る！
+DEVORADOR DE SUEÑOS... ¿sonrisas?|“夢を喰らうもの”は…笑っている…？
+¡DREAM DEVOURER te atrapa!|夢を喰らうものに捕まった！
+CHICA ACOSADORA|ストーカーの少女
+Ella dijo que haría todo lo posible para estar contigo, incluso si eso significara burlar a la muerte misma...|彼女はこう言っていた。##あなたと一緒にいられるなら、何でもする。#たとえ、死の運命をねじ曲げてでもと…
+Una chica tan enamorada de ti que se suicidó en un ritual para unirlos.|あなたを愛するがあまり、少女は二人を結ぶ儀式の中で、自ら命を絶ってしまう。
+¡STALKER GIRL te rasca!|“ストーカー少女”に引っかかれる！
+¡STALKER GIRL te muerde!|“ストーカー少女”に噛まれる！
+¡STALKER GIRL salta hacia ti con una risa siniestra!|不気味に笑う“ストーカー少女”が飛びかかってくる！
+JOVEN BRUJA|若き魔女
+Al escuchar pasos detrás de ti, te das cuenta de que no eres el único estudiante aquí. Una chica que lleva una máscara de demonio comienza a reír mientras se acerca...|背後から足音が聞こえる…#自分以外にも誰か校内にいたのだ。##般若の仮面を被った少女が、くすくすと笑いながら近づいてくる…
+HECHIZO DE AMOR|愛の呪文
+Los personajes masculinos sufren daños adicionales por RAZÓN.|男の探索者は、通常よりも#多くの｢理性｣を失う
+Mago aficionado para quien los simples hechizos de amor resultaron insuficientes. ¿Por qué detenerse en un solo niño, dijo un día, cuando puedes tenerlos a todos?|単なる恋のおまじないでは物足りなくなった#素人魔術師。ある日、彼女はこう言った。#何で男一人で満足しちゃうの？#みーんな、侍らせることだってできるのに…
+LA JOVEN BRUJA da un paso atrás, preparándose para atacar.|“若き魔女”が一歩下がり、攻撃態勢を取る。
+LA JOVEN BRUJA se ríe.|“若き魔女”がクスクスと笑っている
+¡La JOVEN BRUJA te corta con un cúter!|“若き魔女”にカッターで切りつけられる！
+¡La JOVEN BRUJA te ataca!|“若き魔女”の攻撃！
+LA JOVEN BRUJA da un golpe con su cúter...|“若き魔女”がカッターを振り回している…
+¡JOVEN BRUJA te corta en el cuello!|“若き魔女”に首元を切りつけられた！
+¡Se abre una arteria menor, rociándola de sangre!|小動脈が切り裂かれ、血しぶきが上がった！
+Hay algo extrañamente encantador en ella...|彼女にはどこか不思議な魅力がある…
+DEMONIO NECRÓFAGO|食屍鬼
+Un gruñido repentino, procedente de detrás de una esquina, te hace detenerte...|突然、曲がり角の向こうから唸り声がして、あなたは思わず足を止めた…
+COMEDOR DE CADÁVERES|屍肉喰らい
+Las criaturas se esconden en nuestra sociedad durante el día y comen cadáveres durante la noche.|昼はこの社会のどこかに身を潜め、#夜になると屍肉を喰らうものたち。
+(marcador de posición)|(placeholder)
+(marcador de posición)|(placeholder)
+¡GHOUL te muerde!|“食屍鬼”に噛まれる！
+¡GHOUL te rasca!|“食屍鬼”に引っかかれる！
+¡GHOUL te ataca!|“食屍鬼”の攻撃！
+FANTASMA DE RUMU|瑠夢の亡霊
+Innumerables cucharas salen volando de un armario cuando una figura espantosa se materializa en el medio de la habitación...|戸棚が開き、無数のスプーンたちが飛び出す。##その瞬間、部屋の中央に不気味な姿が浮かび上がった…
+PÍO|安っぽい
+Un actor que murió en un trágico accidente con una cuchara.|あるスプーンによる不幸な事故で亡くなった#女優。
+|
+|
+¡RUMU GHOST te congela!|“瑠夢の亡霊”があなたを凍えつかせる！
+¡RUMU GHOST te chupa la fuerza vital!|“瑠夢の亡霊”があなたの生命力を吸い取る！
+¡RUMU GHOST te ataca!|“瑠夢の亡霊”の攻撃！
+MODELO ASPIRANTE|野心的なモデル
+Al escuchar pasos, te das la vuelta. Detrás de ti se encuentra una mujer bonita con un suéter.#<<belleza natural... sí, esto es exactamente lo que necesito>>##Te estremeces al ver a la extraña mujer metiendo la mano en su bolsillo y sacando un cuchillo de aspecto desagradable.## #<<cara bonita... ¿te importa si me lo prestas?>>|足音に気付いて振り向くと、そこにはセーターを着た綺麗な女性が立っていた。##<<自然な美しさ…そう、まさに私はそれが欲しいのよ…>>##不気味な女がポケットから物騒なナイフを取り出すのを見て、あなたは震え上がる。###<<可愛らしい顔ね…それ、貸してもらえる？>>
+Una mujer desesperada que hará -cualquier cosa- para llamar la atención.|人々の目を引くためなら、“手段はいとわない”と#死に物狂いになっている女。
+¡ASPIRANTE MODELO te corta con su cuchillo!|“野心的なモデル”にナイフで切りつけられる！
+¡ASPIRANTE MODELO te rasca!|“野心的なモデル”に引っかかれる！
+¡EL ASPIRANTE MODELO te ataca!|“野心的なモデル”の攻撃！
+<<¡¿QUÉ HAS HECHO?! MI CARA... ¡ESTÁ ARRUINADA!>>|<<ナニシテクレテンノヨ！？ワタシノカオガ…ダイナシジャナイ！>>
+AKA MANTO|赤マント
+Escuchas un clic proveniente de la puerta.##¡Estás encerrado aquí con este loco!|ドアの方から、カチャッという音がした。#狂気じみた男を目の前にして、あなたは何をされたのか気付く。##同じ空間に閉じ込められたのだ！
+El hombre que llevaba un abrigo rojo, aprovechándose de estudiantes indefensos.|赤いコートを着て、いたいけな学生を#食い物にしている男。
+AKA MANTO comienza a blandir su cuchillo.|“赤マント”がナイフを振り回す！
+¡No ves ninguna salida!|逃げ場がない！
+¡AKA MANTO te está asfixiando!|“赤マント”に首を絞められる！
+¡AKA MANTO te apuñala!|“赤マント”に刃物で刺される！
+¡AKA MANTO te ataca!|“赤マント”の攻撃！
+AKA MANTO se acerca y te levanta...|近寄ってきた“赤マント”に持ち上げられる…
+¡Te apuñala varias veces!|“赤マント”にナイフでめった刺しにされる！
+KINOKO GATHERER|きのこ採り
+Lo que pensabas que era sólo un montón de ropa desechada, de repente se mueve. Cuando se levanta, una nube de polvo blanco se libera en el aire...|単なる捨てられた服の山だと思っていたものが、不意に動き出す。##それが立ち上がると、空中に“白い粉”が舞った…
+Infectado con un moho raro, este hombre se ha convertido en una colonia de hongos.|珍種のカビが入り込み、真菌の宿主と化した男。
+¡Las esporas de hongos de KINOKO GATHERER te hacen toser!|“きのこ採り”の放った菌の胞子のせいで咳が止まらない！
+¡KINOKO GATHERER te apuñala con un cuchillo!|“きのこ採り”にナイフで刺される！
+¡KINOKO GATHERER te ataca!|“きのこ採り”の攻撃！
+MUESTRA OLVIDADA|忘れ去られた標本
+Entras con cuidado al aula de biología. Al principio, la sala parece vacía, hasta que enciendes las luces. Jadeas de horror. Tumbado en un charco de sangre está uno de los profesores, con un cuchillo de fruta en la mano. En la mesa más cercana hay un frasco de formaldehído. Hipnotizado por el patrón en espiral en la piel de la criatura marina, pasas por encima del cadáver y te acercas...##Y entonces las voces comienzan...|そっと生物室に入る。#最初は何もないように見えた…#だが電気をつけた瞬間、あなたは恐怖に息を呑んだ。##果物用のナイフを握った教師が、血溜まりの中で倒れていたのだ。##そのすぐそばの机にホルマリン入りの瓶が置かれている。#海洋生物の皮膚。そのうずまき模様に魅せられたあなたは、死体を踏み越えてその瓶に近付いた…##すると、奇妙な声が耳に聞こえ始め…
+El cuerpo de una criatura marina desconocida flotando suavemente en un frasco de formaldehído.|ホルマリン入りの瓶にゆったりと漂う、#得体の知れない海洋生物の死骸。
+Todo en el aula comienza a tambalearse.|教室中の物がぐらぐらと揺れ始める。
+No se puede romper la mirada del MUESTRA OLVIDADO.|“忘れ去られた標本”の視線から逃れられない。
+¡Te atacas involuntariamente a ti mismo!|無意識にあなたは自分を攻撃してしまう！
+¡Estás obligado a atacarte a ti mismo!|自分で自分を無理やり攻撃させられてしまう！
+¡Te atacas involuntariamente a ti mismo!|無意識に、あなたは自分自身を攻撃してしまう！
+Tu dolor de cabeza empeora cada vez más...|次第に頭の痛みが強くなってきた…
+¡Un vaso sanguíneo explota en tu cerebro!|脳の中の血管が破裂した！
+AKA MANTO (FORMA VERDADERA)|赤マント (真の姿)
+El hombre alto con abrigo rojo se quita lentamente la máscara mientras las paredes de los puestos se marchitan y se pudren, y la realidad comienza a desmoronarse...|周りの壁が朽ち果て、目の前の現実世界が崩れ始める。#そして、長身の男がゆっくりとその仮面を外した…
+El horror eterno, despertando una vez más para saciar su hambre.|飢えを満たすため、再びこの世に目覚めた#不滅の怪異。
+Algo no se siente bien...|何か変だ…
+¿D-dónde estás?|ど…どこにいった…？
+¡AKA MANTO te está asfixiando!|“赤マント”に首を絞められる！
+¡AKA MANTO te apuñala!|“赤マント”に刃物で刺される！
+¡AKA MANTO te ataca!|“赤マント”の攻撃！
+AKA MANTO se acerca y te levanta...|近寄ってきた“赤マント”に持ち上げられる…
+¡En su cara ves todos tus peores miedos!|あなたが最も恐怖を抱くもの…その全てが男の顔に映し出される！
+PROFESOR HINCHADO|教師の水死体
+Una figura hinchada emerge del agua turbia bloqueando tu única salida de la piscina...|濁った水の中から浮腫んだ体の男が現れ、#プールから出る唯一の逃げ道を塞がれてしまう…
+LEGIÓN HINCHADA|溺死した悪霊
+Los restos de un maestro olvidado hace mucho tiempo.|長い間、忘れ去られていた教師の遺体。
+¡EL MAESTRO HINCHADO desaparece bajo el agua!|“教師の水死体”が水中に消えた！
+LA MAESTRA HINCHADA gorgotea y murmura.|“教師の水死体”がぐるぐると低い声で呻いている…
+¡PROFESOR HINCHADO te golpea!|“教師の水死体”が襲いかかってくる！
+¡EL MAESTRO HINCHADO te ataca!|“教師の水死体”の攻撃！
+¡EL MAESTRO HINCHADO te ataca!|“教師の水死体”の攻撃！
+¡MAESTRA HINCHADA emerge del agua!|“教師の水死体”が水中から姿を現した！
+¡Te mete trozos de su carne rancia en la boca!|腐った死肉を無理やり口に押し込んでくる！
+MUJER TIJERA (HORROR)|恐怖のハサミ女
+NIÑA INFESTADA|虫つきの女生徒
+Un chapoteo húmedo detrás de ti te hace detenerte. Lentamente te giras para ver a una joven caminando lentamente en tu dirección. #En su globo ocular, hay un enjambre de gusanos repugnantes. Uno de ellos cae al suelo con un chapoteo húmedo....|背後で聞こえた水飛沫の音に、思わず足を止める。#ゆっくりと振り向くと、少女がふらふらとこちらに歩いてくるのが見えた。##その眼窩には、気味の悪い虫が大量に蠢いている。##そして、そのうちの一匹が地面にぬるっと音を立てて落ちた…
+INFESTADO|虫つき
+Esta chica debe haber comido demasiados huevos de gusanos que supuestamente mantienen a la gente delgada.#Parece que han nacido en el lugar equivocado...|必ずやせるという話を聞いて、ミミズの卵を#食べ過ぎた少女。どうやら、ミミズたちは#間違った場所でふ化したようだ…
+NIÑA INFESTADA mete la mano en la cuenca del ojo.|“虫つきの女生徒”が目の奥へと手を伸ばす。
+NIÑA INFESTADA tose un puñado de gusanos.|女生徒が咳き込み、ボトボトと虫を吐き出す。
+¡NIÑA INFESTADA te pega!|“虫つきの女生徒”が襲い掛かる！
+¡NIÑA INFESTADA te rasca la cara!|“虫つきの女生徒”があなたの顔を引っかく！
+¡NIÑA INFESTADA te ataca!|“虫つきの女生徒”の攻撃！
+NIÑA INFESTADA agarra un puñado de gusanos...|女生徒は虫を手で掴み…
+¡Te los mete en la boca!|あなたの口の中へと押し込んだ！
+MAGO (FALLO)|魔術師 (グリッチ状態)
+<<¡Nuestro-rrr mAste-er está llegando y todos podemos disfrutar de su gloria!>>|<<主がガg臥が、やっテ來 ル！>>##<<ワ謌代ｉレらワ、そのエ栄誉に浴するル仔と縺でキル埜ダ！>>
+On-n-ne de las m-ma__ personas gr-r-r-despotricadas poderes enloquecedores por ATH-Y___ZSTH.|アトゥ＝ヨ__ズスか倮ラ、#狂気の力を授け祁らレれ咫__者の一人。
+FULANO DE TAL|身元不明の女
+El horror de innumerables autopsias está ante ti...|おびただしいほどの傷…##眼前に現れたのは、幾度となくその体を切り裂かれた女だった…
+Una entidad compuesta por los innumerables cuerpos examinados en este hospital.|この病院で解剖された#無数の遺体からなる存在。
+¡JANE DOE te ataca!|“身元不明の女”の攻撃！
+¡JANE DOE te asusta!|“身元不明の女”に恐怖心をあおられる！
+¡JANE DOE te ataca!|“身元不明の女”の攻撃！
+PERRO DIMENSIONAL|次元の猟犬
+De repente, todo a su alrededor comienza a retorcerse y colapsar, revelando un paisaje de otro mundo...##¡La caza ha comenzado!|突然、周囲のあらゆるものが歪み、崩れ始める。##眼前に広がるのは、異世界の景色…##“狩り”が始まったのだ！
+ABRUMAR|蹂躙
+Derrotar a este enemigo despertará la atención de su amo.|この敵を倒すと、主人に目をつけられてしまう
+La gran cacería ha comenzado y pronto los dueños del perro te atraparán.|大規模な狩りがはじまった。あなたが猟犬の主人に#捕らえられるのも時間の問題だ。
+¡EL PERRO DIMENSIONAL te muerde!|“次元の猟犬”に噛みつかれる！
+¡DIMENSIONAL HOUND carga contra ti!|“次元の猟犬”が突撃してくる！
+¡PERRO DIMENSIONAL te ataca!|“次元の猟犬”が襲い掛かってくる！
+DOPPELGAENGER|ドッペルゲンガー
+MADRE VAMPIRO|母なる吸血鬼
+CADÁVER RETORCIDO|ねじれた死体
+Al no querer esperar un ascensor, decides tomar las escaleras que rara vez utilizas.##De repente te tropiezas, pero te agarras a la barandilla en el último segundo.#Cuando te levantas para inspeccionar qué te causó el tropiezo, te congelas de terror.. .#Se está levantando lentamente...|エレベーターを待つ気になれず、滅多に使わない階段を上ることにしたあなた。##不意に足を取られてしまい、咄嗟に手すりを掴む。#起き上がって、何が起きたのか確かめようとした瞬間、#あなたは恐怖で動けなくなる。##それは、目の前でゆっくりと立ち上がり…
+Hace dos años, un asalariado borracho se cayó por las escaleras y se rompió el cuello.#Ahora, su espíritu inquieto está condenado a repetir continuamente el accidente, rompiéndose aún más huesos.|2年前、酔っ払ったサラリーマンが階段から#転げ落ち、首の骨を折って死んでしまう。#彼の魂は休まることなく、その事故を永遠に#繰り返し、さらに多くの骨を折る呪縛に#囚われていた。
+TWISTED CORPSE da un paso atrás...|“ねじれた死体”が一歩下がる…
+TWISTED CORPSE tuerce la cabeza de forma antinatural.|“ねじれた死体”の首が不自然な方向にねじれる…
+¡TWISTED CORPSE te atrapa!|“ねじれた死体”に掴まれる！
+¡EL CADÁVER RETORCIDO te muerde!|“ねじれた死体”に噛みつかれる！
+¡TWISTED CADADE te ataca!|“ねじれた死体”の攻撃！
+¡CUERPO RETORCIDO se enrosca a tu alrededor, asfixiándote!|“ねじれた死体”に体を締め上げられ、息ができない！
+Consigues quitártelo de encima, jadeando en busca de aire.|何とか彼を振り払い、息を切らして呼吸をする。
+ESPONJA AHOGADORA|水禍のカイメン
+Caminando por la playa ves una roca de color extraño.#Parece estar cubierta por una especie de alga negra.##Acercándote, te das cuenta de que no es una roca...|浜辺を歩いていると、変わった色合いの岩が目に留まった。#何か、黒い藻のようなものに覆われている。##近づいてみると、それがただの岩ではないことに気付く…
+Esta especie de alga sólo crece en la carne de animales muertos.|この藻は、死んだ動物の肉にのみ生える。
+¡DROWNER SPONGE salta hacia ti!|“水禍のカイメン”が飛びかかってくる！
+¡La ESPONJA DROWNER te araña!|“水禍のカイメン”に引っかかれる！
+¡DOWNER SPONGE te ataca!|“水禍のカイメン”の攻撃！
+DOCTOR ENOJADO|狂った医師
+CLASE DE 1971|71年組
+En el verano de 1971, un grupo entero de estudiantes cayó al mar cuando una roca sobre la que estaban se derrumbó.##Sus cuerpos nunca fueron encontrados... hasta ahora.|1971年の夏、足下の岩場が崩れ、修学旅行中の生徒全員が#海に転落するという事故が起きた。##だが、生徒たちの遺体は全く見つからなかった…#今、あなたの目の前に現れるまで。
+Una amalgama de miembros rotos y cuerpos aplastados. Sólo puede sentir miedo y dolor.|折れた手足と潰れた体の結合体。#恐怖と苦痛の感覚だけが残っている。
+¡La CLASE DE 1971 te ataca!|“71年組”が襲いかかる！
+¡La CLASE DE 1971 te golpea con uno de sus muchos brazos!|“71年組”の無数の手に襲われる！
+¡La CLASE DE 1971 te ataca!|“71年組”の攻撃！
+OFICIAL GRUMOSO|異形の警官
+Tras un extraño sonido de gárgaras, entras en un callejón.#De pie en las sombras, notas a alguien que lleva uniforme de policía.##<<'m-moVe al-along-g-g, cci-iti-zen, nnoOthiNgg tt-to see -e hErRrre..>>##Has cometido un error horrible...|ゴロゴロという不気味な唸り声を辿って、路地に入るあなた。#すると、暗がりの中に警察の格好をした者を見つける。##<<立靈チ去レ…こ爐コこŤにハ何Ň輦もなイ…>>##どうやら、恐ろしい過ちを犯してしまったようだ…
+SERVIR Y PROTEGER|市民の安全のために
+Derrotar a este enemigo reducirá DOOM en un 3%.|この敵を倒すと、#破滅値が3％低下する
+Se dice que si intentas llamar a un número de emergencia a las 4:44, te conectará con el infierno.|4時44分に110番をかけると、#地獄に繋がるとの噂があった。
+¡EL OFICIAL GUMPY busca su arma!|“異形の警官”が拳銃に手を伸ばす！
+<<hhh-y arriba, cci-iti-zen!>>|<<手をヲ上ゲろ繪ォ！>>
+¡EL OFICIAL GUMPY te golpea!|“異形の警官”に殴られる！
+¡EL OFICIAL GUMPY intenta agarrarte!|“異形の警官”が体を掴もうとしてくる！
+¡EL OFICIAL GUMPY te ataca!|“異形の警官”の攻撃！
+EL OFICIAL LUMPY levanta su revólver de servicio y apunta...|“異形の警官”が拳銃を構える…
+¡Estás fusilado!|弾丸が当たる！
+MUÑECA ENFERMERA|人形看護婦
+Te topas con una enfermera que intenta abrir la puerta de la unidad de cuidados intensivos, murmurando constantemente algo...##Cuando se da vuelta, ¡su cara te hace gritar de horror!|看護婦がしきりに何かを呟きながら、#集中治療室のドアを開けようとしている…##彼女が振り返ると、あなたはあまりの恐怖に悲鳴を上げてしまう！
+CIEGO|失明
+No atacará a menos que lo provoquen.|こちら側から刺激しない限り、#攻撃されることはない
+Un gran aficionado a la astronomía. Mirándolo durante demasiado tiempo, descubrió la horrible verdad sobre nuestro sol. Los gusanos solares la han marcado.|熱狂的な天体マニア。#じっと太陽を観察しているうちに、#彼女はある恐るべき真実に気付いてしまう…#自分が太陽蟲に目を付けられたことに。
+LA ENFERMERA MUÑECA de repente se queda callada...|“人形看護婦”は急に黙り込んだ…
+¡LA ENFERMERA MUÑECA comienza a reírse como un maníaco!|“人形看護婦”が狂気に満ちた笑い声を上げる！
+¡DOLL NURSE te agarra mientras gritas!|“人形看護婦”は叫びながら、あなたの体を掴んだ！
+¡LA ENFERMERA MUÑECA grita blasfemias!|“人形看護婦”が冒涜的な言葉を叫ぶ！
+¡LA ENFERMERA MUÑECA te ataca!|“人形看護婦”の攻撃！
+LA ENFERMERA MUÑECA empieza a hablar en un idioma extraño...|“人形看護婦”が不気味な言葉を口にし始めた…
+¡Te sientes mal al escuchar este conocimiento prohibido!|禁断の知識を耳にし、気持ち悪くなってしまう…
+El enemigo no hace nada este turno...|敵は何もしてこない…
+HOMBRE ARDIENDO|燃えさかる男
+Caminando por la playa, descubres un pozo carbonizado gigante. Mientras te preguntas qué se quemó aquí y por qué, escuchas un crujido que se hace más fuerte, mientras todo a tu alrededor se vuelve abrasador...|砂浜を歩いていると、あなたは巨大な焼け焦げた穴を発見する。##ここで何が燃やされたのか、なぜ“燃やす”という方法に至ったのか…#そんなことを考えていると、次第にパチパチという音が大きくなるのが聞こえた。#そして、辺りは焦げ付くような熱さに包まれる…
+El recuerdo de un hombre quemado vivo durante un ritual de inmortalidad que salió mal. Ahora un horror ardiente, condenado al dolor eterno.|不老不死の儀式に失敗し、生きたまま焼かれた#男の記憶。今も灼熱の炎に焼かれ続け、#終わることなき苦痛に苛まれている。
+BURNING MAN de repente se detiene...|突然、“燃えさかる男”の動きが止まる…
+¡EL HOMBRE ARDIENTE se revuelve!|“燃えさかる男”が、のたうち回っている！
+¡BURNING MAN lanza un chorro de fuego que te golpea!|“燃えさかる男”の放った炎が降りかかる！
+¡EL HOMBRE ARDIENTE arroja fuego y te quema!|“燃えさかる男”が吹いた火に焼かれる！
+¡¡BURNING MAN te agarra!!|“燃えさかる男”に体を掴まれる！！
+¡BURNING MAN salta sobre ti, te hace tropezar y te prende fuego!|飛びかかってきた敵に倒され、あなたは炎に包まれた！
+¡Estás muy quemado!|あなたは大火傷を負った！
+MIEMBRO DEL CULTO|教団の一員
+En medio de una habitación ves a un hombre atado a una silla. Te apresuras a ayudar. Sin embargo, cuando le quitas la mordaza, ¡el hombre comienza a gritar maldiciones y profecías antiguas! #Caes al suelo, tu mente se inunda con imágenes indescriptibles mientras el hombre se levanta lentamente, ignorando por completo la silla a la que aparentemente estaba atado.|部屋の中央を見ると、一人の男が椅子に縛り付けられていた。##彼を助けるため、そばに駆け寄るあなた。##そして、猿ぐつわを外した瞬間…#男は大声で、呪詛や太古の預言を叫び出した！##すると、名状しがたい映像が頭の中に溢れかえり、#あなたは床に倒れ込んでしまう。##その間に、男は縛り付けられていたはずの椅子から悠然と立ち上がった。
+POSEÍDO|悪霊憑き
+Después de que un espíritu maligno poseyera a este hombre, sus compañeros cultistas lo dejaron aquí para que reconsiderara la situación.|悪霊に取り憑かれた男。#事態を再考するため、同じ教団の者たちから#ここに取り残された。
+¡MIEMBRO DE LA CULTA grita fuerte!|“教団の一員”が大声で叫ぶ！
+¡¡MIEMBRO DE LA CULTA grita maldiciones antiguas!!|“教団の一員”が古の呪文を唱える！！
+¡Tu mente está inundada de imágenes indescriptibles!|頭の中が、名状しがたい映像で溢れかえる！
+MUJER TIJERA (QUEMADA)|すすばむハサミ女
+JARDINERO lloriqueando|鼻息荒い庭師
+En un pueblo por lo demás sombrío, sorprende el aspecto del parche de flores más hermoso. A medida que te acercas para felicitar al jardinero, te detienes y escuchas extraños sollozos...|殺風景な村の中で、一際美しく咲いている花畑があり、#思わず目を奪われてしまう。##賞賛の言葉をかけようと、庭師に近寄るあなた。#だが、不気味な鼻をすする音が聞こえ、足が止まってしまう…
+NARIZ|はな
+Cuando AKARI-SAN compró las semillas de una planta exótica desconocida, no tenía idea de que su polen pronto cambiaría y la mutaría.|見知らぬ外来植物の種を買った明梨。#まさかその花粉のせいで、#自分が異形の存在になるとは#思ってもみなかった。
+¡La JARDINERA SNIFFLING te apuñala con sus tijeras!|“鼻息荒い庭師”に植木ばさみで体を刺される！
+¡JARDINERO SNIFFLING te golpea con una pala!|“すき”を持った庭師に襲われる！
+¡El JARDINERO SNIFFLING te ataca!|“鼻息荒い庭師”の攻撃！
+MARÚ|真瑠
+En el tejado encuentras a la chica de la que hablaba tu amigo. En una mano sostiene un bolso. En el otro, unas tijeras ensangrentadas...|屋上で、友達の言っていた女子生徒を見かける。##一方の手にはバッグ、そしてもう一方の手には…#血まみれのハサミが握られていた。
+MARU fue la chica acosada que intentó convocar a la Dama Tijera. La entidad la marcó y marcó para que le sirviera hasta que se volviera lo suficientemente fuerte.|いじめられっ子の少女、真瑠。#彼女はハサミ女を召喚しようとして、#逆に深い傷痕と印をつけられてしまう。#そして、十分な力をつけるまでハサミ女に#仕え続けることとなった。
+MARCADO POR LA DAMA DE LAS TIJERAS|ハサミ女の印を受けし者
+¡MARU te apuñala con sus tijeras!|“真瑠”のハサミが突き刺さる！
+¡MARU te golpea con una bolsa!|“真瑠”にバッグで叩きつけられる！
+¡MARU aúlla y te corta con sus tijeras!|唸り声を上げた“真瑠”に、ハサミで切りつけられる！
+AGREGADOR SUDORADO|汗だくの襲撃者
+Mientras el viejo autobús se aleja, ves el pueblo a lo lejos. Con la esperanza de que no llueva demasiado, te detienes para mirar las nubes. De repente, escuchas sonidos de salpicaduras detrás de ti...##Eso es extraño, pensaste, eras el único pasajero en ese autobús...|古びたバスが走り去る中、あなたは遠くに村の姿を見た。##あまり雨が降らないように願いつつ、立ち止まって雲を眺める。#すると突然、背後から水しぶきの音がした…##おかしい、あのバスには自分しか乗っていなかったはずだ…
+CLUB KPP|KPPクラブ
+El hombre enmascarado sabía que ibas a tomar este camino. ¿Es un local?|マスクをした男。#彼はこちらがこの道を通ることを分かっていた。#地元の人間だろうか？
+¡EL ASALTO SUDADO se prepara para atacarte!|敵がタックルしようとしている！
+¡EL ASALTO SUDORADO gruñe fuerte!|“汗だくの襲撃者”が大きく唸る！
+¡ASALTO SUDORADO te apuñala con su cuchillo!|“汗だくの襲撃者”にナイフで刺される！
+¡ASALTO SUDORADO te ataca!|“汗だくの襲撃者”の攻撃！
+¡ASALTO SUDORADO te patea!|“汗だくの襲撃者”の蹴りを食らう！
+¡EL ASALTO SUDADO salta sobre ti y te hace tropezar!|“汗だくの襲撃者”が飛びかかってくる！
+¡Aterrizas en un charco de agua y te mojas todo!|水たまりに倒れて、全身がずぶ濡れになった！
+CAZADOR DE CULTOS A|教団の追っ手A
+Apenas esquivando un golpe de cuchillo, caes al suelo.#La mujer de pelo corto se ríe y da un paso atrás.##<<Puedes huir de nosotros, pero no puedes esconderte... ¡amigo!>>|すれすれでナイフをかわし、地面に倒れるあなた。#短髪の女はクスクスと笑い、後ろに一歩下がった。##<<私たちから逃げたとしても、隠れることはできないわ…！>>
+Miembro de una secta que te ha estado siguiendo. Seguramente seguirán más cazadores...|あなたを追っているカルト教団の一人。#同じような追っ手は、また間違いなく#現れるだろう…
+¡CAZADORA DE CULTISTAS A te apuñala con su cuchillo!|“教団の追っ手A”にナイフで刺される！
+¡CAZADOR DE CULTISTAS A te ataca!|“教団の追っ手A”の攻撃！
+¡CAZADOR DE CULTISTAS A te patea!|“教団の追っ手A”の蹴りを食らう！
+CAZADOR DE CULTOS B|教団の追っ手B
+¡De repente, una ventana detrás de ti se rompe con estrépito!#Sobresaltado, ves a un hombre enmascarado, con un rifle de caza en sus manos.##Silencioso y tranquilo, el hombre carga otra bala...|突然、背後の窓がバンと音を立てて割れた！##驚きの中、眼前に猟銃を持った仮面の男が現れる。##男は静かに、そして冷静に、次の弾を込めた…
+¡CULTIST HUNTER B te golpea con la culata de su rifle!|敵に猟銃の柄で殴りつけられる！
+¡CULTIST HUNTER B te dispara!|“教団の追っ手B”が銃を放つ！
+¡CULTIST HUNTER B te patea!|“教団の追っ手B”の蹴りを食らう！
+OETARU|オエタル
+Los cánticos malditos amplificados por el sistema de cuevas te marean. Para tu horror, notas que el sonido ha despertado algo más...|洞窟内に大きくこだまする呪いの詠唱に、眩暈を覚える。##そして恐ろしいことに、その音が“何か別のもの”を呼び覚ましたことに気付く…
+LA BOBINA INTERIOR|内なるうずまき
+Atraído por los cánticos amplificados por el sistema de cuevas, OETARU ha despertado y espera su sacrificio.|洞窟群の中にこだまする詠唱。#それにより、オエタルは目を覚ました。#そして今、オエタルは生贄の到来を#待ちわびている。
+¡Solo mirar a la criatura te quita la cordura!|その姿を見るだけで、理性を奪われる！
+¡Gritas, intentando silenciar los cánticos!|あなたは声を張り上げ、詠唱を止めようとした！
+¡La barrera entre mundos se está resquebrajando!|世界の垣根が崩れつつある！
+DEFORMADOR DEL TIEMPO|時空を歪めし者
+De repente, todo se ralentiza...|突然、世界の動きがスローモーションになっていく…
+junio de 1992|1992年6月
+<<N-no deberías estar aquí. Todavía no... >>|<<こ、ここにいてはいけない。い、今はまだ…>>
+¡TIME WARPER te roba parte de tu vida útil!|“時空を歪めし者”に寿命を奪われる！
+Te sientes mayor... ¡y más débil!|体が老い…弱っていくように感じる…
+¡TIME WARPER te ataca!|“時空を歪めし者”の攻撃！
+MATRÓN DE TÍTERES|人喰いパペット
+Al escuchar un sonido de arrastre proveniente de detrás de un armario, decides apartarlo del camino. Descubres un nicho en la pared. Alguien ha puesto tres muñecos polvorientos allí.##Sin embargo, cuando intentas alcanzar y agarrar uno, saltan y se dispersan por la habitación, ¡riéndose!|タンスの裏側から足を引きずるような音がしたので、#あなたはそれをどかしてみることにした。##壁にはくぼみがあり、そこに三体の埃を被った人形が置かれている。##手を伸ばし、そのうちの一つを掴もうとすると、#人形たちは飛び跳ねて部屋中に散らばってしまう。##キキキという奇怪な笑い声が響く…
+JUGUETE|おもちゃ
+En estos muñecos viven las almas de una familia de caníbales linchados.|私刑に処された、食人家族の魂が宿る人形。
+¡PUPPET MATRON te apuñala en la espinilla!|“人喰いパペット”にスネを刺される！
+¡PUPPET MATRON comienza a escalarte!|“人喰いパペット”が体をよじ登ってくる！
+¡PUPPET MATRON te corta el brazo!|“人喰いパペット”に腕を切りつけられる！
+AKANE|茜
+Tras un grito débil y vacilante, entras en una habitación oscura.#Dentro, ves una figura encorvada en un rincón. Reconoces la ropa cara, ¡pero esta... cosa no puede ser un humano!##<<D-O--N--'T -LO-o-K a-AT m-Ee!!!!>>|弱々しく震える泣き声が聞こえ、暗い部屋へと入るあなた。##中を覗くと、部屋の隅でうずくまる人影が目に留まる。##見覚えのある高そうな服だ。#しかし、その姿は…とても人間のものとは思えなかった。##<<ワ タ シ ヲォ 見 ル な ア アァ！！！！>>
+RITUAL FALLIDO|儀式の失敗
+transformada por su codicia|欲望に駆られた異形の女
+El miembro de la familia corrompido por la influencia sobrenatural de la mansión.|屋敷に潜む怪異。#その狂気に侵され、堕ちてしまった一族の一人。
+¡En un ataque de furia ciega, AKANE te aplasta con su puño!|怒りに任せて、“茜”があなたを殴りつけた！
+¡AKANE te muerde el brazo y te arranca un poco de carne!|“茜”が腕を噛みつき、その肉を引き裂く！
+¡AKANE salta hacia ti, golpeando y pateando!|飛びかかってきた“茜”から、拳と蹴りを食らう！
+HAWADO Y MIYAKO|葉和堂と都
+Al entrar en una habitación oscura, ves a Hawado y su esposa, abrazándose. Cuando se dan vuelta, gritas de terror.##Sus cuerpos poco a poco se van volviendo uno y sus rostros fusionados expresan lo mismo:##Rabia.|暗い部屋に入ると、葉和堂と妻が抱き合っているのを目にしてしまう。##二人が振り向いた瞬間、あなたは恐怖に駆られ、悲鳴を上げた。##二人の体は徐々に…一つになっていたのだ。#その融合した顔からは、同じ感情が伝わってくる…##激しい怒りだ。
+finalmente fusionados|ようやく一つに
+¡Sus gritos son horribles!|二人がぞっとするほど、恐ろしい叫び声を上げる！
+¡La pareja se revuelca por la habitación!|二人が部屋の中を暴れ回る！
+¡La vista de la pareja retorciéndose te vuelve loco!|ぐねぐねと身をよじらすその姿を見て、狂気に駆られてしまう！
+SOTOMURA|外村
+Te topas con Sotomura, rascándose furiosamente su cicatriz.#Con cada movimiento, se profundiza un poco más.#Con cada movimiento, aparece más sangre.##Con cada movimiento, da un paso hacia ti...|偶然、あなたは外村と出くわす。その傷跡を激しく掻きむしっている彼。#爪を立てる度に、その傷は深くなっていく。##そして、そこからさらに血が滲み出す。##そして掻きむしるたびに、一歩ずつこちらに寄ってきて…
+la picazón no para|止まらないかゆみ
+¡SOTOMURA te ataca!|“外村”の攻撃！
+¡SOTOMURA te rasca!|“外村”に引っかかれる！
+¡SOTOMURA te ataca!|“外村”の攻撃！
+POSEDERO PERVERTIDO|変態宿屋
+Preocupado y furioso por el agujero en la pared, entras a la posada por la parte trasera, intentando encontrar la habitación que conecta con la tuya. Pensando que finalmente lo has encontrado, entras...##...¡y gritas!|壁に開いていた穴に不安と怒りを覚え、#宿の裏から、自室と隣接する部屋を探そうとした。##ようやく見つけたと思い、中に入ったところで…#あなたは悲鳴を上げた。
+debe haber visto demasiado|多くを目にしすぎた末路
+WATANABE-SAN heredó la posada hace unos años y ha estado espiando a los huéspedes hasta el fatídico día en que vio a _IT_.|数年前にこの宿を継いだ、渡辺という名の男。#密かに宿泊客の部屋を覗いていた彼は、#ある日、偶然にも“それ”を目撃してしまい…
+¡POSADERO PERVERTIDO te ataca!|“変態宿屋”の攻撃！
+¡POSADERO PERVERTIDO te araña!|“変態宿屋”に引っかかれる！
+¡POSADERO PERVERTIDO te ataca!|“変態宿屋”の攻撃！
+TAKASHI-SAN|隆司さん
+Al subir la escalera de caracol, te detiene un hombre enmascarado que lleva un traje caro.#<<Las reglas han cambiado, chico...>> dice, quitándose la chaqueta y la máscara.##<<Nada personal, realmente... >>|曲がりくねった階段を上っていると、#高価なスーツを着た仮面の男に呼び止められる。#<<ルールが変わったのさ、坊や…>>#そう言って男はジャケットを脱ぎ、その仮面を取り外した。##<<ほんと、恨むなよ…>>
+Uno de los conspiradores que intenta despertar a los DIOSES ANTIGUOS.|旧き神を目覚めさせようとする#陰謀者たちの一人。
+EL ÚLTIMO OPORTUNISTA|究極のご都合主義者
+¡TAKASHI-SAN te impide dar un paso más!|“隆司さん”に行く手を阻まれた！
+<<Solo ríndete, niño.>>|<<こんのガキが、諦めろ！>>
+¡TAKASHI-SAN te obliga a dar un paso atrás!|敵に無理やり、後ろへ追い込まれた！
+VIEJO HORRIBLE|醜悪なる老翁
+El cadáver hinchado de tu 'tío' flota lentamente en la habitación mientras las paredes restantes se derrumban.##<<EL CONTRATO... NO HA TERMINADO AÚN....>>|残った壁が崩れ去る中、“大叔父”の浮腫んだ死体が#部屋の中に浮かび上がる。##<<契約ワ…マだ終ワッ弖イナヰ…>>
+El viejo que dice ser tu tío. Murió en 1838 y 1943.|“大叔父”を名乗る老人。#1838年､1943年に死去｡
+MUERTE ENGAÑADA DOS VECES|死を二度免れた男
+HORRIBLE VIEJO sonríe.|“醜悪なる老翁”が笑っている。
+HORRIBLE VIEJO no hace nada.|“醜悪なる老翁”は何もしてこない。
+Un VIEJO HORRIBLE flota a tu alrededor.|“醜悪なる老翁”があなたの周りを漂っている。
+ALGO VERDADERAMENTE MAL|真なる邪悪
+A lo lejos suenan las campanas y todo se oscurece...##[TU#FUERTE#ESTÁ AQUÍ]|遠くで鐘の音が鳴り響き、辺り一帯が暗闇に包まれた…##[ココデ#オマエハ#オワリダ]
+TE ENCONTRÉ|ミーツケタ
+[TE ENCONTRÉ]|[ミーツケタ]
+[TE ENCONTRÉ]|[ミーツケタ]
+[ALGO VERDADERAMENTE MAL TERMINARÁ CONTIGO]|[真なる邪悪が終焉をもたらす！]
+[NO PUEDES HUIR DE ALGO VERDADERAMENTE MAL]|[真なる邪悪から逃れることはできない！]
+[ALGO VERDADERAMENTE MAL TE HA ENCONTRADO]|[真なる邪悪に見つかった！]
+PLANTA COMEDOR DE HOMBRES|人喰い植物
+Caminando por el bosque, ves un par de piernas que sobresalen de un arbusto. Sin embargo, antes de que puedas hacer algo, se contraen y se mueven...|森の中を歩いていると、茂みの中から足が2本、突き出ているのが見えた。##そして動揺する間もなく、その足がぴくりと動き…
+Una empresa de jardinería de Tokio envió varios paquetes de semillas a SHIOKAWA. La PLANTA COMEDOR DE HOMBRES es uno de sus experimentos.|東京の園芸会社から塩川宛に、#いくつもの種袋が届けられた。#人喰い植物は彼らの実験結果の一つである。
+¡La PLANTA COMEDOR DE HOMBRES te golpea con una enredadera!|“人喰い植物”につるで叩かれる！
+¡La PLANTA COMEDOR DE HOMBRES te escupe ácido!|“人喰い植物”が酸を吐き出す！
+¡La PLANTA COMEDOR DE HOMBRES te ataca!|“人喰い植物”の攻撃！
+MUJER DE CORTEZA|樹皮女
+Mientras caminas por un vivero de árboles, te detienes de repente. Algo se siente... mal.##¿No es demasiado pronto para que las hojas cambien de color?##Antes de que puedas continuar con tu investigación, ¡alguien te agarra la pierna!|木の苗床を歩いている途中で、ふと立ち止まる。##…何かがおかしい。##葉っぱの色が変わるには、早すぎるような気が…##調査を続けようとしたその時、あなたは何者かに足を掴まれた！
+LADRAR|樹皮
+todo el daño recibido se reduce en 1|あらゆる被ダメージが1減少
+Su tercera víctima.#La cortaron en pedazos y la enterraron en un vivero de árboles, lo que provocó que las hojas cercanas cambiaran su color a un amarillo enfermizo.|ある男が手にかけた、3番目の犠牲者。#切り刻まれた彼女の体は育苗園に埋められ、#その結果、周りの植物は異様な黄色の葉に#変色した。
+¡LA MUJER CORTEZA te empala con una rama!|“樹皮女”に枝で突き刺される！
+¡MUJER CORTEZA te pega con una raíz!|“樹皮女”の根に襲われる！
+¡La MUJER LADRERA te ataca!|“樹皮女”の攻撃！
+SHIRO-SAN|四郎さん
+Al caer por el agujero del suelo, te encuentras en un sótano cubierto de maleza. En la esquina yace un hombre que reconoces. ¡Es Shiro-san, el jardinero desaparecido!##¡Debes ayudarlo a escapar de este lugar maldito!|床に開いた穴から転げ落ちていく。##気付くと、あなたは草木で覆われた地下室にいた。##その隅に見覚えのある男が倒れている。#行方不明の庭師、四郎さんだ。##この呪いの地から、彼を逃がさなければ！
+EL JARDINERO|庭師
+EL JARDÍN|庭
+El hongo ha tomado completamente el control de la cáscara que alguna vez fue SHIRO-SAN.|かつては四郎という名の庭師だったが、#抜け殻と化した彼の体は、#今や謎の真菌によって完全に乗っ取られている。
+¡SHIRO-SAN, CONTROLADO POR HONGOS, te ataca!|“真菌の宿主 四郎”の攻撃！
+¡SHIRO-SAN, CONTROLADO POR HONGOS, te ataca!|“真菌の宿主 四郎”の攻撃！
+¡SHIRO-SAN, CONTROLADO POR HONGOS, te ataca!|“真菌の宿主 四郎”の攻撃！
+¡Las plantas atacan al jardinero! (-3 SALUD)|植物が庭師を襲う！(体力-3)
+¡Tú proteges al jardinero y las plantas te atacan! (-3 TODOS)|四郎さんをかばって、攻撃を受ける！(スタミナ-3 / 理性-3)
+JUNTOS|TOGETHER
+Escuchas la señal estática en el otro extremo. Es duro para tu oído.##Pero entonces, el ruido comienza a cambiar lentamente a algo hermoso...##Quieres unirte a él.|向こう側から、ノイズのような呼び出し音が響く。#耳障りな音だ。##しかし、徐々にそのノイズは美しい音色へと変わり始め…##そこに身を委ねたいという気持ちが湧き上がる。
+Fuerza maliciosa de origen desconocido.|何処からともなく現れた、有害なる力。
+¿Por qué deberías resistirte?...|なぜ抗うのですか？
+Únete a las voces...|この音に身を委ねなさい…
+Todo terminará pronto...|すぐに終わります…
+TALLO-CHAN|ツタちゃん
+Caminando por el parque, ves a una chica parada en el monte. Al acercarte, de repente te das cuenta... que ella no está entre los arbustos.##¡Ella es parte de esto!|公園を歩いていると、茂みの中で佇む少女の姿が目に入る。##近寄ってみると、あなたはある事実に気が付く。#彼女は茂みの中に立っているわけではない…##茂みの一部と化していたのだ！
+Tras un extraño ritual de amor, se convirtió en un arbusto.|奇怪な愛の儀式を行ったことで、#茂みに変貌してしまった少女。
+¡STALK-CHAN te azota con una enredadera!|敵がツタを使って、あなたを鞭打つ！
+¡STALK-CHAN te apuñala con una rama!|“ツタちゃん”に枝を刺される！
+¡STALK-CHAN te ataca!|“ツタちゃん”の攻撃！
+ATLETA VENGANZA|怨讐の競技選手
+RITSUKO-CHAN era la atleta más prometedora de su escuela. Cuando desapareció repentinamente, el caso se cerró rápidamente sin ningún sospechoso.##Hoy, finalmente ha desenterrado...|かつて律子は、校内で最も将来有望な選手だった。##そんな彼女が、突如として行方不明になる。#だが、容疑者不在のまま、捜査はすぐに打ち切られてしまう。##そして今日、ついに彼女は自ら地表へと出てきた…
+RITSUKO-CHAN fue asesinada por el novio de su celoso rival.|嫉妬深いライバルの彼氏に命を奪われた。#生前は律子という名だった。
+¡ATLETA VENGANZA te ataca!|“怨讐の競技選手”による攻撃！
+¡ATLETA VENGANZA te patea!|“怨讐の競技選手”の蹴りを食らう！
+¡ATLETA VENGANZA te golpea!|“怨讐の競技選手”に殴られる！
+ANATOMÍA TERROR|恐怖の人体模型
+Realizaron innumerables disecciones para encontrar la respuesta.#En lugar de eso, la encontraron.|答えを求めて、彼らは数え切れないほどの解剖を行った。しかし、そこで彼らが目にしたのは…
+Espíritus de innumerables pacientes asesinados en nombre de la ciencia.|科学の名の下に犠牲になった、無数の患者の霊。
+¡EL HORROR DE ANATOMÍA te agota!|“恐怖の人体模型”に力を奪われる！
+¡ANATOMY HORROR te ataca!|“恐怖の人体模型”の攻撃！
+¡ANATOMY HORROR te ataca!|“恐怖の人体模型”の攻撃！
+MUJER KOI|鯉女
+Ves a una mujer en la playa y decides acercarte y preguntarle qué hace sola a estas horas. Cuando la mujer se da vuelta, te detienes. Su boca se abre y se cierra, tragando aire como si fuera antinatural para ella. ##En sus grandes ojos solo hay rabia.|深夜、海辺で一人の女性を見かける。##こんな時間に何をしているのだろうと気になり、声をかけようとするあなた。##だが、彼女が振り返った瞬間、足がすくんでしまう。##口をパクパクさせ、空気を吸い込む彼女…#その様子はどこか、不慣れな印象すら受ける。##その大きな瞳にはただ一つ、怒りの感情だけが滲んでいた。
+La mujer vengativa maldecida por una deidad del mar a vivir su vida como una abominación.|海神の呪いを受け、異形の者として生きることを運命づけられた、復讐に燃える女。
+¡MUJER KOI te abofetea!|“鯉女”に引っ叩かれる！
+¡MUJER KOI te ataca!|“鯉女”の攻撃！
+¡MUJER KOI te ataca!|“鯉女”の攻撃！
+COMEDOR DE SUEÑOS|夢喰い
+Descubres un peluche gigante medio enterrado en una zanja. Sintiéndote incómodo, das un paso atrás pero ya es demasiado tarde…|側溝に半分ほど埋もれた、巨大なぬいぐるみ。##不審に思ったあなたは後ろに下がるも、一足気付くのが遅かった…
+Un amigo imaginario que atrae a niños desprevenidos al bosque para devorarlos.|無邪気な子供たちと空想上の友達になり、#誘い込んだ森で彼らを捕食する。
+¿Por qué deberías resistirte?...|なぜ抵抗する…？
+Únete a las voces...|<この声に従え…>
+Todo terminará pronto...|<すぐに終わる…>
+GIGOLÓ|ジゴロ
+De repente, hizo mucho frío en el pasillo. Cuando te das vuelta para irte, te detiene un hombre con una piel anormalmente pálida y labios gigantes. Besa el aire y da un paso más cerca...|突然、急速に廊下が冷え込む。#その場を去ろうとすると、異様に青白い肌と巨大な唇を持つ男に呼び止められる。##空中に向かってキスをしながら、男はそろりとあなたの方へ歩き出し…
+Un íncubo que se alimenta de personas de voluntad débil para drenar su fuerza vital.|意志の弱い人間を狙って、#その生命力を吸い尽くすインキュバス。
+¡GIGOLO te abofetea!|“ジゴロ”に引っ叩かれる！
+¡GIGOLO besa el aire!|“ジゴロ”が空中に向かってキスをする！
+¡GIGOLO te agarra!|“ジゴロ”に体を掴まれる！
+ORGANIZADOR DE VENTILACIÓN|通気孔を這う者
+Te arrastras con cautela dentro del respiradero, decidido a resolver este macabro misterio.#Nada podría prepararte para que la fuente del sonido deslizante se haga más fuerte... y más cerca.|あなたはこの奇怪な謎の答えを得るため、慎重に通気孔の中へ這い入ることにした。##どこからか、キチキチという音が聞こえてくる…##次第に大きくなる音に対し、あなたは何の準備もできぬまま、#近づいてくる音の主と対峙するのであった…
+Los pensamientos pervertidos del prójimo se materializaron bajo la influencia corruptora de los DIOSES ANTIGUOS.|隣の部屋に住んでいた性的倒錯者。#その歪んだ思念は、旧き神が持つ狂気の力に#侵され、実体化した。
+¡Un ciempiés se arrastra por tu cara!|あなたの顔の上をムカデが這う…！
+¡VENT CRAWLER te muerde!|“通気孔を這う者”が噛みつく！
+¡VENT CRAWLER te apuñala con su pierna!|“通気孔を這う者”に足を刺される！
+EL APÓSTOL QUE LLAMA|侵蝕する使徒
+Lo que sea que los marineros atraparon en el mar está aquí.#¡Esta noche es tu única oportunidad de detenerlo!|船乗りたちが海から掬い上げたもの…その全てが此処に集っている。##怪異を食い止めろ。今宵がその最後の機会だ。
+Los restos de un submarino hundido provocaron una explosión submarina. La onda de choque rompió el huevo primordial, escondido en lo profundo del fondo del océano por los Antiguos...|沈没した潜水艦の残骸が、水中爆発を起こす。#その衝撃波により、古代人が海底深くへと#隠した“原初の卵”が破裂し…
+¡Una sustancia viscosa negra comienza a subir por tus piernas!|黒い粘液が足を通じて這い上がってくる！
+¡EL APÓSTOL FILTRANTE te ataca!|“侵蝕する使徒”の攻撃！
+¡EL APÓSTOL FILTRANTE te ataca!|“侵蝕する使徒”の攻撃！
+HORROR SIN NOMBRE|名もなき恐怖
+¡Este ritual de invocación debe detenerse a toda costa!|何としても、儀式を阻止しなければ！
+DESPIERTO Y HAMBRE|血に飢えし覚醒者
+El aterrador AM-HEMET convocado por la secta puede causar la muerte de millones.|カルト教団が召喚した恐怖の存在、#アム＝へメト。#このままでは、何百万人もの命が#奪われる可能性が…
+¡CULTISTA ENMASCARADO te apuñala con un cuchillo!|“仮面のカルト信者”にナイフで刺される！
+¡MASTER CULTIST canta los hechizos prohibidos!|“邪教の祭司”が禁断の呪文を唱える！
+¡HORROR SIN NOMBRE te mira fijamente!|“名もなき恐怖”がこちらを見つめている…
+SEÑOR. PACHINKO|パチンコ男
+Dos hombres te detienen y te piden que les prestes algo de dinero...|二人の男が前に立ちはだかり、金を貸せと迫ってきた…
+...todo el mundo tiene algo que vender|…売るものなら、誰でも持っている
+Perdieron su fortuna en el lugar de juego. Por suerte, un hombre con olor a óxido decidió ayudarlos...|ギャンブルで財産を失った二人。#しかし運良く、さびの臭いが漂う男から#手を差し伸べられ…
+SEÑOR. MONEDA|コイン男
+SEÑOR. ¡PACHINKO te ataca!|“パチンコ男”の攻撃！
+SEÑOR. ¡PACHINKO te ataca!|“パチンコ男”の攻撃！
+SEÑOR. ¡COIN te golpea!|“コイン男”に殴られた！
+ASISTENTE DE ANOMALÍA|狂える看護婦
+Lo detienen dos enfermeras. Listo para disculparse y explicarse, notas sus extrañas sonrisas... miradas muertas... cuchillos afilados...|二人の看護婦に呼び止められるあなた。##説明をして、謝罪するつもりでいたが、ふと二人の様子がおかしいことに気付く。##不気味な笑顔、死人のような瞳…#そして、その手には鋭いナイフが握られていた…
+turno de medianoche|夜勤
+El hospital financiado por la universidad era demasiado grande para SHIOKAWA. Temerosos de perder sus empleos, comenzaron a atender a sus propios pacientes.|大学から資金提供を受けていたその病院は、#塩川にとって規模が大きすぎた。#職を失うことを恐れた彼女たちは、#自ら患者を“調達”するようになった。
+CUIDADOR DE CADÁVER|遺体の介護者
+¡EL ASISTENTE DE ANOMALIA te corta con un cuchillo!|“狂える看護婦”にナイフで切りつけられる！
+¡EL CUIDADOR DE CUERPOS te lanza una mirada escalofriante!|“遺体の介護者”に冷ややかな視線を向けられている…
+¡La enfermera te ataca!|看護婦の攻撃！
+¿TÚ?|あなた？
+<<¿Te gusta lo que hice con mi cara? Siempre te he admirado, sabes, incluso cuando actuabas como si no me conocieras en absoluto.>>##<<Creo que el resultado es _perfecto_... demasiado perfecto, de hecho, para que dos personas lo puedan hacer. ¡Comparte la misma cara! >>|<<どう？この顔。気に入ってもらえたかな？ずっと、あこがれてたんだよ。#貴方が知らないフリをしていた時もね。>>##<<“完璧な仕上がり”だと思う…完璧すぎるくらいだよ。#ってことは同じ顔が2人もいたら、おかしいよね！>>
+Ignorado por todos, este niño decidió reemplazar a la persona que más envidiaba: ¡tú!|皆から無視されていたその子は、#ある決意をした。#周りが一番うらやんでいた人物…#つまり、“あなた”に取って代わることを。
+Tu amigo levanta el cuchillo de carnicero que trajiste involuntariamente...|あなたが知らずに持ち込んだ肉切り包丁を、友達が振り上げた…
+¡Tu amigo te ataca!|“友達”の攻撃！
+¡Tu amigo te golpea!|“友達”に殴られる！
+¡Tu amigo te patea!|“友達”の蹴りを食らう！
+MUERTE BLANCA|白き死
+El olor nauseabundo de un cadáver destripado golpea tu nariz. Lo que masacró a tus amigos está aquí...|臓物を引きずり出された死体…#吐き気を催す臭いが鼻を突く。##あなたの友人たちを惨殺したその主犯が、目の前に立っている…
+Un ser antiguo y sediento de sangre, despertado por un grupo de matones que saquean la mansión en la que dormía.|｢白き死｣の眠る屋敷。#そこに入った不良グループが中を荒らし回り、#血に飢えた古代の存在が目覚めてしまう。
+¿Por qué volviste?|なぜ戻ってきた？
+La MUERTE BLANCA se acerca...|“白き死”が近付いてくる…
+La MUERTE BLANCA guarda silencio...|“白き死”は黙っている…
+¡La MUERTE BLANCA te corta!|“白き死”があなたを切りつける！
+¡La MUERTE BLANCA te patea!|“白き死”の蹴りを食らう！
+¡La MUERTE BLANCA te ataca!|“白き死”の攻撃！
+¡MUERTE BLANCA te corta en el pecho!|“白き死”に胸を切り裂かれる！
+¡Empiezas a sangrar!|血しぶきが舞う！
+VAMPIRO DEL PILAR|柱の吸血鬼
+Entras en una habitación llena de estatuas de madera. Te sorprende lo realistas que parecen algunos de ellos. Tan realista, de hecho, que podrías haber jurado que uno de ellos parpadeó...|部屋に入ると、そこには木彫りの彫像が所狭しと並んでいた。#まるで本物のような造形に驚く。##あまりのリアルさに、その中の一つが瞬きをしたかのように見え…
+Alguna vez un gran escultor, sacrificó todo para poder continuar su trabajo.|かつては偉大な彫刻家として名を馳せていた男。#だが、制作を続けるためにその全てを捧げてしまう。
+viviendo en las paredes|壁の中に住むもの
+¡PILAR VAMPIRE te muerde en el brazo!|“柱の吸血鬼”に腕を噛まれる！
+¡PILAR VAMPIRE te silba!|“柱の吸血鬼”が牙をむいて唸る！
+¡PILLAR VAMPIRE te corta con sus garras!|“柱の吸血鬼”の爪があなたを切り裂く！
+PERRO RETORCIDO|狂乱犬
+Puedes ver un perro masticando algo en la distancia.##¿¡Eso es... un hueso humano!?|遠くで、何かを噛んでいる犬が見えた。##まさか、あれは…人の骨！？
+Un animal doméstico corrompido por el DIOS VIEJO que despierta lentamente.|徐々に目覚めつつある旧き神。#その狂気に侵された家畜犬。
+¡EL PERRO TWISTED salta hacia ti!|“狂乱犬”が飛びかかってくる！
+¡PERRO TORCIDO te hunde los dientes en la pierna!|“狂乱犬”が歯を立てて、脚に噛みついてくる！
+¡PERRO TORCIDO te muerde en el brazo!|“狂乱犬”が腕に噛みついてくる！
+TSUTA-CHAN|ツタちゃん
+Tu camino está bloqueado por un cadáver en descomposición cubierto de hiedra venenosa.|毒のツタに覆われた腐乱死体が、進路を塞いでいる…
+Cuando las raíces de la planta llegaron a su cerebro, volvió a la vida.|その植物の根が脳に達した瞬間、彼女は再び#息を吹き返した。
+¡TSUTA-CHAN te azota con una enredadera!|つるで叩きつけられる！
+TSUTA-CHAN attacks you!|“ツタちゃん”の攻撃！
+¡TSUTA-CHAN te muerde en el brazo!|“ツタちゃん”に腕を噛まれる！
+ICHIRO-SAN|一郎
+El pintor loco se quita lentamente las gafas oscuras...|狂気の画家が、ゆっくりとそのサングラスを外した…
+ICHIRO-SAN ha encontrado una manera de conectarnos con otras dimensiones utilizando sus lienzos y portales.|“一郎”はキャンバスや異界の扉を通じて、#異次元へ我々を導く方法を見つけていた。
+¡ICHIRO-SAN te apuñala con un cuchillo!|“一郎”にナイフで刺された！
+¡Te apuñala! <<¡Te convertirás en mi próxima obra maestra!>>|ナイフで刺される！<<お前は俺の次なる傑作になるんだ！>>
+¡Él te corta! <<¡Soy el mejor pintor que ha existido!>>|ナイフで切りつけられた！<<俺こそ、この世で最も偉大な画家だ！>>
+LA PINTURA|絵画の怪物
+El monstruo pintado se extiende desde el lienzo y agarra a un sorprendido ICHIRO-san por el cuello.##<<N-no! ¡E-esto no es lo que se suponía que pasaría!>>|キャンバスから絵画に描かれた怪物が手を伸ばし、#驚く一郎の首を掴んだ。##<<ク、クソッ！こんなことに…なるはずじゃ…！>>
+su última creación|彼の渾身の作品
+¡LA PINTURA absorbe tu energía vital!|“絵画の怪物”に生命力を吸い取られる！
+¡LA PINTURA te vuelve loco!|“絵画の怪物”の呪いを受け、発狂してしまう！
+¡LA PINTURA te hiela hasta los huesos!|骨の随まで凍りつくような恐怖に襲われる…
+Adicto a los chismes|ゴシップ狂
+Los sonidos del teléfono y las múltiples voces son demasiado fuertes para que los ignores. Cuando entras al apartamento, todo se vuelve silencio...|電話の鳴る音、そして何人もの声が響き渡る。#無視できるほどの大きさではない。##だが、アパートに入ると一転して辺りは静寂と化し…
+Pasó su vida hablando por teléfono, chismorreando. Es natural seguir haciéndolo incluso después de la muerte.|生前、電話片手にゴシップ話に明け暮れていた#彼女。死しても、それを続けるのは当然のこと#だった。
+¡GOSSIP JUNKIE difunde un rumor desagradable sobre ti!|“ゴシップ狂”にありもしない噂を流される！
+¡GOSSIP JUNKIE comparte conocimientos prohibidos!|“ゴシップ狂”が禁断の知識を囁く！
+¡GOSSIP JUNKIE te mira fijamente!|“ゴシップ狂”に睨まれる…！
+CADÁVER PEGADO|接着屍体
+Puedes escuchar un leve sollozo proveniente de un callejón cercano.#Allí, te acercas a un hombre de rodillas.#Cuando das un paso más cerca, de repente se detiene y se anima.##Puedes escuchar el sonido nauseabundo de la piel desgarrándose. ...|すぐそばの路地から、微かな嗚咽が聞こえてくる。##そこにいたのは、地面に跪く一人の男性。##あなたが近づくと、男は急に泣き止み、顔を上げた。##すると、吐き気を催す音と共にその皮膚が裂け…
+Cuando finalmente murió, su esposa le cerró la cara con pegamento. Él no la lastimará nunca más.|<<ようやく死んだ…>>#夫の死後、妻はその顔を接着剤でくっつけた。#二度と暴力を振るわれないように…
+¡EL CADÁVER PEGADO te muerde la mano!|“接着屍体”に手を噛まれる！
+¡GLUED CORPSE te da un cabezazo!|“接着屍体”の頭突き！
+¡EL CADÁVER PEGADO te ataca!|“接着屍体”の攻撃！
+La tenia asalariado|サナダムシ社員
+Alguien te golpea la espalda.#<<Sh-lo siento, ¿el arbusto sigue corriendo? Llego tarde a una reunión, el boshsh ish me va a matar.>>##Sorprendido, rápidamente te das la vuelta, sorprendido por lo que ves allí...|何者かに背中を叩かれる。##<<しゅ…しゅみません。バスはマだ来まシュか？会議に遅れショうなんです。#このままじゃ、ジョ、ジョ、上司に殺サれちゃう。>>##驚いて、すぐに後ろを振り返ると、あなたは目の前にいるものにぎょっとした…
+Adjuntándose a una empresa, seguirá drenandola lentamente.|一度、それに取りつかれた会社は、じわじわと#内側から吸い尽くされる。
+¡TENIA SALARYMAN intenta adherirse a ti!|“サナダムシ社員”があなたに取りつこうとする！
+¡TENIA SALARYMAN te abofetea!|“サナダムシ社員”の平手打ち！
+¡TENIA SALARYMAN intenta morderte!|“サナダムシ社員”が噛みつこうとする！
+DRENAJE NADADOR|排水管の女
+Un sonido extraño y burbujeante te atrae al cuarto de baño oscuro. En el suelo, encuentras un traje de baño tirado sobre un grotesco rollo de cuero. Espera, ¡eso no es una bobina!...|ごぼごぼという奇妙な音が、あなたを薄暗いシャワー室に引き寄せる。##床を見ると、異様な革巻物の上に水着が放り出されている。##いや、違う…巻物じゃない…！
+Después de que Futaba se ahogara en una bañera, su cuerpo se movió lentamente a través de las tuberías de drenaje para continuar su entrenamiento de natación.|浴槽で溺死した生徒、双葉。#その死体はゆっくりと排水管を進んで、#今も泳ぎの練習を続けていた。
+¡DRAIN SWIMMER se envuelve a tu alrededor!|“排水管の女”が体に巻きつく！
+¡DRAIN SWIMMER te ahoga!|“排水管の女”に首を絞められる！
+¡DRAIN SWIMMER se lanza hacia ti!|“排水管の女”が飛びかかってくる！
+PACIENTE OLVIDADO|忘れ去られた患者
+<<Lo siento, ¿has visto al médico?...>>##<De repente desapareció y no estoy seguro de si la cirugía ha terminado...>>|<<すみません、先生を見ませんでしたか…？>>##<<急にいなくなったから、手術が終わったのか分かんなくて…>>
+La desaparición de los médicos provocó la muerte de muchos pacientes que esperaban su cirugía.|突如として、行方不明になった医者たち。#その結果、手術を待つ多くの患者が#亡くなってしまう。
+¡El PACIENTE OLVIDADO empieza a llorar!|“忘れ去られた患者”が泣き出す！
+¡El PACIENTE OLVIDADO te rocía con sangre!|“忘れ去られた患者”が血しぶきを浴びせる！
+¡PACIENTE OLVIDADO te apuñala con su costilla!|“忘れ去られた患者”が飛び出した肋骨で刺してきた！
+SELLO DUENDE|ゴブリンアザラシ
+Tras un ladrido, te encuentras en una playa, rodeado de rocas...|グアアッという鳴き声を耳にし、その音の聞こえた方へと向かうあなた。##しかし、そこは岩に囲まれた浜辺で…
+La influencia corruptora del DIOS VIEJO afecta a todos los animales.|“旧き神”の狂気の力は、あらゆる動物に#影響を及ぼす。
+¡GOBLIN SEAL te muerde en la pierna!|“ゴブリンアザラシ”に足を噛みつかれる！
+¡GOBLIN SEAL te abofetea!|“ゴブリンアザラシ”に叩かれる！
+¡GOBLIN SEAL te agarra con los dientes!|“ゴブリンアザラシ”の歯が、あなたを捉える！
+VENDEDOR DE SUEÑOS|悪夢のセールスマン
+Te sorprende encontrar a un hombre bien vestido sentado sobre una roca en medio de un bosque. Sin embargo, cuando te acercas, descubres que lleva una máscara realista que cae al suelo.##>>¿Tienes un momento para s-spp-e-ak-k a-b-b-o-u-t-t t-th--iii-isii pr -r-o-d-c-t?? . ?.?. <<|森の中心…#岩の上に身なりのいい男が座っているのに気付き、#あなたはすくみ上がってしまう。##近づいてみると、“仮面”が地面に落ちていた。#男がつけていた、本物そっくりの仮面だ。###>>少し、コの商品につイて縺薙お話シ いいでsすjか縺?>縺ｧ縺吶°？？ . ？.？.<<
+Pasó su vida vendiendo mentiras a gente desprevenida. Ahora, estas mentiras son todo lo que sabe.|生涯、疑うことの知らない者たちに、#嘘を売り続けてきた男。#彼の知る全ては、今やその嘘しかない。
+¡EL VENDEDOR DE SUEÑOS te atrapa!|“悪夢のセールスマン”に体を掴まれる！
+¡EL VENDEDOR DE SUEÑOS te ataca!|“悪夢のセールスマン”の攻撃！
+¡EL VENDEDOR DE SUEÑOS te cuenta sus dulces mentiras!|“悪夢のセールスマン”が甘い嘘をささやく！
+LINTERNA HUMANA|人間提灯
+Siguiendo una luz extraña, entras en un edificio de pueblo abandonado. Toda la sala está iluminada por innumerables faroles de papel de muchos colores. Una linterna, sin embargo, comienza a acercarse...|妖しげな光に引き寄せられ、村の廃墟へと入っていくあなた。##色とりどりの提灯が、部屋全体を明るく照らし出している。###しかし、無数にある提灯の一つが、ゆっくりとこちらに近づいてきて…
+Todos los edificios antiguos esconden sus mórbidos secretos.|古代の建造物。#そのどれもが、おぞましい秘密を秘めている。
+¡HUMAN LANTERN te congela!|“人間提灯”があなたを凍らせる！
+¡La LINTERNA HUMANA te asusta!|“人間提灯”が脅かしてくる！
+¡HUMAN LANTERN te ataca!|“人間提灯”の攻撃！
+VECINO CÍCLOPE|一つ目の隣人
+Al pasar por un ascensor averiado, sus puertas se abren de repente. Das un paso atrás y te das cuenta de una mujer alta y extraña, parada en la oscuridad.##<<¿Vives aquí? Nunca te he visto...>>|故障中のエレベーターの前を通りかかった途端、唐突にそのドアが開きだす。#思わず、後ろに下がるあなた。##暗がりの中に佇む、不気味な長身の女。##<<ここに住んでる人？ハ ジ メ テ ミ ル ナ ァ…>>
+Ya devoró a uno de tus vecinos. ¿Serás tú el próximo?|彼女は既に、隣人の一人を喰らっていた。#自分がその次の獲物になるのだろうか？
+¡EL VECINO CÍCLOPE te ataca!|“一つ目の隣人”の攻撃！
+¡VECINO CÍCLOPE te patea!|“一つ目の隣人”が蹴りを放つ！
+¡EL VECINO CÍCLOPE te golpea en la cara!|“一つ目の隣人”の拳が顔に当たる！

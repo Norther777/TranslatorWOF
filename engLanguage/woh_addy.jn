@@ -1,0 +1,269 @@
+¡Has recuperado un artículo del almacenamiento!|カバンからアイテムを取り出した。
+¡No hay suficiente espacio para un artículo!|アイテムを入れるスペースがない！
+ALMACENAMIENTO|カバン
+ARTÍCULOS ALMACENADOS|保管したアイテム
+¡No hay espacio suficiente! ¡Artículo agregado al almacenamiento!|スペースが足りないので｢カバン｣にアイテムを収納した。
+Para ganar un nuevo nivel, presione el botón parpadeante.|点滅するボタンを#押してレベルアップ
+¡No tienes suficiente experiencia!|EXPが足りない！
+HABLAR CON EL ESTUDIANTE|生徒と話す
+CONFIGURAR UN TELESCOPIO|望遠鏡を設置する
+DEVOLVER|戻る
+No tienes un telescopio.|望遠鏡を持っていない。
+La estudiante está murmurando algo para sí misma.|生徒が何かブツブツと呟いている。
+Probablemente deberías dejarla en paz.|放っておいた方がよさそうだ。
+El agua fría te ayuda a organizar tus pensamientos. (+1 RAZÓN)|冷たい水は頭を整理するのにちょうどいい。(理性+1)
+El agua caliente ayuda con los músculos adoloridos. (+1 RESISTENCIA)|熱いお湯は筋肉痛に効く。(スタミナ+1)
+Clavar una muñeca de paja a este árbol te concederá tu deseo...##por un precio, claro.|この木にわら人形を#釘で打ち付けると#願いが叶うようだ…##対価さえ支払えば。
+##[puedes clavar dos muñecos de paja más aquí]|##（わら人形は#あと2つ打ち付けられる）
+##[puedes clavar una muñeca de paja más aquí]|##（わら人形は#もう1つ打ち付けられる）
+No deberías haber venido aquí otra vez.#(+1% DOOM)|##ここに戻って来るべき#ではなかった。#(破滅値+1%)
+ÁRBOL DE LA BRUJA|魔女の木
+Según la leyenda, las raíces de este árbol llegan hasta la tumba de una bruja linchada...|言い伝えによると、この#木の根はかつて絞首刑に#された魔女の墓に向かって#伸びているという…
+Observas una billetera escondida debajo de una rama caída. (+2 FONDOS)|落ちた枝の下に、財布が隠されているのに気付いた。(所持金+2)
+La bruja enterrada pasa factura...|埋葬されし魔女の報いを受けた…
+¡Se te llena la cabeza de cánticos prohibidos!|禁じられし詠唱が、頭の中に響き渡る…
+¡De repente te sientes mucho mejor! (+2 RESISTENCIA)|突如として元気が出てきた！(スタミナ+2)
+deseo de fuerza#[+2 RESISTENCIA]|力を求める#[スタミナ+2]
+deseo de conocimiento#[+HECHIZO]|知を求める#[+呪文]
+Deseo de dinero#[+2 FONDOS]|富を求める#[所持金+2]
+es una mala idea#[dejar]|止めておこう#[この場を立ち去る]
+Una joven policía te detiene.##<<¿Cómo podemos ayudarte?>>|若い女性警察官に#呼び止められる。##<<どうされました？>>
+ESTACIÓN DE POLICÍA|警察署
+Los agentes de la comisaría están ocupados trabajando en varios casos extraños...|署の警官たちは、様々な#怪事件の捜査に#追われている…
+solicitar más patrullas policiales|パトロールの強化を求める
+quejarse de las patrullas policiales|パトロールに文句をつける
+compartir información#(11 EXP -> 1 FND)|情報提供をする##11EXPを消費して#所持金+1
+salir de la estacion|署から出る
+El oficial le agradece y promete más patrullas policiales.#[Nivel de amenaza disminuido]|警官はお礼を言って、#パトロールの回数を#増やすと約束した。##[危険度が低下した]
+El oficial se disculpa y dice que no les quedan unidades de patrulla.|警官は謝りながら、#パトロール隊は#もう残っていない#と言った。
+El detective te agradece la información y te entrega una recompensa.#[-11 EXP / +1 FONDOS]|情報提供に対するお礼#として、刑事から#謝礼をもらった。##EXP-11#所持金+1
+El detective le agradece la información pero dice que no es suficiente para ganar un premio.|<<情報提供には#感謝するが、#そのくらいでは#何もやれんな。>>#と刑事が言った。
+¡Finalmente has logrado entrar al faro maldito!##Tu instinto te dice dos cosas: que quienquiera (o lo que sea) esté detrás de los extraños eventos, debe estar en el piso más alto de este lugar y que debes huir de este. Colócalo lo más lejos y rápido que puedas. Tienes miedo de que no haya vuelta atrás una vez que empieces a subir estas escaleras...|ついに、呪いの灯台の中に足を踏み入れた！#何者か、或いは"何か"がこの不可解な出来事の裏にいる。その存在はきっとこの最上階にいると直感が告げていた。それと同時にできるだけ遠く、そして速く、この場所から逃げるべきだとも…#恐ろしい予感がする。一度階段を上り始めたら#もう二度と戻れない気がして…
+acceder al almacenamiento|カバンを開ける
+descansa un poco (+2% DOOM)|少し休む(破滅値+2%)
+empezar a escalar|上り始める
+Has descansado un poco. (+1 RAZÓN y RESISTENCIA)|少し休んだ。(理性 / スタミナ+1)
+FARO (PLANTA BAJA)|灯台 1階
+A medida que la niebla antinatural se levanta lentamente, te sientes aliviado y te desplomas en el suelo...|徐々に不気味な霧が晴れていく…#安堵したあなたは床に倒れ込んだ。
+Las nubes oscuras se arremolinan alrededor del faro.#¿Llegaste demasiado tarde?|灯台の周りには暗い雲が渦巻いている。#来るのが遅すぎたのだろうか…？
+EL MONUMENTO|モニュメント
+Olvidada por todos, la ENTIDAD EXTERIOR espera pacientemente a quienes la necesitan...|皆の記憶から消え去った#「外なる存在」。#自らを必要とする者を、#じっとここで#待ち続けている…
+irse sin sacrificio #[enfurece a la ENTIDAD EXTERIOR]|何も捧げずに去る # [外なる存在の#怒りを買う]
+Te cortas la mano y llenas el cuenco con tu sangre...|あなたは手を切って、自らの血で捧げの器を満たした…
+Puedes sentir que tus recuerdos más preciados te abandonan...|数々の大切な思い出が消えてゆくのを感じる…
+Quemas el dinero en el cuenco...|あなたは器に入れたお金を燃やした…
+Has enojado a la ENTIDAD EXTERIOR...|｢外なる存在｣の怒りを買ってしまった…
+Negociar con una ENTIDAD EXTERIOR es algo arriesgado, pero ¿tal vez pueda posponer la perdición que se avecina?|「外なる存在」との取引は危険だ…#だが、迫り来る終焉の日を遅らせることが#できるかもしれない…
+alimenta a la ENTIDAD EXTERIOR con tu sangre|自身の血を#「外なる存在」に捧げる
+regala a la ENTIDAD EXTERIOR tus recuerdos más preciados|最も大切な思い出を#「外なる存在」に捧げる
+dejar un regalo material|いくらかお金を供える
+Todavía tienes algo de tiempo antes de que te inviten a la oficina.|呼び出しまで、#もうしばらくかかりそうだ。
+ÁREA DE RECEPCIÓN|待合室
+Esperas pacientemente en la zona de recepción.|待合室でじっと#呼び出されるのを待つ。
+Muchos enfermos esperan ser examinados por el sobrecargado personal del hospital.|職員たちが多忙を極めるなか、多くの病人が診察の時を待っていた。
+entrar al CONSULTORIO DEL MÉDICO (+2% DOOM)|診察室に入る#(破滅値+2%)
+pasar al CORREDOR A|廊下Aに向かう
+ingrese FARMACIA#(+3% DOOM)|薬局に入る#(破滅値+3%)
+Una enfermera pasa a su lado a toda prisa.|あなたの目の前を、#看護婦が慌てて#通り過ぎていった。
+OFICINA DEL DOCTOR|診察室
+El departamento de emergencias está abarrotado como resultado directo de las cosas raras que suceden en tu ciudad.|町で起きている#数々の怪奇現象。#その影響で、ここの救急科は人で溢れかえっていた。
+Finalmente te invitan al consultorio del médico.##<<Ahora... ¿cómo puedo ayudarte hoy?>>|ようやく、あなたは#診察室に案内された。##<<さて…今日は#どうされました？>>
+SALIDA|退室する
+[ACCIONES ADICIONALES DISPONIBLES EN LAS TARJETAS DE LESIONES]|(怪我があれば、ここで#追加アクションが選択可能)
+Aprovechas la oportunidad y robas un frasco de pastillas.|隙を見つけて、薬の瓶を盗み取った。
+No deberías arriesgarte a robar otra botella.|もう一本盗むだなんて、そんな危険は冒せない…
+Sientes que el cráneo observa cada uno de tus movimientos.|あの頭蓋骨に見られてるような気がする…
+CORREDOR A|廊下A
+Te aventuras más abajo en el pasillo...|さらに廊下の奥へと#進む…
+regresar al ÁREA DE RECEPCIÓN|待合室に戻る
+toma el ascensor|エレベーターに乗る
+entrar a la MORGUE|霊安室に入る
+¿Qué estás haciendo aquí?|ここで無駄な時間を#過ごしている場合#ではない。
+La puerta de la morgue está cerrada.|霊安室のドアは#閉まっている。
+CORREDOR B|廊下B
+El piso superior es inquietantemente silencioso en comparación...|それにしても、#上層階は不気味なほど#静かだ…
+consulte la HABITACIÓN DEL PACIENTE|病室を調べる
+No deberías molestar a los pacientes en recuperación.|回復期の患者だ。#声をかけない方が#いいだろう。
+DESCANSANDO EN CASA|自宅
+Ciertamente se siente bien estar de vuelta en casa.|やっぱり、家に戻ると#落ち着く。
+RESISTENCIA/RAZÓN|スタミナ / 理性
+El tiempo pasa tan rápido que te preparas para partir y continuar tu larga investigación.|もうこんな時間か…#そろそろ出よう。#あなたは覚悟を決め、#長きにわたる#調査の準備をした。#
+CONDENAR|破滅値
+RESISTENCIA/RAZÓN|スタミナ / 理性
+Espera... ¿qué es eso?#[ALGO MAL SABE DÓNDE VIVES]|待て…あれは何だ？#[真なる邪悪に#居場所を掴まれている]
+Tomas una breve siesta en tu cama.|ベッドで少し#仮眠を取った。
+Vendas las heridas recientes.|怪我の部分に#包帯を巻く。
+Te das una larga ducha caliente.|熱いシャワーを#ゆっくり浴びる…
+Te tragas los analgésicos.|鎮痛剤を飲む。
+Llamas a tu mejor amigo y hablas de cosas no relacionadas.|親友に電話をかけ、#取り留めもない話を#する…
+Te sientas en un sofá y lees tu libro favorito.|ソファに座って、#お気に入りの本を読む…
+CORREDOR DE APARTAMENTOS|アパートの廊下
+Llamas a la puerta de tu amigo y esperas...|友達の部屋のドアを#ノックして待つ…
+<<Oye idiota, estoy contigo. ¿Por qué volvemos a mi casa? >>|<<おいバカ、#なんで家に#戻るんだよ？>>
+<<Heyyy... Estoy muy ocupado hoy. Saldremos en otro momento, ¿vale? >>|<<えぇぇ…今日はホント#忙しくてさ…#また今度行こ、ね？>>
+Eh, KANA no está en casa. Deberías comprobarlo más tarde...|はあ、佳那は留守だ。#また後で来よう…
+Comprar artículos requiere un tiempo precioso. (+4% CONDENACIÓN)|貴重な時間を買い物でムダにしてしまった…(破滅値+4%)
+Eh... ¿dónde está ese perro?|あれ、あの犬は…？
+COMPRAR ARTÍCULOS|アイテムショップ
+SALIR SIN COMPRAR NADA|何も買わずに帰る
+necesita TARJETA YAKUZA|｢ヤクザカード｣が必要
+OBJETOS DISPONIBLES|購入可能なアイテム
+PRECIO|価格
+FONDOS|
+Un artículo con descuento aleatorio.|<セール品>##ランダムなアイテムを入手
+REPOBLAR|再仕入れ
+volver a lanzar elementos (+3% DOOM)|商品のリロール（破滅値＋３％）
+Has comprado un artículo nuevo.|新たなアイテムを購入した。
+No tienes suficiente dinero.|お金が足りない！
+¡Guau!-|<<わんっ！>>
+-ARTÍCULO EN DESCUENTO-|-セール品-
+Al salir, pasas por las máquinas expendedoras. (+2% CONDENACIÓN)|帰り際に自販機に立ち寄る。(破滅値+1%)
+COMPRAR ARTÍCULOS|アイテムショップ
+[cuesta DOOM ingresar]#[fondos -> artículos]|アイテムを購入できる(破滅値上昇)
+[cuesta DOOM entrar]#[recuperar RESISTENCIA y RAZÓN]|スタミナと理性が回復(破滅値上昇)
+DESCANSAR|自宅で休む
+MÁQUINA EXPENDEDORA|自販機
+Al entrar al DEN ILEGAL, reconoces instantáneamente a la chica que te atacó y dejó caer la receta.#Tiras el costoso medicamento sobre la mesa antes de acercarte.##<<¿E-es ese el medicamento para mi abuela?...>> Sus ojos se iluminan.#<<Pensé que se había ido para siempre... pero ¿por qué me ayudarías?>>|小屋へ入ると、中に一人の少女が#いるのに気が付く。あなたに襲いかかり、#処方箋を落としたあの子だ…#テーブルの上に高価な薬を放り投げ、#彼女に近寄る。##<<えっ、それっておばあちゃんの…？>>#彼女の瞳が明るく輝く。#<<もう絶対見つからないと思ってたのに…#でも、何でこんなこと…？>>
+explicar lo que está sucediendo actualmente|事情を話す
+<<Si lo que dices es cierto, ¡te ayudaré!>>|<<その話がホントなら、アタシが助けてあげる！>>
+<<...mi nombre es MIKU, por cierto.>>|<<…ちなみに、アタシの名前は未久。>>
+DEJAR|立ち去る
+ESPERA (+2% DOOM)|待つ (破滅値+2%)
+ÚLTIMOS CHISMES|何か新しい噂がないか聞く
+SOLICITE UNIRSE A USTED|仲間に誘う
+OBSERVAR|様子を伺う
+COMPARTE UNA HISTORIA ESPELIENTE [-5 EXP]|不気味な話を聞かせる (EXP+5)
+FUERZA PARA AYUDARTE|強引に仲間にする
+GOSSIP - Conozca noticias tanto aleatorias como relacionadas con casos.#ASK - Prueba de reclutamiento basada en CARISMA (repetible).#FORCE - Prueba de reclutamiento basada en equipo, FUERZA y DOOM actual|噂: 事件の手がかりから他愛のない話まで、ランダムに情報を得る#仲間に誘う: 成功率はカリスマに基づく（何度でも実行可能）#強引に仲間にする: 成功率は現在の装備や筋力、破滅値に基づく
+<<Lo siento, no tengo tiempo para juegos.>>|<<悪いけど、遊んでるヒマなんてないからさ。>>
+<<¡Dame un respiro!>>|<<ゴメン、無理！>>
+<<¡Siempre fuiste tan bromista!>>|<<いつもの冗談？>>
+<<¡Te ayudaré!>>|<<手伝うよ！>>
+<<Suena extraño… ¡pero te creo!>>|<<変な話…けど、信じるよ！>>
+<<¿Escuchaste? Hay un acantilado cerca con agujeros de formas extrañas...>>|<<この近くの崖に、変な形の穴が開いてるんだって…>>
+<<¿Has oído hablar de este programa informático que...>>|<<このパソコンのプログラム、聞いたことある？>>
+<<No ha venido a la escuela desde la semana pasada...>>|<<彼女、先週から学校来てなくて…>>
+<<¿Cómo te fue en tu examen de inglés?>>|<<英語の試験、どうだった？>>
+<<Si OOO no hizo esos dibujos, entonces ¿quién los hizo?>>|<<OOが描いたんじゃないんなら、誰の？>>
+<<Ha sido muy difícil conciliar el sueño últimamente.>>|<<最近、全然寝れてなくてさぁ、しんどいわ…>>
+<<Sigo escuchando un gemido proveniente del tercer cubículo del baño de niñas.>>|<<女子トイレの3番目の個室から、誰かの泣き叫ぶ声が聞こえるんだって。>>
+<<...no ha sido el mismo desde que regresó.>>|<<あいつ…帰ってきてから、何か人が変わったみたいで…>>
+<<Recientemente, el agua del grifo en todo mi vecindario empezó a tener un sabor extraño. Casi como... >>|<<最近、近所の水道水がぜんぶ変な味がして…何て言うか…>>
+<<...ayer me dijo que lo volvió a ver.>>|<<…昨日、また彼女がアレを見たらしいよ。>>
+Te nota y sonríe.|がこちらに気づき、にこっと笑った。
+ondas en ti.|が手を振っている。
+<<¿Has oído hablar de este programa informático que...>>|<<このパソコンのプログラム、聞いたことある？>>
+<<No ha venido a la escuela desde la semana pasada...>>|<<彼女、先週から学校に来てなくて…>>
+<<¿Cómo te fue en tu examen de inglés?>>|<<英語の試験、どうだった？>>
+<<Si OOO no hizo esos dibujos, entonces ¿quién los hizo?>>|<<OOが描いたんじゃないなら、誰のさ？>>
+<<Ha sido muy difícil conciliar el sueño últimamente.>>|<<最近、全然寝れてなくてさぁ、しんどいわ…>>
+es desarmar su bolígrafo y volver a armarlo una y otra vez.|はペンをバラしては、何度も組み立て直している。
+Está esperando que comience la clase.|は授業が始まるのを待っている。
+Está mirando las nubes. Parecen cabezas.|は雲を見つめていた。頭みたいな形の雲だ…
+está leyendo un manga de terror sobre espirales.|は「うずまき」を題材としたホラー漫画を読んでいる。
+Parecen relajados.|リラックスしているようだ。
+Se ven bien.|は元気そうだ。
+Parecen nerviosos.|は緊張しているようだ。
+Hay algo extraño en ellos.|の様子が、どこかおかしい…
+Están temblando de miedo.|は、あまりの恐怖に震えている。
+No conoces ninguna buena historia para compartir.|人に話すほどの良いネタがない。
+Parece visiblemente conmovido por tu historia.#<<E-es sólo una historia, ¿verdad?...>>|は明らかに動揺している。#<<た、ただのネタでしょ…？>>
+valor de INTIMIDACIÓN combinado|｢威圧｣の合計値
+El estudiante, amenazado por tu arma, acepta ayudarte. #Sin embargo, no esperes que se mantengan leales.|武器を向けられた生徒は怖がって、調査に協力すると申し出た。#裏切りの可能性がある以上、過度な期待はしない方が良い。
+El estudiante te empuja y escapa, gritando pidiendo ayuda.#(+5% DOOM)|生徒はあなたを突き飛ばし、助けを求めて逃げ出した。#(破滅値+5%)
+El edificio de la escuela incendiado está vacío.|焼け落ちた校舎には誰もいない。
+Muchos de los libros que puedes encontrar aquí fueron donados tras el accidente en el edificio de la universidad.|ここにある本の多くは#大学校舎で起きた#事故の後に#寄贈されたものだ。
+BIBLIOTECA|図書室
+Sientes la mirada de un bibliotecario...|司書さんからの#視線を感じる…
+estudiar tomos antiguos#[+SPELL; +3% CONDENACIÓN]|古文書を研究する##呪文を習得#破滅値+3%
+tomar notas#[+5 EXP; +2% CONDENACIÓN]|メモを取る##EXP+5#破滅値+2%
+Llevas algunos libros a la sala de lectura principal...|本を何冊か#閲覧室に持って行く…
+Decides tomar algunas notas sobre temas que podrían ser relevantes en este caso.##Ojalá no se desperdicie todo tu trabajo.#[+5 EXPERIENCIA]|この件に関連しそうな#テーマを探しだし、#いくつかメモを#取ることにした。##どこかで、この情報が#役に立てばいいが…#(EXP+5)
+Llevas un tomo polvoriento a la sala de lectura principal...|埃を被った本を#何冊か閲覧室に#持って行く…
+devolver el libro y volver|本を返却して#図書室に戻る
+devolver los libros y salir de la biblioteca|本を返却して#図書室から出る
+Interpretar las traducciones antiguas e incompletas es una tarea tediosa.##Finalmente encuentras el fragmento que buscabas.#[+HECHIZO NUEVO]|この古くて不完全な翻訳を解読しなければ…#骨の折れる作業だ。#そして、ようやく#探していた#一節を見つけた。#
+[¡NUEVO LOGRO DESBLOQUEADO!]|[新たな実績がアンロックされた！]
+La enfermera trata|先生による手当て:
+<<Lo siento querida, hay un paciente aquí. Te llamaré...>>#dice la enfermera mientras te mira.##<<¿Cómo puedo ayudarte hoy?>>##[TODAS TUS HERIDAS MENORES SON TRATADAS]|<<阿唖ァ亞ごめン、#生徒さンがキた。#後でかけ直ス…>>#そう言って、彼女は#こちらをじろじろと見た。##<<どうしたの？>>##[軽傷が全て治る]
+ENFERMERA DE LA ESCUELA|保健室
+Los estudiantes más jóvenes le tienen miedo... ¿por qué?|なぜか、保健室の先生は#下級生達に怖がられていた…#どうしてだろう？
+El aire aquí es notablemente más frío... (+1% DOOM)|ここの空気は、他より一段と冷たく感じる…(破滅値+1%)
+<<La historia de esta región es simplemente... fascinante. ¿Por qué no lo descubres tú mismo? >>|<<何というか、#この地域の歴史は…#魅力的なんです。#ご自身の目で#確かめてみては？>>
+CLUB DE HISTORIA|歴史部
+¿Por qué este popular estudiante se uniría a este extraño club?|あんな人気な生徒が、#どうしてこんな変な部活に#入ったんだろう？
+YA ESTÁS ALLÍ|現在地
+VIAJAR A CASA|自宅に向かう
+VIAJAR AL CENTRO|中心街に向かう
+VIAJAR A LA ESCUELA|学校に向かう
+VIAJE AL HOSPITAL|病院に向かう
+VIAJAR AL MAR|海辺に向かう
+VIAJAR AL BOSQUE|森に向かう
+VIAJAR A LA MANSIÓN|屋敷に向かう
+VIAJAR AL PUEBLO|村に向かう
+VIAJAR A APARTAMENTOS|アパートに向かう
+VIAJAR A|行き先:
+NIVEL DE AMENAZA|危険度
+NIVEL DE AMENAZA DEL CENTRO|中心街の危険度
+NIVEL DE AMENAZA DE LA ESCUELA|学校の危険度
+NIVEL DE AMENAZA DEL HOSPITAL|病院の危険度
+NIVEL DE AMENAZA DE SEASIDE|海辺の危険度
+NIVEL DE AMENAZA DEL BOSQUE|森の危険度
+NIVEL DE AMENAZA DE LA MANSIÓN|屋敷の危険度
+NIVEL DE AMENAZA DEL PUEBLO|村の危険度
+NIVEL DE AMENAZA DE OOO|OOOの危険度
+NIVEL DE AMENAZA DE LOS APARTAMENTOS|アパートの危険度
+NIVEL DE AMENAZA|の危険度
+NO PUEDES INVESTIGAR#TU CASA|自宅は#調査できない
+INVESTIGAR|調査先:
+Esta ciudad está cambiando tan rápido que ya apenas puedes reconocerla...|この町の変貌ぶりは異常だ…かつての塩川とはまるで違う。
+[ELIGE HASTA DOS ACCIONES ADICIONALES DIFERENTES POR UBICACIÓN PARA ESTE JUEGO.]|今回の調査で向かえる場所を、最大2つまで選択できます。
+[ELIGE UNA ACCIÓN ADICIONAL POR UBICACIÓN QUE SE ADAPTE A TU GUSTO.]|各調査ポイントにつき1つまで、向かう場所を選択できます。
+aleatorizar y continuar|ランダムに選んで続ける
+AHORRAR|セーブ
+CARGA|ロード
+confirmar y CONTINUAR|決定して続ける
+HOGAR|自宅
+CENTRO|中心街
+ESCUELA|学校
+HOSPITAL|病院
+PLAYA|海辺
+BOSQUE|森
+MANSIÓN|屋敷
+ALDEA|村
+DEPARTAMENTO|アパート
+Recupera algo de RESISTENCIA y RAZÓN aumentando la DOOM entrante.|破滅値が上がる代わりに#スタミナと理性が#回復する。
+TIENDA OCULTA|オカルトショップ
+Una amplia variedad de cosas útiles con el vendedor más lindo.|可愛い売り子さんのいるお店。便利なアイテムが揃っている。
+Un conjunto constante de artículos básicos, refrigerios y bebidas.|基本的なアイテムや#スナック、ドリンクが#常に揃っている。
+Boutique centrada en artefactos malditos y cosas ocultas.|呪われた工芸品や、#オカルト的な物品を#扱う専門店。
+Gestiona encuentros de combate y comparte tus conocimientos con los oficiales.|警官と情報共有をする。#戦闘エンカウントの#頻度も調整可能。
+PATIO|校庭
+Contiene tomos polvorientos donados por la Universidad de Tokio. Estúdialos para aprender HECHIZOS o ganar EXP.|東大から寄贈された#という本が埃まみれに#なって並んでいる。#勉強して、呪文やEXPを#獲得できる。
+Convence o obliga a los estudiantes aquí reunidos a unirse a ti como ALIADOS.|ここに集まった生徒を#強引に、あるいは説得#して仲間に加える。
+Enfermera con fama de morbosa. Ella tratará sus LESIONES MENORES de forma gratuita.|保健室の先生。#ぞっとするような噂が#流れているが、#軽傷くらいなら#無料で治してくれる。
+Conozca la historia de la ciudad y compre objetos, hechizos y mejoras de ocultismo.|塩川の歴史について学ぶ場所。オカルトアイテムや呪文、パークカードが#手に入る。
+FARMACIA|薬局
+INGRESAR|中に入る
+Un edificio demasiado grande para las necesidades del pueblo. Salta la fila y cura tus heridas.|小さな町の病院にしては大きすぎる建物。#並ばずに怪我を#治してもらえる。
+Aquí podrá adquirir una amplia variedad de productos de primeros auxilios y fármacos.|様々な救急用品、#医薬品が購入できる。
+FERRETERÍA|金物屋
+MONUMENTO|モニュメント
+DEN ILEGAL|密造者の小屋
+La tienda de FUJII-SAN cuenta con herramientas para todas sus necesidades técnicas y de bricolaje.|藤井さんのお店。#工具や調査に役立つ道具が揃っている。
+Olvidada por todos, la ENTIDAD EXTERIOR te ayudará contra los DIOSES ANTIGUOS... por un precio.|人々の記憶から消えた#｢外なる存在｣が、旧き神に立ち向かう手助けを#してくれる…#対価さえ払えば。
+El club de billar propiedad de gánsteres es el único lugar para comprar productos ilegales.|ヤクザが営む#ビリヤード場。#違法な物品を購入できる唯一の場所。
+Este antiguo árbol, donde fue enterrada una bruja linchada, puede conceder tus deseos... por un precio.|絞首刑の後に#埋葬された魔女。#彼女の眠る古木が、#願いを叶えてくれる…#対価さえ払えば。
+VECINO|隣人
+Tu amigable vecino. Permite un misterio y una oportunidad para un aliado.|仲の良い隣人。#共に謎を解く仲間に#なることも。
+[administrar nivel de amenaza]#[EXP -> FONDOS]|｢危険度｣の調整が可能
+[estudia el misterio actual]#[DOOM -> hechizos]|謎の研究 / 呪文習得(破滅値上昇)
+[cuesta DOOM entrar]#[reclutar aliados / aprender chismes]|仲間の募集 / 噂を聞く(破滅値上昇)
+[cuesta DOOM entrar]#[tratar HERIDAS MENORES]|｢軽傷｣の治療が可能(破滅値上昇)
+[cuesta DOOM entrar]#[DOOM-> recompensas]|部室に入る(破滅値上昇)#破滅値を対価に色々なものが手に入る
+[cuesta DOOM entrar]#[curar heridas]|｢怪我｣の治療が可能(破滅値上昇) 
+[bajar DOOM por un precio]|対価を支払えば、破滅値が下がる
+[indisponible]#[necesita mayor DOOM]|破滅値をさらに上げる必要がある
+[árbol que concede deseos]#[MALDICIÓN -> varios bonos]|願いを叶える木(破滅値上昇)
+[posibilidad de un ALIADO]|仲間に加わることも(破滅値上昇)
+URBANISMO#[opción]|都市計画#(細かな調査先の選択が可能)

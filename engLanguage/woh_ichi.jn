@@ -1,0 +1,99 @@
+JUGADOR DE BASEBALL|野球部員
+Nombre: YUMIKO ICHIMURA#20 / MUJER #Cuando su hermano gemelo desapareció repentinamente durante unas vacaciones familiares, Yumiko juró encontrarlo, sin importar el costo...|市村 由美子#20歳 / 女#家族旅行中、突如として双子の兄が#行方不明になってしまう。#その時、彼女は誓った。#兄を見つけ出す、たとえどんな犠牲を#払ってでも…
++ FUERZA#- CONOCIMIENTO#comienza con LUCKY BAT|筋力＋#賢さ－#｢幸運のバット｣を持った状態で#スタート
+YUMIKO|由美子
+VECINO|隣人
+Nombre: KANA#?? / ?? #Vecina ha desaparecido mientras investigaba un extraño caso. KANA está decidida a encontrarlos y rescatarlos.|佳那#？？ / ？#奇怪な事件を追っていた隣人が、#調査中に姿を消してしまう。#佳那はその隣人を見つけ、#助け出すと決めた。
++ DIVERSIÓN#- OJO#comienza con REFRESCO|楽しさ＋#眼球－#｢ソフトドリンク｣を持った状態で#スタート
+KANA|佳那
+KANA: <<Este no es el final.>> (+5% DOOM)|佳那: <<これで終わりじゃない。>> (破滅値+5%)
+GOLPE Y GOLPEO|必中の一振り
+La acción de combate PREPARAR ATAQUE aumenta el daño del siguiente ataque con arma en 2|戦闘アクション｢攻撃準備｣を行うと#次に行う武器攻撃のダメージ+2
+MANIOBRA RÁPIDA|俊敏な動き
+La probabilidad de acción de combate de DODGE aumentó en un 10 %.|戦闘アクション｢回避｣の#成功率が10％上昇
+TERCER VENTAJA DE YUMI|THIRD PERK OF YUMI
+|
+CRECIMIENTO DE HONGOS|真菌の増殖
+-2 MAX RAZÓN#(descartar): pierde 3 RESISTENCIA|理性上限-2#捨てる: スタミナ-3
+<<¿Qué es ese olor?>>|<<この臭いは何だ？>>
+TALLAS PROTECTORAS|守りの刺青
+recibe -1 DAÑO durante los encuentros de combate#[COSTO: 4 RESISTENCIA]|戦闘中の被ダメージ-1##コスト: スタミナ-4
+Tallas los símbolos protectores en tu pecho y brazos... (-4 RESISTENCIA)|あなたは胸と腕に守りの印を彫った…(スタミナ-4)
+TALLAS PROTECTORAS#[-1 DAÑO recibido]|お守りの刺青: 被ダメージ-1
+FRENESÍ DE SANGRE|血に飢えた狂気
++1 DAÑO / recibe daño de combate adicional#(descartar): pierde 3 RESISTENCIA|ダメージ+1#戦闘ダメージを追加で受ける#捨てる: スタミナ-3
+<<¿Eso es pintura?>>|<<あれってペンキ…？>>
+EIMI|詠美
+completar un misterio recupera 1 RAZÓN|<謎解明時>#理性+1
+<<gracias por salvarme>>|<<助けてくれて、ありがとね>>
+[curador de la galería]|[学芸員]
+#[EIMI]: +1 REASON|#[詠美]: ｢理性｣+1
+UCHIDA|内田
+Bonificación de EXP por evaluar la situación durante el combate (una vez por enemigo)|戦闘アクション｢分析｣を実行時、#EXPボーナスを獲得#(敵1体につき1度のみ)
+'respiración fuerte'|鼻息が荒い
+[arrastre otaku]|[キモいオタク]
+UCHIDA balbucea algunos datos sobre tu enemigo. (+7 EXP)|内田が敵の情報をボソボソ呟く。(EXP+7)
+T'CITHURA|ティ・シトゥラ
+A medida que te acercas al puente que sale de la aldea, MATSUDA-SAN se detiene de repente.#<<Yo... conozco esta melodía...>>##Antes de que puedas reaccionar, comienza a desvestirse y corre hacia la oscuridad. . Sorprendido, comienzas a escuchar un leve gemido proveniente de la formación rocosa. Lo que ves allí se siente irreal. ¡Todos los aldeanos están desnudos! Están bailando alrededor de los pilares mientras algo emerge lentamente del río...|村の外へ続く橋に差し掛かったところで、急に松田さんが立ち止まる。#<<私は…この音色を知っている…>>##すると彼は止める間もなく服を脱ぎ始め、暗闇の中へと走り去った。#突然の出来事にショックを受けていると、岩場から微かに呻き声が聞こえてくる。#そこで目にしたのはあまりに非現実的な光景だった…#村人達がみな裸になり、柱の周りで踊っている。#次の瞬間、川からゆっくりと何かが姿を現した…
+LA DANZA DE T'CITHURA|ティ・シトゥラの舞
+LOS ALDEANOS DE KAIBARA curarán a T'CITHURA en cada turno.|毎ターン、村人たちが#ティ・シトゥラを回復させる。
+La diosa de la fertilidad ha estado cuidando la aldea de KAIBARA durante siglos, pidiendo a cambio sacrificios humanos.|何世紀にもわたって、貝原村を支えてきた#豊穣の女神。#その見返りとして、人間の生贄を求めていた。
+LOS ALDEANOS DE KAIBARA|貝原村の村人たち
+la diosa de la fertilidad|豊穣の女神
+Sientes la necesidad de entrar al agua...|あの川の中に入りたい。そんな衝動に駆られる…
+Quieres unirte al baile de la fertilidad...|あの豊穣の舞に加わりたい…
+Te sientes extrañamente excitado...|妙な興奮を覚える…
+¡La loca danza ritual cura a T'CITHURA! (+1 SALUD)|狂気的な儀式の舞で、敵の体力が回復する！(体力+1)
+HORROR DE CARNE|無皮の怪物
+Las olas chocan violentamente contra las rocas mientras el horror sangriento comienza a rodearte...|荒れ狂う波が激しく岩に打ち寄せる中、#血塗れの怪異があなたを追い詰め始めた…
+Maldecida por una antigua tablilla que encontró accidentalmente, la piel del biólogo marino comenzó a actuar de forma independiente.|海洋生物学者により、偶然発見された#古代の石版。#その呪いを受けた男の皮膚は、#ひとりでに動くようになった。
+¡EL HORROR DE LA CARNE te ataca!|“無皮の怪物”の攻撃！
+¡EL HORROR DE LA CARNE te rasca!|“無皮の怪物”に引っかかれた！
+¡EL HORROR DE LA CARNE te muerde!|“無皮の怪物”に噛まれた！
+ASESINO KABUKI|能面殺人鬼
+¡El hombre enmascarado salta detrás de la puerta y apenas esquivas su espada!#<<No puedo dejar que salgas de esta habitación...>>##¿Vas a convertirte en su última víctima?|突然、ドアの裏から能面をつけた男が飛び出し、#こちらに向かって刃を放った。辛うじてその切っ先を避ける！#すると殺人鬼は一歩下がり、恐ろしい作品を見せてきた…#人間の爪で作られた「未完成の子供の像」だ。##突如、その像が息を吹き返したかのように動き出し、男の首筋に噛みついた！#男は明らかに動揺しており、噴き出す血を止めようとしている。##血の噴水が部屋中を赤く染め上げる中、ゆっくりと子供がこちらを振り向いた…
+ASAO SHIRAISHI perdió a su hija en un accidente. Ahora está decidido a hacer cualquier cosa para traerla de regreso.|事故で娘を亡くした男、白石朝雄。#事故以来、彼は娘を連れ戻すためならば#手段を選ばなくなった。
+el padre desesperado|深き絶望に染まった父親
+¡KABUKI KILLER te apuñala con su cuchillo!|“能面殺人鬼”にナイフで刺された！
+¡KABUKI KILLER te corta la cara!|“能面殺人鬼”に顔を切り裂かれた！
+¡KABUKI KILLER te patea la pierna!|“能面殺人鬼”に足を蹴られた！
+NIÑO INACABADO|未完成の子供
+¡El hombre enmascarado salta detrás de la puerta y apenas esquivas su espada!#El KABUKI KILLER da un paso atrás, revelando su espantosa obra de arte: una estatua inacabada de un niño hecha de uñas humanas.##De repente, la estatua cobra vida y muerde el cuello del hombre! El asesino en serie está visiblemente confundido e intenta detener la hemorragia mientras un géiser de sangre tiñe de rojo todo el depósito de cadáveres.##El rostro del ser se vuelve lentamente hacia ti...|突然、ドアの裏から能面をつけた男が飛び出し、#こちらに向かって刃を放った。辛うじてその切っ先を避ける！#すると殺人鬼は一歩下がり、恐ろしい作品を見せてきた…#人間の爪で作られた「未完成の子供の像」だ。##突如、その像が息を吹き返したかのように動き出し、男の首筋に噛みついた！#男は明らかに動揺しており、噴き出す血を止めようとしている。##血の噴水が部屋中を赤く染め上げる中、ゆっくりと子供がこちらを振り向いた…
+MANA SHIRAISHI era la hija del KABUKI KILLER. Lo que está frente a ti es su grotesca caricatura.|能面殺人鬼の娘、白石麻菜。#あなたの目の前に立つのは、#彼女を模倣した奇怪な存在である。
+¡NIÑO INACABADO te muerde el brazo!|“未完成の子供”に腕を噛まれる！
+¡NIÑO INACABADO te rasca!|“未完成の子供”に引っかかれる！
+¡NIÑO INACABADO te muerde la pierna!|“未完成の子供”に足を噛まれる！
+---ZHECTAST, EL HORROR DE LAS ESTRELLAS---|－星辰より訪れし恐怖 ゼクタスト－
+Un gran meteorito cayó en un campo de un pueblo cerca de SHIOKAWA. Un granjero que lo encontró se puso en contacto con investigadores de Tokio, pero cuando llegaron, lo único que encontraron fue un charco húmedo de una sustancia viscosa rosada.|塩川の近くにある村の畑に、巨大な隕石が落下する。それを見た農家が東京の研究者に#連絡を入れた。しかし、彼らが到着した時、そこにはピンク色の粘液が溜まっているだけで…
+FORMA PERFECTA: Cada 21% de DOOM, los personajes pierden 1 estadística.|完全体: 破滅値が21％上がるごとに能力値が1下がる
+LA FORMA PERFECTA|完全体 ゼクタスト
+Un gran meteorito cayó en un campo de un pueblo cerca de SHIOKAWA. Un granjero que lo encontró se puso en contacto con investigadores de Tokio, pero cuando llegaron, lo único que encontraron fue un charco húmedo de una sustancia viscosa rosada.|塩川の近くにある村の畑に、巨大な隕石が落下する。#それを見た農家が東京の研究者に連絡を入れた。##しかし、彼らが到着した時、そこにはピンク色の粘液が#溜まっているだけで…
+[cada 21% de DOOM reduce tus estadísticas en 1]|破滅値が21%上がるごとに能力値が1下がる
+Das un paso hacia la Forma Perfecta. (-1 TODAS LAS ESTADÍSTICAS)|その身が“完全体”へと一歩進んだ…(全能力値-1)
+ZHECTAST|ゼクタスト
+LA FORMA PERFECTA|完全体
+cada 21% de DOOM reduce tus estadísticas en 1|破滅値が21%上がるごとに#全能力値が1下がる
+---EH-ŻHAL, LA TRISTEZA INCONCEPIBLE---|－人智の及ばぬ苦悶 エー＝ザル－
+Deslizándose a través del retorcido tapiz de dimensiones, los sirvientes purulentos de EH-ŻHAL se aferran a nuevos recipientes, devorando vorazmente la esencia misma del sufrimiento humano, hinchando sus formas grotescas. Lenta pero inevitablemente, los anfitriones sucumben y sus cuerpos y mentes se vuelven uno con el dios floreciente.|次元を歪めるエー＝ザルの従者たちは疫病のように宿主から宿主へと跳び移り、その哀しみを貪り食い、どんどん重く、大きく成長していく。#世界からの重圧に耐えきれず、力尽きた者達は、やがて神と一つとなり…
+AL-MISERIA: Cada misterio, un nuevo estatus empezará a agobiarte.|大いなる苦悶: 調査中、様々なマイナス効果が重くのしかかる
+AL-MISERIA|大いなる苦悶
+Cada misterio, un nuevo estado comenzará a agobiarte.|調査中、様々なマイナス効果が重くのしかかる
+EH-ŻHAL|エー＝ザル
+LA TRISTEZA INCONCEBIBLE|人智の及ばぬ苦悶
+El insidioso PARÁSITO aumenta de tamaño, sus zarcillos serpentean cada vez más profundamente en las grietas de tu existencia...|人に寄生し、次第に大きくなる寄生体。その命はじわじわと蝕まれ、遂には何も残らなくなる。
+Al final del misterio, aumenta el DOOM de la siguiente manera:|謎解明時に上昇する破滅値
+2% por cada ALIADO|｢仲間｣の数 x 2%
+2% por cada FONDOS|所持金 x 2%
+2% por cada ARTÍCULO en inventario|所持品内のアイテム数 x 2%
+2% por cada HECHIZO aprendido|｢呪文｣の数 x 2%
+1% por cada 10 EXP (redondeado hacia abajo)|10EXPごとに1%ずつ (端数切り捨て)
+1% por cada LESIÓN activa|｢怪我｣の数 x 1%
+1% por cada CURSO activo|｢呪い｣の数 x 1%
+PARÁSITO DE LA MISERIA|苦悶の寄生体
+EL PARÁSITO DE LA MISERIA se hace más grande...|“苦悶の寄生体”は成長し、さらに大きくなっている…
+CONDENAR|破滅値
+Era sólo cuestión de tiempo. Los PARÁSITOS DE LA MISERIA te quitaron casi todo. Lo último que te quitaron, después de semanas de tortura, fue tu vida.|それは単に時間の問題だった。苦悶の寄生体に全てを取り込まれ、虫の息となるあなた。#何週間にも及ぶ苦しみの末、最後に奪われたのは…その命だった。
+Una vez ser humano, ahora te has vuelto uno con el Dios de la Tristeza Inconcebible.|かつては人間だったあなたも、今や苦悶をもたらす神と一つになったのだ。
+Tristeza inconcebible|苦悶に満ちた死
+Si el misterio terminara ahora mismo, DOOM aumentaría|この謎が解けた時に上昇する破滅値
+Tirar 1 FONDOS|金を投げ捨てる(所持金-1)

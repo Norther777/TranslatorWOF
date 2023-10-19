@@ -1,0 +1,402 @@
+Inglés|Japanese
+NUEVA HISTORIA|はじめから
+OPCIONES|オプション
+EXTRA|エクストラ
+SALIDA|終了
+MUNDO DE TERROR|恐怖の世界
+(HAGA CLIC EN CUALQUIER LUGAR PARA CONTINUAR)|（画面をクリックしてください）
+INICIAR DEMOSTRACIÓN|デモを始める
+MODOS|MOD
+BAJAR VOLUMEN|音量を下げる
+SUBE EL VOLUMEN|音量を上げる
+CONTINUAR|次へ進む
+MOSTRAR MATEMÁTICAS ADICIONALES|詳細な計算式の表示#
+PANTALLA COMPLETA/VENTANA|全画面表示 / ウィンドウ
+EXTENSIÓN DE PANTALLA COMPLETA: ACTIVAR/DESACTIVAR|画面拡大: ON / OFF
+MODO 1BIT|1bitモード
+MODO 2 BITS|2bitモード
+ÚLTIMA PALETA DISPONIBLE|カラーパレット: 最後に飛ぶ
+PALETA ANTERIOR|カラーパレット: 前へ
+SIGUIENTE PALETA|カラーパレット: 次へ
+PRIMERA PALETA DISPONIBLE|カラーパレット: 最初に戻る
+DESACTIVAR EFECTOS EXTRA PARA DETERMINADAS ESCENAS (MÁS FPS)|特定シーンの追加エフェクトを#無効にする(FPSが向上)
+ESCALA 1X|画面拡大: 1倍
+ESCALA 2X|画面拡大: 2倍
+ESCALA 3X|画面拡大: 3倍
+BORDE DE PANTALLA COMPLETA ESTILO A|全画面表示の境界線: A
+BORDE DE PANTALLA COMPLETA ESTILO B|全画面表示の境界線: B
+PANTALLA COMPLETA ENCENDIDO/APAGADO|全画面表示: ON / OFF
+VOLUMEN|音量
+(INICIA SESIÓN PARA CONTINUAR)|（ログインして進む）
+¿QUÉ HAY DE NUEVO?|お知らせ
+casos resueltos|解明済みの謎
+CONDENAR|破滅値
+LÍMITE DE ARTÍCULOS|アイテム数上限
+LÍMITE DE HECHIZO|呪文数上限
+NIVEL DE CARÁCTER|探索者のレベル
+EXPERIENCIA|EXP
+ELEMENTOS|アイテム
+HECHIZOS|呪文
+ESTADO|ステータス
+TÚ|あなた
+DIOS VIEJO|旧き神
+ESTADO DE LA CIUDAD|町の状態
+ALIADOS Y VENTAJAS|仲間とパーク
+'un sentimiento de paranoia e incomodidad es casi palpable en el aire...'|イヤな予感がする…#何かに取り憑かれそうなほど#重苦しい雰囲気だ…
+[A medida que DOOM avanza, la influencia del DIOS VIEJO corromperá y cambiará lentamente esta tranquila ciudad costera]|[破滅値が上がるにつれ、この穏やかな港町が旧き神の狂気に侵蝕されていく]
+CRÉDITOS Y GRACIAS|クレジット
+LOGROS|実績
+EVENTOS CODEX|怪異の写本
+BESTIARIO ENEMIGO|異端生物図鑑
+PANTEÓN|万神殿
+EDITOR DE EVENTOS|イベントエディター
+ENCICLOPEDIA DE FINALES|終局全書
+RESTABLECE TU PROGRESO|達成状況のリセット
+!!¡¡ADVERTENCIA!! Esto restablecerá el progreso de tu juego, incluidos los logros y las entradas de CODEX/BESTIARIO.|※この操作を行うと、｢実績｣｢怪異の写本｣そして｢異端生物図鑑｣を含むゲームの進行状況がリセットされます。
+Explora el vasto cosmos y aprende sobre cosas más antiguas que el tiempo.|広大なる宇宙を探索し、太古の歴史を学ぶことができます。
+Verifique el progreso de sus logros y planifique su próxima partida.|実績の達成度を確認し、次の#調査の計画を立てましょう。
+Consulta qué eventos has visto y cuántos te faltan aún.|これまでに見たイベントや#未プレイのイベントを#確認できます。
+Comprueba qué enemigos has derrotado y cuántos siguen acechando por ahí.|これまでに倒した敵、#そして未だこの世界に蠢く#敵を確認できます。
+Actualmente, sólo puedes editar los archivos .ito manualmente en un editor de texto. El editor del juego es un trabajo en progreso.|現在、.itoファイルのみがテキストエディターで編集可能となっています。インゲーム・エディターは開発中です。
+¡Las modificaciones se han desactivado temporalmente y estarán disponibles pronto!# #¡Gracias por tu paciencia!|MODは一時的にOFFになっていますが、今後、実装する予定です。##もうしばらくお待ちください。
+volver al #menú|メニューに#戻る
+progreso|達成状況
+Varios candados te impiden entrar al edificio.##Necesitas cinco LLAVES.|南京錠がいくつもかかっていて、#中に入れない。##鍵が5つ必要だ。
+El siniestro faro lleva cerrado más tiempo del que puedes recordar...|この不気味な灯台は、#だいぶ前に閉鎖された。##思い出せないほど#昔のことだ…
+DEJAR|立ち去る
+ENTRAR AL FARO|入口に向かう
+CANDADO ABIERTO|この錠を開ける：
+No tienes una llave adecuada para abrir este candado.|この錠に合う鍵を#持っていない。
+Usaste la llave para abrir uno de los candados.|鍵を使って、錠を一つ開けた。
+Ya has abierto este candado.|この錠はもう開いている。
+Uno o más candados impiden la entrada al faro.|いくつもの南京錠が#かかっており、#中に入れない。
+Si es la primera vez que juegas a WORLD OF HORROR, te recomendamos que comiences con la opción 'ESCALZADORA HISTORIA DE LAS TIJERAS ESCOLARES' antes de probar partidas más complejas.|初めての方は、複雑な謎に挑む前に「身の毛もよだつハサミ女の未解決事件」からプレイすることをオススメします。
+Opciones de JUEGO RÁPIDO|クイックプレイの設定
+COMBATE|戦闘
+DIFICULTAD|難易度
+CRONOGRAMA|タイムライン
+complejidad|レベル
+¿Te gustaría personalizar el aspecto de tu próxima partida?##Hay muchas paletas de colores y modos de visualización para elegir.|カラーパレットを#変えてみませんか？##豊富なカラーパレットの中から#好みのものをお選びください。
+#EXTENDIDO|##拡張パック
+(no vuelvas a preguntar)|（次回から表示しない）
+(pregunta de nuevo la próxima vez)|（次回も表示する）
+ALEATORIZAR|ランダム
+HISTORIA ESCALIZADORA DE LAS TIJERAS ESCOLARES|身の毛もよだつハサミ女の未解決事件
+ACTIVIDAD EXTRACURRICULAR|部活動
+JUEGO RÁPIDO|クイックプレイ
+(PERSONALIZA EL JUEGO)|カスタムプレイ
+--- MODO MUERTE: aleatorio ---|－デスモード: ランダム－
+--- MODO DE MUERTE: ÚLTIMA RESISTENCIA ---#Comenzar nuevos encuentros te matará si caes por debajo de 1 RESISTENCIA/RAZÓN, pero puedes bajar a -5 en combate. Esta opción te permitirá repensar tu estrategia, olvidar hechizos o utilizar un elemento curativo.|－デスモード: 最後の抵抗－#通常、STAかREAが1以下でゲームオーバーとなるが、#このモードでは-5まで生き残れる。その間に呪文を忘れたり、#回復アイテムを使用することで戦略の立て直しが可能。
+--- MODO MUERTE: MUERTE SÚBITA ---#Caer por debajo de 1 RESISTENCIA/RAZÓN te matará inmediatamente.#Como en la vida real.|－デスモード: 予期せぬ死－#STAかREAが1以下になると、その時点でゲームオーバーとなる。#そう、まるで現実と同じように…
+HISTORIA ESCALIZADORA DE LAS TIJERAS ESCOLARES##Una pequeña sección de un juego estándar que muestra uno de los misterios disponibles.|「身の毛もよだつハサミ女の未解決事件」##あなたを待ち受ける多くの謎。#その中から切り取られた一部分のみ、プレイすることができます。
+ACTIVIDAD EXTRACURRICULAR##Esta opción preparará el juego estándar [SKEPTIC] para ti, permitiéndote comenzar el juego sin preocuparte por cosas profundas por ahora.|「部活動」##標準的な難易度設定「懐疑主義者」で進めます。#気軽にプレイしたい方にオススメ。
+Un verdadero caos.#Esta opción iniciará una nueva partida, seleccionando aleatoriamente PERSONAJE, DIOS ANTIGUO, FONDO y más.|真の混沌が訪れる。#「探索者」「旧き神」「バックストーリー」などが#ランダムな状態でスタートします。
+Elige tu propio personaje, trasfondo y otros detalles específicos del juego.|「探索者」や「バックストーリー」など、自由にプレイスタイルを#カスタマイズすることができます。
+TE ENCONTRÉ|ミーツケタ
+Puede|5月
+Junio|6月
+personaliza el juego eligiendo:#←PERSONAJE Y FONDO->|プレイ上の設定変更#←探索者 / 背景→
+DESAFÍOS|チャレンジ
+Ponte a prueba con una selección de desafíos|特定の条件下で、調査を進めていくモード。#通常のプレイでは物足りない方に。
+(bloqueado)|(未解放)
+Las malas decisiones, como huir de los enemigos y leer libros de ocultismo, pueden aumentar el NIVEL DE AMENAZA de un lugar, haciendo que sea más peligroso explorarlo en el futuro.|｢敵から逃げる｣#｢オカルト本を読む｣#などの誤った判断を#すると、調査ポイントの危険度が上がり、#その後の調査がより#危険なものになる。
+Una opción de juego rápido.##Comienza el juego con un PERSONAJE y un DIOS ANTIGUO seleccionados al azar.|クイックプレイの設定##｢探索者｣｢旧き神｣がランダムな状態で#スタート
+OPCIONES ADICIONALES|追加設定
+CULTOR|狂信者
+RESISTENCIA MÁXIMA|スタミナ上限
+RAZÓN MÁXIMA|理性上限
+empieza con 4 FONDOS|開始時の所持金: 4
+empieza con 5 FONDOS|開始時の所持金: 5
+empieza con 3 FONDOS|開始時の所持金: 3
+empezar con 0 FONDOS|開始時の所持金: 0
+Nivel de AMENAZA aumentado|｢危険度｣が上昇
+Nivel de AMENAZA reducido|｢危険度｣が低下
+Las ESTADÍSTICAS del personaje disminuyeron.|全能力値が低下
+enemigos más fuertes|敵が強くなる
+enemigos más débiles|敵が弱くなる
+VERDADERO CREYENTE|真の信奉者
+INICIADO|新参者
+PRESAGIO DE LA DOOM|破滅の前触れ
+ESCÉPTICO|懐疑主義者
+OPCIONES BÁSICAS|基本設定
+línea de tiempo A # (MUNDO DEL HORROR)|タイムラインA#<恐怖の世界>
+línea de tiempo B#(CAPITAL OCULTA DE JAPÓN)|タイムラインB#<オカルトの聖地>
+Aleatorización de estadísticas de elementos:#ON##Permite una variación aleatoria de costos y estadísticas para todos los elementos en esta partida.|<アイテムスタッツのシャッフル>#設定: オン##全アイテムのコストと効果が#ランダムに変動する。
+Aleatorización de estadísticas de elementos:#OFF##El costo y las estadísticas de todos los elementos permanecen iguales en cada partida.|<アイテムスタッツのシャッフル>#設定: オフ##周回プレイをしても、全アイテムの#コストと効果が変動しなくなる。
+Al subir de nivel, utiliza únicamente las tarjetas de beneficios exclusivas de los personajes.|<レベルアップ時>#探索者の固有パークカードのみ#選択可能になる。
+Al subir de nivel al personaje, habilita todas las tarjetas de beneficios desbloqueadas.|<レベルアップ時>#アンロックした全パークカードが#選択可能になる。
+priorizar contenido nuevo|新たなコンテンツを優先
+mantener el contenido aleatorio|コンテンツをランダムにしておく
+[no aleatorices el precio y las estadísticas del artículo que encuentres y compres este juego]|アイテムの｢価格｣と｢効果｣を#シャッフルしない。
+[aleatoriza el precio y las estadísticas del artículo que encuentres y compra este juego]|アイテムの｢価格｣と｢効果｣を#シャッフルする。
+[una mayor probabilidad de encontrar misterios que aún no has completado]|[未解決の謎に遭遇する確率が上昇]
+[una posibilidad igual de encontrar todos los misterios]|[全ての謎と遭遇する確率が均等に]
+[al subir de nivel, el juego solo robará cartas de beneficios genéricas y exclusivas de los personajes]|レベルアップ時に#選択可能なパークカード##共通もしくは探索者の固有パーク
+[al subir de nivel, el juego extraerá cartas de beneficios desbloqueadas aleatoriamente]|レベルアップ時に、アンロックされた#パークカードをランダムに引く
+[la elección de la línea de tiempo determina la elección de acciones adicionales disponibles y cambios tanto en los misterios como en los finales]|選んだタイムラインによって#謎とそのエンディング、#さらに選択可能な#アクションが変化する。
+[Cada año, nuestra ciudad es visitada por cientos de turistas interesados ​​en lo paranormal]|毎年、超常現象好きの観光客が#何百人もこの町に訪れる。
+SELECCIONA TU RETO|「チャレンジ」を選択してください。
+establecer la dificultad en HOD|難易度:破滅の前触れに設定
+(MÚSICA)|(BGM)
+(EFECTOS)|(効果音)
+<<No me pueden atrapar con esto...>> [ARTÍCULO descartado]|<<これを持っているのがバレたらマズい…>>[アイテムを捨てた]
+#[AÚN HAY ESPERANZA] -4% DOOM|#[まだ希望はある]: 破滅値-4%
+#[AÚN HAY ESPERANZA] -3% DOOM|#[まだ希望はある]: 破滅値-3%
+#[NO HAY ESPERANZA] -2% DOOM|#[希望は絶たれた]: 破滅値-2%
+#[YA ESTÁS CONDENADO]|#[もう死は避けられない]
+#[AÚN HAY ESPERANZA] -5% DOOM|#[まだ希望はある]: 破滅値-5%
+#[INVESTIGACIÓN COMPLETA]: +15 EXP|#[徹底調査]: EXP+15
+#[INCANSABLE]: +1 RAZÓN / RESISTENCIA|#[疲れ知らず]: 理性+1 / スタミナ+1
+#[PASA EL TIEMPO]: +1 DÍA|#[経過時間]: 1日経過
+AGUANTE|スタミナ
+RAZÓN|理性
+FONDOS|所持金
+[ADVERTENCIA] ¡Tu salud bajó demasiado!|<※注意※> もう体力がもたない！
+[ADVERTENCIA] ¡Morirás al comienzo de tu próximo encuentro!|<※注意※> このまま戦闘に突入すると死んでしまう！
+[!!!] ¡Tienes suficiente experiencia para subir de nivel!|<!!!> EXPを獲得した。レベルアップができる！
+Perdido en el tiempo y el espacio, flotas en la nada hasta que algo te atrae hacia la luz...|時空の中に迷い込み、虚無の世界を漂う。#すると、何かがあなたを#光の方へと引き寄せ…
+[control de fuerza]| [筋力チェック]
+[verificación de destreza]| [敏捷性チェック]
+[verificación de percepción]| [知覚チェック]
+[verificación de conocimientos]| [賢さチェック]
+[verificación de carisma]| [カリスマチェック]
+Sí|はい
+No|いいえ
+saltar|スキップ
+¡BIENVENIDO AL 「MUNDO DEL HORROR」!|｢恐怖の世界｣へようこそ！
+(AQUÍ APARECERÁN MENSAJES IMPORTANTES)|[重要なメッセージがここに表示されます]
+Has sufrido una nueva lesión:|｢怪我｣を負った:
+Has aprendido un nuevo hechizo:|新たな呪文を習得:
+Has comenzado un nuevo misterio:|新たな謎の調査を開始:
+Has encontrado un nuevo artículo:|新たなアイテムを発見:
+Has obtenido un nuevo estado:|状態異常付与:
+Un nuevo aliado se ha unido a ti:|新たな仲間が加入:
+aleatorio|ランダム
+estándar|スタンダード
+Víspera de Todos los Santos|ハロウィン
+última resistencia|最後の抵抗
+la muerte súbita|予期せぬ死
+Comienza tu juego con una línea de tiempo elegida al azar.|タイムラインがランダムに選ばれる。
+LÍNEA DE TIEMPO A#(MUNDO DEL HORROR)#La elección de la línea de tiempo determina los cambios en los misterios y sus finales.|タイムラインA#<恐怖の世界>#選択したタイムラインによって、#謎とそのエンディングが変化する。
+CRONOGRAMA B#(CAPITAL OCULTA DE JAPÓN)#Cada año, nuestra ciudad es visitada por cientos de turistas interesados ​​en lo paranormal.|タイムラインB#<オカルトの聖地>#毎年、超常現象好きの観光客が#何百人もこの町に訪れる。
+historia|ストーリー
+fácil|イージー
+normal|ノーマル
+duro|ハード
+muy duro|マニアック
+Comienza tu partida con un nivel de dificultad elegido al azar|ランダムな難易度でプレイ
+Obtén la experiencia de juego completa con una selección de pequeños cambios para hacer de la terrible ciudad de SHIOKAWA un lugar más hospitalario.|僅かな努力で、恐怖の町｢塩川｣に平穏が訪れる。#思う存分、全てのコンテンツを楽しみたい方へ。
+¡Algo extraño está sucediendo aquí, pero estoy seguro de que juntos podemos solucionarlo!|何かおぞましいことが起きているようだ。#しかし、力を合わせればきっと乗り越えられる！
+Las fuerzas del mal se están reuniendo alrededor de SHIOKAWA. Esperemos que podamos salir con vida...|塩川を取り囲むように邪悪な力が集まってきている。果たして、あなたは無事に生き残れるだろうか…
+No podemos salvar a todos pero tenemos que intentarlo.|全員を救うことはできない。#それでも、まだできることはある。
+Este lugar está condenado, ¡huye mientras puedas!|この町が滅ぶのは#止められない。#命があるうちに逃げろ。
+WORLD OF HORROR#JUEGO BASE##Paquete de tarjetas que contiene todo lo que necesitas para jugar a este juego de investigación de terror de 1 bit.|恐怖の世界#「基本パック」##怪異の調査に必要なものが#全て収録されたカードパック
+WORLD OF HORROR#UNLOCKABLES##Contiene todas las cartas que has desbloqueado a través de logros.|恐怖の世界#「アンロックパック」##実績でアンロックした#カードを全て収録
+MUNDO DE HORROR#MÁS ESTUDIANTES##Contiene aspectos#4 adicionales para estudiantes aliados aleatorios.|恐怖の世界#「新たなる生徒」##<追加コンテンツ>##仲間になる生徒のスキンを4種類収録#（ランダムに獲得）
+Contiene ocho eventos y encuentros adicionales.|8つの新イベントを収録
+[desbloquear mientras juegas]|（プレイ中にアンロック）
+Contiene cinco eventos y encuentros adicionales.|5つの新イベントを収録
+Contiene tres misterios adicionales.|新たな謎を3つ収録
+Una de las ideas centrales detrás de WORLD OF HORROR es la modularidad, que te permite mezclar y combinar varios paquetes de cartas con diferente contenido.##Simplemente selecciona los paquetes de cartas que deseas incluir y continúa presionando la flecha en la parte inferior.|本作の中核をなす要素。#その一つにカスタマイズ性の#高さが挙げられます。##様々なカードパックを#自由に組み合わせることで、#毎回違った感覚で#お楽しみいただけます。##カードパックを選択したら、#下のボタンから次に進みましょう。
+Una última cosa... un hombre alto te dejó una maleta esta mañana. Dijo que sabrás la contraseña.##...Me pregunto, ¿qué podría significar eso?|最後にもう一つ…今朝、長身の男があなたのためにと、#スーツケースを置いていった。#あなたなら暗証番号を知っているはずだと言っていたが…#一体、どういうことなのだろうか？
+[CIUDAD DE SHIOKAWA, JAPÓN. 198X]#ALGO EXTRAÑO ESTA PASANDO EN NUESTRO PUEBLO...|[198X年 日本 塩川町]#私たちの住むこの町で、何か奇妙なことが起こり始めていた…
+SE PUEDEN VER FIGURAS CON TÚNICAS REUNIENDOSE EN EL BOSQUE POR LA NOCHE. LA GENTE ESTÁ DESAPARECIDA.#CRIATURAS ASQUEROSAS ESTÁN ATERRANDO LA JUNTA DEL MAR...|夜な夜な、森の中に集まるローブを着た集団。次々と行方不明になる町の人々。#海辺を脅かす不気味な怪物…
+EL RÁPIDO PROGRESO TECNOLÓGICO DE LA ERA MODERNA TRAE CONFORT...PERO TAMBIÉN NUEVAS AMENAZAS DESCONOCIDAS.|現代の科学技術は飛躍的な進歩は遂げ、人々に快適な暮らしをもたらす…#一方で、新たに未知なる脅威も現れていた。
+LOS VIEJOS DIOSES, LOS MALICIOSOS SERES ELDRITCH QUE GOBERNARON LA TIERRA HACE EONES, ESTÁN DESPERTANDO A MEDIDA QUE LA REALIDAD COMIENZA A DESMOLARSE...|現実が崩れ去る中、かつて地球を支配していた存在「旧き神」が目覚めようとしている。
+EQUIPADO CON PISTAS, HECHIZOS Y TU CORDURA DISMINUIDA, INVESTIGARÁS MISTERIOS EN TODA LA CIUDAD... Y EN REINOS MÁS ALLÁ.|手がかりと呪文、そして薄れゆく理性を頼りに、あなたは町中の謎を調査することになる…#時には、現実世界を超えた異界へと足を踏み入れることになるだろう。
+UN VIEJO TREN DISMINUYE LA VELOCIDAD Y SE DETIENE EN SU ÚLTIMA ESTACIÓN.##---##EL FIN DEL MUNDO ESTÁ A LA VEZ, Y POR FIN HAS LLEGADO A LA CIUDAD CONDENADA...|古びた電車が減速し、#終着駅で停車する。##---##世界の終わりが迫る中、#ついにあなたは#怪異渦巻く町へと#辿り着いたのであった…
+EXTENDIDO|拡張パック
+DESBLOQUEOS:|<アンロック>
+[artículo]|[アイテム]
+[ubicación]|[調査ポイント]
+[deletrear]|[呪文]
+[personaje]|[探索者]
+[aliado]|[仲間]
+[atuendo]|[服装]
+[Trasfondo]|[バックストーリー]
+[viejo dios]|[旧き神]
+[modo de juego]|[ゲームモード]
+[estado]|[ステータス]
+[paquete de tarjetas]|[カードパック]
+[lesión]|[怪我]
+FUMADOR|ヘビースモーカー
+en cualquier momento del juego, ten 30 cigarrillos en el inventario|所持品にずっと｢タバコ｣が#30本ある状態で#プレイする
+SACERDOTE JOVEN|見習い神官
+purifica dos lugares malditos en una sola partida|1回のプレイで呪われた場所を#2か所浄化する
+AGENTE DE PARANOIA|妄想の代理人
+Derrota a un enemigo con un bate de béisbol.|｢野球バット｣で敵を倒す
+MIRÓN|出歯亀
+descubre un agujero en la pintura|掛け軸の中の穴を見つける
+DISFRAZ PERFECTO|完璧な変装
+Ingrese a la fábrica cubierta de maleza con una TÚNICA RITUAL y una MÁSCARA 'KARUKOSA'|｢儀式用ローブ｣と#｢カルコサの仮面｣を装着して、#草むした工場に侵入する
+COMPRADOR FRECUENTE|お得意様
+compra artículos diez veces en una sola partida|1回のプレイで10回#買い物をする
+QUEMADURA|闇を切り裂く光
+equipar dos fuentes de luz al mismo tiempo|同時に[光源]アイテムを#2つ装備する
+Sed de otro mundo|ただならぬ渇き
+Bebe la sangre de una bestia olvidada y sobrevive.|忘れられし巨獣の血を#飲んで、生き延びる
+SCOUT JUNIOR|ボーイスカウト
+Investiga 20 ubicaciones con una BRÚJULA equipada|｢コンパス｣を装備した状態で#20か所を調べる
+CASA DE PAPEL|ペーパーハウス
+Como MIKU, toma un rehén vistiendo un traje de TOKIO.|未久: 服装｢トーキョー｣を着た#状態で人質を取る
+ESTO ES PARA MIS AMIGOS|友達のために
+Como AIKO, derrota al CONSERVADOR MAD|愛子: ｢狂った用務員｣を倒す
+ESPERALO|好機を狙え
+durante el combate, prepárate para atacar pero no ataques ese turno|戦闘中、｢攻撃準備｣だけ行い、#そのターンは攻撃しない
+MATAR EN EQUIPO|忘恩の徒
+apuñalar por la espalda a un seguidor|｢仲間｣を殺す
+DI HOLA|ご挨拶
+conoce a tu _otro_ vecino|もう一人の隣人に会う
+BIBLIOTECARIO JOVEN|新入り司書
+descartar tres libros en una partida|1回のプレイで#3冊の本を捨てる
+NO NECESITAMOS OJOS|第三の目
+destruye tu ojo y abre el tercero|自分の眼を潰し、#第三の眼を開く
+VERDADERO ÍDOLO|正真正銘のアイドル
+en cualquier momento del juego, tener 4 seguidores|常に｢仲間｣が4人いる状態を#維持する
+RITUAL CON CLASE|高等儀式
+sacrifica a tu ALIADO con una DAGA RITUAL equipada|｢儀式用の短剣｣を使って#｢仲間｣を生贄に捧げる
+TOM QUE MIRA|のぞき魔
+Conoce a un espectro de la escuela que ronda por el pasillo.|学校の廊下に出没する亡霊と#遭遇する
+Awoo|56709
+llamar a junko|純子に電話をする
+PAGADO EN SANGRE|血の償い
+haz que tu ALIADO muera durante un encuentro de combate|戦闘中に｢仲間｣を死亡させる
+EXORCISMO|エクソシズム
+exorcizar un fantasma|｢悪霊｣の敵を追い払う
+VERANO SIN FIN|NEVER ENDING SUMMER
+cambia la fecha y detén la maldición|日付を変えて、呪いを止める
+INQUIETO|眠れぬ夜
+completar una partida sin descansar|エンディングまで#休まずにプレイする
+ERUDITO|学者
+Investiga cinco hechizos en un solo juego.|一度のプレイで#5つの呪文を研究する
+CHICA DE TRANSFERENCIA|転校生
+Completa un juego con el primer personaje.|1人目の探索者で#ゲームをクリアする
+CHICA EN FORMA|快活な女の子
+Completa un juego con el segundo personaje.|2人目の探索者で#ゲームをクリアする
+SUPERVIVIENTE DE MATÓN|生き延びた若頭
+Completa un juego con el tercer personaje.|3人目の探索者で#ゲームをクリアする
+ÍDOLO SUPERVIVIENTE|生き残ったアイドル
+Completa un juego con el cuarto personaje.|4人目の探索者で#ゲームをクリアする
+REPORTERO SOBREVIVIENTE|死を免れた記者
+Completa un juego con el quinto personaje.|5人目の探索者で#ゲームをクリアする
+PULMÓN DE AIRE|新鮮な空気
+completa el desafío [PAVO FRÍO]|チャレンジ｢禁煙開始｣を#クリアする
+ATERRIZADO PARA SIEMPRE|永遠のお仕置き
+completa el desafío [¡¡PERO PAPÁ!!]|チャレンジ｢だけど、パパ！｣を#クリアする
+ESTUDIANTE SOBREVIVIENTE|生き延びた医学生
+Completa un juego con el sexto personaje.|6人目の探索者で#ゲームをクリアする
+SUPERVIVIENTE DEL CAOS|混沌の生還者
+Completa un juego con el séptimo personaje.|7人目の探索者で#ゲームをクリアする
+MALA SUERTE|不運
+tira un 1 durante una verificación de estadísticas|能力値チェックで｢1｣を出す
+DESDE EL BORDE|死の淵
+derrota a un DIOS VIEJO con más del 90% de DOOM|破滅値が90％以上の状態で#旧き神を倒す
+NO NECESITA EDUCACIÓN|教育なんていらない
+quemar el edificio de la escuela|｢校舎｣を焼き払う
+BOOP|悪ふざけ
+sorprender al perro|犬を驚かせる
+MI QUERIDO FANTASMA|愛しき幽霊
+Completa el desafío [PRESENCIA ESPANTOSA]|チャレンジ#｢身の毛のよだつ気配｣を#クリアする
+ÍDOLO MÁS POPULAR|トップアイドル
+completa el desafío [CIUDAD FANTASMA]|チャレンジ｢ゴーストタウン｣を#クリアする
+MUNDO SALVADO I|世界の救済Ⅰ
+gana tu primera partida|1回目のプレイをクリア
+MUNDO SALVADO II|世界の救済Ⅱ
+gana tu segunda partida|2回目のプレイをクリア
+MUNDO SALVADO III|世界の救済Ⅲ
+gana tu tercera partida|3回目のプレイをクリア
+MUNDO SALVADO IV|世界の救済Ⅳ
+gana tu cuarta partida|4回目のプレイをクリア
+EL MUNDO CONDENADO I|世界の破滅Ⅰ
+Pierde tu partida debido a la pérdida de RAZÓN|｢理性｣を失って#ゲームオーバーになる
+EL MUNDO CONDENADO II|世界の破滅Ⅱ
+pierdes tu partida debido a la pérdida de RESISTENCIA|｢スタミナ｣を失って#ゲームオーバーになる
+HOSPITAL PINTADO|血塗られた病院
+gana tu quinta partida|5周目をクリアする
+MEDALLÓN DE ÓNIX|オニキスの首飾り
+reúne cinco maldiciones|｢呪い｣を5つ集める
+EL MUNDO CONDENADO III|世界の破滅Ⅲ
+pierdes tu partida debido a DOOM|破滅値が上昇して、#ゲームオーバーになる
+HISTORIA DE ELDRITCH I|奇妙なバックストーリーⅠ
+gana una partida usando la historia de fondo de WORLD OF HORROR|バックストーリー｢恐怖の世界｣#を選択した状態で#クリアする
+HISTORIA DE ANTECEDENTES DE ELDRITCH II|奇妙なバックストーリーⅡ
+gana una partida usando la historia de fondo de HISTORIA MÉDICA|バックストーリー｢病歴｣を#選択した状態でクリアする
+HISTORIA DE ANTECEDENTES DE ELDRITCH III|奇妙なバックストーリーⅢ
+gana una partida usando la historia de fondo de HUNTED BY THE CULT|バックストーリー｢教団の追っ手｣#を選択した状態でクリアする
+HISTORIA DE ANTECEDENTES DE ELDRITCH IV|奇妙なバックストーリーⅣ
+gana una partida usando la historia de fondo de LA SÉPTIMA MALDICIÓN|バックストーリー#｢セブンス･カース｣を#選択した状態でクリアする
+HISTORIA DE ANTECEDENTES V|奇妙なバックストーリーⅤ
+gana una partida usando la historia de fondo MAL DESTINADA|バックストーリー｢不幸体質｣を#選択した状態でクリアする
+MIEMBRO DEL CLUB|部員
+Únete al club|部活に入る
+TRASFONDO DE ELDRITCH VI|奇妙なバックストーリーⅥ
+gana una partida usando la historia de fondo de KNIGHT ERRANT|バックストーリー｢夢想家｣を#選択した状態でクリアする
+LADO SUAVE|優しい一面
+comprar y devolver un medicamento caro|高価な薬を買って返す
+TRATO DE SANGRE|血の取引
+alimentar una ENTIDAD EXTERIOR|｢外なる存在｣に血を捧げる
+SHIOKAWA HISTORY I|塩川の歴史Ⅰ
+desbloquear 15 logros|実績を15個アンロックする
+SHIOKAWA HISTORY II|塩川の歴史Ⅱ
+desbloquear 20 logros|実績を20個アンロックする
+SHIOKAWA HISTORY III|塩川の歴史Ⅲ
+desbloquear 25 logros|実績を25個アンロックする
+SHIOKAWA HISTORY IV|塩川の歴史Ⅳ
+desbloquear 30 logros|実績を30個アンロックする
+SHIOKAWA HISTORY V|塩川の歴史Ⅴ
+desbloquear 40 logros|実績を40個アンロックする
+SHIOKAWA HISTORY VI|塩川の歴史Ⅵ
+desbloquear 50 logros|実績を50個アンロックする
+VERDADERA DESESPERACIÓN|真の絶望
+gana una partida en dificultad difícil|難易度｢ハード｣をクリアする
+POSTAL FINAL I|最後の抵抗Ⅰ
+Llega al turno 30 en el modo SIN FIN.|エンドレスモードで#30ターンに達する
+POSTAL FINAL II|最後の抵抗Ⅱ
+llegar al turno 40 en modo SIN FIN|エンドレスモードで#40ターンに達する
+POSTAL FINAL III|最後の抵抗Ⅲ
+Llega al turno 50 en el modo SIN FIN.|エンドレスモードで#50ターンに達する
+mira|ミラ
+resuelve el enigma de la GEM AZUL|｢青い宝石｣の謎を解く
+ALGO MAL|邪悪なるもの
+encontrar y derrotar ALGO MAL|｢真なる邪悪｣に遭遇して#撃破する
+VERDADERA ANARQUÍA|真のアナーキー
+completa el desafío [VIOLACIÓN DE LIBERTAD CONDICIONAL]|チャレンジ｢仮釈放違反｣を#クリアする
+VIVA EL REY|血まみれのはらわた
+Como MORIKO, derrota a un enemigo con una MOTOSIERRA que funcione.|守子: 修理した｢チェーンソー｣#で敵を倒す
+BUENOS VIEJOS TIEMPOS|古き良き時代
+equipa CARPENTER HAMMER con EXPEL EVIL y REGENERATION aprendidos|釘抜きハンマーに｢破邪の呪文｣#と｢再生の秘法｣を#セットで装備
+PRIMUM NON NOCERE|まず害を及ぼさない
+Derrota a DREAM DEVOURER sin matar a un solo paciente.|患者を一人も死なせずに#｢夢を喰らうもの｣を倒す
+SUÉTER NIÑA|セーターの少女
+encontrar a la chica desaparecida|行方不明の女の子を見つける
+HISTORIA DE ELDRITCH VII|奇妙なバックストーリーⅦ
+gana una partida usando la historia de fondo de SCARS|バックストーリー｢傷痕｣を#選択した状態でクリアする
+HISTORIA DE ELDRITCH VIII|奇妙なバックストーリーⅧ
+gana una partida usando la historia de fondo de CURIOUS BIRTHMARK|バックストーリー｢奇妙なあざ｣#を選択した状態で#クリアする
+HISTORIA DE ANTECEDENTES DE ELDRITCH IX|奇妙なバックストーリーⅨ
+gana una partida usando la historia de fondo de ELDRITCH PARASITE|バックストーリー#｢怪魔の寄生蟲｣を選択した#状態でクリアする
+HISTORIA DE ANTECEDENTES X|奇妙なバックストーリーⅩ
+gana una partida usando la historia de fondo de EXQUISITE TASTE|バックストーリー｢美食家｣を#選択した状態でクリアする
+HISTORIA DE ANTECEDENTES XXX|奇妙なバックストーリーXI
+gana una partida usando la historia de fondo FATALISTA|バックストーリー｢運命論者｣を#選択した状態でクリアする
+EDITOR DE EVENTOS|イベントエディター
+EXTRAS|エクストラ
+SEGUIMIENTO DE ESTE LOGRO|この実績をマーク
+LOGROS|実績
+Logros desbloqueados:|アンロック済み
+progreso|達成率
+EVENTOS|イベント
+EVENTOS CODEX|怪異の写本
+ENEMIGOS|敵
+BESTIARIO ENEMIGO|異端生物図鑑
+EL SER EXTERIOR|外なる神
+REGRESA|戻る
+Comprobar todo|全てチェック
+desmarcar todo|チェックを全て外す
+LLENO|「フルパック」
+muy pronto|近日リリース
+PERSONAJE|探索者
+TRASFONDO|バックストーリー
+audiovisual|音声 / 映像
+extra|その他
+idioma|言語

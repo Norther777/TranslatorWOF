@@ -1,0 +1,711 @@
+eng|jp
+[AFILADO]|[鋭器]
+[CON UNA SOLA MANO]|[片手用]
+[DES]|[敏捷性]
+[DESAFILADO]|[鈍器]
+[DOS MANOS]|[両手用]
+[ARMA DE FUEGO]|[銃器]
+[FUEGO]|[炎]
+[FRZ]|[筋力]
+[PER]|[知覚]
+[SAB]|[賢さ]
+[MAGIA]|[魔法]
+DAÑO:|ダメージ: 
+VELOCIDAD:|速度: 
+OPORTUNIDAD DE GOLPEAR:|命中率: 
+--EQUIPO (RANURA A)--|－装備 (スロットA)－
+--EQUIPO (RANURA B)--|－装備 (スロットB)－
+--Baratija (RANURA C)--|－小物 (スロットC)－
+CUCHILLO DE CARNE|ステーキナイフ
+El borde afilado puede cortar los cortes de carne más duros. Sólo puedes esperar que las manchas rojas sean del bistec...|その研ぎ澄まされた刃は硬い肉もなんなく切ることができる。#この赤いシミはステーキを切った時についたものだと思いたい…
+Sostienes tu CUCHILLO PARA CARNE y te preparas para el combate.|ステーキナイフを持ち、臨戦態勢に入る。
+Manchas rojas raras...|変な赤いシミが…
+CÁMARA|カメラ
+1 CONOCIMIENTO|｢賢さ｣+1
+Lentes de alta calidad, listas en un instante. Una elección sólida con una amplia oferta de películas.|高品質なレンズ、すぐに撮影可能。#フィルムの供給も十分で、間違いのない一品。
+¡Tomas una foto con flash, desorientando al enemigo!|フラッシュを焚いて写真を撮り、敵をひるませた！
+cámara robusta|頑丈なカメラ
+[TECNOLOGÍA]|[テクノロジー]
+[OFENSIVO]|[攻撃]
+[ACCIÓN]|[アクション]
+--TÉCNICA--|－技術－
+TUBO DE ACERO|鉄パイプ
+(uso): añade una nueva acción para su uso posterior en combate|使用: 戦闘アクションが#新たに追加される
+Crudo, pero fácil de usar y potente. No estás seguro de si lo que hueles es el óxido o la sangre seca.|粗悪だが使いやすく強力。その錆ついた臭いは金属なのか、それとも乾いた血なのか…
+¡Con gran esfuerzo, das un golpe y golpeas al enemigo con tu TUBO DE ACERO!|思いっきり振りかぶって、鉄パイプを叩きつける！
+una buena arma|良い武器
+LINDO ANILLO|素敵な指輪
+(equipar): +1 CARISMA#(uso): ganar 2 FONDOS|装備: ｢カリスマ｣+1#使用: 所持金+2
+Un anillo elegante, aparecido durante una investigación. Sin marcas raras, podrías intentar venderlo.|捜査中に見つけた派手な指輪。#変な跡もないし、売り払ってもいいかもしれない。
+Has conseguido vender el BONITO ANILLO. (+2 FONDOS)|何とか指輪を売り払うことができた。(所持金+2)
+elegante|派手
+[JOYAS]|[宝飾品]
+[ARMADURA]|[防具]
+CASCO KENDO|剣道の面
+Pocas posibilidades de ignorar la pérdida de RESISTENCIA en combate.|低確率で戦闘中の#スタミナ減少を#無効にする
+Es mejor que nada.|ないよりはましだ。
+¡KENDO HELMET te protege de un ataque!|剣道の面が敵の攻撃から身を守った！
+equipo de la escuela|学校の備品
+[MEDICAMENTO]|[薬]
+KIT DE COSTURA|裁縫道具
+--BARATIJA--|－小物－
+(uso): +3 RESISTENCIA#-1 CARISMA|使用: ｢スタミナ｣+3#｢カリスマ｣-1
+¿No deberías pedirle a un médico que lo haga?|本当なら医者に診てもらうべきなんだろう…
+Apretando los dientes, comienzas a suturar la herida.|歯を食いしばって、傷口を縫い始める。
+dos agujas e hilo|二本の針と糸
+[ARTÍCULO]|[アイテム]
+[ADICTIVO]|[依存性]
+[LÍQUIDO]|[液体]
+[BENDECIDO]|[神聖]
+[CARNE]|[人体]
+[LIBRO]|[本]
+[ILÍCITO]|[違法]
+[FUENTE DE LUZ]|[光源]
+[IMPORTANTE]|[重要]
+[ALIMENTO]|[食べ物]
+[MISTERIOSO]|[怪魔]
+[OCULTO]|[オカルト]
+[CASETE]|[カセットテープ]
+[JUGUETE]|[おもちゃ]
+[ENVASE]|[入れ物]
+[CORROSIVO]|[腐敗]
+[POLVO]|[粉]
+[JUGUETE]|[おもちゃ]
+[AMULETO]|[お守り]
+[FOLKLORE]|[伝承]
+[DOCUMENTO]|[書類]
+[ACCESORIO]|[アクセサリー]
+[HERRAMIENTA]|[工具]
+[PAÑO]|[服]
+[PERRO]|[犬]
+[SUMINISTROS]|[補給品]
+[MILITAR]|[軍用品]
+[PERSONAL]|[固有アイテム]
+[MALDITO]|[呪物]
+[LLAVE]|[鍵]
+[ETIQUETA]|[タグ]
+[ETIQUETA2]|[タグ2]
+[ETIQUETA3]|[タグ3]
+[ETIQUETA4]|[タグ4]
+--Baratija (UTILIZABLE)--|－小物(使用可)－
+MOCHILA|バックパック
+permite dos espacios de INVENTARIO adicionales|所持品スロットが#2つ追加される
+Podrías caber mucho aquí...|物がたくさん入る…
+insustituible en viajes|旅先では欠かせない
+BOTELLA DE VINO|ワインボトル
+(uso): +3 RAZÓN, voltea esta carta|使用: ｢理性｣+3##ランダムな効果が付与される
+extranjero, seco|海外産 辛口
+Uf, ¿qué es esto? (+ ESTADO)|うげっ、何だこれ？(+怪我)
+CIGARRILLOS|タバコ
+(uso): +1 RAZÓN#agrega un nuevo ESTADO|使用: ｢理性｣+1##新たな｢呪い｣がかかる
+'Fumar mata.'|早死にまっしぐらだ。
+Fumar mata y no sientes que puedas sobrevivir a esto.|早死にまっしぐらだ、長生きできる気がしない。
+Tienes miedo de acostumbrarte...|恐ろしいのは、これに慣れてしまうことだ…
+¡Fumas un cigarrillo y empiezas a toser incontrolablemente!|タバコを吸った瞬間、咳が止まらなくなった！
+Te fumas un cigarrillo en el camino...|歩きながらタバコを吸う…
+VELA PEQUEÑA|小さな蝋燭
+[penalización de DOOM menor por escapar del combate]|戦闘逃亡時に上昇する破滅値が#通常より抑えられる
+Vela pequeña hecha con cera de cadáver.|死体の耳垢から作られた、小さな蝋燭。
+hecho de cera de cadáver|屍蝋製
+MARTILLO DE CARPINTERO|釘抜きハンマー
+[pequeña posibilidad de recuperar la RESISTENCIA perdida después de derrotar a un enemigo]|敵を倒した時、低確率で#失った｢スタミナ｣を回復する
+¿Te gusta lastimar a otras personas?|人を傷つけるのが好きなのか？
+Hacer daño a otras personas se siente bien. (+1 RESISTENCIA)|人を傷つけるのは気持ちがいい。(理性+1)
+sorprendentemente poderoso|意外と強力
+VELA SANTA|聖なる蝋燭
+[+1 SUERTE mientras se mantiene en el inventario]#(uso): +2 RAZÓN|所持品にある間は｢幸運｣+1##使用: ｢理性｣+2
+Una vela especial con efectos anti-espíritu.|厄払いの効果がある特別な蝋燭。
+Este objeto solo apunta a enemigos FANTASMAS.|このアイテムは[悪霊]の敵にのみ有効。
+Enciendes el VELO SANTO.|｢聖なる蝋燭 ｣に火を灯した。
+¿qué es esto?...|これは何だ…？
+CORAZÓN MOMMIFICADO|ミイラの心臓
+(uso): derrota al enemigo VAMPIRO|使用: [吸血鬼]の敵を#撃破する
+Huele a incienso exótico...|海外のお香っぽい香りがする…
+Este objeto solo apunta a enemigos VAMPIROS.|このアイテムは[吸血鬼]の敵にのみ有効。
+Apuñalas el CORAZÓN MOMMIFICADO con un clavo de hierro.|“ミイラの心臓”に鉄釘を打ち込む。
+¿Se movió?|う、動いた？
+TRAJE HUMANO|人型の被り物
+¿Es piel de cordero?|羊革だろうか？
+NOTAS DE LA BIBLIOTECA|文献資料
+(uso): gana un HECHIZO aleatorio#pierde 1-2 RAZONES|使用: ランダムな呪文を習得##理性を1~2失う
+Cubren algunos libros polvorientos y aburridos.|埃まみれの退屈な本に被さっていた資料。
+Dentro de las notas encuentras un pasaje curioso... (-1 RAZÓN)|資料の中に興味深い一節があった… (理性-1)
+conocimiento prohibido|禁断の知識
+REVÓLVER POLICÍA|警官の拳銃
+[daño al disparar: 9]|射撃時の与ダメージ: 9
+Nuevo Manbu N60, diseñado en los años 60.|ニューマンブN60という60年代に設計された拳銃。
+¡Aprietas el gatillo, pero no pasa nada!|引き金を引くも、弾が発射されない！
+¡Retiras el percutor del arma y te preparas para el combate!|撃鉄を起こし、臨戦態勢に入る！
+revólver de servicio|公用拳銃
+PISTOLA DE BENGALAS|信号拳銃
+(uso): causa 2 daños al enemigo objetivo (8 daños si es tipo ELDRITCH o PLANTA)|使用: 対象の敵に2ダメージ#[怪魔][植物]の敵には#8ダメージ与える
+Espero que sean inflamables.|燃えやすい敵なら効きそうだ。
+Disparas tu pistola de bengalas al enemigo. (-2 SALUD)|信号拳銃で敵を撃った。(体力-2)
+¡La bengala se aloja fácilmente en la carne y continúa ardiendo! (-6 SALUD)|肉にめり込んだ弾が火を放ち、敵は炎に包まれた！(体力-6)
+un solo uso|一度のみの使い捨て
+LINTERNA|懐中電灯
++1 PERCEPCIÓN|｢知覚｣+1
+Espero que las baterías todavía estén bien.|電池はまだ持つだろうか。
+las baterías parecen estar bien|電池はまだ持ちそうだ。
+ANALGÉSICO|痛み止め
+(uso): +2 RESISTENCIA|使用: ｢スタミナ｣+2
+Tenga cuidado de no sufrir una sobredosis de estos.|飲み過ぎないように注意しよう。
+no tomes una sobredosis|飲み過ぎ注意
+GEMA AZUL|青い宝石
+[se siente frío en tu mano]|[手に取ると冷たく感じる]
+Vibra ligeramente en tu mano.|手の中で僅かに震えている。
+[está vibrando en tu bolsillo]|[ポケットの中で振動している]
+¿qué es?...|何なんだこれは…？
+CORTADOR DE CAJAS|カッターナイフ
+Parece que se romperá muy fácilmente.|すぐに刃が折れそうな気がする。
+Afilado pero frágil.|鋭いが、折れやすい。
+FILETE DE CERDO LARGO|人肉ステーキ
+(uso): +2 RESISTENCIA#añade un nuevo ESTADO|使用: ｢スタミナ｣+2#｢呪い｣を1つ受ける
+Huele increíble.|ひどい臭いがする。
+Devoras el bistec. ¿Quién diría que tenías tanto apetito? (+ MALDICIÓN)|ステーキを貪る。こんなに食欲があったとは自分でも意外だ。(+呪い)
+huele delicioso|美味そうな匂い
+REPRODUCTOR DE CASSETTES|カセットプレーヤー
+NO HAY CASSETTE INSERTADO|カセットが入っていない
+ACTUALMENTE ESCUCHANDO|現在再生中
+ESCUCHADO:|再生済み: 
+CASSETTE A|カセットA
+(uso): inserte un casete en el REPRODUCTOR DE CASSETTE, reemplazando el casete viejo|使用: カセットプレーヤー内の古いカセットを取り出し、#新しいカセットを挿入する
+Me pregunto qué está grabado en él...|何が録音されているんだろう…
+CASSETTE B|カセットB
+TERRO DE CARNE|異形の肉塊
+(uso): +5 RESISTENCIA#añade un nuevo ESTADO|使用: ｢スタミナ｣+5#ステータスに新たな#状態異常が付与される
+Baboso y maloliente, ¿qué es? Está pulsando lentamente en tu mano.|ぬるぬるとしていて臭い。手の上でとくとくと脈打っている…何だこれは！？
+Colocas TUERTO DE CARNE sobre tu herida y se conecta con tu cuerpo.|傷口に異形の肉塊を置くと、体と同化した。
+No fue una buena idea...|まずかったか…
+está ondulando lentamente...|ずるずると蠢いている…
+MASCARILLA RITUAL|儀式の仮面
+[pequeña posibilidad de ignorar la RAZÓN de pérdida en combate]|戦闘時、低確率で｢理性｣が#失われるのを防ぐ
+Espectacular color amarillo pálido.|不気味な淡い黄色の仮面。
+¡RITUAL MASK te protege del ataque!|｢儀式の仮面｣がその身を守った！
+espeluznante|気味が悪い
+GRIMORIO POLVORIO|埃まみれの魔導書
+(uso): efecto aleatorio#COSTO: 2 RAZÓN|使用: ランダムな効果を付与##コスト: ｢理性｣-2
+Te sientes somnoliento con solo mirar la portada.|表紙を見るだけで眠くなってくる。
+Este capítulo puede ayudarte a detener al dios mayor. (+15 EXP)|この章は旧き神を食い止めるのに参考になりそうだ。(EXP+15)
+Este capítulo parece tratar sobre varios rituales. (+ HECHIZO)|色々な儀式がこの章に書かれているようだ。(+呪文)
+Una repentina corriente de conocimiento prohibido entra a la fuerza en tu mente. (+ MALDICIÓN)|自分の意思とは関係なく、急に禁断の知識が頭に流れ込んでくる。(+呪い)
+¿Será?.. ¡Aún queda algo de esperanza! (-4% CONDENACIÓN)|もしかして…まだ希望はあるのか！？(破滅値-4%)
+conocimiento prohibido|禁断の知識
+DAGA RITUAL|儀式用の短剣
+[pequeña posibilidad de recuperar la RAZÓN después de derrotar a un enemigo]|敵を倒すと、低確率で#｢理性｣が回復する
+Su hoja está cubierta de un líquido extraño...|刃に謎の液体が付いている…
+¡Sientes que la fuerza del ENEMIGO se canaliza hacia ti! (+1 RAZÓN)|敵の力が自分に流れ込んでくるのを感じる！(理性+1)
+¿eso es sangre?...|これは血…？
+CRÁNEO HUMANO|人間の頭蓋骨
+resultado aleatorio después de lanzar un HECHIZO|呪文詠唱後、ランダムな#効果が発動する
+Tratando constantemente de hablar.|しきりに喋ろうとする。
+¡El cráneo comienza a temblar violentamente mientras el enemigo retrocede de dolor!|痛みに敵がひるむと、頭蓋骨が激しく揺れ始めた。
+Mientras lanzas un hechizo, aparece otra runa en el cráneo.|呪文を唱えると、頭蓋骨に新たなルーンが浮かび上がった。
+Te sientes más tranquilo. (+1 RAZÓN)|気持ちが落ち着いてくる。(理性+1)
+se mueve ligeramente|小刻みに揺れている
+OJO DE VIDRIO|義眼
+(uso): +1 PERCEPCIÓN|使用: ｢知覚｣+1
+¿Deberías hacerlo?...|ほ、本当にやるのか…？
+¡Golpeas el ojo de cristal en la cuenca del ojo y te aplastas el propio ojo! (-1 RAZÓN)|ガラスの義眼を無理やり突っ込み、自分の眼を潰した！(理性-1)
+Empiezas a sangrar abundantemente (-3 RESISTENCIA)|大量の血が流れ出す。(スタミナ-3)
+La vista del ojo destruido... regresa, cambiada. (+1 PERCEPCIÓN)|潰された目の視力が戻ると…視界が変容していた。(知覚+1)
+del mismo tamaño que tu ojo|自分の眼と同じ大きさ
+KATANA|刀
+Su hoja estaba doblada más de un millón de veces.|その刃は百万回以上折り返し鍛錬されていた。
+una vieja espada|古い刀
+SIERRA PARA HUESOS|骨削りのノコギリ
+[daño adicional contra enemigos UNDEAD]|[亡者]の敵に#追加ダメージを与える
+Es torpe en uso.|使い勝手が悪い。
+MUÑECA MALDITA|呪われし人形
+(uso): causa 4-6 daños#COSTO: 1-2 RESISTENCIA|使用: 4～6ダメージを与える#コスト: ｢スタミナ｣1～2減少
+Está cubierto de sangre seca...|乾いた血が染みついている…
+Apuñalas a la muñeca con un alfiler. ¡Un dolor repentino te sorprende!|人形を針で刺す。すると突然、体中に痛みが走る！
+espeluznante|気味が悪い
+BOTELLA VACÍA|空の瓶
+[se puede utilizar para almacenar líquidos]|液体を保存できる
+Podrías llenar esta botella con algo.|何か入れておけそうだ。
+BOTELLA [LODO]|汚泥の入った瓶
+causa daño adicional cuando se lanza|敵に投げると#追加ダメージを与える
+Está lleno de un lodo negro y espeso.|黒くてドロドロの汚泥が詰まっている。
+BOTELLA [LECHE]|牛乳の入った瓶
+(uso): +1 RESISTENCIA|使用: ｢スタミナ｣+1
+Leche sabrosa.|美味しい牛乳。
+~glugglug~|ゴクゴク…
+marca moo-moo|モーモーブランド
+TÚNICA RITUAL|儀式用ローブ
+ranura MÁGICA adicional|｢魔法｣スロットが#追加される
+Sorprendentemente pesado y torpe en uso.|着てみると、意外と重くて不格好。
+un poco demasiado grande|少し大きすぎる
+CHAMPÁN|シャンパン
+(uso): +1 RAZÓN por cada ALIADO|使用: ｢仲間｣1人につき、#｢理性｣+1
+extranjero, seco|海外産、辛口
+buen año|当たり年の上物
+CINTAS FORESTALES|森のテープ
+Aparentemente rotos, pero tal vez puedas encontrar una manera de repararlos.|一見、壊れてはいるが、#何とか直せるかもしれない。
+¿Quién podría ayudarme con eso?|修理できそうな人はいないだろうか？
+POLVO DE VER|幻視の粉塵
+[momentáneamente hace que las criaturas invisibles sean parcialmente visibles]#(uso): establece el PODER del enemigo en 0|目に見えない存在を#一瞬だけ見えるようにする##使用: 敵の｢パワー｣を0にする
+Polvo blanco. No tiene olor.|白い粉。何の匂いもしない。
+¡Tiras el polvo al aire!|辺りに粉塵をばらまく！
+¿Qué es?...|何だあれは…？
+PASTILLAS RECETADAS|処方箋の薬
+(uso): +2 RAZÓN|使用: ｢理性｣+2
+Se llama HIPNOCILO. Te ayudará a dormir pero no quedan demasiadas pastillas.|ヒプノシルという薬。眠れるようになるが、もう残りは少ない。
+Te tragas la pastilla. ¡Necesitabas eso! (+2 RAZÓN)|あなたは錠剤を飲んだ。良く効く薬だ！(理性+2)
+no tomes una sobredosis|飲み過ぎ注意
+MÁSCARA DE ACOSADOR|ストーカーの仮面
++1 DAÑO contra enemigos HUMANOS|[人間]の敵に対する#与ダメージ+1
+Menos mal que los dientes son parte de la mascarilla.|この歯は元々仮面についていたものだ。
+BATE DE BÉISBOL|野球バット
+Bate de béisbol utilizado por el equipo de la escuela.|野球部が使っていたバット。
+Un bate de béisbol de madera.|木製の野球バット。
+bate de la escuela|学校のもの
+CIGARRILLOS EXTRANJEROS|洋モク
+LIBRO DE LA BIBLIOTECA|図書室の本
+(uso): +10 EXP|使用: EXP+10
+Un libro pesado con una cubierta gruesa. Hace mucho que debería haberse hecho.|分厚い表紙の重い本。返却期限はとっくに過ぎている。
+desde hace mucho tiempo|借りっぱなし
+PANQUEQUES|ホットケーキ
+(uso): +2 RESISTENCIA#-2% DOOM|使用: ｢スタミナ｣+2#破滅値-2%
+No es la opción de desayuno más saludable pero huele fantástico.|健康的な朝食とは言えないが、香りは最高だ。
+huele fantástico|ずっと嗅いでいたい
+PAQUETE CURIOSO|気になる小包
+no deberías abrirlo ahora|今は開けない方がいい
+¿Qué podría haber dentro?|中に何が入ってるんだろう？
+¿Qué hay adentro?|中身はなんだろう？
+NAVAJA|アーミーナイフ
+Acero inoxidable.|ステンレス鋼製のナイフ。
+Te agarras a tu NAVAJA, preparándote para el combate.|アーミーナイフを握りしめ、臨戦態勢に入る。
+un cuchillo afilado|鋭いナイフ
+AMULETO DE ELDRITCH|怪魔の魔除け
++10 RAZÓN cuando se usa|装備: ｢理性｣+10
+Podría ser tu última esperanza para salir adelante.|これが、この世界を生き抜く最後の希望になるかもしれない。
+parece muy viejo|見た目はかなり古い
+CARTUCHO MALDITO|呪いのカートリッジ
+Los objetos lanzados causan daño adicional.|敵に投げたときに#追加ダメージを与える
+ESTATUETA CURIOSA|異様な小像
++1 CONOCIMIENTO mientras se mantiene en el inventario.|所持品にある間、｢賢さ｣+1
+CUCHILLO DE BOLSILLO|ポケットナイフ
+(uso): escapar automáticamente del combate sin penalización de DOOM|使用: 自動的に戦闘から逃げる#(同時に破滅値も低下)
+Puede ser útil cuando algo te atrape...|何かに掴まれたとき、役に立つかもしれない…
+tu último recurso|最後の手段
+BISTURÍ|メス
+PENDIENTES DE LA SUERTE|幸運の耳飾り
+(equipar): +2 SUERTE|装備: ｢幸運｣+2
+Pendientes elegantes.|おしゃれな耳飾り。
+recuerdo del festival|祭りのお土産
+POLVO DE CADÁVER|遺灰
+(uso): +20 EXP#-2 SUERTE|使用: EXP+20#｢幸運｣-2
+brilla en tu mano|手の中で輝いている
+¿Pueden tus fosas nasales volverse atormentadas?|鼻の穴から化けて出てくるかも？
+¡Respiras el POLVO DE CADÁVER!|遺灰を鼻から吸った！
+RIFLE DE CAZA|猟銃
+[daño al disparar: 32]|射撃時の与ダメージ: 16
+Un viejo rifle.|古い銃。
+ABRIGO FELIZ|はっぴ
++1 SUERTE|｢幸運｣+1
+Es un bonito patrón.|素敵な柄だ。
+TAIYAKI|たい焼き
+(uso): +1 RAZÓN|使用: ｢理性｣+1
+¡Sabroso!|美味しい！
+BATE DE MADERA|木製バット
+Das un golpe de advertencia, preparándote para el combate.|素振りをして、戦いに備える。
+Ligeramente polvoriento.|少し埃っぽい。
+MAPA|地図
+investigar ubicaciones de ALDEA o BOSQUE tiene una pequeña posibilidad de reducir DOOM|村や森を調査すると、#低確率で破滅値が下がる
+Es un mapa de SHIOKAWA y sus alrededores.|塩川とその周辺の地図。
+Alguien ha marcado nuevos caminos en él.|誰かがこの上に新たな道を書き足していた。
+Marcas los cambios sutiles en el mapa. (-2% CONDENACIÓN)|地図に印を付けて、細かな変化も記録する。(破滅値-2%)
+Eh, este camino no estaba aquí antes... (-2% DOOM)|ん？こんな道、前まで無かったような… (破滅値-2%)
+plano de la ciudad|町の地図
+PRESCRIPCIÓN|処方箋
+[¿Dónde podría surtir una receta como esta?]|[こんなの、どこに行けば#処方してもらえるんだろう？]
+Es para un medicamento caro de farmacia.|高価な薬の処方箋。
+(uso): surtir una receta#COSTO: 4 FONDOS|使用: 処方箋の薬をもらう##コスト: 所持金-4
+prescripción de medicamentos|薬の処方箋
+RAMA|木の枝
+[rápido de equipar]|[戦闘中装備可能]
+No durará muchos cambios.|乱暴に振り回せば、すぐに折れてしまう。
+BRÚJULA|コンパス
++2 EXP por cada ubicación investigada|調査ポイントを1つ#調べるごとに#EXP+2
+Seguramente será útil.|必ず役に立つだろう。
+Tu brújula te ayuda a encontrar tu camino. (+2 EXP)|道を探すのに｢コンパス｣が役立った。(EXP+2)
+una cosa vieja|古いコンパス
+BEBIDA ENERGÉTICA|栄養ドリンク
+(uso): +1 DESTREZA hasta el final del misterio actual|使用: 現在の謎を解くまで#｢敏捷性｣+1
+No es lo más saludable del mundo.|健康に良いとは言えない。
+SAL|塩
+(uso): causa 8 de daño a enemigos de tipo FANTASMA|使用: [悪霊]の敵に#8ダメージ与える
+Sal de cocina.|調理用の塩。
+¡Tiras sal a tu alrededor, debilitando a tu enemigo!|自分の周りに塩を撒き、敵を弱らせた！
+NAVAJA DE AFEITAR|西洋剃刀
+Te recuerda a cierta película de suspenso y atracos estadounidense. No es necesario que te afeites ahora.|アメリカの某強盗スリラー映画を彷彿とさせる。#今、ヒゲを剃る必要はない。
+Abres tu NAVAJA RECTA y te preparas para el combate.|あなたは西洋剃刀の刃を出し、臨戦態勢に入った。
+evitar cortes innecesarios|ムダに怪我するのは避けたい
+ROSARIO|祈りの数珠
+acciones ESPIRITUALES más rápidas|祈祷アクションの速度が上昇
+Cuentas de madera. Te llenan de esperanza.|木製の数珠。あなたを希望で満たしてくれる。
+de Unsui-san|雲水さんの数珠
+BOTELLA ROTO|割れた瓶
+[rápido de equipar]|[戦闘中装備可]
+Una botella desechada convertida en arma.|ただの捨てられていた瓶が、得物へと変貌した。
+un tulipán de cristal|ガラスのチューリップ
+DIARIO DE AMIGO|友達の日記
+Otras páginas parecen irrelevantes para el caso. Espero que estén bien...|他のページは、この件と無関係のようだ。友達が無事であることを祈ろう…
+Maru está actuando extraño. Necesito hablar con ella después de clase. Espero que ella no haya intentado el ritual ella misma.|真瑠の様子がおかしい。#授業が終わったら話さないと。#一人で儀式をしようとして#なければいいが…
+He escondido las velas en una de las aulas. Mañana intentaré realizar el ritual.|ある教室に蝋燭を隠した。#明日、儀式をやってみよう。
+Una mujer alta y extraña me ha estado siguiendo todo el día, debo darme prisa.|知らない女が今日は#ずっと後をつけてきた。#急がないと。
+Este sello puede debilitar al demonio por un tiempo.##Cuidado con las líneas.|これを描けば、一時的に#あの魔物の力を抑えられる。#線を描くときは#間違えないように。
+LATA DE ÁCIDO|酸入りの金属缶
+(uso): inflige 7 daños a los enemigos ELDRITCH|使用: [怪魔]の敵に#7ダメージ与える
+Este objeto sólo funciona con enemigos ELDRITCH.|[怪魔]の敵にのみ有効
+Te arden los ojos por los vapores mientras viertes el ácido.|酸を注ぐと、その煙が目がしみる。
+herramienta metálica|金属製の缶
+LLAVE PEQUEÑA|小さな鍵
+[puede usarse para abrir ciertas cerraduras]|特定の錠前を#開けられる
+COPA|杯
+[constantemente frío al tacto]|触ると常に冷たい
+Parece antiguo. ¿Qué hacía en la escuela?...|見た目はかなり古い。何でこれが学校に…？
+CARNE MOLIENTE|異臭を放つ肉
+[carne rancia de origen desconocido]|出所不明の腐った肉
+Desagradable.|吐き気がしてくる…
+¿Quizás no sea tan malo?...|まぁ、我慢できるかも…？
+huele horrible|ひどい臭いだ
+PALANCA|バール
+ligero y duradero|軽くて丈夫
+HACHA CONTRA INCENDIOS|消防斧
+una excelente arma cuerpo a cuerpo|優れた近接武器
+pesado y poderoso|ずっしりとしていて強力
+CASSETTE C|カセットテープC
+NAVAJA DE MUELLE|飛び出しナイフ
+LLAVE DEL FARO|灯台の鍵
+¿Podría ser una de las llaves necesarias para abrir el faro?|灯台を開ける鍵の1つだろうか？
+'KARUKOSA' MASK|カルコサの仮面
+acciones ESPIRITUALES más rápidas|祈祷アクションの速度が上昇
+Diseño extraño con muchas cuerdas.|紐の多い異様なデザイン。
+¿Puedes ver en él?|何が見えるのだろう？
+ANILLO ANTIGUO|いにしえの指輪
++1 FUERZA#+5% DOOM|｢筋力｣+1#破滅値+5%
+debe ser muy viejo|相当古いものに違いない
+PALA|シャベル
+[pequeña posibilidad de ganar FONDOS después de derrotar a un enemigo]|敵を倒したとき、#低確率で所持金を獲得する
+Sacas algo extra... (+1 FONDOS)|ついでに何かを掘り起こした…(所持金+1)
+VENDAJE|包帯
+[puedes curar una LESIÓN menor mientras mantienes este artículo en el INVENTARIO]|所持品に入れておくと#一度だけ軽い怪我を#治すことができる
+Vendas tus heridas...|傷口に包帯を巻いた…
+TIJERAS MALDITAS|呪われしハサミ
+[pequeña posibilidad de aumentar DOOM después de cada ataque]|攻撃後に低確率で#破滅値が上昇する
+No deberías usar tijeras malditas en combate...|このハサミを戦闘で使うのはやめた方がいい…
+ANTORCHA|松明
+[cuenta como una fuente de luz]|[光源]として使える
+MASCARILLA CAÍDAS|嘆きの仮面
+-10% CONDENACIÓN|破滅値-10%
+FOLLETO DE LA VIGILIA|通夜の案内状
+Nos gustaría agradecerle en nombre de nuestro cliente por participar en esta vigilia con tan poca antelación.##Era una persona espiritual y dejó instrucciones que le pedimos que siga atentamente.|急なご案内にもかかわらず、#こちらの通夜にご列席いただき#依頼主に代わって厚く御礼#申し上げます。#故人は霊的なお方であり、#右記の指示を厳守するよう#言い残しておりました。
+21:00 - inicio de la vigilia# 22:00 - oración sobre el cuerpo|21時 - 開始#22時 - お祈りの時間
+aplaudir|拍手
+arco|お辞儀
+cena modesta|質素な夕食
+encender la chimenea|囲炉裏に薪をくべる
+11 p.m.|23時
+12 am - oración sobre el cuerpo|0時 - お祈りの時間
+1 a.m. - ...#2 a.m.|1時 - …#2時
+3:00 - tapar el espejo#en el trastero#4:00 - ...#5:00 - fin de la vigilia|3時 - 物置の鏡を隠す#4時 - …#5時 - 終了
+21:00 horas - inicio de la vigilia|21時 - 開始
+CUCHILLO DE CARNICERO|肉切り包丁
+El borde afilado puede cortar los cortes de carne más duros.|硬い肉も切れるほど、切れ味抜群の包丁。
+Te aferras a tu MEAT CLEAVER y te preparas para el combate.|肉切り包丁を握りしめ、臨戦態勢に入る。
+un arma tosca|粗雑な武器
+PELO NEGRO|黒い髪
+(uso): combina con KIT DE COSTURA|使用: ｢裁縫道具｣と#組み合わせて使う
+un mechón de cabello humano|一房の人髪
+Reemplazas el hilo del costurero por pelo negro... ¿por qué?|なぜかは分からないが…裁縫用の糸としてこの髪を代用した。
+No tienes KIT DE COSTURA para combinarlo.|糸として使えるが、｢裁縫道具｣がない。
+cabello humano|人間の髪の毛
+KIT DE COSTURA (PELO)|裁縫道具(黒い髪)
+(uso): +3 RESISTENCIA#+3 RAZÓN|使用: ｢スタミナ｣+3#｢理性｣+3
+TOMO DE PODRIDURA|腐敗の大典
+(uso): causa 8 daños a enemigos HUMANOS#[agrega nuevo ESTADO]|使用: [人間]の敵に#8ダメージ与える##｢怪我｣を負う
+Mientras lees el encantamiento, ¡tu enemigo comienza a desmoronarse!|呪文を唱えると、敵がバラバラに崩れ始めた！
+¡La podredumbre sobrenatural se extiende a tu mano!|あなたの手にも腐敗した邪気が侵蝕してきた！
+decadencia lenta y dolorosa|痛みを伴い、じわじわと進む腐敗
+FLORA FATAL|有毒植物図鑑
+(uso): inflige 8 daños a PLANTAR enemigos#[agrega nuevo estado]|使用: [植物]の敵に#8ダメージを与える##｢怪我｣を負う
+Guía de flores tóxicas|有毒植物について書かれた図鑑
+TRATA DE PERRO|犬のおやつ
+mientras está en INVENTARIO, todos los ARTÍCULOS en la TIENDA son más baratos en 1 FONDOS|所持品にある間、#ショップの全アイテムが安くなる#(所持金-1)
+La marca 'Happy Dog', ¡sabe a pollo!|｢ハッピードッグ｣というブランドの商品。鶏肉のような味がする！
+'¡Guau!'|<<わんっ！>>
+TÓTEM HORRIBLE|不気味なトーテム像
+-10% DOOM#-3 RAZÓN MÁXIMA|破滅値-10%#理性上限-3
+Deberías deshacerte de él.|処分した方がいい。
+ANALGÉSICO|鎮痛剤
+(uso): +4 RESISTENCIA#-2 RAZÓN MÁXIMA|使用: ｢スタミナ｣+4#理性上限-2
+A ti _realmente_ no te gustan las agujas... ¿Es realmente seguro?|注射針は死ぬほど苦手だ…本当に使って大丈夫なのか？
+DROGA EXPERIMENTAL|実験薬
+(uso): +4 RAZÓN#-2 RESISTENCIA MÁXIMA|使用: ｢理性｣+4#スタミナ上限-2
+A ti _realmente_ no te gustan las agujas... ¿Es realmente seguro?|注射針が死ぬほど苦手で…本当に使っても大丈夫なんだろうか？
+SHIOKAWA HERALD (A)|塩川新聞ヘラルド(A)
+Un artículo cubre un grupo de científicos de Tokio. Estaban explorando y mapeando extrañas formaciones de cuevas encontradas en los acantilados.#(...) La búsqueda del equipo de científicos desaparecido continúa. La única pista hasta ahora es un código escrito en la pared de una caverna:|東京から来た、ある科学者達についての記事：崖で見つかった奇妙な洞窟の形状を調査し、#その地図を作っていた彼ら。(…) 現在も、失踪した科学者達の捜索は続けられている。#唯一の手がかりは、洞窟の壁に描かれた謎の暗号だ：
+DIARIO DEL ARQUITECTO|建築家ジャーナル
+'(...) Sin embargo, el propietario de una casa decidió utilizar el túnel de la cueva.#'Es una sala de conciertos natural', afirma. (...)'|“…だが、そのうちのある所有者がこの洞窟を有効活用しようと考えた。#<<天然の演奏会場だ。>>そう彼は断言する。…”
+LIBROS ALQUILADOS|借りた本
+MUNICIÓN EXTRA|予備弾薬
+(uso): +3 MUNICIÓN|使用: ｢弾薬｣+3
+RIFLE DEPORTIVO|競技用ライフル
+[daño al disparar: 14]|射撃時の与ダメージ: 14
+rifle utilizado en competiciones|競技で使われるライフル
+NOTAS QUEMADAS|焼け焦げたメモ
+'(...) la leyenda de la prefectura de anguilas habla de un pequeño pueblo de ladrones que mataban a todos los visitantes y arrojaban sus cuerpos a un lago lleno de anguilas. (...) las anguilas de la ---- prefectu-- -pondrían sus huevos dentro de la huma--- ---- ---- (...)'|“---伝説によれば、かつて---県には小さ--追い剥ぎの村があった。#村を訪れた者は一人残らず殺--れ、その死体はウ-ギの群生する湖に投げ捨てら--たという。#----県のウ---は、人の体内に卵を産み付け------”
+BOTELLA DE AGUA]|水の入った瓶
+(uso): +1 RESISTENCIA|使用: ｢スタミナ｣+1
+~glugglug~|ゴクゴク…
+refrescante|飲むと爽快な気分に
+KIT MÉDICO|医療品ケース
+(uso): gana 2 VENDAJES#[puedes curar una LESIÓN grave mientras mantienes este artículo en el INVENTARIO]|使用: ｢包帯｣を2本獲得##所持品に入れておくと、#大きな｢怪我｣を1つ治せる
+Botiquín médico proporcionado por el ejército.|軍から支給されたもの。
+Vacías el contenido del botiquín médico. (+2 VENDAJES)|｢医療品ケース｣の中身が空になった。(包帯+2)
+¡Usas el botiquín médico para tratar tu herida!|｢医療品ケース｣を取り出し、傷の手当てをした！
+ESCOPETA VIEJA|古いショットガン
+[daño al disparar: 15]|射撃時の与ダメージ: 15
+La vieja escopeta de tu padre.|パパの古いショットガン。
+Levantas tu VIEJA ESCOPETA. <<...¡no te acerques más!>>|｢古いショットガン｣を構えた。<<…これ以上近づかないで！>>
+debo devolverlo|ちゃんと返さないと
+REFRESCO|ソフトドリンク
+(uso): +2 RAZÓN|使用: ｢理性｣+2
+No has visto esta marca antes.|こんなブランド、初めて見た。
+Marca local|地元のブランド
+ANILLO DE ROCA|岩石の指輪
++1 FUERZA#-2 MÁXIMA RAZÓN|｢筋力｣+1#理性上限-2
+Sorprendentemente pesado... En realidad no está hecho de piedra, ¿verdad?|意外に重い…岩で作ったものじゃない…のか？
+sorprendentemente pesado|意外に重い
+ANILLO PÁTINA|錆びた指輪
++1 DESTREZA#-2 RESISTENCIA MÁXIMA|｢敏捷性｣+1#スタミナ上限-2
+Sorprendentemente ligero... Parece que se va a desmoronar en cualquier momento.|意外と軽い…今にも割れてしまいそうだ。
+sorprendentemente ligero|意外に軽い
+MÁSCARA DE DEMONIO|般若の面
++1 DAÑO#-4 RESISTENCIA MÁXIMA|ダメージ+1#スタミナ上限-4
+Lanzallamas de bricolaje|即席の火炎放射器
+[rápido de equipar]|[戦闘中装備可]
+NOVELA INSPIRADORA|感動小説
+(uso): +2 DAÑO hasta#el final del misterio|使用: この謎が終わるまで#与ダメージ+2
+Has leído este libro innumerables veces.|数え切れないくらい読んだ。
+MEDALLÓN DE ÓNIX|オニキスの首飾り
++2 MALDICIONES cada misterio#(una vez por misterio):#cura una MALDICIÓN|毎回の調査で呪いを2つ付与##謎1つにつき、呪いを1つ解く
+¡El MEDALLÓN DE ÓNIX te quema la piel!|オニキスの首飾りが、あなたの皮膚を焼き尽くす！
+'cayó del cielo'|<<空から降ってきたの…>>
+NECRONÓMICO|ネクロノミコン
+-AURA DE AZAL-HOTH-##reduce DOOM en un 10% al completar un misterio#[PASIVO]|-アザル＝ホスの霊気-##謎解明時: 破滅値-10%#[パッシブ効果]
+##recupera más páginas cuando subes de nivel|##レベルが上がると、新たなページが手に入る
+LADRILLO|レンガ
+MONEDA VIEJA|古のコイン
+(uso): otorga una eliminación #gratuita de CURSE|使用: コストなしで#｢呪い｣を1つ解く
+Rompes la moneda por la mitad.|コインを半分に割った。
+LINTERNA DE TRABAJO PESADO|頑丈な懐中電灯
+[cuenta como una fuente de luz]|[光源]として使える
+LLAVE INGLESA|モンキーレンチ
+[HERRAMIENTA PESADA]: -1 FUERZA|[重い工具]: ｢筋力｣-1
+CRUCIFIJO DE BRONCE|銅の十字架
+(equipar): te permite luchar contra enemigos FANTASMAS normalmente#(uso): rómpelo por la mitad|装備: 通常の戦闘と同じように#[悪霊]の敵と戦える##使用: 真っ二つに割る
+LLAVE MAESTRA|合い鍵
+(uso): abre un candado de FARO restante al azar#COSTO: 15% DOOM|使用: 灯台に残った南京錠を#ランダムに開ける##コスト: 破滅値+15%
+ESPOSAS|手錠
+(mientras está en el inventario): reduce el PODER del enemigo HUMANO en 5# (uso): derrota a un enemigo HUMANO con 12 o menos SALUD restante|所持品にある間は[人間]の敵の#｢パワー｣が5低下#使用: 敵が[人間]で残り｢体力｣#が12以下だった場合、#その場で撃破できる
+¡Dominas al enemigo debilitado!|弱った敵を力ずくで抑えた！
+HOZ OXIDADA|錆びた鎌
+[pequeña posibilidad de causar 1 DAÑO adicional]|低確率で追加ダメージを#1与える
+NOTA DEL BOSQUE|森に残されたメモ
+Escribo esto para todos los que quieran quedarse atrás.##El sacrificio vale la pena.#El significado de la vida proviene de nuestras relaciones.#Comparte la muerte y esa conexión durará más que tú.##No quedará nada más que NOSOTROS.|これはこの世界に残ろうとする#全ての人々に向けて書いた#ものだ。#この犠牲は無駄にならない。#人生の意味とは、人と人との#つながりの中から生まれる。#共に死を分かち合おう。#そのつながりは、君が消えた後も続く。#最後に残るのは我々だけだ。
+Todos aquí te están esperando, así que si pierdes la determinación##simplemente escucha la VOZ DE LA HUMANIDAD|皆がここで君を待っている。#仮にその意志が揺らぐことが#あれば…##｢全人類の声｣に耳を傾ければいい。
+COPA (SANGRE)|血の杯
+[constantemente frío al tacto]#(uso): beber la sangre|[触るといつも冷たい]##使用: その血を飲み干す
+Parece antiguo. ¿Qué hacía en la escuela?...|見た目はかなり古い。なぜ学校にあったのだろう…？
+La sangre que se bebe de la copa es sorprendentemente fría y suave.|杯に注がれた血を飲み干す。驚くほど冷たく、なめらかに感じる。
+Te rejuvenece y aclara tu mente. (+6 RESISTENCIA / +6 RAZÓN)|すると、元気が出てきて晴れやかな気持ちになった。#(スタミナ+6 / 理性+6)
+BOTELLA [SANGRE]|血の入った瓶
+(uso): beber la sangre#[lleno de sangre hirviendo]|使用: その血を飲み干す#[煮え立つ血で満たされている]
+DIARIO OCULTO|オカルト日記
+(uso): -3% DOOM|使用: 破滅値-3%
+Quemas el diario maldito. (-3% CONDENACIÓN)|呪いの日記を焼き払った。(破滅値-3%)
+MASCARILLA RITUAL (CALABAZA)|儀式の仮面(南瓜)
+(uso): cocínalo y cómelo#[pequeña posibilidad de ignorar la RAZÓN de pérdida en combate]|使用: 調理して食べる#低確率で戦闘中に#｢理性｣が下がるのを防ぐ
+Espectacular color amarillo pálido.|不気味に黄ばんだ仮面。
+¡RITUAL MASK te protege del ataque!|｢儀式の仮面｣が敵の攻撃を防いだ！
+¡Sabroso! (+2 RESISTENCIA)|美味い！(スタミナ+2)
+espeluznante|不気味な柄
+CAPUCHA ESPIRAL|うずまき柄の覆面
++2 FUERZA / DESTREZA# -2 PERCEPCIÓN|｢筋力｣+2 / ｢敏捷性｣+2#｢知覚｣-2
+espeluznante|気色悪い
+MOTOSIERRA|チェーンソー
+[HERRAMIENTA PESADA]: -1 FUERZA|[重い工具]: ｢筋力｣-1
+NAVAJA DE MUELLE|飛び出しナイフ
+LADRILLO|レンガ
+Bate de la suerte|幸運のバット
++2 SUERTE|｢幸運｣+2
+No puedes encontrar nada útil en las notas. Los tiras.|有用な情報が見つからなかったので、そのまま捨てた。
+El conocimiento prohibido transcrito en las notas quema tu cerebro... (-2 RAZÓN)|そこに転写された禁断の知識を目にし、脳が焼かれてしまう…(理性-2)
+¡Usando una navaja de bolsillo, escapas! (-4% CONDENACIÓN)|ポケットナイフを使い、その場から逃げた！(破滅値-4%)
+¡Ni siquiera con una navaja podrás escapar!|ポケットナイフがあっても、その場を逃げ切れない！
+Usted llena la receta y recibe un medicamento.|あなたは処方箋を出して、薬を受け取った。
+Ahora, ¿dónde encontrarías a la chica que lo dejó caer?|
+¡No tienes suficiente dinero!|お金が足りない！
+¡Esta acción requiere un enemigo HUMANO!|このアクションは[人間]の敵にのみ有効。
+¡Esta acción requiere un enemigo PLANTA!|このアクションは[植物]の敵にのみ有効。
+¡Tu fe se está desmoronando! (-7 FE)|神への信仰心が崩れ落ちていく。(信仰値-7)
+Ya lo has equipado|すでに装備中:
+PASE DE HOSPITAL|病院の入館証
+[te permite saltarte algunos encuentros en el HOSPITAL]|病院でのエンカウントを#一部スキップできる
+Una falsificación obvia, pero debería ser suficiente para engañar al personal con exceso de trabajo del hospital.|偽物感がすごいが、疲れ切った職員をダマすならこれで十分だろう。
+'una falsificación obvia'|明らかに偽物
+SEMIAUTOMATICO|半自動式拳銃
+[daño al disparar: 7]|射撃時の与ダメージ: 7
+Una pistola introducida de contrabando en Japón. Todavía en buenas condiciones.|日本に密輸された拳銃。状態もまだ良い。
+¿Por qué lo hiciste?...|なぜこんなことを…
+CABESTRE PARA BRAZO|うで吊り
++4 RESISTENCIA|｢スタミナ｣+4
+Debes dejar descansar un poco el brazo antes de quitártelo.|少し腕を休ませてから外そう。
+una solución temporal|応急処置
+ROSARIO|ロザリオ
+(equipar): +3 FE#+1 RAZÓN|装備: ｢信仰｣+3#｢理性｣+1
+Un viejo rosario de madera.|古い木製のロザリオ。
+<<Gloria sea>>|<<光あれ>>
+MOTOSIERRA (SIN COMBUSTIBLE)|チェーンソー(燃料切れ)
+[necesita combustible para volver a funcionar]|再始動させるには#｢燃料｣が必要
+Una herramienta mortal... si logras hacerla funcionar nuevamente.|また動かせるようになれば…恐ろしい凶器になり得る。
+<<…>>|<<…>>
+COMBUSTIBLE|燃料
+(uso): intento de recargar algo que funciona con gasolina|使用: ガソリンで動くものに#補充する
+Una lata pesada llena de combustible.|燃料が入った重い容器。
+Reabasteces de combustible la motosierra, haciéndola utilizable nuevamente. Genial.|チェーンソーに燃料を補充し、また使えるようにする。良い音だ！
+No tienes nada que necesite repostar.|｢燃料｣が必要なものを所持していない。
+<<…>>|<<…>>
+MOTOSIERRA|チェーンソー
+Ahora que tiene el combustible adecuado, debería durar mucho tiempo.|燃料は十分入れたので、しばらくは安心して使える。
+un arma brutal|残酷な武器
+NOTAS DE INVESTIGACIÓN|研究資料
+(...) Los pilares están relacionados con el culto a T(...), diosa de la fertilidad. La gente aquí se niega a ayudarnos con el trabajo y nos prohíbe investigar los archivos del pueblo. (...)|“---これらの柱は豊穣の女神、テ---の信仰と関係していた。#村民は我々、研究員に対する協力を拒み、村にある古文書の調査を禁じたのである。---”
+Casi tropiezas con un ladrillo tirado en el suelo.|床に置かれたレンガに危うくつまずきそうになる。
+Decides recogerlo.|手に取ってみることにした。
+Tiras el paquete de cigarrillos.|タバコの箱を捨てた。
+-AURA DE AZAL-HOTH-##<<¡no se puede permitir que el culto tenga este libro maldito!>>##completar un misterio reduce DOOM en un 10%#[PASIVO]|-アザル＝ホスの霊気-##<<あんなカルト集団に、#この呪いの書が渡ったら#とんでもないことに…！>>##謎を解くごとに#破滅値が10%低下#[パッシブ効果]
+El NECRONOMICON que has robado contiene hechizos poderosos y secretos horribles.#Para activar su poder, recupera más páginas cuando subas de nivel.|あなたが盗み出したこの本#には、強力な呪文や恐ろしい秘密が記されている。#その力を引き出すには、#レベルを上げて新たなページを集めなければならない。
+¡El poder de RAGH-ZHULL te llena! (+1 DAÑO)|“ラグ＝ズール”の力がその身に宿った！(ダメージ+1)
+¡F'THOTH limpia tu entorno! (-3% CONDENACIÓN)|“フ･トス”によって、あなたの周りが浄化された！(破滅値-3%)
+¡No tienes suficiente experiencia!|EXPが足りない！
+¡SHEBBE se preocupa profundamente por sus seguidores!|“シェベ”が信仰者に対し、深い愛情を注いだ！
+Así se hará. (+15% CONDENACIÓN)|全てはその意のままに。(破滅値+15%)
+¡CTHUR-IZTO repara tu carne! (+3 RESISTENCIA / +3 RAZÓN)|“クトゥル＝イズト”があなたの肉体を修復した！(スタミナ+3 / 理性+3)
+está temblando de miedo.#<<P-por favor, no me hagas atacarlos.>>|は恐怖で震えている。#<<た、頼むから、奴らを襲わせないで…>>
+traga saliva y aprieta los puños.# <<¡Saldremos vivos de esto, seguro!>>|がごくりと唾を飲み込み、拳を握った。#<<ぜ、絶対に生きて、ここを抜け出す！>>
+ladra a sabiendas.|が、何かを理解したかのように吠えた。
+está moviendo la cola.|は、しっぽをフリフリと振っている。
+te mira mientras le acaricias la cabeza.|の頭をナデナデすると、あなたの方を見つめてきた。
+mira a su alrededor, inseguro.##<<Salgamos de este bosque, ¿de acuerdo?>>|が、不安そうに辺りを見回す。##<<もう、この森は出た方がいい…>>
+se detiene de repente.##<<¿Q-qué fue ese ruido?...>>|が、急に立ち止まった。##<<な…何の音…？>>
+sonríe un poco.##<<Al menos hace buen tiempo.>>|が微笑んだ。##<<まあ…天気はいいね。>>
+escalofríos.##<<No me gusta la forma en que nos miran los aldeanos...>>|が体を震わせる。##<<村の人の視線が、どうも気になる…>>
+se acerca.##<<¿Deberíamos usar máscaras? Parece que todos los demás lo son...>>|が近づいてくる。##<<…仮面、どうする？#つけてないのは自分たちだけじゃ…？>>
+mira a su alrededor.##<<Pasamos unas vacaciones de verano en este pueblo hace unos años.>>|が辺りを見回す。##<<この村、何年か前の夏休みに来たことあるよ。>>
+huele.##<<¿Qué es ese olor?>>|が、くんくんとにおいをかぐ。<<このにおいは…？>>
+te agarra del brazo.##<<Sabes, dicen que este hospital está embrujado... pero eso es sólo una leyenda urbana, ¿verdad?>>|に腕を掴まれる。##<<この病院、幽霊が出るってうわさだけど…#ただの都市伝説でしょ？>>
+: <<¿Puedo quedarme en la sala de espera y leer una revista?>>|: <<待合室で雑誌読んでるよ。>>
+toca tu brazo.##<<Hay un buen restaurante a la vuelta de la esquina, ¿tienes hambre?>>|が、腕を触ってくる。##<<この角を曲がると、いいレストランがあって…#お腹空いてる？>>
+de repente se pone rígido.##<<...ese hombre nos ha estado siguiendo por un tiempo...>>|が、急に身を固くする。##<<あの男…さっきからずっと、つけてきてる…>>
+te mira, esperando.|はこちらを見つめて、待っている。
+sonríe débilmente.|が微笑んだ。
+mira a su alrededor.##<<¿Escuchaste eso... no importa.>>|が辺りを見回している。##<<何か音が…いや、大丈夫。>>
+escalofríos.##<<¿Soy yo o de repente hizo más frío?>>|が体を震わせている。##<<急に寒くなってきた気が…>>
+te mira y se sonroja.##<<Qué bueno que estamos juntos en esto… ¿verdad?>>|がこちらを見て、顔を赤くする。##<<こんな状況だからこそ、一緒にいれて良かったとか…#そう思わない？>>
+¡Te entrega un regalo de despedida! (+1 ESTADÍSTICA)|から餞別をもらった！(全能力値+1)
+sale de la fiesta!|が、調査から抜けた。
+--ALIADO--|-仲間-
+FUJIKO|不二子
+tu acción de PATADA causa 1 DAÑO adicional|戦闘アクション｢キック｣#実行時に追加ダメージ+1
+<<hrmph...>>|<<フン…>>
+[chica sukeban]|[スケバン]
+KAZUMI|和美
+acciones de TRATAMIENTO y CIRUGÍA más económicas|アクション｢治療｣｢手術｣の#費用が安くなる
+<<Puedo arreglar eso>>|<<それなら私が手当てできるよ>>
+[enfermero]|[看護婦]
+YO ESTUV|岩さん
++2 FUERZA|｢筋力｣+2
+<<Soy el mejor>>|<<オレが一番だ>>
+[cocinero]|[料理人]
+ASATO|浅藤
+(soltar): gana 2 HECHIZOS|｢仲間｣から外すと、#｢呪文｣を2つ習得する
+<<sigueme>>|<<ついてきて>>
+[bruja]|[魔女]
+ASATO te enseña algunos encantamientos simples.|浅藤から、簡単な呪文をいくつか教わった。
+PERRO|犬
+Mayor probabilidad de encontrar objetos después del combate.|戦闘後のアイテム発見率が上昇
+<<guau>>|<<ワンッ>>
+[perro]|[犬]
+YOICHI|陽一
+(déjalo ir): duplica tus FONDOS disponibles|｢仲間｣から外すと、#所持金が2倍になる
+<<Conozco todas las lagunas>>|<<法の抜け穴なら全部知ってる>>
+[salaryman]|[サラリーマン]
+ERMITAÑO|隠者
+<<n-no quieres saber la verdad>>#(déjalo ir): -5 RAZÓN#-10% DOOM|<<し、真実なんて…知らない方がいい>>#｢仲間｣から外すと、#｢理性｣-5 / 破滅値-10%
+...|…
+[obsesionado]|[霊憑き]
+<<Olvídate de mí...>> (-5 RAZÓN / -10% DOOM)|<<私のことは忘れて…>> (理性-5 / 破滅値-10%)
+RYOKO|涼子
++1 al DAÑO del arma|武器によるダメージ+1
+<<Conozco una manera más rápida>>|<<もっと手っ取り早い方法がある>>
+[Guardabosques]|[自然保護官]
+PERRO DE CAMPAMENTO|キャンプ犬
++1 espacio de INVENTARIO adicional|所持品のスロット+1
+<<guau guau>>|<<ワンワンッ！>>
+MASAFUMI|正文
++1 daño contra enemigos FANTASMAS|｢悪霊]の敵に対して、#ダメージ+1
+<<Detecto algo>>|<<何か感じるね…>>
+[Cazador de fantasmas]|[ゴーストハンター]
+MARÍA|真里亜
++1 CIGARRILLO por cada enemigo derrotado|敵を倒す度に｢タバコ｣を#1本入手する
+<<déjame pintar eso>>|<<それ、描かせて>>
+[artista embrujado]|[ホラーアーティスト]
+MARIA: <<Parece que te vendría bien fumar.>> (+1 CIGARRILLO)|真里亜: <<一服した方がよさそうに見えるけど。>>(タバコ+1本)
+PERRO DE ATAQUE|勇敢なる黒犬
++1 DAÑO adicional|攻撃時の与ダメージ+1
+IKUMI|幾美
++1 a todas las pruebas de habilidad en ubicaciones de OTRO MUNDO|｢異界｣の調査時#全スキルチェック+1
+<<estos ángulos no tienen sentido>>|<<理解できない角度ね…>>
+[estudiante de arquitectura]|[建築学生]
+MASAKO|雅子
+acciones de combate más rápidas, pueden agotar tu salud|戦闘アクションが速くなる#代わりに、スタミナを消耗することがある
+<<déjame ayudarte>>|<<あなたの力になりたい>>
+[parásito espantoso]|[恐怖の寄生体]
+MASAKO flota demasiado cerca... (-1 RESISTENCIA)|雅子がずっとついてくる…やけに距離が近い。(スタミナ-1)
+RYUICHI|龍一
+(uso): paga 2 FONDOS para reducir DOOM entre un 0 y un 3 %|使用: 所持金を2払うことで#破滅値を0～3%下げる
+<<pagarán por esto>>|<<お代はいただくよ>>
+[informante con las manos rotas]|[手が骨折した情報屋]
+KANA|佳那
+recibe -1 DAÑO por ataques durante encuentros de combate|戦闘時の被ダメージ-1
+listo para la aventura|冒険の準備は万端！
+[vecino amigable][IMPORTANTE]|[仲の良い隣人][重要]
+KYOKO|杏子
++5% DOOM#+1 DAÑO adicional|破滅値+5%#追加ダメージ+1
+el bosque la quiere muerta|森は彼女の死を望んでいる
+[caminante desaparecido]|[行方不明のハイカー]
+AMIGO DE AIKO|愛子の友達
+permite un espacio de INVENTARIO adicional|所持品スロットが#1つ追加される
+llevando una bolsa vacía|空のバッグを持ち歩いている
+[ella siempre me ha apoyado]|[いつも私の味方をしてくれた]
+HIROYUKI MIZUTANI|水谷 浩之
+completar un misterio recupera 1 RESISTENCIA|謎を解明すると#｢スタミナ｣が1回復する
+buscador de la verdad|真実を追う者
+[conserje misterioso]|[怪しい用務員]
+#[HIROYUKI]: +1 STAMINA|#[浩之]: ｢スタミナ｣+1
+GOLONKA DE JACOB|ヤコブのゴロンカ
+(uso): +1 RESISTENCIA, +1 RESISTENCIA MÁXIMA#+2% DOOM|使用: ｢スタミナ｣+1 # スタミナ上限+1#破滅値+2%
+gusto adquirido|クセのある味
+MISTERIO YAKITORI|謎の焼き鳥
+(uso): +4 RAZÓN, -1 RESISTENCIA|使用: ｢理性｣+4#｢スタミナ｣-1
+carne desconocida|正体不明の肉
+RYUICHI te vende información importante...|龍一から貴重な情報を買った…
+REIKO|麗子
+completar un misterio otorga 1 FONDOS|(謎の解明時)#所持金+1
+<<todo estará bien, confía en mí>>|<<大丈夫、私を信じて>>
+[socialité ingenua]|世間知らずのお嬢様
+#[REIKO]: +1 FONDOS|#[玲子]: 所持金+1

@@ -1,0 +1,99 @@
+BASEBALL PLAYER|野球部員
+Name: YUMIKO ICHIMURA#20 / FEMALE #When her twin brother suddenly disappeared during a family holiday, Yumiko swore to find him, no matter the cost...|市村 由美子#20歳 / 女#家族旅行中、突如として双子の兄が#行方不明になってしまう。#その時、彼女は誓った。#兄を見つけ出す、たとえどんな犠牲を#払ってでも…
++ STRENGTH#- KNOWLEDGE#starts with LUCKY BAT|筋力＋#賢さ－#｢幸運のバット｣を持った状態で#スタート
+YUMIKO|由美子
+NEIGHBOR|隣人
+Name: KANA#?? / ?? #Neighbor has gone missing while investigating a weird case. KANA is determined to find and rescue them.|佳那#？？ / ？#奇怪な事件を追っていた隣人が、#調査中に姿を消してしまう。#佳那はその隣人を見つけ、#助け出すと決めた。
++ FUN#- EYE#starts with SOFT DRINK|楽しさ＋#眼球－#｢ソフトドリンク｣を持った状態で#スタート
+KANA|佳那
+KANA: <<This is not the end.>> (+5% DOOM)|佳那: <<これで終わりじゃない。>> (破滅値+5%)
+SWING AND HIT|必中の一振り
+PREPARE ATTACK combat action increases the damage of the next weapon attack by 2|戦闘アクション｢攻撃準備｣を行うと#次に行う武器攻撃のダメージ+2
+SWIFT MANEUVER|俊敏な動き
+DODGE combat action chance increased by 10%|戦闘アクション｢回避｣の#成功率が10％上昇
+THIRD PERK OF YUMI|THIRD PERK OF YUMI
+|
+FUNGAL GROWTH|真菌の増殖
+-2 MAX REASON#(discard): lose 3 STAMINA|理性上限-2#捨てる: スタミナ-3
+<<What's that smell?>>|<<この臭いは何だ？>>
+PROTECTIVE CARVINGS|守りの刺青
+receive -1 DAMAGE during combat encounters#[COST: 4 STAMINA]|戦闘中の被ダメージ-1##コスト: スタミナ-4
+You carve the protective symbols on your chest and arms... (-4 STAMINA)|あなたは胸と腕に守りの印を彫った…(スタミナ-4)
+PROTECTIVE CARVINGS#[-1 DAMAGE received]|お守りの刺青: 被ダメージ-1
+BLOOD FRENZY|血に飢えた狂気
++1 DAMAGE / receive additional combat damge#(discard): lose 3 STAMINA|ダメージ+1#戦闘ダメージを追加で受ける#捨てる: スタミナ-3
+<<is that paint?>>|<<あれってペンキ…？>>
+EIMI|詠美
+completing a mystery regains 1 REASON|<謎解明時>#理性+1
+<<thanks for saving me>>|<<助けてくれて、ありがとね>>
+[gallery curator]|[学芸員]
+#[EIMI]: +1 REASON|#[詠美]: ｢理性｣+1
+UCHIDA|内田
+EXP bonus for assessing situation during combat (once per enemy)|戦闘アクション｢分析｣を実行時、#EXPボーナスを獲得#(敵1体につき1度のみ)
+'heavy breathing'|鼻息が荒い
+[otaku creep]|[キモいオタク]
+UCHIDA stammers some facts about your enemy. (+7 EXP)|内田が敵の情報をボソボソ呟く。(EXP+7)
+T'CITHURA|ティ・シトゥラ
+As you get closer to the bridge leading out of the village, MATSUDA-SAN suddenly stops.#<<I... know this tune...>>##Before you can react, he begins to undress and runs into the darkness. Shocked, you begin to hear a faint moaning coming from the rock formation.#What you see there feels unreal. All the villagers are naked! They are dancing around the pillars as something slowly emerges from the river...|村の外へ続く橋に差し掛かったところで、急に松田さんが立ち止まる。#<<私は…この音色を知っている…>>##すると彼は止める間もなく服を脱ぎ始め、暗闇の中へと走り去った。#突然の出来事にショックを受けていると、岩場から微かに呻き声が聞こえてくる。#そこで目にしたのはあまりに非現実的な光景だった…#村人達がみな裸になり、柱の周りで踊っている。#次の瞬間、川からゆっくりと何かが姿を現した…
+T'CITHURA'S DANCE|ティ・シトゥラの舞
+KAIBARA'S VILLAGERS will heal T'CITHURA every turn|毎ターン、村人たちが#ティ・シトゥラを回復させる。
+The fertility goddess has been caring for KAIBARA village for centuries, asking for human sacrifices in return.|何世紀にもわたって、貝原村を支えてきた#豊穣の女神。#その見返りとして、人間の生贄を求めていた。
+KAIBARA'S VILLAGERS|貝原村の村人たち
+the fertility goddess|豊穣の女神
+You feel the urge to enter the water...|あの川の中に入りたい。そんな衝動に駆られる…
+You want to join the fertility dance...|あの豊穣の舞に加わりたい…
+You feel strangely aroused...|妙な興奮を覚える…
+The mad ritual dance heals T'CITHURA! (+1 HEALTH)|狂気的な儀式の舞で、敵の体力が回復する！(体力+1)
+MEAT HORROR|無皮の怪物
+Waves violently crash against the rocks as the gory horror begins to circle you...|荒れ狂う波が激しく岩に打ち寄せる中、#血塗れの怪異があなたを追い詰め始めた…
+Cursed by an ancient tablet he accidentally found, the marine biologist's skin began to act independently.|海洋生物学者により、偶然発見された#古代の石版。#その呪いを受けた男の皮膚は、#ひとりでに動くようになった。
+MEAT HORROR attacks you!|“無皮の怪物”の攻撃！
+MEAT HORROR scratches you!|“無皮の怪物”に引っかかれた！
+MEAT HORROR bites you!|“無皮の怪物”に噛まれた！
+KABUKI KILLER|能面殺人鬼
+The masked man jumps from behind the door and you barely dodge his blade!#<<I can't let you leave this room...>>##Are you going to become his last victim?|突然、ドアの裏から能面をつけた男が飛び出し、#こちらに向かって刃を放った。辛うじてその切っ先を避ける！#すると殺人鬼は一歩下がり、恐ろしい作品を見せてきた…#人間の爪で作られた「未完成の子供の像」だ。##突如、その像が息を吹き返したかのように動き出し、男の首筋に噛みついた！#男は明らかに動揺しており、噴き出す血を止めようとしている。##血の噴水が部屋中を赤く染め上げる中、ゆっくりと子供がこちらを振り向いた…
+ASAO SHIRAISHI lost his daughter in an accident. Now, he is determined to do anything to bring her back.|事故で娘を亡くした男、白石朝雄。#事故以来、彼は娘を連れ戻すためならば#手段を選ばなくなった。
+the desperate father|深き絶望に染まった父親
+KABUKI KILLER stabs you with his knife!|“能面殺人鬼”にナイフで刺された！
+KABUKI KILLER slashes you across the face!|“能面殺人鬼”に顔を切り裂かれた！
+KABUKI KILLER kicks you in your leg!|“能面殺人鬼”に足を蹴られた！
+UNFINISHED CHILD|未完成の子供
+The masked man jumps from behind the door and you barely dodge his blade!#The KABUKI KILLER takes a step back, revealing his gruesome artwork - an unfinished statue of a child made of human nails.##Suddenly, the statue springs to life and bites the man's neck! The serial killer is visibly confused and tries to stop the bleeding as a geyser of blood paints the whole mortuary red.##The being's face slowly turns towards you...|突然、ドアの裏から能面をつけた男が飛び出し、#こちらに向かって刃を放った。辛うじてその切っ先を避ける！#すると殺人鬼は一歩下がり、恐ろしい作品を見せてきた…#人間の爪で作られた「未完成の子供の像」だ。##突如、その像が息を吹き返したかのように動き出し、男の首筋に噛みついた！#男は明らかに動揺しており、噴き出す血を止めようとしている。##血の噴水が部屋中を赤く染め上げる中、ゆっくりと子供がこちらを振り向いた…
+MANA SHIRAISHI was the KABUKI KILLER's daughter. The thing standing in front of you is her grotesque caricature.|能面殺人鬼の娘、白石麻菜。#あなたの目の前に立つのは、#彼女を模倣した奇怪な存在である。
+UNFINISHED CHILD bites your arm!|“未完成の子供”に腕を噛まれる！
+UNFINISHED CHILD scratches you!|“未完成の子供”に引っかかれる！
+UNFINISHED CHILD bites your leg!|“未完成の子供”に足を噛まれる！
+---ZHECTAST, THE HORROR FROM THE STARS---|－星辰より訪れし恐怖 ゼクタスト－
+A big meteorite fell down on a field in a village near SHIOKAWA. A farmer who found it contacted researchers from Tokyo, but when they arrived, all they found was a wet puddle of pinkish goo.|塩川の近くにある村の畑に、巨大な隕石が落下する。それを見た農家が東京の研究者に#連絡を入れた。しかし、彼らが到着した時、そこにはピンク色の粘液が溜まっているだけで…
+PERFECT FORM: Every 21% of DOOM, characters lose 1 stat.|完全体: 破滅値が21％上がるごとに能力値が1下がる
+THE PERFECT FORM|完全体 ゼクタスト
+A big meteorite fell down on a field in a village near SHIOKAWA. A farmer who found it contacted researchers from Tokyo, but when they arrived, all they found was a wet puddle of pinkish goo.|塩川の近くにある村の畑に、巨大な隕石が落下する。#それを見た農家が東京の研究者に連絡を入れた。##しかし、彼らが到着した時、そこにはピンク色の粘液が#溜まっているだけで…
+[every 21% DOOM lowers your stats by 1]|破滅値が21%上がるごとに能力値が1下がる
+You take a step towards the Perfect Form. (-1 ALL STATS)|その身が“完全体”へと一歩進んだ…(全能力値-1)
+ZHECTAST|ゼクタスト
+PERFECT FORM|完全体
+every 21% DOOM lowers your stats by 1|破滅値が21%上がるごとに#全能力値が1下がる
+---EH-ŻHAL, THE INCONCEIVABLE SADNESS---|－人智の及ばぬ苦悶 エー＝ザル－
+Slithering through the twisted tapestry of dimensions, the festering servants of EH-ŻHAL latch onto new vessels, ravenously devouring the very essence of human suffering, swelling their grotesque forms. Slowly but inevitably, the hosts succumb, their bodies and minds becoming one with the burgeoning god.|次元を歪めるエー＝ザルの従者たちは疫病のように宿主から宿主へと跳び移り、その哀しみを貪り食い、どんどん重く、大きく成長していく。#世界からの重圧に耐えきれず、力尽きた者達は、やがて神と一つとなり…
+AL-MISERY: Each mystery, a new status will start to weigh you down.|大いなる苦悶: 調査中、様々なマイナス効果が重くのしかかる
+AL-MISERY|大いなる苦悶
+each mystery, a new status will start to weigh you down|調査中、様々なマイナス効果が重くのしかかる
+EH-ŻHAL|エー＝ザル
+THE INCONCEIVABLE SADNESS|人智の及ばぬ苦悶
+The insidious PARASITE swells in size, its tendrils snaking ever deeper into the crevices of your existence...|人に寄生し、次第に大きくなる寄生体。その命はじわじわと蝕まれ、遂には何も残らなくなる。
+At the end of the mystery, raise the DOOM by:|謎解明時に上昇する破滅値
+2% for each ALLY|｢仲間｣の数 x 2%
+2% for each FUNDS|所持金 x 2%
+2% for each ITEM in inventory|所持品内のアイテム数 x 2%
+2% for each SPELL learned|｢呪文｣の数 x 2%
+1% for every 10 EXP (rounded down)|10EXPごとに1%ずつ (端数切り捨て)
+1% for each active INJURY|｢怪我｣の数 x 1%
+1% for each active CURSE|｢呪い｣の数 x 1%
+MISERY PARASITE|苦悶の寄生体
+MISERY PARASITE grows larger...|“苦悶の寄生体”は成長し、さらに大きくなっている…
+DOOM|破滅値
+It was only a matter of time. The MISERY PARASITES took almost everything from you. The last thing they took, after weeks of torture, was your life.|それは単に時間の問題だった。苦悶の寄生体に全てを取り込まれ、虫の息となるあなた。#何週間にも及ぶ苦しみの末、最後に奪われたのは…その命だった。
+Once a human being, now you've become one with the God of the Inconceivable Sadness.|かつては人間だったあなたも、今や苦悶をもたらす神と一つになったのだ。
+Inconceivable Sadness|苦悶に満ちた死
+if the mystery ended right now, DOOM would raise by|この謎が解けた時に上昇する破滅値
+Throw away 1 FUNDS|金を投げ捨てる(所持金-1)

@@ -1,0 +1,269 @@
+You've retrieved an item from storage!|カバンからアイテムを取り出した。
+Not enough room for an item!|アイテムを入れるスペースがない！
+STORAGE|カバン
+STORED ITEMS|保管したアイテム
+Not enough room! Item added to the storage!|スペースが足りないので｢カバン｣にアイテムを収納した。
+To gain a new level, press the flashing button.|点滅するボタンを#押してレベルアップ
+You don't have enough experience!|EXPが足りない！
+TALK WITH STUDENT|生徒と話す
+SET UP A TELESCOPE|望遠鏡を設置する
+RETURN|戻る
+You don't have a telescope.|望遠鏡を持っていない。
+Student is mumbling something to herself.|生徒が何かブツブツと呟いている。
+You should probably leave her alone.|放っておいた方がよさそうだ。
+Cold water helps you to organize your thoughts. (+1 REASON)|冷たい水は頭を整理するのにちょうどいい。(理性+1)
+Hot water helps with your sore muscles. (+1 STAMINA)|熱いお湯は筋肉痛に効く。(スタミナ+1)
+Nailing a straw doll to this tree will grant you your wish...##for a price, that is.|この木にわら人形を#釘で打ち付けると#願いが叶うようだ…##対価さえ支払えば。
+##[you can nail two more straw dolls here]|##（わら人形は#あと2つ打ち付けられる）
+##[you can nail one more straw doll here]|##（わら人形は#もう1つ打ち付けられる）
+You shouldn't have come here again.#(+1% DOOM)|##ここに戻って来るべき#ではなかった。#(破滅値+1%)
+WITCH'S TREE|魔女の木
+According to legends, this tree's roots reach towards the grave of a lynched witch...|言い伝えによると、この#木の根はかつて絞首刑に#された魔女の墓に向かって#伸びているという…
+You notice a wallet hidden underneath a fallen branch. (+2 FUNDS)|落ちた枝の下に、財布が隠されているのに気付いた。(所持金+2)
+The buried witch takes her toll...|埋葬されし魔女の報いを受けた…
+You head fills with forbidden chants!|禁じられし詠唱が、頭の中に響き渡る…
+You suddenly feel much better! (+2 STAMINA)|突如として元気が出てきた！(スタミナ+2)
+wish for strength#[+2 STAMINA]|力を求める#[スタミナ+2]
+wish for knowledge#[+SPELL]|知を求める#[+呪文]
+wish for money#[+2 FUNDS]|富を求める#[所持金+2]
+it's a bad idea#[leave]|止めておこう#[この場を立ち去る]
+You are stopped by a young policewoman.##<<How can we help you?>>|若い女性警察官に#呼び止められる。##<<どうされました？>>
+POLICE STATION|警察署
+Officers at the police station are busy working on various weird cases...|署の警官たちは、様々な#怪事件の捜査に#追われている…
+request more police patrols|パトロールの強化を求める
+complain about police patrols|パトロールに文句をつける
+share some information#(11 EXP -> 1 FND)|情報提供をする##11EXPを消費して#所持金+1
+exit the station|署から出る
+Officer thanks you and promises more police patrols.#[Threat Level decreased]|警官はお礼を言って、#パトロールの回数を#増やすと約束した。##[危険度が低下した]
+The officer apologizes and says they don't have any patrol units left.|警官は謝りながら、#パトロール隊は#もう残っていない#と言った。
+The detective thanks you for the information and hands you a reward.#[-11 EXP / +1 FUNDS]|情報提供に対するお礼#として、刑事から#謝礼をもらった。##EXP-11#所持金+1
+The detective thanks you for the information but says that's not enough for a prize.|<<情報提供には#感謝するが、#そのくらいでは#何もやれんな。>>#と刑事が言った。
+You've finally made it inside the cursed lighthouse!##Your gut is telling you two things: that whoever (or whatever) is behind the weird events, must be on the highest floor of this place and that you should run away from this place as far and fast as you can. You're afraid there won't be a way back once you start climbing these stairs...|ついに、呪いの灯台の中に足を踏み入れた！#何者か、或いは"何か"がこの不可解な出来事の裏にいる。その存在はきっとこの最上階にいると直感が告げていた。それと同時にできるだけ遠く、そして速く、この場所から逃げるべきだとも…#恐ろしい予感がする。一度階段を上り始めたら#もう二度と戻れない気がして…
+access storage|カバンを開ける
+rest a bit (+2% DOOM)|少し休む(破滅値+2%)
+start climbing|上り始める
+You've rested a bit. (+1 REASON and STAMINA)|少し休んだ。(理性 / スタミナ+1)
+LIGHTHOUSE (GROUND FLOOR)|灯台 1階
+As the unnatural fog slowly lifts you are relieved and collapse on the floor...|徐々に不気味な霧が晴れていく…#安堵したあなたは床に倒れ込んだ。
+The dark clouds swirl around the lighthouse.#Did you arrive too late?|灯台の周りには暗い雲が渦巻いている。#来るのが遅すぎたのだろうか…？
+THE MONUMENT|モニュメント
+Forgotten by everyone, the OUTER ENTITY waits patiently for those, who need it...|皆の記憶から消え去った#「外なる存在」。#自らを必要とする者を、#じっとここで#待ち続けている…
+leave without a sacrifice #[angers the OUTER ENTITY]|何も捧げずに去る # [外なる存在の#怒りを買う]
+You cut your hand and fill the bowl with your blood...|あなたは手を切って、自らの血で捧げの器を満たした…
+You can feel your most cherised memories leave you...|数々の大切な思い出が消えてゆくのを感じる…
+You burn the money in the bowl...|あなたは器に入れたお金を燃やした…
+You've angered the OUTER ENTITY...|｢外なる存在｣の怒りを買ってしまった…
+Bargaining with an OUTER ENTITY is a risky thing but maybe it can postpone the approaching doom?|「外なる存在」との取引は危険だ…#だが、迫り来る終焉の日を遅らせることが#できるかもしれない…
+feed the OUTER ENTITY with your blood|自身の血を#「外なる存在」に捧げる
+give the OUTER ENTITY your most cherished memories|最も大切な思い出を#「外なる存在」に捧げる
+leave a material gift|いくらかお金を供える
+You still have some time before you are asked to the office.|呼び出しまで、#もうしばらくかかりそうだ。
+RECEPTION AREA|待合室
+You wait patiently in the reception area.|待合室でじっと#呼び出されるのを待つ。
+Many sick people are waiting to be examined by the overworked hospital staff.|職員たちが多忙を極めるなか、多くの病人が診察の時を待っていた。
+enter DOCTOR'S OFFICE (+2% DOOM)|診察室に入る#(破滅値+2%)
+move to CORRIDOR A|廊下Aに向かう
+enter PHARMACY#(+3% DOOM)|薬局に入る#(破滅値+3%)
+A nurse walks past you in a hurry.|あなたの目の前を、#看護婦が慌てて#通り過ぎていった。
+DOCTOR'S OFFICE|診察室
+The emergency department is crowded as a direct result of the weird things happening in your town.|町で起きている#数々の怪奇現象。#その影響で、ここの救急科は人で溢れかえっていた。
+You finally are asked to the doctor's office.##<<Now... how can I help you today?>>|ようやく、あなたは#診察室に案内された。##<<さて…今日は#どうされました？>>
+EXIT|退室する
+[ADDITIONAL ACTIONS AVAILABLE ON THE INJURY CARDS]|(怪我があれば、ここで#追加アクションが選択可能)
+You use the opportunity and steal a bottle of pills.|隙を見つけて、薬の瓶を盗み取った。
+You shouldn't risk stealing another bottle.|もう一本盗むだなんて、そんな危険は冒せない…
+You feel like the skull is observing your every move.|あの頭蓋骨に見られてるような気がする…
+CORRIDOR A|廊下A
+You venture further down the corridor...|さらに廊下の奥へと#進む…
+return to the RECEPTION AREA|待合室に戻る
+take the ELEVATOR|エレベーターに乗る
+enter MORGUE|霊安室に入る
+What are you doing here?|ここで無駄な時間を#過ごしている場合#ではない。
+The morgue's door is closed.|霊安室のドアは#閉まっている。
+CORRIDOR B|廊下B
+Upper floor is eerily silent in comparison...|それにしても、#上層階は不気味なほど#静かだ…
+check out PATIENT ROOM|病室を調べる
+You shouldn't bother the recovering patients.|回復期の患者だ。#声をかけない方が#いいだろう。
+RESTING AT HOME|自宅
+It certainly feels good to be back at home.|やっぱり、家に戻ると#落ち着く。
+STAMINA/REASON|スタミナ / 理性
+Time flies by so fast, you prepare yourself to leave and continue your long investigation.|もうこんな時間か…#そろそろ出よう。#あなたは覚悟を決め、#長きにわたる#調査の準備をした。#
+DOOM|破滅値
+STAMINA/REASON|スタミナ / 理性
+Wait... what's that?#[SOMETHING EVIL KNOWS WHERE YOU LIVE]|待て…あれは何だ？#[真なる邪悪に#居場所を掴まれている]
+You take a short nap on your bed.|ベッドで少し#仮眠を取った。
+You bandage up the fresh wounds.|怪我の部分に#包帯を巻く。
+You take a long hot shower.|熱いシャワーを#ゆっくり浴びる…
+You swallow the painkillers.|鎮痛剤を飲む。
+You phone your best friend and talk about unrelated stuff.|親友に電話をかけ、#取り留めもない話を#する…
+You sit on a couch and read your favorite book.|ソファに座って、#お気に入りの本を読む…
+APARTMENT CORRIDOR|アパートの廊下
+You knock on your friend's door and wait...|友達の部屋のドアを#ノックして待つ…
+<<Hey dork, I'm with you. Why are we going back to my place?>>|<<おいバカ、#なんで家に#戻るんだよ？>>
+<<Heyyy... I'm really busy today. Let's hang out some other time, okay?>>|<<えぇぇ…今日はホント#忙しくてさ…#また今度行こ、ね？>>
+Huh, KANA's not home.#You should check later...|はあ、佳那は留守だ。#また後で来よう…
+Shopping for items takes precious time. (+4% DOOM)|貴重な時間を買い物でムダにしてしまった…(破滅値+4%)
+Huh... where is that dog?|あれ、あの犬は…？
+SHOPPING FOR ITEMS|アイテムショップ
+EXIT WITHOUT BUYING ANYTHING|何も買わずに帰る
+needs YAKUZA CARD|｢ヤクザカード｣が必要
+AVAILABLE ITEMS|購入可能なアイテム
+PRICE|価格
+FUNDS|
+A random discounted item.|<セール品>##ランダムなアイテムを入手
+RESTOCK|再仕入れ
+reroll items (+3% DOOM)|商品のリロール（破滅値＋３％）
+You've bought a new item.|新たなアイテムを購入した。
+You don't have enough money.|お金が足りない！
+Woof!-|<<わんっ！>>
+-DISCOUNT ITEM-|-セール品-
+On your way out, you stop by the vending machines. (+2% DOOM)|帰り際に自販機に立ち寄る。(破滅値+1%)
+SHOP FOR ITEMS|アイテムショップ
+[costs DOOM to enter]#[funds -> items]|アイテムを購入できる(破滅値上昇)
+[costs DOOM to enter]#[regain STAMINA and REASON]|スタミナと理性が回復(破滅値上昇)
+REST|自宅で休む
+VENDING MACHINE|自販機
+Entering the ILLEGAL DEN, you instantly recognize the girl who attacked you and dropped the prescription.#You throw the expensive medicine on the table before getting closer.##<<I-is that the drug for my grandma?...>> Her eyes light up.#<<I thought it was gone forever... but why would you help me at all?>>|小屋へ入ると、中に一人の少女が#いるのに気が付く。あなたに襲いかかり、#処方箋を落としたあの子だ…#テーブルの上に高価な薬を放り投げ、#彼女に近寄る。##<<えっ、それっておばあちゃんの…？>>#彼女の瞳が明るく輝く。#<<もう絶対見つからないと思ってたのに…#でも、何でこんなこと…？>>
+explain what's currently happening|事情を話す
+<<If what you're saying is true, I'll help you!>>|<<その話がホントなら、アタシが助けてあげる！>>
+<<...name's MIKU, by the way.>>|<<…ちなみに、アタシの名前は未久。>>
+LEAVE|立ち去る
+WAIT (+2% DOOM)|待つ (破滅値+2%)
+LATEST GOSSIP|何か新しい噂がないか聞く
+ASK TO JOIN YOU|仲間に誘う
+OBSERVE|様子を伺う
+SHARE A CREEPY STORY [-5 EXP]|不気味な話を聞かせる (EXP+5)
+FORCE TO HELP YOU|強引に仲間にする
+GOSSIP - Learn both random and case-related news.#ASK - Recruitment test based on CHARISMA (repeatable).#FORCE - Recruitment test based on equipment, STRENGTH and current DOOM|噂: 事件の手がかりから他愛のない話まで、ランダムに情報を得る#仲間に誘う: 成功率はカリスマに基づく（何度でも実行可能）#強引に仲間にする: 成功率は現在の装備や筋力、破滅値に基づく
+<<Sorry, I don't have time for games.>>|<<悪いけど、遊んでるヒマなんてないからさ。>>
+<<Give me a break!>>|<<ゴメン、無理！>>
+<<You were always sucha a kidder!>>|<<いつもの冗談？>>
+<<I will help you!>>|<<手伝うよ！>>
+<<It sounds strange... but I believe you!>>|<<変な話…けど、信じるよ！>>
+<<Did you hear? There's a cliff nearby with strangely shaped holes...>>|<<この近くの崖に、変な形の穴が開いてるんだって…>>
+<<Have you heard about this computer program that...>>|<<このパソコンのプログラム、聞いたことある？>>
+<<She hasn't come to school since last week...>>|<<彼女、先週から学校来てなくて…>>
+<<How did you do on your English exam?>>|<<英語の試験、どうだった？>>
+<<If OOO didn't make those drawings, then who did?>>|<<OOが描いたんじゃないんなら、誰の？>>
+<<It's been so hard to get any sleep lately.>>|<<最近、全然寝れてなくてさぁ、しんどいわ…>>
+<<I keep hearing a wailing sound coming from the 3rd stall in the girls' bathroom.>>|<<女子トイレの3番目の個室から、誰かの泣き叫ぶ声が聞こえるんだって。>>
+<<...he hasn't been the same since he came back.>>|<<あいつ…帰ってきてから、何か人が変わったみたいで…>>
+<<Recently, the tap water in my entire neighborhood started tasting weird. Almost like...>>|<<最近、近所の水道水がぜんぶ変な味がして…何て言うか…>>
+<<...yesterday, she told me she saw it again.>>|<<…昨日、また彼女がアレを見たらしいよ。>>
+notices you and smiles.|がこちらに気づき、にこっと笑った。
+waves at you.|が手を振っている。
+<<Have you heard about this computer program that...>>|<<このパソコンのプログラム、聞いたことある？>>
+<<She hasn't come to school since last week...>>|<<彼女、先週から学校に来てなくて…>>
+<<How did you do on your English exam?>>|<<英語の試験、どうだった？>>
+<<If OOO didn't make those drawings, then who did?>>|<<OOが描いたんじゃないなら、誰のさ？>>
+<<It's been so hard to get any sleep lately.>>|<<最近、全然寝れてなくてさぁ、しんどいわ…>>
+is taking their pen apart and putting it back together over and over.|はペンをバラしては、何度も組み立て直している。
+is waiting for the class to begin.|は授業が始まるのを待っている。
+is staring at the clouds. They look like heads.|は雲を見つめていた。頭みたいな形の雲だ…
+is reading a horror manga about spirals.|は「うずまき」を題材としたホラー漫画を読んでいる。
+They seem relaxed.|リラックスしているようだ。
+They look fine.|は元気そうだ。
+They look nervous.|は緊張しているようだ。
+There is something _off_about them.|の様子が、どこかおかしい…
+They are trembling with fear.|は、あまりの恐怖に震えている。
+You don't know any good stories to share.|人に話すほどの良いネタがない。
+seems visibly shaken by your story.#<<I-it's just a story, right?...>>|は明らかに動揺している。#<<た、ただのネタでしょ…？>>
+combined INTIMIDATION value|｢威圧｣の合計値
+Student, threatened by your weapon, agrees to help you.#Don't expect them to stay loyal though.|武器を向けられた生徒は怖がって、調査に協力すると申し出た。#裏切りの可能性がある以上、過度な期待はしない方が良い。
+Student shoves you away and escapes, screaming for help.#(+5% DOOM)|生徒はあなたを突き飛ばし、助けを求めて逃げ出した。#(破滅値+5%)
+The burned down school building is empty.|焼け落ちた校舎には誰もいない。
+Many of the books you can find here were donated after the accident at the university building.|ここにある本の多くは#大学校舎で起きた#事故の後に#寄贈されたものだ。
+LIBRARY|図書室
+You feel the gaze of a librarian...|司書さんからの#視線を感じる…
+study old tomes#[+SPELL; +3% DOOM]|古文書を研究する##呪文を習得#破滅値+3%
+make notes#[+5 EXP; +2% DOOM]|メモを取る##EXP+5#破滅値+2%
+You carry out a few books to the main reading room...|本を何冊か#閲覧室に持って行く…
+You decide to make some notes about subjects that could be relevant in this case.##Hopefully all your work won't go to waste.#[+5 EXPERIENCE]|この件に関連しそうな#テーマを探しだし、#いくつかメモを#取ることにした。##どこかで、この情報が#役に立てばいいが…#(EXP+5)
+You carry out a dusty tome to the main reading room...|埃を被った本を#何冊か閲覧室に#持って行く…
+return the book and go back|本を返却して#図書室に戻る
+return the books and exit the library|本を返却して#図書室から出る
+Interpreting the old, incomplete translations is a tedious task.##Finally, you find the fragment you were looking for.#[+NEW SPELL]|この古くて不完全な翻訳を解読しなければ…#骨の折れる作業だ。#そして、ようやく#探していた#一節を見つけた。#
+[NEW ACHIEVEMENT UNLOCKED!]|[新たな実績がアンロックされた！]
+The nurse treats|先生による手当て:
+<<Sorrrry dearr, a patient is herre. I'll call you back...>>#says the nurse as she's eyeing you up.##<<How can I help you today?>>##[ALL YOUR MINOR INJURIES ARE TREATED]|<<阿唖ァ亞ごめン、#生徒さンがキた。#後でかけ直ス…>>#そう言って、彼女は#こちらをじろじろと見た。##<<どうしたの？>>##[軽傷が全て治る]
+SCHOOL NURSE|保健室
+Younger students are afraid of her... why?|なぜか、保健室の先生は#下級生達に怖がられていた…#どうしてだろう？
+The air here is noticeably colder... (+1% DOOM)|ここの空気は、他より一段と冷たく感じる…(破滅値+1%)
+<<The history of this region is just... fascinating. Why don't you discover it for yourself?>>|<<何というか、#この地域の歴史は…#魅力的なんです。#ご自身の目で#確かめてみては？>>
+HISTORY CLUB|歴史部
+Why would this popular student join this weird club?|あんな人気な生徒が、#どうしてこんな変な部活に#入ったんだろう？
+YOU ARE ALREADY THERE|現在地
+TRAVEL TO HOME|自宅に向かう
+TRAVEL TO DOWNTOWN|中心街に向かう
+TRAVEL TO SCHOOL|学校に向かう
+TRAVEL TO HOSPITAL|病院に向かう
+TRAVEL TO SEASIDE|海辺に向かう
+TRAVEL TO FOREST|森に向かう
+TRAVEL TO MANSION|屋敷に向かう
+TRAVEL TO VILLAGE|村に向かう
+TRAVEL TO APARTMENTS|アパートに向かう
+TRAVEL TO|行き先:
+THREAT LEVEL|危険度
+DOWNTOWN'S THREAT LEVEL|中心街の危険度
+SCHOOL'S THREAT LEVEL|学校の危険度
+HOSPITAL'S THREAT LEVEL|病院の危険度
+SEASIDE'S THREAT LEVEL|海辺の危険度
+FOREST'S THREAT LEVEL|森の危険度
+MANSION'S THREAT LEVEL|屋敷の危険度
+VILLAGE'S THREAT LEVEL|村の危険度
+OOO'S THREAT LEVEL|OOOの危険度
+APARTMENTS' THREAT LEVEL|アパートの危険度
+'S THREAT LEVEL|の危険度
+YOU CAN'T INVESTIGATE#YOUR HOME|自宅は#調査できない
+INVESTIGATE|調査先:
+This city is changing so fast you can barely recognize it anymore...|この町の変貌ぶりは異常だ…かつての塩川とはまるで違う。
+[CHOOSE UP TO TWO DIFFERENT ADDITIONAL ACTIONS PER LOCATION FOR THIS PLAYTHROUGH.]|今回の調査で向かえる場所を、最大2つまで選択できます。
+[CHOOSE ONE ADDITIONAL ACTION PER LOCATION THAT FITS YOUR TASTE.]|各調査ポイントにつき1つまで、向かう場所を選択できます。
+randomize and continue|ランダムに選んで続ける
+SAVE|セーブ
+LOAD|ロード
+confirm and CONTINUE|決定して続ける
+HOME|自宅
+DOWNTOWN|中心街
+SCHOOL|学校
+HOSPITAL|病院
+SEASIDE|海辺
+FOREST|森
+MANSION|屋敷
+VILLAGE|村
+APARTMENT|アパート
+Regain some STAMINA and REASON by increasing the incoming DOOM.|破滅値が上がる代わりに#スタミナと理性が#回復する。
+OCCULT SHOP|オカルトショップ
+A wide assortment of useful things with the cutest seller.|可愛い売り子さんのいるお店。便利なアイテムが揃っている。
+A consistent pool of basic items, snacks and drinks.|基本的なアイテムや#スナック、ドリンクが#常に揃っている。
+Boutique focusing on cursed artifacts and occult stuff.|呪われた工芸品や、#オカルト的な物品を#扱う専門店。
+Manage combat encounters and share your knowledge with the officers.|警官と情報共有をする。#戦闘エンカウントの#頻度も調整可能。
+SCHOOLYARD|校庭
+Contains dusty tomes donated by Tokyo University. Study them to learn SPELLS or earn EXP.|東大から寄贈された#という本が埃まみれに#なって並んでいる。#勉強して、呪文やEXPを#獲得できる。
+Convince or force the students gathered here to join you as ALLIES.|ここに集まった生徒を#強引に、あるいは説得#して仲間に加える。
+Nurse with a morbid reputation. She will treat your MINOR INJURIES for free.|保健室の先生。#ぞっとするような噂が#流れているが、#軽傷くらいなら#無料で治してくれる。
+Learn about the town's history and buy occult items, spells and upgrades.|塩川の歴史について学ぶ場所。オカルトアイテムや呪文、パークカードが#手に入る。
+PHARMACY|薬局
+ENTER|中に入る
+A building too big for the town's needs. Skip the line and heal your injuries.|小さな町の病院にしては大きすぎる建物。#並ばずに怪我を#治してもらえる。
+Here you can buy a wide variety of first aid products and pharmaceutical drugs.|様々な救急用品、#医薬品が購入できる。
+HARDWARE SHOP|金物屋
+MONUMENT|モニュメント
+ILLEGAL DEN|密造者の小屋
+FUJII-SAN's shop stocks tools for all your DIY and technical needs.|藤井さんのお店。#工具や調査に役立つ道具が揃っている。
+Forgotten by everyone, the OUTER ENTITY will help you against OLD GODS... for a price.|人々の記憶から消えた#｢外なる存在｣が、旧き神に立ち向かう手助けを#してくれる…#対価さえ払えば。
+Billiard club owned by gangsters is the only place to buy illegal goods.|ヤクザが営む#ビリヤード場。#違法な物品を購入できる唯一の場所。
+This ancient tree, where a lynched witch was buried, can grant you your wishes... for a price.|絞首刑の後に#埋葬された魔女。#彼女の眠る古木が、#願いを叶えてくれる…#対価さえ払えば。
+NEIGHBOR|隣人
+Your friendly neighbour. Enables a mystery and a chance for an ally.|仲の良い隣人。#共に謎を解く仲間に#なることも。
+[manage threat level]#[EXP -> FUNDS]|｢危険度｣の調整が可能
+[study the current mystery]#[DOOM -> spells]|謎の研究 / 呪文習得(破滅値上昇)
+[costs DOOM to enter]#[recruit allies / learn gossip]|仲間の募集 / 噂を聞く(破滅値上昇)
+[costs DOOM to enter]#[treat MINOR INJURIES]|｢軽傷｣の治療が可能(破滅値上昇)
+[costs DOOM to enter]#[DOOM-> rewards]|部室に入る(破滅値上昇)#破滅値を対価に色々なものが手に入る
+[costs DOOM to enter]#[heal injuries]|｢怪我｣の治療が可能(破滅値上昇) 
+[lower DOOM for a price]|対価を支払えば、破滅値が下がる
+[unavailable]#[needs higher DOOM]|破滅値をさらに上げる必要がある
+[wish-granting tree]#[CURSE -> various bonuses]|願いを叶える木(破滅値上昇)
+[chance for an ALLY]|仲間に加わることも(破滅値上昇)
+CITY PLANNING#[option]|都市計画#(細かな調査先の選択が可能)

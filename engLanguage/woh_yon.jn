@@ -1,0 +1,92 @@
+PELUCHE|ぬいぐるみ
+(uso): +1 eliminación de MALDICIÓN|使用: ｢呪い｣を一つ除去
+El juguete se convierte en polvo cuando te sientes bendecido.|ぬいぐるみが塵と化す…どこか祝福されてるような気がした。
+JUGUETE CARNOSO|血肉のぬいぐるみ
+[+5% DOOM]#[+3 RAZÓN MÁXIMA]|破滅値+5%#理性上限+3
+COMPAÑERO DE CUARTO|同居人
+La pared se abre aún más... más profundamente...#Una niña yace acurrucada dentro del útero del apartamento.###>>Sólo quiero que estés a salvo aquí<<#>>¿Qué hice?<<#>> ¿Por qué no te quedas? <<|壁はどんどん開き…さらに奥へ…#アパートの子宮の中で、女の子が胎児のように丸まっている。##>> アなたヲ ココデ 守っテあげたいだケ <<##>>ワ タ シ が 何 ヲ シ た ッ て い ウ ノ？<<##>>　コ コ に い テ く れ ル だ ケ で い い ノ に　<<
+Sumire-san pensó que tenía todo lo que quería. Es decir, hasta que te conoció.|すみれさんは望むもの全てを手に入れたと#思っていました。##そう、あなたと出会うまでは…
+>>quédate conmigo<<|>> い っ し ょ に い て <<
+>>por favor no te vayas<<|>> い か な い で <<
+>>Yo cuidaré de ti<<|>> タ イ セ ツ に す る か ら <<
+RUMORES INQUIETADOS DE UN RECLUSO RESIDENCIAL|しじまに消えた住人と次元を超えた事象
+Si bien no tienes mucha normalidad en tu vida estos días, se suponía que hoy sería solo eso.##Habías estado planeando tomarte el día de hoy para desestresarte antes de tu próxima investigación.|此の所、平穏な日々から遠ざかっていたあなた。#しかし、今日だけは違うはずだった。##次の調査の前に、#一日ゆっくり休むつもりでいたのだ。
+En cambio, te despertaste y te encontraste atrapado dentro de tu propio apartamento. Las paredes han crecido sobre la puerta y las ventanas, sin dejar salida.##Miras por la mirilla, gritas y llamas a los vecinos que pasan, pero tus gritos caen en oídos sordos.|ところが、目を覚ますと#あなたはアパートの中に閉じ込められていた。#ドアや窓は謎の壁で塞がれ、#出口すらない状態だ。##覗き穴から、大声で通りすがりの隣人に#呼びかけるが…その必死の叫びも届かない。
+¿Quién pudo haberte hecho esto?##Más importante aún, ¿cómo vas a salir de aquí?|誰がこんなことを…？##それよりも、どうやってここを出れば…？
+RECLUSIÓN RESIDENCIAL|引きこもり
+PUERTA PRINCIPAL|玄関のドア
+MIRILLA|覗き穴
+ARMARIO|クローゼット
+COCINA|キッチン
+TU CUARTO|自室
+CUARTO PRINCIPAL|リビング
+?|？
+PREPÁRATE PARA EL COMBATE|覚悟を決める
+SACRIFICAR EL JUGUETE|ぬいぐるみを捧げる
+DESPERDICIAR OTRO DÍA|無駄な一日を過ごす
+ACERCATE A LA PARED|壁を調べる
+MIRAR POR LA MIRILLA|覗き穴を見る
+SACRIFICAR EL JUGUETE|ぬいぐるみを捧げる
+MIRA DEBAJO DE LOS ESTANTES|棚の下を調べる
+CONSULTA LA NOTA|書き置きを見る
+Algo guía tu mano. ¿Qué es esto?...|何かに導かれるかのように手が動く。#これは一体…？
+No encuentras nada más.|何も見つからなかった。
+[[Yo también vivía aquí. Este era el único lugar que era seguro(...)d bueno.#Todo lo que podía hacer era quedarme en casa, comer y dormir. Y cuando se acabó la comida, simplemente duerme.]]#[[Cuando finalmente alguien vino a buscar mi cadáver, ya había entrado _adentro_.]]#[[Lo moviste. No puedo decirte lo feliz que me ha hecho estar contigo. Por favor, no te preocupes, te mantendré a salvo. Prometo.]]|[[昔ね、私もここに住んでたんだ。#唯一ここだけが安---で、良いところだった。#でも、私にできたのはただ家にいて、食べて、#眠ることだけ。食べ物がなくなっても、#ここで寝てたの。]]#[[誰かが遺体を探しに来た時には、#もう“中”にいたんだ。]]#[[それを、アナタが動かしてくれた。#アナタと一緒にいられるだけで幸せなの…#言葉では言い表せないくらいね。#大丈夫、私が守るから。約束する。]]
+...espera, ¿qué es eso? #(+ ARTÍCULO)|…ん？あれは？#(+アイテム)
+No tienes energía para seguir buscando.|何かを探し続ける気力もない。
+Miras a tu alrededor pero no encuentras nada. #(+2% CONDENACIÓN)|周りを見渡しても、何も見つからない。#(破滅値+2%)
+COMPROBAR DETRÁS DEL ARMARIO|タンスの裏を調べる
+COMPROBAR DETRÁS DE LA CAMA|ベッドの裏を調べる
+COMPROBAR DETRÁS DEL ESCRITORIO|机の裏を調べる
+Las ventanas están cubiertas con una gruesa capa de paneles de yeso, dejando sólo cavidades poco profundas. La puerta de entrada no es mucho mejor.##Pero debe haber alguna salida, ¿verdad?|窓は乾式壁の厚い石膏に覆われ、僅かなくぼみしか見えない。#玄関のドアも同じような状態だ。##何かしら外に出る方法があるはず…そう思いたいが…
+Pasas todo el tiempo buscando una salida en tu apartamento, pero ya te estás cansando.|時間をかけて部屋中を探し回ったが、#すでに疲労は限界に達していた。
+El papel pintado y la pintura se han extendido por los bordes de la puerta. Por mucho que lo intentes, la puerta se niega a moverse.|ドアの端々に至るまで、壁紙と塗料が広がっている。#どれだけ力を入れても、微動だにしない。
+...al menos él tampoco puede comunicarse.|…とりあえず、あいつもこの部屋には入れない。
+Tu horario de sueño está empezando a variar. Las horas parecen pasar desapercibidas y el día termina antes de que te des cuenta.|睡眠のリズムが乱れ始めている。#あっという間に時が過ぎ、気づけば一日が終わっていた。
+El papel pintado y la pintura se han extendido por los bordes de la puerta. Por mucho que lo intentes, la puerta se niega a moverse.|ドアの端々に至るまで、壁紙と塗料が広がっている。#どれだけ力を入れても、微動だにしない。
+Hay un dibujo extraño pegado en tu puerta...|ドアに不気味な絵が貼りつけられている…
+Has leído todos tus libros y has visto todas tus cintas VHS tres veces.##Dios, extrañas a la gente.|本は全て読破し、ビデオも3回は繰り返して見た。##人が恋しくてたまらない。
+Te preguntas cuánto están cambiando las cosas ahí fuera sin ti cerca.##Al menos, estás al menos más seguro aquí que afuera.|自分がいない間に外の世界はどれくらい変わっているんだろう。##少なくとも、ここにいれば外にいるよりは安全に過ごせる。#何も起きなければの話だが…
+Hoy no ves nada de interés en el pasillo.|今日も気になるものは見当たらない。
+Todavía te cambias de ropa todos los días, pero ¿tiene algún sentido si no sales?|毎日、服を着替えているが、#外に出ないなら着替える意味もないのでは…？
+Tu despensa está empezando a quedarse sin comidas fáciles y no tienes energía para cocinar.|棚にあった手軽な食料品は底を突きそうだ。#料理をする気力も湧いてこない。
+Se te están acabando las formas de mantenerte ocupado. El aburrimiento te da ganas de golpearte la cabeza contra la pared.|暇つぶしすら、もうできなくなってきた。#退屈すぎて、壁に頭を叩きつけたくなってくる。
+Te preguntas cuánto están cambiando las cosas ahí fuera sin ti cerca.##Al menos, estás al menos más seguro aquí que afuera.|自分がいない間に外の世界はどれくらい変わっているんだろう。##少なくとも、外にいるよりもここの方が安全だ。#このまま何も起きなければの話だが…
+Ya no puedes ver afuera...|もう外は何も見えない…
+Todavía te cambias de ropa todos los días, pero ¿tiene algún sentido si no sales?|毎日、服を着替えているが、#外に出ないなら着替える意味もないような気がする…
+Tu despensa está empezando a quedarse sin comidas fáciles y no tienes energía para cocinar.|食料が尽きかけている。#手軽に食べられるものもないし、料理をする気力もない…
+Sólo estar parado aquí te marea.#La cama es demasiado tentadora. No deberías quedarte mucho tiempo.|ただ立っているだけでも、眩暈がしてくる。#思わずベッドに寝転がったりたくなるが…#ずっとそうもしていられない。
+Tu mente está confusa. Todo se está desdibujando.#Solo quieres dormir.|意識が朦朧として、何もかもがぼんやりとしてくる。#ただ、眠ることしか考えられない…
+Estás empezando a dudar de que esta puerta se vuelva a abrir.##(es mejor así)|あなたはもう二度とこのドアは開かないのではと思い始めていた。##もう、それでもいい…
+... ¿qué estabas haciendo de nuevo?|…さっきまで、何してたんだっけ。
+No tienes mucho apetito.|食欲もほとんどない。
+(el apartamento te acuna suavemente mientras duermes todas las noches, manteniéndote caliente dentro de su caja torácica)|(毎晩、このアパートにそっと包み込まれ、#"彼女の温かい肋骨"の中で眠りにつく)
+A medida que te acercas, notas finas grietas en la pared sobre la cama. En su interior palpita algo oscuro y de un rojo brillante. Las grietas se mueven como labios y el apartamento te susurra.#>>simplemente recuéstate<<##Escuchas cómo las vigas de madera crujen mientras las paredes se flexionan, extendiéndose hacia ti desde todos los lados.#>>y déjame encargarme de tu <<|ベッドの上の壁に細い亀裂が入っていることに気づく。#てらてらと赤黒いものが、中で脈動している。#亀裂が唇のように動き、“アパート”がこちらに向かって囁いた。#>> 横にナッテテ <<#木の梁がきしむ音がして、壁がたわむ。#あなたを包み込もうと、四方から“それ”が近づいてくる。#>> 私二 身を 任セテ <<
+CARNE MISTERIOSA|謎の肉
+No tener acceso al mundo exterior significa que solo tienes una cantidad limitada de comida para comer.##En lo profundo de tu despensa, descubres una lata de carne oxidada. ¿Cuánto tiempo lleva esto aquí? ##Al abrir la lata, huele bien, pero...|外界とは隔絶された場所にいるため、#次第に食料もなくなってくる。##食品庫の奥から、錆びた肉の缶詰を見つける。#一体、いつからここにあったのだろう？##缶を開けても、特におかしな臭いはしないが…
+Cometelo|食べてみる
+tirar a la basura|捨てる
+No es exactamente una comida agradable; la carne definitivamente no debería estar tan crujiente, pero la comida es comida.#(+2 RESISTENCIA)|まったく食欲をそそらない…#肉がこんなにカリカリしているなんて変だ…#けど、食べ物は食べ物だ。#(スタミナ+2)
+Ya te arrepientes de tu decisión al primer bocado repugnante. ##Una hora más tarde, sientes que algo se retuerce en tu estómago, tratando de salir. Quizás esa carne estaba demasiado fresca...#(+ ESTADO)|不味い…最初の一口で後悔した。##1時間後、あなたは妙な感覚に襲われる…#胃の中で蠢く何かが、外に出ようとしていたのだ。#そう、あの肉は…“いやに新鮮”だった…#(+状態異常)
+Confiando en tu juicio, tiras el bote a la basura. Tu estómago te gruñe de descontento.#(-1 RESISTENCIA)|自分の判断に従って、缶をゴミ箱に捨てる。#不満そうにお腹がグルグルと鳴った。#(スタミナ-1)
+DESAGÜE OBSTRUIDO|排水口の詰まり
+Cuando vas al baño, notas que hay un mechón de pelo subiendo por el desagüe del lavabo. ##Estás seguro de que no es tuyo.|トイレに行く途中で、あなたはあるものを目にした。#洗面台の排水口から、髪の毛の塊が出てきている…##自分のものではないことは確かだ。
+sáquelo|引き抜く
+Sacas el mechón del desagüe y encuentras unas cuantas monedas atadas a la punta del cabello. Te guardas el dinero y tratas de no pensar en ello.#(+1 FONDOS)|排水口から髪を引っ張り上げる。すると、その先に#数枚の硬貨が結ばれていることに気づく。#あなたはその硬貨をポケットに入れ、#それ以上のことは考えないようにした。#(所持金+1)
+Hay una sorprendente cantidad de resistencia cuando tiras. Antes de que puedas reaccionar, el cabello es repentinamente arrastrado hacia el desagüe y fuera de la vista.#(-1 RAZÓN)|引っ張ってみると、思った以上に抵抗がある。##反応する間もなく、髪はずるずると#排水口に戻っていき、視界から消え去った。#(理性-1)
+MATANDO TIEMPO|暇潰し
+Sentado en el sofá, te encuentras comprobando repetidamente la hora para conectarte.##Sin embargo, cuando vas a comer, te das cuenta de que el reloj de la cocina muestra una hora diferente. Y el despertador de tu dormitorio es completamente diferente a cada uno de los demás.|ソファに座りながら、現実感を得ようと#何度も時計を見る自分がいた。##だが、食事をしようとしたその時、キッチンの時計が違う時間を指していることに気づく。#寝室にある目覚まし時計は、#他のどの時計とも違う時間を指している。
+<<necesitan un cambio de batería, probablemente>>|<<電池を替えなきゃかも>>
+<<Debo estar delirando>>|<<幻覚を見てるんだ>>
+Estás seguro de que hay alguna explicación. Te encoges de hombros y consigues tu comida.##Finges que no tienes náuseas cuando más tarde los relojes muestran números negativos, palabras confusas y nada en absoluto.#(+1 RESISTENCIA / -2 RAZÓN)|何か、時計にあったんだろう。#特に気にせず、食事をするあなた。##だが、その様子は明らかにおかしかった。#数字がマイナスになったり、文字が乱れたり、#何も表示されなくなったり…あまりの光景に#吐き気を催すも、あなたは何でもないフリをした。#(スタミナ+1 / 理性-2)
+Estar atrapado aquí realmente está empezando a subirte a tu cabeza. Para aclarar las cosas, te abofeteas lo suficientemente fuerte como para ver las estrellas, tomas un poco de café y evitas volver a mirar los relojes.#(+1 RAZÓN / -2 RESISTENCIA)|ここに閉じ込められていると、#本当に頭がおかしくなりそうだ。#正気を取り戻すために#あなたは思いっきり自分の頬をはたき、#コーヒーを飲み干して時計を見ないようにした。#(理性+1 / スタミナ-2)
+PERDIENDO OTRO DÍA...|また一日が無駄に…
+A - FINALMENTE LIBRE|A - 待ち望んだ自由
+B - MAL DESALOJADO|B - 禍祓い
+El rostro de la chica se tuerce de forma extraña. Las pulsantes entrañas del apartamento se calman.##La chica dice algo que no puedes entender. Ella sonríe. Caes inconsciente.##Cuando despiertas, estás acostado en la entrada del departamento, al lado de la puerta abierta.|少女の顔が不気味な形に歪む。#アパートの脈打つ内臓が徐々に止まっていく。#何かを口にする彼女。#だが、上手く聞き取ることができない。##そうして彼女が微笑むと、#意識が遠のいていった…##目を覚ますと、あなたは玄関で倒れていた。##開け放たれたドアのそばで…
+A la mañana siguiente, ves una silueta en el balcón, mirando a Shiokawa y contemplando el amanecer. Parpadeas y ella se ha ido.|翌朝、あなたはベランダに#人影が立っているのを目にする。#塩川を眺め、日の出を見ている少女。##だが、瞬きをする間に#その姿は消えていた。
+Después de eso, nunca más la vuelves a ver, y después de eso, tu departamento se convierte en solo un departamento.##[RUMORES INQUIETADOS SOBRE UNA RECLUSA RESIDENCIAL:#FINANDO A]|それ以降、彼女を見かけることはなくなり、#このアパートは何の変哲もない、#ただのアパートへと戻るのであった…##｢しじまに消えた住人と次元を超えた事象｣#Aエンディング
+Una expresión de agonía se apodera del rostro de la niña. Su cabello se enreda en las agitadas entrañas del apartamento y su carne comienza a derretirse. Arquea la espalda en un grito sin voz hasta que su pálido cuerpo finalmente colapsa sobre sí mismo.|少女の顔に苦悶の表情が浮かぶ。##アパートの蠢く内臓に髪が絡まり、#肉体が溶け出す。##声なき叫びを上げて、背を反らす彼女。###やがて、その青白い体は内側から崩れ落ちた。
+Cuando sales de la habitación, las cosas parecen haber vuelto a la normalidad y la puerta puede abrirse nuevamente. Aliviado, aprovechas para salir a caminar.#Solo unas horas después regresas al dormitorio y encuentras un bulto debajo de las sábanas de tu cama.|よろめきながら、部屋から出る。##すると、全てあの時のまま元通りになっていた。#ドアも開けるようになっている。##ほっとしたあなたは、ひとまず#散歩に出ることにした。##数時間後、寝室に戻るとベッドカバーの下に#“謎の塊”があることに気づく。
+Al retirar las sábanas se revela el juguete que habías destruido, las piezas unidas con secciones de carne palpitante. Al lado de su cuerpo hay una pequeña nota.|シーツを引きはがすと、#壊したはずのぬいぐるみが出てきた。#一部は、脈打つ肉片と繋がれている。##そしてその傍らに、小さな書き置きが添えられていた…
+>>#siempre te#mantendré a salvo<<##[RUMORES INQUIETADOS DE UN RECLUSO RESIDENCIAL:#FINAL B]|ず っ と#ず　う　っ　と#守 っ て あ げ る か ら ね ###｢しじまに消えた住人と次元を超えた事象｣#Bエンディング

@@ -1,0 +1,711 @@
+eng|jp
+[SHARP]|[鋭器]
+[ONE-HANDED]|[片手用]
+[DEX]|[敏捷性]
+[BLUNT]|[鈍器]
+[TWO-HANDED]|[両手用]
+[FIREARM]|[銃器]
+[FIRE]|[炎]
+[STR]|[筋力]
+[PER]|[知覚]
+[KNW]|[賢さ]
+[MAGIC]|[魔法]
+DAMAGE: |ダメージ: 
+SPEED: |速度: 
+CHANCE TO HIT: |命中率: 
+--EQUIPMENT (SLOT A)--|－装備 (スロットA)－
+--EQUIPMENT (SLOT B)--|－装備 (スロットB)－
+--TRINKET (SLOT C)--|－小物 (スロットC)－
+STEAK KNIFE|ステーキナイフ
+The sharpened edge can slice through the toughest cuts of meat. You can only hope that the red stains are from steak...|その研ぎ澄まされた刃は硬い肉もなんなく切ることができる。#この赤いシミはステーキを切った時についたものだと思いたい…
+You hold onto your STEAK KNIFE, preparing for combat.|ステーキナイフを持ち、臨戦態勢に入る。
+weird red stains...|変な赤いシミが…
+CAMERA|カメラ
+1 KNOWLEDGE|｢賢さ｣+1
+High quality lens, ready in a flash. A solid choice with an ample supply of film.|高品質なレンズ、すぐに撮影可能。#フィルムの供給も十分で、間違いのない一品。
+You take a photo with flash, disorienting the enemy!|フラッシュを焚いて写真を撮り、敵をひるませた！
+sturdy camera|頑丈なカメラ
+[TECHNOLOGY]|[テクノロジー]
+[OFFENSIVE]|[攻撃]
+[ACTION]|[アクション]
+--TECHNIQUE--|－技術－
+STEEL PIPE|鉄パイプ
+(use): adds a new action for later use in combat|使用: 戦闘アクションが#新たに追加される
+Crude, but easy to use and powerful. You're unsure whether it's the rust you're smelling or the dried blood.|粗悪だが使いやすく強力。その錆ついた臭いは金属なのか、それとも乾いた血なのか…
+With great effort, you take a swing and bash the enemy with your STEEL PIPE!|思いっきり振りかぶって、鉄パイプを叩きつける！
+a good sidearm|良い武器
+NICE RING|素敵な指輪
+(equip): +1 CHARISMA#(use): gain 2 FUNDS|装備: ｢カリスマ｣+1#使用: 所持金+2
+A fancy ring, turned up during an investigation. No weird markings, you could try to sell it.|捜査中に見つけた派手な指輪。#変な跡もないし、売り払ってもいいかもしれない。
+You've managed to sell the NICE RING. (+2 FUNDS)|何とか指輪を売り払うことができた。(所持金+2)
+fancy|派手
+[JEWELRY]|[宝飾品]
+[ARMOR]|[防具]
+KENDO HELMET|剣道の面
+small chance of ignoring STAMINA loss in combat|低確率で戦闘中の#スタミナ減少を#無効にする
+It's better than nothing.|ないよりはましだ。
+KENDO HELMET protects you from an attack!|剣道の面が敵の攻撃から身を守った！
+school's equipment|学校の備品
+[MEDICINE]|[薬]
+SEWING KIT|裁縫道具
+--TRINKET--|－小物－
+(use): +3 STAMINA#-1 CHARISMA|使用: ｢スタミナ｣+3#｢カリスマ｣-1
+Shouldn't you ask a doctor to do it?|本当なら医者に診てもらうべきなんだろう…
+Clenching your teeth, you start suturing your wound.|歯を食いしばって、傷口を縫い始める。
+two needles and thread|二本の針と糸
+[ITEM]|[アイテム]
+[ADDICTIVE]|[依存性]
+[LIQUID]|[液体]
+[BLESSED]|[神聖]
+[FLESH]|[人体]
+[BOOK]|[本]
+[ILLICIT]|[違法]
+[LIGHT SOURCE]|[光源]
+[IMPORTANT]|[重要]
+[FOOD]|[食べ物]
+[ELDRITCH]|[怪魔]
+[OCCULT]|[オカルト]
+[CASSETTE]|[カセットテープ]
+[TOY]|[おもちゃ]
+[CONTAINER]|[入れ物]
+[CORROSIVE]|[腐敗]
+[POWDER]|[粉]
+[TOY]|[おもちゃ]
+[AMULET]|[お守り]
+[FOLKLORE]|[伝承]
+[DOCUMENT]|[書類]
+[ACCESSORY]|[アクセサリー]
+[TOOL]|[工具]
+[CLOTH]|[服]
+[DOG]|[犬]
+[SUPPLIES]|[補給品]
+[MILITARY]|[軍用品]
+[PERSONAL]|[固有アイテム]
+[CURSED]|[呪物]
+[KEY]|[鍵]
+[TAG]|[タグ]
+[TAG2]|[タグ2]
+[TAG3]|[タグ3]
+[TAG4]|[タグ4]
+--TRINKET (USABLE)--|－小物(使用可)－
+BACKPACK|バックパック
+allows two additional INVENTORY slots|所持品スロットが#2つ追加される
+You could fit a lot in here...|物がたくさん入る…
+irreplaceable in travel|旅先では欠かせない
+WINE BOTTLE|ワインボトル
+(use): +3 REASON, flip this card|使用: ｢理性｣+3##ランダムな効果が付与される
+foreign, dry|海外産 辛口
+Ugh, what is this stuff? (+ STATUS)|うげっ、何だこれ？(+怪我)
+CIGARETTES|タバコ
+(use): +1 REASON#adds a new STATUS|使用: ｢理性｣+1##新たな｢呪い｣がかかる
+'Smoking kills.'|早死にまっしぐらだ。
+Smoking kills, and you don't feel like you would survive this.|早死にまっしぐらだ、長生きできる気がしない。
+You fear you can get used to it...|恐ろしいのは、これに慣れてしまうことだ…
+You smoke a cigarette and start coughing uncontrollably!|タバコを吸った瞬間、咳が止まらなくなった！
+You smoke a cigarette on your way...|歩きながらタバコを吸う…
+SMALL CANDLE|小さな蝋燭
+[smaller DOOM penalty for escaping from combat]|戦闘逃亡時に上昇する破滅値が#通常より抑えられる
+Small candle made from corpse wax.|死体の耳垢から作られた、小さな蝋燭。
+made from corpse wax|屍蝋製
+CARPENTER HAMMER|釘抜きハンマー
+[small chance of recovering lost STAMINA after defeating an enemy]|敵を倒した時、低確率で#失った｢スタミナ｣を回復する
+Do you like hurting other people?|人を傷つけるのが好きなのか？
+Hurting other people feels good. (+1 STAMINA)|人を傷つけるのは気持ちがいい。(理性+1)
+surprisingly powerful|意外と強力
+HOLY CANDLE|聖なる蝋燭
+[+1 LUCK while held in the inventory]#(use): +2 REASON|所持品にある間は｢幸運｣+1##使用: ｢理性｣+2
+A special candle with anti-spirit effects.|厄払いの効果がある特別な蝋燭。
+This item targets GHOST enemies only.|このアイテムは[悪霊]の敵にのみ有効。
+You light up the HOLY CANDLE.|｢聖なる蝋燭 ｣に火を灯した。
+what is this?...|これは何だ…？
+MUMMIFIED HEART|ミイラの心臓
+(use): defeat VAMPIRE enemy|使用: [吸血鬼]の敵を#撃破する
+It smells of exotic incense...|海外のお香っぽい香りがする…
+This item targets VAMPIRE enemies only.|このアイテムは[吸血鬼]の敵にのみ有効。
+You stab the MUMMIFIED HEART with an iron nail.|“ミイラの心臓”に鉄釘を打ち込む。
+d-did it move?|う、動いた？
+HUMAN SUIT|人型の被り物
+Is it lambskin leather?|羊革だろうか？
+LIBRARY NOTES|文献資料
+(use): gain a random SPELL#lose 1-2 REASON|使用: ランダムな呪文を習得##理性を1~2失う
+They cover a few dusty and boring books.|埃まみれの退屈な本に被さっていた資料。
+Inside the notes you find a curious passage... (-1 REASON)|資料の中に興味深い一節があった… (理性-1)
+forbidden knowledge|禁断の知識
+POLICE REVOLVER|警官の拳銃
+[damage when shot: 9]|射撃時の与ダメージ: 9
+New Manbu N60, designed in the 60s.|ニューマンブN60という60年代に設計された拳銃。
+You pull the trigger, but nothing happens!|引き金を引くも、弾が発射されない！
+You pull the gun's hammer back, preparing for combat!|撃鉄を起こし、臨戦態勢に入る！
+service revolver|公用拳銃
+FLARE GUN|信号拳銃
+(use): deals 2 damage to target enemy (8 damage if ELDRITCH or PLANT type)|使用: 対象の敵に2ダメージ#[怪魔][植物]の敵には#8ダメージ与える
+I hope they are flammable.|燃えやすい敵なら効きそうだ。
+You shoot your flare gun at the enemy. (-2 HEALTH)|信号拳銃で敵を撃った。(体力-2)
+The flare lodges easily into flesh and continues to burn! (-6 HEALTH)|肉にめり込んだ弾が火を放ち、敵は炎に包まれた！(体力-6)
+one use only|一度のみの使い捨て
+FLASHLIGHT|懐中電灯
++1 PERCEPTION|｢知覚｣+1
+I hope the batteries are still okay.|電池はまだ持つだろうか。
+the batteries seem okay|電池はまだ持ちそうだ。
+PAINKILLER|痛み止め
+(use): +2 STAMINA|使用: ｢スタミナ｣+2
+Be careful not to overdose on these.|飲み過ぎないように注意しよう。
+don't overdose it|飲み過ぎ注意
+BLUE GEM|青い宝石
+[it feels cold in your hand]|[手に取ると冷たく感じる]
+It vibrates slightly in your hand.|手の中で僅かに震えている。
+[it is vibrating in your pocket]|[ポケットの中で振動している]
+what is it?...|何なんだこれは…？
+BOX CUTTER|カッターナイフ
+It looks like it'll break very easily.|すぐに刃が折れそうな気がする。
+Sharp yet fragile.|鋭いが、折れやすい。
+LONG PIG STEAK|人肉ステーキ
+(use): +2 STAMINA#adds a new STATUS|使用: ｢スタミナ｣+2#｢呪い｣を1つ受ける
+It smells incredible.|ひどい臭いがする。
+You devour the steak. Who knew you had such an appetite? (+ CURSE)|ステーキを貪る。こんなに食欲があったとは自分でも意外だ。(+呪い)
+smells delicious|美味そうな匂い
+CASSETTE PLAYER|カセットプレーヤー
+NO CASSETTE INSERTED|カセットが入っていない
+CURRENTLY LISTENING|現在再生中
+LISTENED:|再生済み: 
+CASSETTE A|カセットA
+(use): insert a cassette into CASSETTE PLAYER, replacing the old cassette|使用: カセットプレーヤー内の古いカセットを取り出し、#新しいカセットを挿入する
+I wonder what's recorded on it...|何が録音されているんだろう…
+CASSETTE B|カセットB
+LUMP OF FLESH|異形の肉塊
+(use): +5 STAMINA#adds a new STATUS|使用: ｢スタミナ｣+5#ステータスに新たな#状態異常が付与される
+Slimy and smelly, what is it?! It's pulsating slowly in your hand.|ぬるぬるとしていて臭い。手の上でとくとくと脈打っている…何だこれは！？
+You place LUMP OF FLESH on your wound, and it connects with your body.|傷口に異形の肉塊を置くと、体と同化した。
+It wasn't a good idea...|まずかったか…
+it's undulating slowly...|ずるずると蠢いている…
+RITUAL MASK|儀式の仮面
+[small chance of ignoring REASON loss in combat]|戦闘時、低確率で｢理性｣が#失われるのを防ぐ
+Ghastly pale yellow in color.|不気味な淡い黄色の仮面。
+RITUAL MASK protects you from the attack!|｢儀式の仮面｣がその身を守った！
+creepy|気味が悪い
+DUSTY GRIMOIRE|埃まみれの魔導書
+(use): random effect#COST: 2 REASON|使用: ランダムな効果を付与##コスト: ｢理性｣-2
+You feel drowsy just by#looking at the cover.|表紙を見るだけで眠くなってくる。
+This chapter may help you stop the elder god. (+15 EXP)|この章は旧き神を食い止めるのに参考になりそうだ。(EXP+15)
+This chapter seems to be about various rituals. (+ SPELL)|色々な儀式がこの章に書かれているようだ。(+呪文)
+A sudden stream of forbidden knowledge forcibly enters your mind. (+ CURSE)|自分の意思とは関係なく、急に禁断の知識が頭に流れ込んでくる。(+呪い)
+Could it be?.. There's still some hope! (-4% DOOM)|もしかして…まだ希望はあるのか！？(破滅値-4%)
+forbidden knowledge|禁断の知識
+RITUAL DAGGER|儀式用の短剣
+[small chance of recovering REASON after defeating an enemy]|敵を倒すと、低確率で#｢理性｣が回復する
+Its blade is covered with a strange liquid...|刃に謎の液体が付いている…
+You feel ENEMY's strength being channeled into you! (+1 REASON)|敵の力が自分に流れ込んでくるのを感じる！(理性+1)
+is that blood?...|これは血…？
+HUMAN SKULL|人間の頭蓋骨
+random result after casting a SPELL|呪文詠唱後、ランダムな#効果が発動する
+Constantly trying to speak.|しきりに喋ろうとする。
+The skull starts violently shaking as the enemy recoils in pain!|痛みに敵がひるむと、頭蓋骨が激しく揺れ始めた。
+As you cast a spell, another rune appears on the skull.|呪文を唱えると、頭蓋骨に新たなルーンが浮かび上がった。
+You feel calmer. (+1 REASON)|気持ちが落ち着いてくる。(理性+1)
+it twitches slightly|小刻みに揺れている
+GLASS EYE|義眼
+(use): +1 PERCEPTION|使用: ｢知覚｣+1
+S-should you do it?...|ほ、本当にやるのか…？
+You slam the glass eye into your eye socket, crushing your own eye! (-1 REASON)|ガラスの義眼を無理やり突っ込み、自分の眼を潰した！(理性-1)
+You start bleeding heavily (-3 STAMINA)|大量の血が流れ出す。(スタミナ-3)
+The sight from the destroyed eye... returns, changed. (+1 PERCEPTION)|潰された目の視力が戻ると…視界が変容していた。(知覚+1)
+same size as your eye|自分の眼と同じ大きさ
+KATANA|刀
+Its blade was folded over a million times.|その刃は百万回以上折り返し鍛錬されていた。
+an old sword|古い刀
+BONE SAW|骨削りのノコギリ
+[extra damage against UNDEAD enemies]|[亡者]の敵に#追加ダメージを与える
+It's clunky in use.|使い勝手が悪い。
+CURSED DOLL|呪われし人形
+(use): deals 4-6 damage#COST: 1-2 STAMINA|使用: 4～6ダメージを与える#コスト: ｢スタミナ｣1～2減少
+It's covered in dried blood...|乾いた血が染みついている…
+You stab the doll with a pin. A sudden pain shocks you!|人形を針で刺す。すると突然、体中に痛みが走る！
+creepy|気味が悪い
+EMPTY BOTTLE|空の瓶
+[it can be used to store liquids]|液体を保存できる
+You could fill this bottle with something.|何か入れておけそうだ。
+BOTTLE [SLUDGE]|汚泥の入った瓶
+deals extra damage when thrown|敵に投げると#追加ダメージを与える
+It's filled with a black and thick sludge.|黒くてドロドロの汚泥が詰まっている。
+BOTTLE [MILK]|牛乳の入った瓶
+(use): +1 STAMINA|使用: ｢スタミナ｣+1
+Tasty milk.|美味しい牛乳。
+~glug glug~|ゴクゴク…
+moo-moo brand|モーモーブランド
+RITUAL ROBE|儀式用ローブ
+additional MAGIC slot|｢魔法｣スロットが#追加される
+Surprisingly heavy and clunky in use.|着てみると、意外と重くて不格好。
+slightly too big|少し大きすぎる
+CHAMPAGNE|シャンパン
+(use): +1 REASON for each ALLY|使用: ｢仲間｣1人につき、#｢理性｣+1
+foreign, dry|海外産、辛口
+good year|当たり年の上物
+FOREST TAPES|森のテープ
+Seemingly broken, but maybe you can find a way to repair them.|一見、壊れてはいるが、#何とか直せるかもしれない。
+Who could help me with that?|修理できそうな人はいないだろうか？
+DUST OF SEEING|幻視の粉塵
+[momentarily renders invisible creatures partially visible]#(use): sets enemy POWER to 0|目に見えない存在を#一瞬だけ見えるようにする##使用: 敵の｢パワー｣を0にする
+White dust. It has no smell.|白い粉。何の匂いもしない。
+You throw the dust in the air!|辺りに粉塵をばらまく！
+What is it?...|何だあれは…？
+PRESCRIPTION PILLS|処方箋の薬
+(use): +2 REASON|使用: ｢理性｣+2
+It's called HYPNOCIL. It will help you sleep but there are not too many pills left.|ヒプノシルという薬。眠れるようになるが、もう残りは少ない。
+You swallow the pill. You needed that! (+2 REASON)|あなたは錠剤を飲んだ。良く効く薬だ！(理性+2)
+don't overdose it|飲み過ぎ注意
+STALKER'S MASK|ストーカーの仮面
++1 DAMAGE against HUMAN enemies|[人間]の敵に対する#与ダメージ+1
+Good thing the teeth are a part of the mask.|この歯は元々仮面についていたものだ。
+BASEBALL BAT|野球バット
+Baseball bat used by school's team.|野球部が使っていたバット。
+A wooden baseball bat.|木製の野球バット。
+school's bat|学校のもの
+FOREIGN CIGARETTES|洋モク
+LIBRARY BOOK|図書室の本
+(use): +10 EXP|使用: EXP+10
+A heavy book with a thick cover. It's long overdue.|分厚い表紙の重い本。返却期限はとっくに過ぎている。
+long overdue|借りっぱなし
+PANCAKES|ホットケーキ
+(use): +2 STAMINA#-2% DOOM|使用: ｢スタミナ｣+2#破滅値-2%
+Not the healthiest breakfast option but it smells fantastic.|健康的な朝食とは言えないが、香りは最高だ。
+smells fantastic|ずっと嗅いでいたい
+CURIOUS PACKAGE|気になる小包
+you shouldn't open it now|今は開けない方がいい
+What could be inside?|中に何が入ってるんだろう？
+what's inside?|中身はなんだろう？
+ARMY KNIFE|アーミーナイフ
+Stainless steel.|ステンレス鋼製のナイフ。
+You hold onto your ARMY KNIFE, preparing for combat.|アーミーナイフを握りしめ、臨戦態勢に入る。
+a sharp knife|鋭いナイフ
+ELDRITCH AMULET|怪魔の魔除け
++10 REASON when worn|装備: ｢理性｣+10
+It could be your last hope to make it through.|これが、この世界を生き抜く最後の希望になるかもしれない。
+looks really old|見た目はかなり古い
+CURSED CARTRIDGE|呪いのカートリッジ
+thrown items deal extra damage|敵に投げたときに#追加ダメージを与える
+CURIOUS STATUETTE|異様な小像
++1 KNOWLEDGE while held in the inventory.|所持品にある間、｢賢さ｣+1
+POCKET KNIFE|ポケットナイフ
+(use): automatically escape from combat without the DOOM penalty|使用: 自動的に戦闘から逃げる#(同時に破滅値も低下)
+It may be useful when something grabs you...|何かに掴まれたとき、役に立つかもしれない…
+your last resort|最後の手段
+SCALPEL|メス
+LUCKY EARRINGS|幸運の耳飾り
+(equip): +2 LUCK|装備: ｢幸運｣+2
+Fancy earrings.|おしゃれな耳飾り。
+festival souvenir|祭りのお土産
+CORPSE DUST|遺灰
+(use): +20 EXP#-2 LUCK|使用: EXP+20#｢幸運｣-2
+it shimmers in your hand|手の中で輝いている
+Can your nostrils become haunted?|鼻の穴から化けて出てくるかも？
+You snort the CORPSE DUST!|遺灰を鼻から吸った！
+HUNTING RIFLE|猟銃
+[damage when shot: 32]|射撃時の与ダメージ: 16
+An old rifle.|古い銃。
+HAPPI COAT|はっぴ
++1 LUCK|｢幸運｣+1
+It's a nice pattern.|素敵な柄だ。
+TAIYAKI|たい焼き
+(use): +1 REASON|使用: ｢理性｣+1
+Tasty!|美味しい！
+WOODEN BAT|木製バット
+You take a warning swing, preparing for combat.|素振りをして、戦いに備える。
+Slightly dusty.|少し埃っぽい。
+MAP|地図
+investigating VILLAGE or FOREST locations has a small chance of lowering DOOM|村や森を調査すると、#低確率で破滅値が下がる
+It's a map of SHIOKAWA and the surrounding area.|塩川とその周辺の地図。
+Someone has marked new paths on it.|誰かがこの上に新たな道を書き足していた。
+You mark the subtle changes on the map. (-2% DOOM)|地図に印を付けて、細かな変化も記録する。(破滅値-2%)
+Huh, this road wasn't here before... (-2% DOOM)|ん？こんな道、前まで無かったような… (破滅値-2%)
+map of the city|町の地図
+PRESCRIPTION|処方箋
+[where could you fill a prescription like this?]|[こんなの、どこに行けば#処方してもらえるんだろう？]
+It's for an expensive pharmacy drug.|高価な薬の処方箋。
+(use): fill a prescription#COST: 4 FUNDS|使用: 処方箋の薬をもらう##コスト: 所持金-4
+drug prescription|薬の処方箋
+BRANCH|木の枝
+[fast to equip]|[戦闘中装備可能]
+It won't last too many swings.|乱暴に振り回せば、すぐに折れてしまう。
+COMPASS|コンパス
++2 EXP for each investigated location|調査ポイントを1つ#調べるごとに#EXP+2
+It will surely be useful.|必ず役に立つだろう。
+Your compass helps you find your way. (+2 EXP)|道を探すのに｢コンパス｣が役立った。(EXP+2)
+an old thing|古いコンパス
+ENERGY DRINK|栄養ドリンク
+(use): +1 DEXTERITY until the end of the current mystery|使用: 現在の謎を解くまで#｢敏捷性｣+1
+Not the healthiest thing in the world.|健康に良いとは言えない。
+SALT|塩
+(use): deals 8 damage to GHOST-type enemies|使用: [悪霊]の敵に#8ダメージ与える
+Kitchen salt.|調理用の塩。
+You throw the salt around you, weakening your enemy!|自分の周りに塩を撒き、敵を弱らせた！
+STRAIGHT RAZOR|西洋剃刀
+It reminds you of a certain American heist thriller film. You don't need to shave right now.|アメリカの某強盗スリラー映画を彷彿とさせる。#今、ヒゲを剃る必要はない。
+You flip your STRAIGHT RAZOR open, preparing for combat.|あなたは西洋剃刀の刃を出し、臨戦態勢に入った。
+avoid unnecessary cuts|ムダに怪我するのは避けたい
+PRAYER BEADS|祈りの数珠
+faster SPIRITUAL actions|祈祷アクションの速度が上昇
+Wooden beads. They fill you with hope.|木製の数珠。あなたを希望で満たしてくれる。
+Unsui-san's|雲水さんの数珠
+BROKEN BOTTLE|割れた瓶
+[fast to equip]|[戦闘中装備可]
+A discarded bottle turned into a weapon.|ただの捨てられていた瓶が、得物へと変貌した。
+a glass tulip|ガラスのチューリップ
+FRIEND'S DIARY|友達の日記
+Other pages seem irrelevant to the case. I hope they're okay...|他のページは、この件と無関係のようだ。友達が無事であることを祈ろう…
+Maru is acting strange. I need to talk with her after class. I hope she didn't attempt the ritual herself.|真瑠の様子がおかしい。#授業が終わったら話さないと。#一人で儀式をしようとして#なければいいが…
+I've hidden the candles in one of the classrooms. Tomorrow I  will try to perform the ritual.|ある教室に蝋燭を隠した。#明日、儀式をやってみよう。
+A strange tall woman has been following me all day, I must hurry up.|知らない女が今日は#ずっと後をつけてきた。#急がないと。
+This sigil can weaken the demon for a while.##Careful with the lines.|これを描けば、一時的に#あの魔物の力を抑えられる。#線を描くときは#間違えないように。
+CAN OF ACID|酸入りの金属缶
+(use): deals 7 damage to ELDRITCH enemies|使用: [怪魔]の敵に#7ダメージ与える
+This item works only on ELDRITCH enemies.|[怪魔]の敵にのみ有効
+Your eyes sting from the fumes as you pour the acid.|酸を注ぐと、その煙が目がしみる。
+metal tool|金属製の缶
+TINY KEY|小さな鍵
+[can be used to open certain locks]|特定の錠前を#開けられる
+GOBLET|杯
+[constantly cold to the touch]|触ると常に冷たい
+It looks ancient. What was it doing in school?...|見た目はかなり古い。何でこれが学校に…？
+SMELLY MEAT|異臭を放つ肉
+[rancid meat of an unknown source]|出所不明の腐った肉
+Disgusting.|吐き気がしてくる…
+Maybe it's not that bad?...|まぁ、我慢できるかも…？
+smells horrible|ひどい臭いだ
+CROWBAR|バール
+lightweight and durable|軽くて丈夫
+FIRE AXE|消防斧
+an excellent melee weapon|優れた近接武器
+heavy and powerful|ずっしりとしていて強力
+CASSETTE C|カセットテープC
+SWITCHBLADE|飛び出しナイフ
+LIGHTHOUSE KEY|灯台の鍵
+could it be one of the keys needed to open the lighthouse?|灯台を開ける鍵の1つだろうか？
+'KARUKOSA' MASK|カルコサの仮面
+faster SPIRITUAL actions|祈祷アクションの速度が上昇
+Weird design with many strings.|紐の多い異様なデザイン。
+can you see in it?|何が見えるのだろう？
+ANCIENT RING|いにしえの指輪
++1 STRENGTH#+5% DOOM|｢筋力｣+1#破滅値+5%
+it must be really old|相当古いものに違いない
+SHOVEL|シャベル
+[small chance of gaining FUNDS after defeating an enemy]|敵を倒したとき、#低確率で所持金を獲得する
+You dig out something extra... (+1 FUNDS)|ついでに何かを掘り起こした…(所持金+1)
+BANDAGE|包帯
+[you can heal one minor INJURY while keeping this item in the INVENTORY]|所持品に入れておくと#一度だけ軽い怪我を#治すことができる
+You bandage your wounds...|傷口に包帯を巻いた…
+CURSED SCISSORS|呪われしハサミ
+[small chance of raising DOOM after each attack]|攻撃後に低確率で#破滅値が上昇する
+You shouldn't use cursed scissors in combat...|このハサミを戦闘で使うのはやめた方がいい…
+TORCH|松明
+[counts as a light source]|[光源]として使える
+CRESTFALLEN MASK|嘆きの仮面
+-10% DOOM|破滅値-10%
+VIGIL PAMPHLET|通夜の案内状
+We would like to thank you on behalf of our client for participating in this vigil on such short notice.##He was a spiritual person and left instructions we are asking you to follow closely.|急なご案内にもかかわらず、#こちらの通夜にご列席いただき#依頼主に代わって厚く御礼#申し上げます。#故人は霊的なお方であり、#右記の指示を厳守するよう#言い残しておりました。
+9pm - start of the vigil#10pm - pray over the body|21時 - 開始#22時 - お祈りの時間
+clap|拍手
+bow|お辞儀
+modest supper|質素な夕食
+light up fireplace|囲炉裏に薪をくべる
+11pm|23時
+12am - pray over the body|0時 - お祈りの時間
+1am - ...#2am|1時 - …#2時
+3am - cover the mirror#in the storage room#4am - ...#5am - end of the vigil|3時 - 物置の鏡を隠す#4時 - …#5時 - 終了
+9pm - start of the vigil|21時 - 開始
+MEAT CLEAVER|肉切り包丁
+The sharpened edge can slice through the toughest cuts of meat.|硬い肉も切れるほど、切れ味抜群の包丁。
+You hold onto your MEAT CLEAVER, preparing for combat.|肉切り包丁を握りしめ、臨戦態勢に入る。
+a crude weapon|粗雑な武器
+BLACK HAIR|黒い髪
+(use): combines with SEWING KIT|使用: ｢裁縫道具｣と#組み合わせて使う
+a lock of human hair|一房の人髪
+You replace the sewing kit's thread with black hair... why?|なぜかは分からないが…裁縫用の糸としてこの髪を代用した。
+You don't have a SEWING KIT to combine it with.|糸として使えるが、｢裁縫道具｣がない。
+human hair|人間の髪の毛
+SEWING KIT (HAIR)|裁縫道具(黒い髪)
+(use): +3 STAMINA#+3 REASON|使用: ｢スタミナ｣+3#｢理性｣+3
+TOME OF ROT|腐敗の大典
+(use): deals 8 damage to HUMAN enemies#[adds new STATUS]|使用: [人間]の敵に#8ダメージ与える##｢怪我｣を負う
+As you read the incantation, your enemy starts to fall apart!|呪文を唱えると、敵がバラバラに崩れ始めた！
+The eldritch rot spreads to your hand!|あなたの手にも腐敗した邪気が侵蝕してきた！
+slow and painful decay|痛みを伴い、じわじわと進む腐敗
+FATAL FLORA|有毒植物図鑑
+(use): deals 8 damage to PLANT enemies#[adds new status]|使用: [植物]の敵に#8ダメージを与える##｢怪我｣を負う
+Guide to Toxic Flowers|有毒植物について書かれた図鑑
+DOG TREATS|犬のおやつ
+while in INVENTORY, all ITEMS in the SHOP are cheaper by 1 FUNDS|所持品にある間、#ショップの全アイテムが安くなる#(所持金-1)
+'Happy Dog' brand, tastes like chicken!|｢ハッピードッグ｣というブランドの商品。鶏肉のような味がする！
+'Woof!'|<<わんっ！>>
+GRUESOME TOTEM|不気味なトーテム像
+-10% DOOM#-3 MAX REASON|破滅値-10%#理性上限-3
+You should get rid of it.|処分した方がいい。
+PAIN MEDICATION|鎮痛剤
+(use): +4 STAMINA#-2 MAX REASON|使用: ｢スタミナ｣+4#理性上限-2
+You _really_ don't like needles... Is it really safe?|注射針は死ぬほど苦手だ…本当に使って大丈夫なのか？
+EXPERIMENTAL DRUG|実験薬
+(use): +4 REASON#-2 MAX STAMINA|使用: ｢理性｣+4#スタミナ上限-2
+You _really_ don't like needles... Is it really safe?|注射針が死ぬほど苦手で…本当に使っても大丈夫なんだろうか？
+SHIOKAWA HERALD (A)|塩川新聞ヘラルド(A)
+An article covers a group of scientists from Tokyo. They were exploring and mapping weird cave formations, found in the cliffs.#(...) The search of the missing team of scientists continues. The only clue so far is a code, written on a cavern wall:|東京から来た、ある科学者達についての記事：崖で見つかった奇妙な洞窟の形状を調査し、#その地図を作っていた彼ら。(…) 現在も、失踪した科学者達の捜索は続けられている。#唯一の手がかりは、洞窟の壁に描かれた謎の暗号だ：
+ARCHITECT'S JOURNAL|建築家ジャーナル
+'(...) One house owner, however, decided to make use of the cave tunnel.#'It's a natural concert hall' he claims. (...)'|“…だが、そのうちのある所有者がこの洞窟を有効活用しようと考えた。#<<天然の演奏会場だ。>>そう彼は断言する。…”
+RENTED BOOKS|借りた本
+EXTRA AMMO|予備弾薬
+(use): +3 AMMUNITION|使用: ｢弾薬｣+3
+SPORT RIFLE|競技用ライフル
+[damage when shot: 14]|射撃時の与ダメージ: 14
+rifle used in competitions|競技で使われるライフル
+BURNT NOTES|焼け焦げたメモ
+'(...) legend from the ---- prefecture eels tell of a small vil--ge of robbers who would ki-l all visitors and dump their corps-s into a lake full of eels. (...) eels of the ---- prefectu-- -ould lay their eggs inside huma--- ---- ---- (...)'|“---伝説によれば、かつて---県には小さ--追い剥ぎの村があった。#村を訪れた者は一人残らず殺--れ、その死体はウ-ギの群生する湖に投げ捨てら--たという。#----県のウ---は、人の体内に卵を産み付け------”
+BOTTLE [WATER]|水の入った瓶
+(use): +1 STAMINA|使用: ｢スタミナ｣+1
+~glug glug~|ゴクゴク…
+refreshing|飲むと爽快な気分に
+MEDICAL KIT|医療品ケース
+(use): gain 2 BANDAGES#[you can heal one major INJURY while keeping this item in the INVENTORY]|使用: ｢包帯｣を2本獲得##所持品に入れておくと、#大きな｢怪我｣を1つ治せる
+Army-issued medical kit.|軍から支給されたもの。
+You empty the contents of the medical kit. (+2 BANDAGES)|｢医療品ケース｣の中身が空になった。(包帯+2)
+You use the medical kit to treat your wound!|｢医療品ケース｣を取り出し、傷の手当てをした！
+OLD SHOTGUN|古いショットガン
+[damage when shot: 15]|射撃時の与ダメージ: 15
+Your father's old shotgun.|パパの古いショットガン。
+You raise your OLD SHOTGUN. <<...don't come any closer!>>|｢古いショットガン｣を構えた。<<…これ以上近づかないで！>>
+I must return it|ちゃんと返さないと
+SOFT DRINK|ソフトドリンク
+(use): +2 REASON|使用: ｢理性｣+2
+You haven't seen this brand before.|こんなブランド、初めて見た。
+local brand|地元のブランド
+ROCK RING|岩石の指輪
++1 STRENGTH#-2 MAX REASON|｢筋力｣+1#理性上限-2
+Surprisingly heavy... It's not actually made of stone, is it?|意外に重い…岩で作ったものじゃない…のか？
+surprisingly heavy|意外に重い
+PATINA RING|錆びた指輪
++1 DEXTERITY#-2 MAX STAMINA|｢敏捷性｣+1#スタミナ上限-2
+Surprisingly light... It looks like it's going to fall apart any second now.|意外と軽い…今にも割れてしまいそうだ。
+surprisingly light|意外に軽い
+DEMON MASK|般若の面
++1 DAMAGE#-4 MAX STAMINA|ダメージ+1#スタミナ上限-4
+DIY FLAMETHROWER|即席の火炎放射器
+[fast to equip]|[戦闘中装備可]
+INSPIRING NOVEL|感動小説
+(use): +2 DAMAGE until#the end of the mystery|使用: この謎が終わるまで#与ダメージ+2
+You've read this book countless times.|数え切れないくらい読んだ。
+ONYX MEDALLION|オニキスの首飾り
++2 CURSES every mystery#(once per mystery):#cure one CURSE|毎回の調査で呪いを2つ付与##謎1つにつき、呪いを1つ解く
+The ONYX MEDALLION burns your skin!|オニキスの首飾りが、あなたの皮膚を焼き尽くす！
+'it fell from the sky'|<<空から降ってきたの…>>
+NECRONOMICON|ネクロノミコン
+-AURA OF AZAL-HOTH-##lower DOOM by 10% by completing a mystery#[PASSIVE]|-アザル＝ホスの霊気-##謎解明時: 破滅値-10%#[パッシブ効果]
+##retrieve more pages when you level up|##レベルが上がると、新たなページが手に入る
+BRICK|レンガ
+OLD COIN|古のコイン
+(use): grants one#free CURSE removal|使用: コストなしで#｢呪い｣を1つ解く
+You break the coin in half.|コインを半分に割った。
+HEAVY DUTY FLASHLIGHT|頑丈な懐中電灯
+[counts as a light source]|[光源]として使える
+MONKEY WRENCH|モンキーレンチ
+[HEAVY TOOL]: -1 STRENGTH|[重い工具]: ｢筋力｣-1
+BRONZE CRUCIFIX|銅の十字架
+(equip): allows you to fight GHOST enemies normally#(use): break it in half|装備: 通常の戦闘と同じように#[悪霊]の敵と戦える##使用: 真っ二つに割る
+SKELETON KEY|合い鍵
+(use): open a random remaining LIGHTHOUSE padlock#COST: 15% DOOM|使用: 灯台に残った南京錠を#ランダムに開ける##コスト: 破滅値+15%
+HANDCUFFS|手錠
+(while in inventory): lower HUMAN enemy's POWER by 5#(use): defeat a HUMAN enemy with 12 or less HEALTH remaining|所持品にある間は[人間]の敵の#｢パワー｣が5低下#使用: 敵が[人間]で残り｢体力｣#が12以下だった場合、#その場で撃破できる
+You subdue the weakened enemy!|弱った敵を力ずくで抑えた！
+RUSTY SICKLE|錆びた鎌
+[small chance of dealing 1 extra DAMAGE]|低確率で追加ダメージを#1与える
+FOREST NOTE|森に残されたメモ
+I write this for everyone wanting to stay behind.##The sacrifice is worth it.#Life's meaning comes from our relationships.#Share death, and that connection will outlast you.##There won't be anything left but US.|これはこの世界に残ろうとする#全ての人々に向けて書いた#ものだ。#この犠牲は無駄にならない。#人生の意味とは、人と人との#つながりの中から生まれる。#共に死を分かち合おう。#そのつながりは、君が消えた後も続く。#最後に残るのは我々だけだ。
+Everyone here is waiting for you so if you lose your resolve##just listen to the VOICE OF HUMANITY|皆がここで君を待っている。#仮にその意志が揺らぐことが#あれば…##｢全人類の声｣に耳を傾ければいい。
+GOBLET (BLOOD)|血の杯
+[constantly cold to the touch]#(use): drink the blood|[触るといつも冷たい]##使用: その血を飲み干す
+It looks ancient. What was it doing in school?...|見た目はかなり古い。なぜ学校にあったのだろう…？
+The blood drunk from the goblet is surprisingly cold and smooth.|杯に注がれた血を飲み干す。驚くほど冷たく、なめらかに感じる。
+It rejuvenates you and clears your mind. (+6 STAMINA / +6 REASON)|すると、元気が出てきて晴れやかな気持ちになった。#(スタミナ+6 / 理性+6)
+BOTTLE [BLOOD]|血の入った瓶
+(use): drink the blood#[filled with boiling blood]|使用: その血を飲み干す#[煮え立つ血で満たされている]
+OCCULT DIARY|オカルト日記
+(use): -3% DOOM|使用: 破滅値-3%
+You burn down the cursed diary. (-3% DOOM)|呪いの日記を焼き払った。(破滅値-3%)
+RITUAL MASK (PUMPKIN)|儀式の仮面(南瓜)
+(use): cook and eat it#[small chance of ignoring REASON loss in combat]|使用: 調理して食べる#低確率で戦闘中に#｢理性｣が下がるのを防ぐ
+Ghastly pale yellow in color.|不気味に黄ばんだ仮面。
+RITUAL MASK protects you from the attack!|｢儀式の仮面｣が敵の攻撃を防いだ！
+Tasty! (+2 STAMINA)|美味い！(スタミナ+2)
+creepy|不気味な柄
+SPIRAL HOOD|うずまき柄の覆面
++2 STRENGTH / DEXTERITY# -2 PERCEPTION|｢筋力｣+2 / ｢敏捷性｣+2#｢知覚｣-2
+creepy|気色悪い
+CHAINSAW|チェーンソー
+[HEAVY TOOL]: -1 STRENGTH|[重い工具]: ｢筋力｣-1
+SWITCHBLADE|飛び出しナイフ
+BRICK|レンガ
+LUCKY BAT|幸運のバット
++2 LUCK|｢幸運｣+2
+You can't find anything useful in the notes. You throw them away.|有用な情報が見つからなかったので、そのまま捨てた。
+The forbidden knowledge transcribed on the notes sear your brain... (-2 REASON)|そこに転写された禁断の知識を目にし、脳が焼かれてしまう…(理性-2)
+Using a pocket knife, you escape! (-4% DOOM)|ポケットナイフを使い、その場から逃げた！(破滅値-4%)
+Even with a pocket knife, you won't be able to escape!|ポケットナイフがあっても、その場を逃げ切れない！
+You fill the prescription and recieve a drug.|あなたは処方箋を出して、薬を受け取った。
+Now, where would you find the girl who dropped it?|
+You don't have enough money!|お金が足りない！
+This action requires a HUMAN enemy!|このアクションは[人間]の敵にのみ有効。
+This action requires a PLANT enemy!|このアクションは[植物]の敵にのみ有効。
+Your faith is crumbling! (-7 FAITH)|神への信仰心が崩れ落ちていく。(信仰値-7)
+You've already equipped|すでに装備中:
+HOSPITAL PASS|病院の入館証
+[allows you to skip some encounters at the HOSPITAL]|病院でのエンカウントを#一部スキップできる
+An obvious forgery but it should be enough to fool the overworked staff at the hospital.|偽物感がすごいが、疲れ切った職員をダマすならこれで十分だろう。
+'an obvious forgery'|明らかに偽物
+SEMI-AUTO|半自動式拳銃
+[damage when shot: 7]|射撃時の与ダメージ: 7
+A pistol smuggled into Japan. Still in good condition.|日本に密輸された拳銃。状態もまだ良い。
+why did you do it?...|なぜこんなことを…
+ARM SLING|うで吊り
++4 STAMINA|｢スタミナ｣+4
+You should let your arm rest a bit before taking it off.|少し腕を休ませてから外そう。
+a temporary solution|応急処置
+ROSARY|ロザリオ
+(equip): +3 FAITH#+1 REASON|装備: ｢信仰｣+3#｢理性｣+1
+An old wooden rosary.|古い木製のロザリオ。
+<<Glory Be>>|<<光あれ>>
+CHAINSAW (NO FUEL)|チェーンソー(燃料切れ)
+[needs fuel to be functional again]|再始動させるには#｢燃料｣が必要
+A deadly tool... if you can manage to make it run again.|また動かせるようになれば…恐ろしい凶器になり得る。
+<<...>>|<<…>>
+FUEL|燃料
+(use): attempt to refill something that runs on gasoline|使用: ガソリンで動くものに#補充する
+A heavy can filled with fuel.|燃料が入った重い容器。
+You refuel the chainsaw, making it usable again. Groovy.|チェーンソーに燃料を補充し、また使えるようにする。良い音だ！
+You don't have anything that needs refueling.|｢燃料｣が必要なものを所持していない。
+<<...>>|<<…>>
+CHAINSAW|チェーンソー
+Now that it's properly fueled, it should last you for a long time.|燃料は十分入れたので、しばらくは安心して使える。
+a brutal weapon|残酷な武器
+RESEARCH NOTES|研究資料
+(...) The pillars are related to the cult of T(...), a fertility goddess. People here refuse to help us with the work and forbid us from researching the village's archives. (...)|“---これらの柱は豊穣の女神、テ---の信仰と関係していた。#村民は我々、研究員に対する協力を拒み、村にある古文書の調査を禁じたのである。---”
+You nearly trip over a brick laying on the floor.|床に置かれたレンガに危うくつまずきそうになる。
+You decide to pick it up.|手に取ってみることにした。
+You throw the pack of cigarettes away.|タバコの箱を捨てた。
+-AURA OF AZAL-HOTH-##<<the cult can't be allowed to have this cursed book!>>##completing a mystery lowers DOOM by 10%#[PASSIVE]|-アザル＝ホスの霊気-##<<あんなカルト集団に、#この呪いの書が渡ったら#とんでもないことに…！>>##謎を解くごとに#破滅値が10%低下#[パッシブ効果]
+The NECRONOMICON you've stolen contains powerful spells and horrible secrets.#To activate its power, retrieve more pages when you level up.|あなたが盗み出したこの本#には、強力な呪文や恐ろしい秘密が記されている。#その力を引き出すには、#レベルを上げて新たなページを集めなければならない。
+The power of RAGH-ZHULL fills you! (+1 DAMAGE)|“ラグ＝ズール”の力がその身に宿った！(ダメージ+1)
+F'THOTH cleanses your surroundings! (-3% DOOM)|“フ･トス”によって、あなたの周りが浄化された！(破滅値-3%)
+You don't have enough experience!|EXPが足りない！
+SHEBBE cares deeply for her followers!|“シェベ”が信仰者に対し、深い愛情を注いだ！
+So it shall be done. (+15% DOOM)|全てはその意のままに。(破滅値+15%)
+CTHUR-IZTO mends your flesh! (+3 STAMINA / +3 REASON)|“クトゥル＝イズト”があなたの肉体を修復した！(スタミナ+3 / 理性+3)
+is trembling with fear.#<<P-please, don't make me attack t-them.>>|は恐怖で震えている。#<<た、頼むから、奴らを襲わせないで…>>
+gulps and clenches their fists.# <<w-we'll make it out of this alive, for sure!>>|がごくりと唾を飲み込み、拳を握った。#<<ぜ、絶対に生きて、ここを抜け出す！>>
+barks knowingly.|が、何かを理解したかのように吠えた。
+is wagging its tail.|は、しっぽをフリフリと振っている。
+looks at you as you pat its head.|の頭をナデナデすると、あなたの方を見つめてきた。
+looks around, uncertain.##<<Let's get out of this forest, okay?>>|が、不安そうに辺りを見回す。##<<もう、この森は出た方がいい…>>
+suddenly stops.##<<W-what was that noise?...>>|が、急に立ち止まった。##<<な…何の音…？>>
+smiles a bit.##<<At least the weather is nice.>>|が微笑んだ。##<<まあ…天気はいいね。>>
+shivers.##<<I don't like the way the villagers look at us...>>|が体を震わせる。##<<村の人の視線が、どうも気になる…>>
+gets closer.##<<Should we be wearing masks? It looks like everyone else is...>>|が近づいてくる。##<<…仮面、どうする？#つけてないのは自分たちだけじゃ…？>>
+looks around.##<<We spent one summer vacation in this village a few years ago.>>|が辺りを見回す。##<<この村、何年か前の夏休みに来たことあるよ。>>
+sniffs.##<<What's that smell?>>|が、くんくんとにおいをかぐ。<<このにおいは…？>>
+grabs your arm.##<<You know, they say this hospital is haunted... but that's just an urban legend, right?>>|に腕を掴まれる。##<<この病院、幽霊が出るってうわさだけど…#ただの都市伝説でしょ？>>
+: <<Can I just stay in the waiting room and read a magazine?>>|: <<待合室で雑誌読んでるよ。>>
+touches your arm.##<<There's a nice restaurant around the corner here, are you hungry?>>|が、腕を触ってくる。##<<この角を曲がると、いいレストランがあって…#お腹空いてる？>>
+suddenly stiffens.##<<...that man has been following us for a while...>>|が、急に身を固くする。##<<あの男…さっきからずっと、つけてきてる…>>
+looks at you, waiting.|はこちらを見つめて、待っている。
+smiles faintly.|が微笑んだ。
+looks around.##<<Did you hear th... nevermind.>>|が辺りを見回している。##<<何か音が…いや、大丈夫。>>
+shivers.##<<Is it me or did it suddenly get colder?>>|が体を震わせている。##<<急に寒くなってきた気が…>>
+looks at you and blushes.##<<Good thing we're together in this... right?>>|がこちらを見て、顔を赤くする。##<<こんな状況だからこそ、一緒にいれて良かったとか…#そう思わない？>>
+hands you a parting gift! (+1 STAT)|から餞別をもらった！(全能力値+1)
+leaves the party!|が、調査から抜けた。
+--ALLY--|-仲間-
+FUJIKO|不二子
+your KICK action deals additional 1 DAMAGE|戦闘アクション｢キック｣#実行時に追加ダメージ+1
+<<hrmph...>>|<<フン…>>
+[sukeban girl]|[スケバン]
+KAZUMI|和美
+cheaper TREATMENT and SURGERY actions|アクション｢治療｣｢手術｣の#費用が安くなる
+<<I can patch that up>>|<<それなら私が手当てできるよ>>
+[nurse]|[看護婦]
+IWA|岩さん
++2 STRENGTH|｢筋力｣+2
+<<I'm the best>>|<<オレが一番だ>>
+[chef]|[料理人]
+ASATO|浅藤
+(let go): gain 2 SPELLS|｢仲間｣から外すと、#｢呪文｣を2つ習得する
+<<follow me>>|<<ついてきて>>
+[witch]|[魔女]
+ASATO teaches you a few simple incantations.|浅藤から、簡単な呪文をいくつか教わった。
+DOG|犬
+higher chance of finding items after combat|戦闘後のアイテム発見率が上昇
+<<woof>>|<<ワンッ>>
+[dog]|[犬]
+YOICHI|陽一
+(let go): double your available FUNDS|｢仲間｣から外すと、#所持金が2倍になる
+<<I know all the loopholes>>|<<法の抜け穴なら全部知ってる>>
+[salaryman]|[サラリーマン]
+HERMIT|隠者
+<<y-you don't ww-ant to learn the truth>>#(let go): -5 REASON#-10% DOOM|<<し、真実なんて…知らない方がいい>>#｢仲間｣から外すと、#｢理性｣-5 / 破滅値-10%
+...|…
+[haunted]|[霊憑き]
+<<Forget about me...>> (-5 REASON / -10% DOOM)|<<私のことは忘れて…>> (理性-5 / 破滅値-10%)
+RYOKO|涼子
++1 to weapon's DAMAGE|武器によるダメージ+1
+<<I know a faster way>>|<<もっと手っ取り早い方法がある>>
+[park ranger]|[自然保護官]
+CAMP DOG|キャンプ犬
++1 additional INVENTORY slot|所持品のスロット+1
+<<woof woof>>|<<ワンワンッ！>>
+MASAFUMI|正文
++1 damage against GHOST enemies|｢悪霊]の敵に対して、#ダメージ+1
+<<I detect something>>|<<何か感じるね…>>
+[ghost hunter]|[ゴーストハンター]
+MARIA|真里亜
++1 CIGARETTE for each defeated enemy|敵を倒す度に｢タバコ｣を#1本入手する
+<<let me paint that>>|<<それ、描かせて>>
+[haunted artist]|[ホラーアーティスト]
+MARIA: <<You look like you could use a smoke.>> (+1 CIGARETTE)|真里亜: <<一服した方がよさそうに見えるけど。>>(タバコ+1本)
+ATTACK DOG|勇敢なる黒犬
++1 extra DAMAGE|攻撃時の与ダメージ+1
+IKUMI|幾美
++1 to all skill checks in OTHERWORLD locations|｢異界｣の調査時#全スキルチェック+1
+<<these angles don't make sense>>|<<理解できない角度ね…>>
+[architecture student]|[建築学生]
+MASAKO|雅子
+faster combat actions, may drain your health|戦闘アクションが速くなる#代わりに、スタミナを消耗することがある
+<<let me help you>>|<<あなたの力になりたい>>
+[ghastly parasite]|[恐怖の寄生体]
+MASAKO hovers a little bit too close... (-1 STAMINA)|雅子がずっとついてくる…やけに距離が近い。(スタミナ-1)
+RYUICHI|龍一
+(use): pay 2 FUNDS to lower DOOM by 0-3%|使用: 所持金を2払うことで#破滅値を0～3%下げる
+<<they will pay for this>>|<<お代はいただくよ>>
+[informant with the broken hands]|[手が骨折した情報屋]
+KANA|佳那
+receive -1 DAMAGE from attacks during combat encounters|戦闘時の被ダメージ-1
+ready for adventure|冒険の準備は万端！
+[friendly neighbor][IMPORTANT]|[仲の良い隣人][重要]
+KYOKO|杏子
++5% DOOM#+1 extra DAMAGE|破滅値+5%#追加ダメージ+1
+the forest wants her dead|森は彼女の死を望んでいる
+[missing hiker]|[行方不明のハイカー]
+AIKO'S FRIEND|愛子の友達
+allows one additional INVENTORY slot|所持品スロットが#1つ追加される
+carrying an empty bag|空のバッグを持ち歩いている
+[she's always had my back]|[いつも私の味方をしてくれた]
+HIROYUKI MIZUTANI|水谷 浩之
+completing a mystery regains 1 STAMINA|謎を解明すると#｢スタミナ｣が1回復する
+truth seeker|真実を追う者
+[mysterious janitor]|[怪しい用務員]
+#[HIROYUKI]: +1 STAMINA|#[浩之]: ｢スタミナ｣+1
+JACOB'S GOLONKA|ヤコブのゴロンカ
+(use): +1 STAMINA, +1 MAX STAMINA#+2% DOOM|使用: ｢スタミナ｣+1 # スタミナ上限+1#破滅値+2%
+acquired taste|クセのある味
+MYSTERY YAKITORI|謎の焼き鳥
+(use): +4 REASON, -1 STAMINA|使用: ｢理性｣+4#｢スタミナ｣-1
+unknown meat|正体不明の肉
+RYUICHI sells you important information...|龍一から貴重な情報を買った…
+REIKO|麗子
+completing a mystery grants 1 FUNDS|(謎の解明時)#所持金+1
+<<it will be fine, trust me>>|<<大丈夫、私を信じて>>
+[naive socialite]|世間知らずのお嬢様
+#[REIKO]: +1 FUNDS|#[玲子]: 所持金+1

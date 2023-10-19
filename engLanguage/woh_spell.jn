@@ -1,0 +1,137 @@
+[RITUAL]|[儀式]
+--DELETREAR--###|－呪文－###
+[APOYO]|[支援呪文]
+[CICATRIZACIÓN]|[回復呪文]
+[COMBATE]|[戦闘系呪文]
+[OFENSIVO]|[攻撃呪文]
+[DEFENSIVO]|[防御呪文]
+[SELLO]|[印]
+[INVESTIGACIÓN]|[調査系呪文]
+Ya has derrotado a este enemigo.|この敵はもう倒した。
+Este contrato no funcionará con este enemigo.|この契約はこの敵には効かない。
+Este hechizo sólo se puede lanzar al investigar una ubicación.|この呪文は調査ポイントを探る時にのみ唱えられる。
+Este hechizo apunta únicamente a enemigos HUMANOS.|この呪文は[人間]の敵にのみ有効。
+Este hechizo apunta únicamente a enemigos ELDRITCH.|この呪文は[怪魔]の敵にのみ有効。
+¡Los signos ocultos atraen un poder desconocido!|神秘的なサインが未知なる力を引き寄せた！
+¡Es demasiado para tu mente! (-1 RAZÓN)|精神的な負担が大きすぎる！(理性-1)
+LÍMITE DE HECHIZOS ACTUAL|現在の呪文数上限
+DRENAJE MENTAL|マインドドレイン
+causa 5 daños#recuperar 2 RAZÓN#[COSTO: -1 RAZÓN MÁXIMA]|敵に5ダメージ与える#｢理性｣を2回復##コスト: 理性上限-1
+¡Extiendes tu mano en un gesto oculto, drenando la mente del ENEMIGO!|妖しげな手の動きで相手の精神を削る！
+REGENERACIÓN|再生の秘法
+recuperar 4 RESISTENCIA#[COSTO: 2 RAZÓN]|｢スタミナ｣が4回復##コスト: ｢理性｣-2
+¡Puedes sentir cómo tus heridas se cierran lentamente!|徐々に傷が塞がっていくのを感じる。
+ELIMINACIÓN DE PIEL|皮剥ぎの呪術
+causa 6 daños#[COSTO: 3 RAZONES]|敵に6ダメージ与える##コスト: ｢理性｣-3
+¡La piel de tu enemigo comienza a caerse en grandes parches!|敵の皮膚がベロリと剥がれ落ちていく！
+MULTIPLICAR HERIDA|呪言: 多重創傷
+inflige daño a un enemigo, lo que aumenta cuanto menor sea tu RESISTENCIA#[COSTO: 2 RESISTENCIA]|敵1体にダメージを与える#｢スタミナ｣が少ないほど#与ダメージが上昇##コスト: ｢スタミナ｣-2
+¡Las heridas de tu enemigo explotan con sangre!|敵の傷口から、血しぶきが飛び散った！
+RITUAL K´NPHA|クンファの儀式
+cuando tus aliados mueren, una STAT aleatoria aumenta en 1#[COSTO: 2 RAZÓN]|仲間が死亡したとき、#能力値がランダムに1上昇##コスト: ｢理性｣-2
+¡Parte de la esencia de tu aliado permanece contigo!|仲間の魂がその身に宿る！
+RITUAL K'NPHA#[aliados -> estadísticas]|<クンファの儀式>#仲間の死→能力値上昇
+INVISIBILIDAD|透明化
+hasta el final del misterio actual, no hay penalización de DOOM por escapar del combate#[COSTO: 4 RAZÓN]|今の謎が終わるまで、#戦闘から逃亡しても#破滅値が上昇しなくなる##コスト: ｢理性｣-4
+¡Entras en el reino de las sombras!|あなたは影の世界に飛び込んだ！
+¡Ya eres invisible!|その姿はもう見えない！
+ABOLIR|結界展開
+reduce el DAÑO enemigo de ELDRITCH en 1#[COSTO: 3 RESISTENCIA]|[怪魔]の敵から受ける#ダメージが1減少##コスト: ｢スタミナ｣-3
+¡Aparece una barrera mágica que absorbe el daño!|周りに結界が張られた。敵の攻撃が吸収される！
+¡Las barreras adicionales no ayudarán!|もう結界を張っても意味がない！
+ABSORBER|吸魂
+causa 3 daños, gana 2 RESISTENCIA#[COSTO: 4 RAZÓN]|敵に3ダメージを与え、#｢スタミナ｣を2回復##コスト: ｢理性｣-4
+¡Le chupas la fuerza vital a tu enemigo!|敵から生命力を吸い取る！
+TERCER OJO|第三の目
++1 CONOCIMIENTO y PERCEPCIÓN hasta el final del misterio#[el efecto no se acumula]#[COSTO: 3 RAZONES]|今回の謎が終わるまで#｢賢さ｣と｢知覚｣が1上昇する#[重ねがけ不可]#コスト: ｢理性｣-3
+¡Puedes sentir tu ojo interior abierto!|内なる目が開くのを感じる！
+No querrías un cuarto ojo, ¿verdad?|さすがに第四の目までは要らないだろう？
+LLAMA ITHOTU|イトツの炎
+causa 8 daños#+2% DOOM#[COSTO: 1 RAZÓN]#[COSTO: 1 RESISTENCIA]|敵に8ダメージ与える#破滅値+2％##コスト: ｢理性｣-1 ｢スタミナ｣-1
+¡Una columna de fuego envuelve al enemigo!|炎の柱が敵を包み込む！
+SELLO DE SALVAJE|サヴィッシュの印
++1 FUERZA#[descartar al usar]#[COSTO: 4 RAZONES]|｢筋力｣+1#[使用後に消失する]##コスト: ｢理性｣-4
+¡Un nuevo sello aparece en tu piel!|あなたの肌に新たな印が浮かび上がった！
+SELLO DE BRAM'EL|ブラムエルの印
++1 CONOCIMIENTO#[descartar al usar]#[COSTO: 4 RAZONES]|｢賢さ｣+1#[使用後に消失する]##コスト: ｢理性｣-4
+HILO DEL DESTINO|運命の糸
+derrota al enemigo HUMANO objetivo#[descartar al usarlo]#[COSTO: 4 RAZONES]|[人間]の敵を撃破する#[使用後に消失する]##コスト: ｢理性｣-4
+El enemigo cae al suelo, muerto.|敵は地に倒れ、力尽きた。
+FUERZA ANCESTRAL|受け継がれし力
++1 DAÑO#[COSTO: 4 RAZONES]|ダメージ+1##コスト: ｢理性｣-4
+Alguien está guiando tus movimientos...|正体不明の力が、その身を突き動かす…
+FUERZA ANCESTRAL#[+1 DAÑO]|<受け継がれし力>#与ダメージ+1
+ENCANTAMIENTO|魅了の秘術
+ganar un seguidor adicional#[descartar al usar]#[COSTO: 4 RAZONES]|あなたに従う｢仲間｣が増える#[使用後に消失する]##コスト: ｢理性｣-4
+Una nueva persona sigue tu ejemplo...|新たに仲間が増えた…
+DESPERTAR|覚醒
+obtén un impulso permanente de dos estadísticas seleccionadas al azar#[COSTO: 10% DOOM]|ランダムに選ばれた#2つの能力値が上昇する##コスト: 破滅値+10％
+Has atraído la atención de algo malvado...|あなたは｢真なる邪悪｣に目を付けられてしまった…
+AGONÍA VINCULANTE|苦悶の止縛法
+El daño del enemigo objetivo se reduce en 1#[COSTO: 3 RAZONES]|敵からの被ダメージ-1##コスト: ｢理性｣-3
+¡BINDING AGONY hace que su movimiento sea más lento!|｢苦悶の止縛法｣により、敵の動きが鈍くなった。
+MALDICIÓN DEL TESTIGO|昏き魔眼
+convierte todo el daño de RESISTENCIA de combate recibido en DOOM adicional#[COSTO: 2 RAZÓN]|戦闘で受けたスタミナダメージを#全て破滅値に変換する##コスト: ｢理性｣-2
+MALDICIÓN TESTIGO#[- RESISTENCIA -> + DOOM]|<昏き魔眼>#スタミナ減少→破滅値上昇
+SUDARIO DE SOMBRA|外法: 影の帳
+Mientras dure este misterio, ignora el nivel de AMENAZA de la ubicación#[COSTO: 3 RAZONES]|現在の調査が終わるまで、#各調査ポイントの#｢危険度｣の影響を受けなくなる#コスト: ｢理性｣-3
+Te sientes más en sintonía con lo extraño...|あなたの中で、奇怪なものと共鳴する感覚が強まる…
+ARREGLAR|血肉の代償
+gana 1 RAZÓN#[COSTO: 2 RESISTENCIA]|｢理性｣+1##コスト: ｢スタミナ｣-2
+Recuperas algo de la RAZÓN perdida.|失った理性が少し回復した。
+VACÍO|無の深淵
+ignore el evento actual e investigue instantáneamente una ubicación aleatoria de OTRO MUNDO#[uso único]#[COSTO: 3 RAZONES]|現在のイベントを無視して、#瞬時にランダムな｢異界｣#の調査ポイントに飛ぶ#[1度のみ詠唱可]#コスト: ｢理性｣-3
+CAUTERIZAR|焼灼の術
++2 RESISTENCIA#[uso único]|｢スタミナ｣+2##[1度のみ使用可]
+La carne desgarrada se cierra, deteniendo el sangrado.|引き裂かれた肉が塞がり、出血が止まった。
+EXTRACTO DE MEMORIA|記憶抽出術
++2 RAZÓN#[COSTO: 10 EXP]|｢理性｣+2##コスト: EXP-10
+Los recuerdos traumáticos abandonan tu mente...|トラウマになっていた記憶が、頭から離れていく…
+Este hechizo requiere más EXPERIENCIA.|詠唱に必要なEXPが足りない。
+CONTRATO CENIZO|灰の約定
+mata inmediatamente a cualquier enemigo que no sea sobrenatural#[uso único]#[COSTO: 7% DOOM]|[怪魔]以外の敵を即座に殺す#[1度のみ使用可]##コスト: 破滅値+7％
+Se hace.|これで終わりだ。
+MIDASU TOUCH|ミダスの手
++1 FONDOS#[COSTO: 2 RESISTENCIA]|所持金+1##コスト: ｢スタミナ｣-2
+¡Tu uña se vuelve plateada, te la arrancas!|あなたは銀色に変わった爪を引き剥がした！
+¡Tu diente se vuelve oro, lo arrancas!|あなたは金色に変わった歯をねじり取った！
+RECRECIMIENTO DE LA CARNE|肉体再生術
++3 RESISTENCIA#-2 RESISTENCIA MÁXIMA|｢スタミナ｣+3#スタミナ上限-2
+¡Tus venas se extienden y sellan la carne desgarrada!|血管が伸び、裂けた肉がつなぎ止められていく…
+EXPULSAR EL MAL|破邪の呪文
+-6% DOOM#[uso único]#[COSTO: 2 RESISTENCIA]|破滅値-6％#[1度のみ詠唱可]##コスト: ｢スタミナ｣-2
+Toses sangre y... algo más...|あなたは血と…何かを吐き出した…
+CRECER LOS DIENTES|変異する牙
+agrega una nueva acción de combate, [BITE], hasta el final de este misterio#[COSTO: 2 RESISTENCIA]|この謎の調査が終わるまで、#新たな戦闘アクション#[噛みつく]が追加される#コスト: ｢スタミナ｣-2
+Toses sangre y... algo más...|あなたは血と…何かを吐き出した…
+No te cabrán más dientes en la boca.|これ以上、歯を増やす場所なんてない…
+Gusanos cerebrales|脳喰らいの蟲
+-2% DOOM#[uso único]#[COSTO: 2 RESISTENCIA]#[olvidar este HECHIZO cuesta 2 RAZONES]|破滅値-2％(1度のみ詠唱可)#コスト: ｢スタミナ｣-2#忘れる場合は｢理性｣-2
+[PROFUNDO DEMASIADO PROFUNDO]|[深くまで入ってしまった]
+Sacar los gusanos de tu cabeza a la fuerza no es agradable... (-2 RAZÓN)|脳から無理やり蟲を取り除くなんて、恐ろしい…(理性-2)
+k|k
+a|a
+norte|n
+a|a
+SUTURA SOBRETERRENAL|異界の縫合術
+reciba 1 eliminación de LESIONES gratis#[COSTO: 4% DOOM]|無料で｢怪我｣を1回治癒できる##コスト: 破滅値+4％
+LIBRO DE GORE|血染めの書
++3 RAZÓN y RESISTENCIA#añade 1 LESIÓN aleatoria|｢理性｣+3 ｢スタミナ｣+3##ランダムな｢怪我｣を1つ負う
+LANZA FANTASMALMENTE|亡者の槍
+causa 6 daños#[COSTO: -1 RESISTENCIA MÁXIMA]|6ダメージ与える##コスト: スタミナ上限-1
+¡Una lanza sangrienta se extiende desde tu mano y empala a tu enemigo!|手から血塗れの槍が突き出し、敵を串刺しにした！
+QUIRÓGRAFO CENIZO|灰の筆蹟
+reciba 1 eliminación de MALDICIÓN gratuita#[COSTO: 4% DOOM]|呪いを1つ解く##コスト: 破滅値+4％
+EIMI|詠美
+completar un misterio recupera 1 RAZÓN|謎を解明すると#｢理性｣が1回復する
+<<gracias por salvarme>>|<<助けてくれて、ありがとね>>
+[curador de la galería]|[学芸員]
+#[EIMI]: +1 REASON|#[詠美]: ｢理性｣+1
+UCHIDA|内田
+Bonificación de EXP por evaluar la situación durante el combate (una vez por enemigo)|#戦闘アクション[分析]を行うと#追加EXPを獲得#(敵1体につき1度のみ)
+'respiración fuerte'|鼻息が荒い
+[arrastre otaku]|[キモいオタク]
+UCHIDA balbucea algunos datos sobre tu enemigo. (+7 EXP)|内田が敵の情報をボソボソ呟いた。(EXP+7)
+¡Esposas al enemigo sometido!|弱った敵に手錠をかけた！
+¡No puedes esposar a este enemigo todavía!|まだ手錠をかけられる状態ではない！
+¡Este objeto no funcionará con este enemigo!|目の前の敵に、このアイテムは使えない！

@@ -1,0 +1,92 @@
+STUFFED TOY|ぬいぐるみ
+(use): +1 CURSE removal|使用: ｢呪い｣を一つ除去
+The toy crumbles into dust as you feel blessed.|ぬいぐるみが塵と化す…どこか祝福されてるような気がした。
+FLESHY TOY|血肉のぬいぐるみ
+[+5% DOOM]#[+3 MAX REASON]|破滅値+5%#理性上限+3
+ROOMMATE|同居人
+The wall opens even further... deeper...#A girl lies curled up inside of the apartment's womb.###>>i j u s t want y o u to be safe h e r e<<#>>what d i d i do?<<#>>why won't you j u s t s t a y?<<|壁はどんどん開き…さらに奥へ…#アパートの子宮の中で、女の子が胎児のように丸まっている。##>> アなたヲ ココデ 守っテあげたいだケ <<##>>ワ タ シ が 何 ヲ シ た ッ て い ウ ノ？<<##>>　コ コ に い テ く れ ル だ ケ で い い ノ に　<<
+Sumire-san thought she had everything she wanted. That is, until she met you.|すみれさんは望むもの全てを手に入れたと#思っていました。##そう、あなたと出会うまでは…
+>>stay w i t h me<<|>> い っ し ょ に い て <<
+>>p l e a s e don't leave<<|>> い か な い で <<
+>>I will t a k e care of y o u<<|>> タ イ セ ツ に す る か ら <<
+RESTLESS RUMORS OF A RESIDENTIAL RECLUSE|しじまに消えた住人と次元を超えた事象
+While you don't get much normalcy in your life these days, today was supposed to be just that.##You'd been planning to take today to de-stress before your next investigation.|此の所、平穏な日々から遠ざかっていたあなた。#しかし、今日だけは違うはずだった。##次の調査の前に、#一日ゆっくり休むつもりでいたのだ。
+Instead, you awoke to find yourself trapped inside your own apartment. The walls have grown over the door and windows, leaving no exit.##Looking through the peephole, you yell and call out to passing neighbours, but your cries fall on deaf ears.|ところが、目を覚ますと#あなたはアパートの中に閉じ込められていた。#ドアや窓は謎の壁で塞がれ、#出口すらない状態だ。##覗き穴から、大声で通りすがりの隣人に#呼びかけるが…その必死の叫びも届かない。
+Who could have done this to you?##More importantly, how are you going to get out of here?|誰がこんなことを…？##それよりも、どうやってここを出れば…？
+RESIDENTAL RECLUSE|引きこもり
+FRONT DOOR|玄関のドア
+PEEPHOLE|覗き穴
+CLOSET|クローゼット
+KITCHEN|キッチン
+YOUR ROOM|自室
+MAIN ROOM|リビング
+??|？
+PREPARE FOR COMBAT|覚悟を決める
+SACRIFICE THE TOY|ぬいぐるみを捧げる
+WASTE ANOTHER DAY|無駄な一日を過ごす
+APPROACH THE WALL|壁を調べる
+LOOK THROUGH PEEPHOLE|覗き穴を見る
+SACRIFICE THE TOY|ぬいぐるみを捧げる
+LOOK BENEATH SHELVES|棚の下を調べる
+CHECK THE NOTE|書き置きを見る
+Something guides your hand. What is this?...|何かに導かれるかのように手が動く。#これは一体…？
+You don't find anything else.|何も見つからなかった。
+[[I used to live here too. This was the only place that was saf(...)d good.#All I could do was stay in, eat and sleep. And when the food ran out, just sleep.]]#[[When someone eventually came for my corpse, I'd already made my way _inside_.]]#[[You moved it. I can't tell you how happy being with you has made me. Please don't worry, I will keep you safe. I promise.]]|[[昔ね、私もここに住んでたんだ。#唯一ここだけが安---で、良いところだった。#でも、私にできたのはただ家にいて、食べて、#眠ることだけ。食べ物がなくなっても、#ここで寝てたの。]]#[[誰かが遺体を探しに来た時には、#もう“中”にいたんだ。]]#[[それを、アナタが動かしてくれた。#アナタと一緒にいられるだけで幸せなの…#言葉では言い表せないくらいね。#大丈夫、私が守るから。約束する。]]
+...wait, what's that? #(+ ITEM)|…ん？あれは？#(+アイテム)
+You don't have the energy to keep searching.|何かを探し続ける気力もない。
+You look around but don't find anything. #(+2% DOOM)|周りを見渡しても、何も見つからない。#(破滅値+2%)
+CHECK BEHIND WARDROBE|タンスの裏を調べる
+CHECK BEHIND BED|ベッドの裏を調べる
+CHECK BEHIND DESK|机の裏を調べる
+The windows are covered in a thick layer of drywall, leaving only shallow cavities. The front door isn't much better.##But there must be some way out, right?|窓は乾式壁の厚い石膏に覆われ、僅かなくぼみしか見えない。#玄関のドアも同じような状態だ。##何かしら外に出る方法があるはず…そう思いたいが…
+You spend all of your time searching your apartment for a way out, but you're already getting exhausted.|時間をかけて部屋中を探し回ったが、#すでに疲労は限界に達していた。
+Wallpaper and paint have spread around the door's edges. No matter how hard you try, the door refuses to budge.|ドアの端々に至るまで、壁紙と塗料が広がっている。#どれだけ力を入れても、微動だにしない。
+...at least he can't get through, either.|…とりあえず、あいつもこの部屋には入れない。
+Your sleep schedule is starting to drift. The hours just seem to slip past you, and the day is over before you know it.|睡眠のリズムが乱れ始めている。#あっという間に時が過ぎ、気づけば一日が終わっていた。
+Wallpaper and paint have spread around the door's edges. No matter how hard you try, the door refuses to budge.|ドアの端々に至るまで、壁紙と塗料が広がっている。#どれだけ力を入れても、微動だにしない。
+There's a weird drawing stuck to your door...|ドアに不気味な絵が貼りつけられている…
+You've read all of your books and watched all of your VHS tapes three times over.##God, you miss people.|本は全て読破し、ビデオも3回は繰り返して見た。##人が恋しくてたまらない。
+You wonder just how much things are changing out there without you around.##If nothing else, you're at least safer in here than out there.|自分がいない間に外の世界はどれくらい変わっているんだろう。##少なくとも、ここにいれば外にいるよりは安全に過ごせる。#何も起きなければの話だが…
+You don't see anything of interest in the hallway today.|今日も気になるものは見当たらない。
+You still change clothes every day, but is there any point if you're not going outside?|毎日、服を着替えているが、#外に出ないなら着替える意味もないのでは…？
+Your pantry is starting to run out of easy meals, and you don't have the energy to cook.|棚にあった手軽な食料品は底を突きそうだ。#料理をする気力も湧いてこない。
+You're running out of ways to keep yourself busy. The boredom makes you want to beat your head against a wall.|暇つぶしすら、もうできなくなってきた。#退屈すぎて、壁に頭を叩きつけたくなってくる。
+You wonder just how much things are changing out there without you around.##If nothing else, you're at least safer in here than out there.|自分がいない間に外の世界はどれくらい変わっているんだろう。##少なくとも、外にいるよりもここの方が安全だ。#このまま何も起きなければの話だが…
+You can't see outside anymore...|もう外は何も見えない…
+You still change clothes every day, but is there any point if you're not going outside?|毎日、服を着替えているが、#外に出ないなら着替える意味もないような気がする…
+Your pantry is starting to run out of easy meals, and you don't have the energy to cook.|食料が尽きかけている。#手軽に食べられるものもないし、料理をする気力もない…
+Just standing in here makes you light-headed.#The bed is too tempting-- you shouldn't stay long.|ただ立っているだけでも、眩暈がしてくる。#思わずベッドに寝転がったりたくなるが…#ずっとそうもしていられない。
+Your mind is hazy. It's all blurring together.#You just want to sleep.|意識が朦朧として、何もかもがぼんやりとしてくる。#ただ、眠ることしか考えられない…
+You're beginning to doubt this door will ever open again.##(it's better that way)|あなたはもう二度とこのドアは開かないのではと思い始めていた。##もう、それでもいい…
+... what were you doing again?|…さっきまで、何してたんだっけ。
+You don't have much of an appetite.|食欲もほとんどない。
+(the apartment cradles you gently in your sleep every night, keeping you warm within her ribcage)|(毎晩、このアパートにそっと包み込まれ、#"彼女の温かい肋骨"の中で眠りにつく)
+As you get closer, you notice thin cracks in the wall above the bed. Something dark, glistening red pulsates inside. The cracks move like lips, and the apartment whispers to you.#>>just lay down<<##You hear wooden support beams creak as the walls flex, reaching toward you from all sides.#>>and let me take care of you<<|ベッドの上の壁に細い亀裂が入っていることに気づく。#てらてらと赤黒いものが、中で脈動している。#亀裂が唇のように動き、“アパート”がこちらに向かって囁いた。#>> 横にナッテテ <<#木の梁がきしむ音がして、壁がたわむ。#あなたを包み込もうと、四方から“それ”が近づいてくる。#>> 私二 身を 任セテ <<
+MYSTERY MEAT|謎の肉
+No access to the outside world means you only have so much food to eat.##Deep in the back of your pantry, you discover a rusty can of meat. How long this has this thing been in here? ##Opening the can, it smells fine, but...|外界とは隔絶された場所にいるため、#次第に食料もなくなってくる。##食品庫の奥から、錆びた肉の缶詰を見つける。#一体、いつからここにあったのだろう？##缶を開けても、特におかしな臭いはしないが…
+eat it|食べてみる
+throw it away|捨てる
+It's not exactly a pleasant meal - meat definitely shouldn't be this crunchy - but food is food.#(+2 STAMINA)|まったく食欲をそそらない…#肉がこんなにカリカリしているなんて変だ…#けど、食べ物は食べ物だ。#(スタミナ+2)
+You already regret your decision by the first disgusting bite. ##An hour later, you feel something writhing in your stomach, trying to get out. Maybe that meat was too fresh...#(+ STATUS)|不味い…最初の一口で後悔した。##1時間後、あなたは妙な感覚に襲われる…#胃の中で蠢く何かが、外に出ようとしていたのだ。#そう、あの肉は…“いやに新鮮”だった…#(+状態異常)
+Trusting your judgement, you chuck the can into the garbage. Your stomach growls at you in discontentment.#(-1 STAMINA)|自分の判断に従って、缶をゴミ箱に捨てる。#不満そうにお腹がグルグルと鳴った。#(スタミナ-1)
+CLOGGED DRAIN|排水口の詰まり
+When you go to use the bathroom, you notice there's a clump of hair coming up the sink drain. ##You're certain that it's not yours.|トイレに行く途中で、あなたはあるものを目にした。#洗面台の排水口から、髪の毛の塊が出てきている…##自分のものではないことは確かだ。
+pull it out|引き抜く
+You tug the strand up out of the drain, only to find a few coins tied to the end of the hair. You pocket the money and try not to think about it.#(+1 FUNDS)|排水口から髪を引っ張り上げる。すると、その先に#数枚の硬貨が結ばれていることに気づく。#あなたはその硬貨をポケットに入れ、#それ以上のことは考えないようにした。#(所持金+1)
+There's a startling amount of resistance when you pull. Before you can react, the hair is suddenly yanked back down the drain and out of sight.#(-1 REASON)|引っ張ってみると、思った以上に抵抗がある。##反応する間もなく、髪はずるずると#排水口に戻っていき、視界から消え去った。#(理性-1)
+KILLING TIME|暇潰し
+Sitting on the sofa, you find yourself repeatedly checking the time to get some grounding.##When you go to eat, though, you realize the clock in the kitchen displays a different time. And your bedroom alarm clock is completely different from each of the others.|ソファに座りながら、現実感を得ようと#何度も時計を見る自分がいた。##だが、食事をしようとしたその時、キッチンの時計が違う時間を指していることに気づく。#寝室にある目覚まし時計は、#他のどの時計とも違う時間を指している。
+<<they need a battery change, probably>>|<<電池を替えなきゃかも>>
+<<I must be delirious>>|<<幻覚を見てるんだ>>
+You're sure there's some explanation. You shrug it off and get your food.##You pretend you're not nauseous when the clocks later show negative numbers, jumbled words, and nothing at all.#(+1 STAMINA / -2 REASON)|何か、時計にあったんだろう。#特に気にせず、食事をするあなた。##だが、その様子は明らかにおかしかった。#数字がマイナスになったり、文字が乱れたり、#何も表示されなくなったり…あまりの光景に#吐き気を催すも、あなたは何でもないフリをした。#(スタミナ+1 / 理性-2)
+Being stuck in here is really starting to get to your head. To set yourself straight, you slap yourself hard enough to see stars, chug some coffee, and avoid looking at the clocks again.#(+1 REASON / -2 STAMINA)|ここに閉じ込められていると、#本当に頭がおかしくなりそうだ。#正気を取り戻すために#あなたは思いっきり自分の頬をはたき、#コーヒーを飲み干して時計を見ないようにした。#(理性+1 / スタミナ-2)
+WASTING ANOTHER DAY...|また一日が無駄に…
+A - FINALLY FREE|A - 待ち望んだ自由
+B - EVIL EVICTED|B - 禍祓い
+The girl's face twists oddly. The apartment's pulsing innards slow to a still.##The girl mouths something you can't make out. She smiles. You fall unconscious.##When you awaken, you're laying in the apartment entryway, beside the open door.|少女の顔が不気味な形に歪む。#アパートの脈打つ内臓が徐々に止まっていく。#何かを口にする彼女。#だが、上手く聞き取ることができない。##そうして彼女が微笑むと、#意識が遠のいていった…##目を覚ますと、あなたは玄関で倒れていた。##開け放たれたドアのそばで…
+The next morning, you see a silhouette on the balcony, staring out at Shiokawa and watching the sunrise.#You blink, and she's gone.|翌朝、あなたはベランダに#人影が立っているのを目にする。#塩川を眺め、日の出を見ている少女。##だが、瞬きをする間に#その姿は消えていた。
+After that, you never see her again, and after that, your apartment becomes just an apartment.##[RESTLESS RUMORS OF A RESIDENTIAL RECLUSE:#ENDING A]|それ以降、彼女を見かけることはなくなり、#このアパートは何の変哲もない、#ただのアパートへと戻るのであった…##｢しじまに消えた住人と次元を超えた事象｣#Aエンディング
+An expression of agony overtakes the girl's face. Her hair gets tangled into the apartment's churning guts, and her flesh begins to melt apart.#She arches her back in a voiceless scream until her pale body finally collapses in on itself.|少女の顔に苦悶の表情が浮かぶ。##アパートの蠢く内臓に髪が絡まり、#肉体が溶け出す。##声なき叫びを上げて、背を反らす彼女。###やがて、その青白い体は内側から崩れ落ちた。
+When you stumble out of the room, things seem to have returned to normal, and your door can open again. Relieved, you take the chance to go out for a walk.#Only a few hours later do you return to the bedroom, and find a lump beneath your bed's covers.|よろめきながら、部屋から出る。##すると、全てあの時のまま元通りになっていた。#ドアも開けるようになっている。##ほっとしたあなたは、ひとまず#散歩に出ることにした。##数時間後、寝室に戻るとベッドカバーの下に#“謎の塊”があることに気づく。
+Peeling back the sheets reveals the toy that you had destroyed, the pieces held together with sections of pulsing flesh. Beside its body is a small note.|シーツを引きはがすと、#壊したはずのぬいぐるみが出てきた。#一部は、脈打つ肉片と繋がれている。##そしてその傍らに、小さな書き置きが添えられていた…
+>>i'll#a l w a y s#keep you safe<<##[RESTLESS RUMORS OF A RESIDENTIAL RECLUSE:#ENDING B]|ず っ と#ず　う　っ　と#守 っ て あ げ る か ら ね ###｢しじまに消えた住人と次元を超えた事象｣#Bエンディング

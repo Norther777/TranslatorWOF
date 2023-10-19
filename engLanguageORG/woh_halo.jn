@@ -1,0 +1,118 @@
+PREPARING FOR INVESTIGATION|調査準備
+<<Is there even anything useful left?>>|何か使えそうな物は#残ってないだろうか？
+PREPARE|調査準備
+Looking carefully, you can find character-unique items to help you.|よく探すと、探索者の#専用アイテムが#見つかることがある。
+[costs DOOM to enter]#[unique items]|破滅値上昇#(専用アイテム入手)
+KIRIE'S BAG|桐江の鞄
+(while in inventory): forgetting SPELLS lowers REASON by 1-2 and increases DOOM by 1%, gain a random SPELL|(所持品にある間)#｢呪文｣を忘れることで#｢理性｣が1～2減少#破滅値+1%#ランダムな｢呪文｣を習得
+<<I've been collecting these notes for quite some time now.>>|<<だいぶ前から、こういう資料を集めてるの。>>
+An unseen force guides your hand to the bag...|見えない力に操られ、鞄に手をかける…
+full of knowledge|知識がぎっしり詰まっている
+AIKO'S PLUSH TOY|愛子のぬいぐるみ
+-1 incoming combat damage#-2 PERCEPTION; -2 LUCK|戦闘時の被ダメージ-1#｢知覚｣-2#｢幸運｣-2
+<<they are not real they are not real they are not real>>|<<本物じゃない 本物じゃない 本物じゃない>>
+only friend|たった一人の友達
+CIGARETTE CASE|タバコケース
+(while in inventory): 15% of regaining one CIGARETTE after investigating a location|(所持品にある間)#各調査ポイントを調べた後､#15%の確率で#｢タバコ｣を1本入手する
+<<This will stay in my family forever.>>|<<こいつはこれからも、代々うちで受け継がれてく。>>
+You smoke an old cigarette from your CIGARETTE CASE...|古いたばこを｢タバコケース｣から一本取り出して吸った…
+grandpa's|じいさんのもの
+VANITY MIRROR|化粧鏡
+reveals extra information about event choices|イベントの選択肢に#追加情報が表示される
+You can catch glimpses of the future in this tiny mirror...|この小さな鏡を覗き込むと、ほんの少しだけ未来が見える…
+The VANITY MIRROR will start working next event.|次回のイベントから｢化粧鏡｣の効果が発動する。
+<<I'm so pretty-->>|<<すっごくカワイイわ…瑞希>>
+FILM ROLL|カメラ用フィルム
+(use): -1 FUNDS; +10 EXPERIENCE|使用: 所持金-1#EXP+10
+<<I can only develop this at a trusted place>>|<<こいつは信頼できるところでしか現像できない…>>
+You develop the FILM ROLL containing crucial evidence!|あなたは重要な証拠を写したフィルムを現像した。
+You can't afford that!|そんなお金はない！
+<<contains evidence ...I think>>|<<ここに証拠が入ってる…はず>>
+ANATOMY BOOK|解剖学書
+(use): -2 STAMINA; +8 EXP|使用: ｢スタミナ｣-2#EXP+8
+<<I can learn so much studying my own body...>>|<<自分の体を研究すると、すっごく勉強になる…>>
+Slicing your body open, you learn new things about anatomy...|自分の体を切り開くことで、人体について新たな発見をした…
+<<I'm ill?>>|<<私、病んでるのかな？>>
+GUITAR|ギター
+(while in inventory): resting regains more REASON, increases DOOM|所持品にある間、自宅で休むと#理性が追加回復し、#破滅値が上昇する
+<<I worked all summer to buy this guitar.>>|<<これを買うために、夏休み中ずっと働いていたんだ。>>
+Your loud guitar practice can be heard across the whole building.|建物中に響き渡るほどの大音量でギターの練習をした。
+HELL YEAH|イエーイ！！
+BLESSED SHELL|聖なる実包
+(use in combat): (+1 AMMO / +5% DOOM); +10 SHOOT DAMAGE for the duration of this combat|戦闘時に使用:｢弾薬｣+1#破滅値+5%##その戦闘での射撃ダメージ+10
+<<I've loaded it with mom's silver jewelry...>>|<<ママの銀製のアクセサリーを詰めた…>>
+<<...sorry mom.>>|<<…ごめん、ママ。>>
+You can't use this outside of combat.|戦闘以外では使用できない。
+<<Should I?...>>|<<使ってもいいよね…？>>
+MARKED BIBLE|汚れた聖書
+(while in inventory): resting regains extra REASON/STAMINA, depending on character's FAITH level|(所持品にある間)#自宅で休んだとき､#その時の｢信仰値｣に応じて#｢理性｣｢スタミナ｣が#追加回復する
+<<I don't remember certain parts of it, is this real?>>|<<記憶にない一節が…これは本物なのか？>>
+Reading the MARKED BIBLE, you find your inner peace. (+1 REASON)|｢汚れた聖書｣を読むと、心が落ち着く。(理性+1)
+MARKED BIBLE fills you with determination. (+1 STAMINA)|｢汚れた聖書｣があなたを奮い立たせる。(スタミナ+1)
+dies irae|Dies irae
+AYAKA'S CHALK|彩伽のチョーク
++2 DAMAGE against GHOST enemies|[悪霊]の敵に対して#ダメージ+2
+<<They died because of me...>>|<<みんな、私のせいで死んだんだ…>>
+used in rituals|儀式で使ったもの
+BOOK STRAP|ブックバンド
+faster combat actions for each BOOK item in the inventory|所持品内に[本]が増えると、#その分、戦闘アクションが#速くなる
+<<That's not the only book I've taken.>>|<<俺が持ち出した本は、あれだけじゃない。>>
+made of leather|革製
+CHECK BOOK|小切手帳
+(use): +3 FUNDS; +6% DOOM|使用: 所持金+3#破滅値+6%
+<<Using this will make me easier to track down...>>|<<これを使うと、居場所がバレやすくなっちゃう…>>
+You've used your CHECK BOOK.|あなたは｢小切手帳｣を使った。
+family's fortune|うちの財産
+BASEBALL|野球ボール
+(use in combat): lower the ENEMY's power down to 0|戦闘時に使用すると､#敵の｢パワー｣が0になる
+<<I'm not the best pitcher but it must be enough.>>|<<一流の投手ってわけじゃないけど、これで何とかなるはず。>>
+You throw the BASEBALL at your enemy!|敵に向かって野球ボールを投げつけた！
+only one I got|あるのはこの一球だけ
+FAVORITE SNACKS|お気に入りのお菓子
+(use): +3 REASON and STAMINA|使用: ｢理性｣+3#｢スタミナ｣+3
+<<I heard they are going to stop the production of these because they are too damn tasty!-->>|<<あんまりにも美味しいから、生産中止になるんだって！>>
+You eat your FAVORITE SNACKS.|あなたは｢お気に入りのお菓子｣を食べた。
+yum yum|<<うまうま～>>
+You rummage through your belongings trying to find anything that will help you.|持ち物をかき集めて、#使えそうな物を探した。
+You finally pick up|入手アイテム#
+Hopefully, it will be enough.#(+5% DOOM)|役に立てばいいが…#(破滅値+5%)
+You don't find anything except some loose change laying around.#(+1 FUNDS / +2% DOOM)|小銭が転がってるだけで何も出てこない。##所持金+1#破滅値+2%
+It's dangerous here, your STAMINA penalty increased!|ここは危険だ…スタミナペナルティが上昇した。
+It's dangerous here, your REASON penalty increased!|ここは危険だ…理性ペナルティが上昇した。
+#[DOOM EFFIGY]: DOOM lowered|#[呪いの人形]: 破滅値が低下
+SKIP SUITCASE SCREEN: ON/OFF|スーツケース画面のスキップ#ON / OFF
+SKIP CARD PACK SCREEN: ON/OFF#(all packs enabled)|カードパック画面のスキップ#(全パックが有効になる)
+CREEPY NEIGHBOR: ON/OFF|不気味な隣人: ON / OFF
+CHECK FOR CONNECTED GAMEPADS: ON/OFF|接続中のゲームパッドの確認#ON / OFF
+WAVY EFFECT: ON/OFF|ウェーブエフェクト#ON / OFF
+SKIP PLAYTHROUGH INTRO|あらすじのシーン: スキップ
+SKIP MYSTERY TUTORIAL|チュートリアルのスキップ#ON / OFF
+MOUSE TRAIL: ON/OFF|マウスストーカー: ON / OFF
+SKIP PALETTE CUSTOMIZATION|パレットのカスタマイズ画面#スキップ
+EXTRA MATH DISPLAYED: ON/OFF|詳細な計算式表示#ON / OFF
+EXTRA INFORMATION DISPLAYED: ON/OFF|追加情報の表示#ON / OFF
+HOME|自宅
+DOWNTOWN|中心街
+SCHOOL|学校
+HOSPITAL|病院
+SEASIDE|海辺
+FOREST|森
+MANSION|屋敷
+VILLAGE|村
+APARTMENTS|アパート
+TIME PASSED|経過時間
+SEED|シード
+LEVEL|レベル
+IMPENDING DOOM|破滅値
+select OLD GOD|旧き神の選択
+AVAILABLE PERKS|獲得可能なパーク
+You've advanced to the next experience level.#Choose one perk and one stat upgrade.##[CHOSEN:|EXPを獲得してレベルアップしました。#パークと強化したい能力値を1つずつ選択してください。#[選択:
+(select perk and stat)|(パークと能力値を選択)
+REROLL PERKS|パークのリロール
++4% DOOM|破滅値+4%
+The group must be there somewhere...|どこかにあの集団がいるはずだ…
+[click a square to explore it]|四角いアイコンを#クリックして探索
+The key to the study must be there somewhere...|どこかに書斎の鍵があるはずだ…
+[click a mansion's room to explore it]|屋敷内の部屋を#クリックして探索
+Where is that gardener?...|あの庭師はどこに…？
+[extra damage against HUMAN and MONSTER enemies]|｢人間｣｢怪物｣の敵に追加ダメージ
