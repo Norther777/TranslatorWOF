@@ -1,45 +1,15 @@
-usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
-           [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
-           [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
-           [--super-prefix=<path>] [--config-env=<name>=<envvar>]
-           <command> [<args>]
+<h1>Traducción World Of Horror 1.0 al español</h1>
+Esto es un proyecto personal sin ánimo de lucro para traducir el juego de Steam World Of Horror de inglés al español.
 
-These are common Git commands used in various situations:
+La traducción se ha generado con código en Python utilizando las librerías de GoogleTranslator, por lo que la traducción no será totalmente fiable, pero puede ser una buena base para ir puliendo los textos y que más gente pueda jugar al juego en español.
 
-start a working area (see also: git help tutorial)
-   clone     Clone a repository into a new directory
-   init      Create an empty Git repository or reinitialize an existing one
+En GitHub se ha subido el código para que la gente vea cómo se ha realizado la traducción. También se han subido los archivos originales de la versión 1.0 y su traducción para copiar/pegar sin mayor dificultad.
 
-work on the current change (see also: git help everyday)
-   add       Add file contents to the index
-   mv        Move or rename a file, a directory, or a symlink
-   restore   Restore working tree files
-   rm        Remove files from the working tree and from the index
+Los pasos a seguir para traducirlo al español son:
+<ul>
+           <li>- Descargar el zip desde GitHub para tener la carpeta "engLanguage"</li>
+           <li>- Copiar la carpeta "engLanguage" en la ruta donde esté descargado el juego [C:\Program Files (x86)\Steam\steamapps\common\WOH\language], reemplazando a los existentes (si quiewres volver a cambiar al inglés original sería recomendable hacer un backup).</li>
+           <li>- Entrar al juego y ponerlo en inglés desde el menú principal (la traducción sobrescribe los textos en inglés)</li>
+</ul>
 
-examine the history and state (see also: git help revisions)
-   bisect    Use binary search to find the commit that introduced a bug
-   diff      Show changes between commits, commit and working tree, etc
-   grep      Print lines matching a pattern
-   log       Show commit logs
-   show      Show various types of objects
-   status    Show the working tree status
-
-grow, mark and tweak your common history
-   branch    List, create, or delete branches
-   commit    Record changes to the repository
-   merge     Join two or more development histories together
-   rebase    Reapply commits on top of another base tip
-   reset     Reset current HEAD to the specified state
-   switch    Switch branches
-   tag       Create, list, delete or verify a tag object signed with GPG
-
-collaborate (see also: git help workflows)
-   fetch     Download objects and refs from another repository
-   pull      Fetch from and integrate with another repository or a local branch
-   push      Update remote refs along with associated objects
-
-'git help -a' and 'git help -g' list available subcommands and some
-concept guides. See 'git help <command>' or 'git help <concept>'
-to read about a specific subcommand or concept.
-See 'git help git' for an overview of the system.
+Esta traducción está hecha para la versión comprada de Steam del juego.
